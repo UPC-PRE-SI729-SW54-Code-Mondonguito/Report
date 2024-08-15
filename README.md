@@ -14,7 +14,7 @@ Desarrollo de Aplicaciones Open Source - SW54 <br>
 
 <h3 align="center">Team Members:</h3>
 
-<p align="center">
+<div align="center">
 
 | **Member**                           | **Code**     |
 |--------------------------------------|--------------|
@@ -24,6 +24,6 @@ Desarrollo de Aplicaciones Open Source - SW54 <br>
 | Omar Harold Rivera Ticllacuri      | U202210257   |
 | Diego Ulises Soto Quispe     | U202214477   |
 
-</p>
+</div>
 
 <p align="center"><strong>Agosto 2024</strong></p>
