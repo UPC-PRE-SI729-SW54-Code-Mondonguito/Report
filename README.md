@@ -1,4 +1,4 @@
-<h1 align="center">COURSE PROJECT</h1>
+# **COURSE PROJECT**  
 <p align="center"><strong>Universidad Peruana de Ciencias Aplicadas</strong></p>
 
 <p align="center"><strong>Ingeniería de Software</strong><br>
