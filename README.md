@@ -1,20 +1,20 @@
+<h1 align="center">COURSE PROJECT</h1>
+<p align="center"><strong>Universidad Peruana de Ciencias Aplicadas</strong></p>
+
+<p align="center"><strong>Ingeniería de Software</strong><br>
+Desarrollo de Aplicaciones Open Source - SW54 <br>
+<strong>Profesor:</strong> Alberto Wilmer Sanchez Seña</p>
+
+<p align="center">---</p>
+
+<h2 align="center">INFORME</h2>
+
+<h3 align="center">Startup:</h3>
+<p align="center"><strong>Producto:</strong> [Nombre del Producto]</p>
+
+<h3 align="center">Team Members:</h3>
+
 <p align="center">
-
-# **COURSE PROJECT**  
-**Universidad Peruana de Ciencias Aplicadas**
-
-**Ingeniería de Software**  
-Desarrollo de Aplicaciones Open Source - SW54  
-**Profesor:** Alberto Wilmer Sanchez Seña
-
----
-
-## **INFORME**
-
-### **Startup:**
-**Producto:** 
-
-### **Team Members:**
 
 | **Member**                           | **Code**     |
 |--------------------------------------|--------------|
@@ -24,6 +24,6 @@ Desarrollo de Aplicaciones Open Source - SW54
 | Omar Harold Rivera Ticllacuri      | U202210257   |
 | Diego Ulises Soto Quispe     | U202214477   |
 
-**Agosto 2024**
-
 </p>
+
+<p align="center"><strong>Agosto 2024</strong></p>
