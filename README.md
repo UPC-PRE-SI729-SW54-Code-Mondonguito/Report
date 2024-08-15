@@ -1,9 +1,12 @@
+<p align="center">
+
 # **COURSE PROJECT**  
 **Universidad Peruana de Ciencias Aplicadas**
 
 **Ingeniería de Software**  
-Desarrollo de Aplicaciones Open Source - SW54 
+Desarrollo de Aplicaciones Open Source - SW54  
 **Profesor:** Alberto Wilmer Sanchez Seña
+
 ---
 
 ## **INFORME**
@@ -20,4 +23,7 @@ Desarrollo de Aplicaciones Open Source - SW54
 | Samuel Elias Molina Asencios     | U202213375   |
 | Omar Harold Rivera Ticllacuri      | U202210257   |
 | Diego Ulises Soto Quispe     | U202214477   |
+
 **Agosto 2024**
+
+</p>
