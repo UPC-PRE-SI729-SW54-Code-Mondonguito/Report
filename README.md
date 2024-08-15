@@ -5,12 +5,11 @@
 Desarrollo de Aplicaciones Open Source - SW54 <br>
 <strong>Profesor:</strong> Alberto Wilmer Sanchez Seña</p>
 
-<p align="center">---</p>
 
 <h2 align="center">INFORME</h2>
 
 <h3 align="center">Startup:</h3>
-<p align="center"><strong>Producto:</strong> [Nombre del Producto]</p>
+<p align="center"><strong>Producto:</strong> </p>
 
 <h3 align="center">Team Members:</h3>
 
