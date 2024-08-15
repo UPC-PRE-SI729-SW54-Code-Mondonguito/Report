@@ -16,13 +16,13 @@ Desarrollo de Aplicaciones Open Source - SW54 <br>
 
 <p align="center">
 
-| **Member**                           | **Code**     |
-|--------------------------------------|--------------|
-| Diego Alonso Cacho Seminario      | U202223990  |
-| Rodrigo Liberato Saldaña       | U202120344   |
-| Samuel Elias Molina Asencios     | U202213375   |
-| Omar Harold Rivera Ticllacuri      | U202210257   |
-| Diego Ulises Soto Quispe     | U202214477   |
+<p align="center">| **Member**                           | **Code**     |
+<p align="center">|--------------------------------------|--------------|
+<p align="center">| Diego Alonso Cacho Seminario      | U202223990  |
+<p align="center">| Rodrigo Liberato Saldaña       | U202120344   |
+<p align="center">| Samuel Elias Molina Asencios     | U202213375   |
+<p align="center">| Omar Harold Rivera Ticllacuri      | U202210257   |
+<p align="center">| Diego Ulises Soto Quispe     | U202214477   |
 
 </p>
 
