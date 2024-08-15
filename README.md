@@ -18,7 +18,7 @@ Desarrollo de Aplicaciones Open Source - SW54
 
 | **Member**                           | **Code**     |
 |--------------------------------------|--------------|
-| Diego Alonso Cacho Seminario      | U201721995   |
+| Diego Alonso Cacho Seminario      | U202223990  |
 | Rodrigo Liberato Saldaña       | U202120344   |
 | Samuel Elias Molina Asencios     | U202213375   |
 | Omar Harold Rivera Ticllacuri      | U202210257   |
