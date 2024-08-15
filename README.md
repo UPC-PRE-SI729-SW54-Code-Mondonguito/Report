@@ -1,4 +1,4 @@
-``# **COURSE PROJECT**  
+# **COURSE PROJECT**  
 <p align="center"><strong>Universidad Peruana de Ciencias Aplicadas</strong></p>
 
 <p align="center"><strong>Ingeniería de Software</strong><br>
