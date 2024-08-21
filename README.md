@@ -28,7 +28,7 @@ Ciclo: 5to <br>
 
 <p align="center"><strong>Agosto 2024</strong></p>
 
-# Índice
+
 
 - [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
 - [Project Report Collaboration Insights](#project-report-collaboration-insights)
