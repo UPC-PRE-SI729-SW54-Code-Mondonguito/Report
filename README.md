@@ -1,6 +1,8 @@
 # **COURSE PROJECT**
 
-![Logo de la UPC](images/UPC_logo.png)
+<p align="center">
+  <img src="Imagenes/UPC_logo.png" alt="Logo de la UPC" />
+</p>
 
 <p align="center"><strong>Universidad Peruana de Ciencias Aplicadas</strong></p>
 
