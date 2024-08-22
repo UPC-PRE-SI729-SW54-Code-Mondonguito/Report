@@ -1,5 +1,7 @@
 # **COURSE PROJECT**
 
+![Logo de la UPC](images/UPC_logo.png)
+
 <p align="center"><strong>Universidad Peruana de Ciencias Aplicadas</strong></p>
 
 <p align="center"><strong>Ingeniería de Software</strong><br>
