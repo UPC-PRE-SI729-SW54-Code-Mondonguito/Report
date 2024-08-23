@@ -26,7 +26,7 @@ Ciclo: 5to <br>
 | Rodrigo Liberato Saldaña       | U202215623   |
 | Samuel Elias Molina Asencios     | U20191A456   |
 | Omar Harold Rivera Ticllacuri      | U202214214   |
-| Diego Ulises Soto Quispe     | U202214477   |
+| Diego Ulises Soto Quispe     | U2022144778   |
 
 </div>
 
