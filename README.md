@@ -170,13 +170,65 @@ Durante la preparación del informe, se llevaron a cabo las siguientes actividad
 
 ### 1.3. Segmentos objetivo
 
+1. Conductores Urbanos Frecuentes:
+   - Descripción: Este segmento incluye a personas que necesitan estacionamiento regular en zonas urbanas.
+   - Sexo: Masculino y femenino
+   - Edades: Adultos jóvenes (18-34 años), adultos de mediana edad (35-54 años) y adultos mayores (55+)
+   - Nivel socioeconómico: Clases B, C y D (media-alta, media y baja)
+   - Satisfacción de Necesidades: La plataforma permite a estos usuarios ahorrar tiempo y reducir el estrés al ofrecer reservas anticipadas o en tiempo real, optimizando sus desplazamientos diarios.
+
+2. Turistas y Visitantes Ocasionales:
+   - Descripción: Este segmento se enfoca en personas que visitan la ciudad de forma esporádica y requieren estacionamiento cercano a destinos específicos.
+   - Sexo: Masculino y femenino
+   - Edades: Adultos jóvenes (18-34 años), adultos de mediana edad (35-54 años) y adultos mayores (55+)
+   - Nivel socioeconómico: Clases B, C y D (media-alta, media y baja)
+   - Satisfacción de Necesidades:La aplicación facilita la localización y reserva de espacios de estacionamiento, especialmente en zonas con alta demanda, mejorando la experiencia del visitante y evitando las posibles molestias que puedan causar a los residentes.
+
 ## Capítulo II: Requirements Elicitation & Analysis
 
 ### 2.1. Competidores
 
+**Parkimeter:**
+
+Parkimeter es una plataforma en línea que ofrece servicios relacionados con el estacionamiento y la gestión de plazas de aparcamiento. La plataforma permite a los usuarios buscar, comparar y reservar plazas de estacionamiento en diferentes ubicaciones. Además de la reserva de plazas de estacionamiento, Parkimeter también proporciona información sobre tarifas de estacionamiento, disponibilidad en tiempo real y otras características útiles para ayudar a los conductores a encontrar y gestionar el estacionamiento de manera más conveniente.
+
+**ElParking**
+
+ElParking permite a los usuarios encontrar, reservar y pagar por estacionamiento a través de su plataforma. La aplicación brinda información en tiempo real acerca de sitios de estacionamiento cercanos quitando un peso de los hombros del consumidor, los conductores. Además, tiene la increíble funcionalidad de seguimiento de multas, pagos en parquímetros, etc.
+
+**Aparcados**
+
+Aparcados permite a los conductores encontrar estacionamientos dependiendo de lo que buscan, optimizando así el proceso de estacionamiento en áreas urbanas La app posee también posee una página web, pero la versión en móviles es la más usada hasta el momento, con una interfaz llamativa para todos los usuarios.
+
+
 #### 2.1.1. Análisis competitivo
+| ***Analisis/Competidores*** | ParkingNow | Parkimeter | ElParking | Aparcados |
+|---------------------------|---------------------|--------------|--------------|-------------- |
+| **Overview**       |    Es una plataforma en línea que brinda la posibilidad de reservar espacios de estacionamiento en múltiples ciudades.                  |          Es una plataforma en línea que ofrece servicios de reserva de plazas de aparcamiento en diversas ciudades de Europa y América Latina| Es una plataforma en línea que ofrece servicios de reserva de plazas de aparcamiento en diversos lugares de Costa Rica y América Latina | Es una plataforma en línea que ofrece servicios de reserva de plazas de aparcamiento en diversas ciudades de España principalmente, pero expandiéndose alrededor del mundo |
+| **Ventaja competitiva**|Cancelación gratuita hasta con 24 horas de antelación de la reserva| Ofrece descuentos de hasta el 70% y no cobra gastos de gestión | Permite más que solo pagar estacionamientos, sino gestionar multas y pagar parquímetros| La app incluye geolocalización y ofrece notificaciones a tiempo real|
+| **Mercado objetivo** |Personas que buscaban soluciones de estacionamiento en áreas urbanas congestionadas. |Personas que buscaban soluciones de estacionamiento en áreas urbanas congestionadas|Personas que buscaban soluciones de estacionamiento en áreas urbanas congestionadas |Personas que buscaban soluciones de estacionamiento en áreas urbanas congestionadas |
+| **Estrategias de Marketing**|Utiliza publicidad en línea a través de plataformas y redes sociales.|Utiliza publicidad en línea a través de plataformas y redes sociales |Utiliza publicidad en línea, redes sociales y reciben promociones de influencers| Utiliza publicidad en línea a través de plataformas y redes sociales  |
+| **Productos y Servicios**|Ofrece una serie de servicios relacionados con la reserva de plazas de aparcamiento en áreas urbanas y otros destinos. |Realizar servicios de parking en todo el territorio español y otras grandes ciudades del mundo | Ofrece una serie de servicios relacionados con la reserva de plazas de aparcamiento en ciudades concurridas, seguimiento de multas y pagos sencillos. | Ofrece una serie de servicios relacionados con la reserva de plazas de aparcamiento en áreas urbanas y otros destinos |
+| **Precios y Costos**|La plataforma es gratuita, pero se debe pagar las tarifas de estacionamiento correspondientes |La plataforma es gratuita, pero se debe pagar las tarifas de estacionamiento correspondientes | La plataforma es gratuita pero se debe pagar las tarifas de estacionamiento, además de la existencia de tarifas especiales o descuentos | La plataforma es gratuita, pero se debe pagar las tarifas de estacionamiento correspondientes. |
+| **Canales de Distribucion**|Sitio web, aplicación móvil, redes sociales, marketing en línea | Sitio web, aplicación móvil, redes sociales, marketing en línea | Sitio web, aplicación móvil, redes sociales, marketing en línea|Sitio web, aplicación móvil, redes sociales, marketing en línea|
+| **Fortalezas**|Implementa sensores de estacionamiento en los estacionamientos asociados | Parkimeter opera en múltiples ciudades de Europa y América Latina |ElParking implementa seguimiento de multas y pagos a parte de los estacionamientos | Aparcados opera en múltiples ciudades de Europa y Asia|
+| **Debilidades**|La industria de reserva de estacionamientos en línea es muy competitiva. | Varias empresas que proporcionan servicios similares | La industria de reserva de estacionamientos en línea es muy competitiva. | Varias empresas que proporcionan servicios similares. |
+| **Oportunidades**|A medida que las ciudades sigan creciendo, la demanda de servicios de reserva podría aumentar |La congestión del tráfico se vuelve más común, eso provocaría una alta demanda en la reserva de estacionamientos | En su país de origen, España, las personas en zonas urbanas van a tener que aprender más acerca de la app para poder vivir en comodidad. | Tiene grandes posibilidades de expandir su mercado aun enfocándose en la reserva de estacionamientos en América Latina |
+| **Amenazas**| Cambios en las políticas de movilidad urbana.|Nuevas startups compitiendo por la misma base de usuarios.|Nuevas startups compitiendo por la misma base de usuarios. | Nuevas startups compitiendo por la misma base de usuarios. |
 
 #### 2.1.2. Estrategias y tácticas frente a competidores
+
+**Plataforma digital:**
+
+Dado que se opera en línea, es fundamental tener una plataforma tecnológica consistente y fácil de usar. La inversión en tecnología puede incluir la mejora de la experiencia del usuario en su sitio web y aplicación móvil gracias a nuestros datos en tiempo real que brindamos a todos los usuarios.
+
+**Expansión geográfica:**
+
+Evaluar la posibilidad de expandirse a nuevos mercados geográficos o agregar más ubicaciones de estacionamiento puede ser una estrategia de expansión. Esto puede requerir investigaciones de mercado y planificación cuidadosa.
+
+**Cumplimiento normativo:**
+
+Nos centraremos en hacer cumplir las normas que vienen con la gestión de estacionamientos en cada ciudad y país, todo esto para lograr la convivencia armoniosa con todos los residentes de las localidades, siendo que apoyamos a los turistas que no están familiarizados con reglas extranjeras. 
 
 ### 2.2. Entrevistas
 
