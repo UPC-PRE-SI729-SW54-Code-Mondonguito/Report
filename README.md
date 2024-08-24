@@ -56,8 +56,7 @@ Durante la preparación del informe, se llevaron a cabo las siguientes actividad
 | Criterio específico                                                                                 | Acciones realizadas | Conclusiones |
 |------------------------------------------------------------------------------------------------------|---------------------|--------------|
 | **Comunica oralmente con efectividad a diferentes rangos de audiencia.**                                          |              |
-| **Comunica por escrito con efectividad a diferentes rangos de audiencia.**                           |                     |              |
-|                                                             
+| **Comunica por escrito con efectividad a diferentes rangos de audiencia.**                           |                     |      
 # Contenido
 - [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
 - [Project Report Collaboration Insights](#project-report-collaboration-insights)
@@ -148,9 +147,18 @@ Durante la preparación del informe, se llevaron a cabo las siguientes actividad
 
 ## Capítulo I: Introducción
 
-### 1.1. Startup Profile
+### 1.1. StartUp Profile
 
-#### 1.1.1. Descripción de la Startup
+En esta sección describiremos la descripción de nuestra Startup.
+
+### 1.1.1. Descripción de la Startup
+
+**PARKINGNOW** es una startup tecnológica enfocada en ofrecer una solución integral para el estacionamiento en tiempo real. Nuestra plataforma digital permite a los usuarios reservar y pagar por espacios de estacionamiento utilizando la localización geográfica y un **sensor infrarrojo** para una gestión más eficiente y automatizada. Basado en un modelo de negocio independiente y sostenible, **PARKINGNOW** se adapta tanto a usuarios frecuentes como a usuarios ocasionales mediante un sistema de transacciones. La innovación de **PARKINGNOW** radica en la integración de datos en tiempo real, incluidos los datos proporcionados por un sensor infrarrojo, para garantizar la disponibilidad de espacios y optimizar las rutas hacia los estacionamientos más cercanos. Este sensor infrarrojo detecta la presencia de vehículos en los espacios de estacionamiento al percibir cuando un objeto interrumpe su señal de luz. Cuando un vehículo ocupa o deja un espacio, el sensor infrarrojo envía una señal a la plataforma para actualizar la disponibilidad en tiempo real, mejorando así la eficiencia y la experiencia del usuario.
+
+**Misión**: Ser el puente entre conductores y propietarios de estacionamientos, optimizando la experiencia de estacionamiento en tiempo real. **PARKINGNOW** facilita el acceso a espacios de estacionamiento utilizando un sensor infrarrojo para una gestión automatizada y eficiente, contribuyendo a la rentabilidad de quienes los poseen y cubriendo así las necesidades de ambos segmentos de mercado.
+
+**Visión**: Convertirnos en la plataforma líder en la gestión de estacionamientos urbanos en los próximos 5 años, mejorando la movilidad en las ciudades mediante soluciones tecnológicas innovadoras y sostenibles, como el uso de un sensor infrarrojo, que beneficien tanto a conductores como a propietarios de estacionamientos.
+
 
 #### 1.1.2. Perfiles de integrantes del equipo
 
