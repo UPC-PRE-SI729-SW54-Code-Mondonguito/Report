@@ -335,16 +335,6 @@ Para la elaboración de los Hypothesis Statements se utilizó el formato Lean UX
 
 - **Sabremos que estamos en lo cierto cuando observemos** un aumento del 30% en la retención de clientes y un incremento en el número de usuarios que refieren a otros conductores a la plataforma.
   
-#### 1.2.1. Antecedentes y problemática
-
-#### 1.2.2. Lean UX Process
-
-##### 1.2.2.1. Lean UX Problem Statements
-
-##### 1.2.2.2. Lean UX Assumptions
-
-##### 1.2.2.3. Lean UX Hypothesis Statements
-
 ##### 1.2.2.4. Lean UX Canvas
 
 ### 1.3. Segmentos objetivo
