@@ -162,6 +162,15 @@ En esta sección describiremos la descripción de nuestra Startup.
 
 #### 1.1.2. Perfiles de integrantes del equipo
 
+ **Integrantes**                                              | **Descripción**                                                                                                                                                                                                                                                | **Conocimientos**                               |
+|--------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|
+| ![Foto de Diego](Imagenes/Diego.jpg) <br> Diego Ulises Soto Quispe | Soy estudiante de 5to ciclo en la carrera de Ingeniería de Software. Soy responsable en las labores que se asignan y puntual con los trabajos por entregar, fuera del mundo de programación, me gusta jugar basquet, salir a pasear, jugar videojuegos y manejar en bicicleta. | HTML, Base de datos en SQL Server, C++, Python, NoSQL, JSON |
+|                                                              |                                                                                                                                                                                                                                                                |                                                 |
+|                                                              |                                                                                                                                                                                                                                                                |                                                 |
+|                                                              |                                                                                                                                                                                                                                                                |                                                 |
+  |                                                                                                                                                                                                                                                                |                                                 |
+
+
 ### 1.2. Solution Profile
 
 #### 1.2.1. Antecedentes y problemática
@@ -316,9 +325,7 @@ En esta sección describiremos la descripción de nuestra Startup.
 
 ### 5.4. Video About-the-Product
 
-## Conclusiones y Recomendaciones
-
-### Conclusiones
+## Conclusiones 
 
 ### Conclusiones y recomendaciones
 
