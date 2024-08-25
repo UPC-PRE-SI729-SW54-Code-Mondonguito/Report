@@ -175,15 +175,15 @@ Durante la preparación del informe, se llevaron a cabo las siguientes actividad
    - Sexo: Masculino y femenino
    - Edades: Adultos jóvenes (18-34 años), adultos de mediana edad (35-54 años) y adultos mayores (55+)
    - Nivel socioeconómico: Clases B, C y D (media-alta, media y baja)
-   - Satisfacción de Necesidades: La plataforma permite a estos usuarios ahorrar tiempo y reducir el estrés al ofrecer reservas anticipadas o en tiempo real, optimizando sus desplazamientos diarios.
+   - Satisfacción de Necesidades: La plataforma permite a estos usuarios ahorrar tiempo y reducir el estrés al ofrecer reservas anticipadas o en tiempo real, optimizando sus desplazamientos diarios. Asimismo, gracias al sensor, el usuario tendra la seguridad del estado de su carro dentro del estacionamiento.
 
-2. Turistas y Visitantes Ocasionales:
-   - Descripción: Este segmento se enfoca en personas que visitan la ciudad de forma esporádica y requieren estacionamiento cercano a destinos específicos.
-   - Sexo: Masculino y femenino
-   - Edades: Adultos jóvenes (18-34 años), adultos de mediana edad (35-54 años) y adultos mayores (55+)
-   - Nivel socioeconómico: Clases B, C y D (media-alta, media y baja)
-   - Satisfacción de Necesidades:La aplicación facilita la localización y reserva de espacios de estacionamiento, especialmente en zonas con alta demanda, mejorando la experiencia del visitante y evitando las posibles molestias que puedan causar a los residentes.
-
+2. Dueños de playas de estacionamientos:
+    - Descripcion: El siguiente segmento incluye a las personas dueñas de playas de estacionamintos, o lugares para aparcar carros en zonas urbanas.
+    - Sexo: Masculino y Femenino
+    - Edades: Adultos jóvenes (18-34 años), Adultos de mediana edad (35 - 54) y adultos mayores (55+)
+    - Nivel socioeconómico: Clases B y C (Media-alta y media)
+    - Necesidades por satisfacer: Apoyar con el manejo de datos que sucede al momento de que los conductores urbanos frecuentes deseen un lugar para estacionar, ademas de brindar facilidad y seguridad al momento de pagar y ordenar los lugares de estacionamiento. Además, promueve la formalidad y acelera los procesos tediosos que estos negocios suelen tener.
+  
 ## Capítulo II: Requirements Elicitation & Analysis
 
 ### 2.1. Competidores
@@ -204,9 +204,9 @@ Aparcados permite a los conductores encontrar estacionamientos dependiendo de lo
 #### 2.1.1. Análisis competitivo
 | ***Analisis/Competidores*** | ParkingNow | Parkimeter | ElParking | Aparcados |
 |---------------------------|---------------------|--------------|--------------|-------------- |
-| **Overview**       |    Es una plataforma en línea que brinda la posibilidad de reservar espacios de estacionamiento en múltiples ciudades.                  |          Es una plataforma en línea que ofrece servicios de reserva de plazas de aparcamiento en diversas ciudades de Europa y América Latina| Es una plataforma en línea que ofrece servicios de reserva de plazas de aparcamiento en diversos lugares de Costa Rica y América Latina | Es una plataforma en línea que ofrece servicios de reserva de plazas de aparcamiento en diversas ciudades de España principalmente, pero expandiéndose alrededor del mundo |
-| **Ventaja competitiva**|Cancelación gratuita hasta con 24 horas de antelación de la reserva| Ofrece descuentos de hasta el 70% y no cobra gastos de gestión | Permite más que solo pagar estacionamientos, sino gestionar multas y pagar parquímetros| La app incluye geolocalización y ofrece notificaciones a tiempo real|
-| **Mercado objetivo** |Personas que buscaban soluciones de estacionamiento en áreas urbanas congestionadas. |Personas que buscaban soluciones de estacionamiento en áreas urbanas congestionadas|Personas que buscaban soluciones de estacionamiento en áreas urbanas congestionadas |Personas que buscaban soluciones de estacionamiento en áreas urbanas congestionadas |
+| **Overview**       |    Es una plataforma en línea que brinda la posibilidad de reservar espacios de estacionamiento en múltiples ciudades ademas que brinda la conexion entre los consumidores y dueños de estacionamientos|Es una plataforma en línea que ofrece servicios de reserva de plazas de aparcamiento en diversas ciudades de Europa y América Latina| Es una plataforma en línea que ofrece servicios de reserva de plazas de aparcamiento en diversos lugares de Costa Rica y América Latina | Es una plataforma en línea que ofrece servicios de reserva de plazas de aparcamiento en diversas ciudades de España principalmente, pero expandiéndose alrededor del mundo |
+| **Ventaja competitiva**|Cancelación gratuita hasta con 24 horas de antelación de la reserva, inclusion de un sensor para el automovil y ser el puente entre los consumidores y dueños de playas de estacionamientos en zonas urbanas| Ofrece descuentos de hasta el 70% y no cobra gastos de gestión | Permite más que solo pagar estacionamientos, sino gestionar multas y pagar parquímetros| La app incluye geolocalización y ofrece notificaciones a tiempo real|
+| **Mercado objetivo** |Personas que buscaban soluciones de estacionamiento en áreas urbanas congestionadas y personas dueñas de estacionamientos de playas. |Personas que buscaban soluciones de estacionamiento en áreas urbanas congestionadas|Personas que buscaban soluciones de estacionamiento en áreas urbanas congestionadas |Personas que buscaban soluciones de estacionamiento en áreas urbanas congestionadas |
 | **Estrategias de Marketing**|Utiliza publicidad en línea a través de plataformas y redes sociales.|Utiliza publicidad en línea a través de plataformas y redes sociales |Utiliza publicidad en línea, redes sociales y reciben promociones de influencers| Utiliza publicidad en línea a través de plataformas y redes sociales  |
 | **Productos y Servicios**|Ofrece una serie de servicios relacionados con la reserva de plazas de aparcamiento en áreas urbanas y otros destinos. |Realizar servicios de parking en todo el territorio español y otras grandes ciudades del mundo | Ofrece una serie de servicios relacionados con la reserva de plazas de aparcamiento en ciudades concurridas, seguimiento de multas y pagos sencillos. | Ofrece una serie de servicios relacionados con la reserva de plazas de aparcamiento en áreas urbanas y otros destinos |
 | **Precios y Costos**|La plataforma es gratuita, pero se debe pagar las tarifas de estacionamiento correspondientes |La plataforma es gratuita, pero se debe pagar las tarifas de estacionamiento correspondientes | La plataforma es gratuita pero se debe pagar las tarifas de estacionamiento, además de la existencia de tarifas especiales o descuentos | La plataforma es gratuita, pero se debe pagar las tarifas de estacionamiento correspondientes. |
