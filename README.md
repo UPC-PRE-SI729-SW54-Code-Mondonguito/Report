@@ -233,10 +233,168 @@ Nos centraremos en hacer cumplir las normas que vienen con la gestión de estaci
 ### 2.2. Entrevistas
 
 #### 2.2.1. Diseño de entrevistas
+### Con el objetivo de obtener un mejor entendimiento de nuestros usuarios, queremos conocer sus puntos de vista para guiar nuestro enfoque y así implementar nuestro producto en base a sus problemas.
+
+**Segmento objetivo \#1: Conductores Urbanos Frecuentes**
+
+**Preguntas principales:**
+
+* ¿Con qué frecuencia necesitas estacionamiento en la ciudad?  
+* ¿Cuánto tiempo dedicas normalmente a buscar estacionamiento?  
+* ¿Utilizas actualmente alguna aplicación o servicio para encontrar estacionamiento?  
+* ¿Qué tan importante es para ti conocer la disponibilidad de estacionamiento en tiempo real?  
+* ¿Estarías dispuesto/a a pagar una tarifa adicional por garantizar un espacio de estacionamiento reservado?  
+* ¿Qué consideras más importante al elegir un estacionamiento: costo, proximidad, o seguridad?  
+* ¿Te gustaría recibir recomendaciones de rutas hacia el estacionamiento más cercano basado en el tráfico en tiempo real?
+
+**Preguntas complementarias:**
+
+* ¿Has tenido experiencias frustrantes buscando estacionamiento en la ciudad?  
+* ¿Qué mejoras te gustaría ver en los servicios de estacionamiento que utilizas actualmente?
+
+**Segmento objetivo \#2: Dueños de playas de estacionamientos**
+
+**Preguntas principales:**
+
+* Cuando visitas una ciudad, ¿qué tan difícil te resulta encontrar estacionamiento?  
+* ¿Utilizas aplicaciones o servicios para encontrar estacionamiento cuando viajas?  
+* ¿Qué tan útil te parecería una aplicación que te muestre en tiempo real los espacios de estacionamiento disponibles?  
+* ¿Prefieres pagar por adelantado para asegurar un espacio de estacionamiento durante tu visita?  
+* ¿Qué tan importante es para ti la proximidad del estacionamiento a tu destino?  
+* ¿Te sentirías más tranquilo/a utilizando un sistema que optimice la ruta hacia el estacionamiento más cercano?  
+* ¿Cómo influiría en tu decisión de viaje la disponibilidad garantizada de estacionamiento?
+
+**Preguntas complementarias:**
+
+* ¿Has experimentado dificultades al intentar encontrar estacionamiento en ciudades que visitas?  
+* ¿Qué tan dispuesto/a estarías a usar una plataforma que ofrezca estacionamiento garantizado durante tu viaje?
 
 #### 2.2.2. Registro de entrevistas
+**Segmento objetivo \#1: Conductores Urbanos Frecuentes**
+
+Entrevistado N°1: Bárbara Eliana Seminario León
+
+* Sexo: Femenino  
+* Edad: 46  
+* Ubicación en la que vive: Surco, Lima, Perú.
+
+Acerca de la entrevista:
+
+* Link: [https://youtu.be/qiEsk6I19uM](https://youtu.be/qiEsk6I19uM)   
+* Instante en el que inicia: 0:15  
+* Duración: 2:45
+
+Resumen:
+
+Para Bárbara, la necesidad de estacionamiento no es frecuente, pero el tiempo que dedica a buscar un lugar varía según la zona. Actualmente, no utiliza aplicaciones para encontrar estacionamiento, pero valora conocer la disponibilidad antes de llegar y recibir recomendaciones sobre rutas para ahorrar tiempo. Está dispuesta a pagar tarifas adicionales para reservar un espacio, y considera el costo, la proximidad y la seguridad como factores clave al elegir dónde estacionar. En ocasiones, ha tenido que estacionar en lugares inconvenientes debido a la falta de opciones y tiempo limitado. Además, le interesaría que alguien pudiera estacionar su auto por ella.
+
+Entrevistado N°2: Juan Pablo Guija Solis
+
+* Sexo: Masculino  
+* Edad: 19  
+* Ubicación en la que vive: San Borja
+
+Acerca de la entrevista: 
+
+* Link: [https://youtu.be/HoAftCu6EPA](https://youtu.be/HoAftCu6EPA)   
+* Instante en el que inicia: 0:11  
+* Duración: 2:48
+
+Resumen:
+
+Para Juan Pablo, que utiliza su vehículo a diario, encontrar estacionamiento es una necesidad frecuente. El tiempo que dedica a buscar un lugar depende de la zona, y actualmente no usa ninguna app para este propósito. Valora mucho conocer la disponibilidad de estacionamiento antes de llegar, ya que esto le permite ahorrar tiempo. Está dispuesto a pagar tarifas adicionales para reservar un espacio, siempre y cuando estas no sean excesivamente altas. Considera importantes el costo y la proximidad al elegir un lugar para estacionar. Ha tenido experiencias frustrantes, como perder un espacio o encontrarse con estacionamientos demasiado pequeños. Le gustaría recibir avisos en tiempo real cuando se libere un espacio cercano y notificaciones sobre posibles movimientos sospechosos en el área donde estaciona.
+
+Entrevistado N°3:
+
+* Sexo:  
+* Edad:  
+* Ubicación en la que vive:
+
+Acerca de la entrevista:
+
+* Link:  
+* Instante en el que inicia:  
+* Duración:
+
+Resumen:
+
+Para 
+
+**Segmento objetivo \#2: Dueños de playas de estacionamientos**
+
+Entrevistado N°1:
+
+* Sexo:  
+* Edad:  
+* Ubicación en la que vive:
+
+Acerca de la entrevista:
+
+* Link:  
+* Instante en el que inicia:  
+* Duración:
+
+Resumen:
+
+Para 
+
+Entrevistado N°2:
+
+* Sexo:  
+* Edad:  
+* Ubicación en la que vive:
+
+Acerca de la entrevista:
+
+* Link:  
+* Instante en el que inicia:  
+* Duración:
+
+Resumen:
+
+Para 
 
 #### 2.2.3. Análisis de entrevistas
+De acuerdo con la información recopilada de las entrevistas, realizamos el siguiente análisis de entrevistas:
+
+Segmento objetivo \#1:
+
+**Hallazgos:**
+
+* La necesidad de estacionamiento varía: algunos lo requieren con frecuencia, mientras que otros solo ocasionalmente.  
+* El tiempo dedicado a buscar estacionamiento depende de la zona.  
+* No se utilizan aplicaciones para encontrar estacionamiento.  
+* Es muy importante conocer la disponibilidad de estacionamiento antes de llegar.  
+* Se está dispuesto a pagar tarifas adicionales para reservar un espacio, siempre y cuando estas no sean demasiado altas.  
+* Factores como el costo, la proximidad y la seguridad son clave al elegir un lugar para estacionar.  
+* Existen frustraciones comunes relacionadas con la búsqueda de estacionamiento, como perder un espacio o encontrar lugares inadecuados.  
+* Se desea recibir recomendaciones de rutas para ahorrar tiempo y la opción de que alguien estacione el auto por uno.  
+* Se valoran los avisos en tiempo real sobre la liberación de espacios cercanos y las notificaciones sobre movimientos sospechosos en el área de estacionamiento.
+
+Segmento objetivo \#2: 
+
+**Hallazgos:**
+
+* La necesidad de estacionamiento es constante: la mayoría tiene dificultades al encontrar estacionamiento.  
+* No se utilizan aplicaciones para encontrar estacionamiento.  
+* Se desea una funcionalidad de verificar en tiempo real los espacios disponibles.  
+* Se está dispuesto a pagar tarifas adelantadas para reservar un espacio, siempre y cuando estas no sean demasiado altas.  
+* Factores como la proximidad y el costo son cruciales.  
+* Influye regularmente la disponibilidad de estacionamiento al realizar un viaje.  
+* Existen frustraciones comunes relacionadas con la búsqueda de estacionamiento, especialmente cuando es un lugar nuevo.
+
+**Conclusiones de ambos segmentos:**
+
+Los resultados del **segmento 1** indican que, aunque las necesidades de estacionamiento varían en frecuencia, hay un consenso en la importancia de conocer la disponibilidad de espacios antes de llegar. La disposición a pagar tarifas adicionales es alta, siempre que estas sean razonables. Los factores de costo, proximidad y seguridad son cruciales al elegir un lugar para estacionar. Existen frustraciones comunes con la búsqueda de estacionamiento, y se valora la tecnología para mejorar la experiencia, como recibir avisos en tiempo real y recomendaciones de rutas. La opción de asistencia para estacionar también es deseada. De igual manera, los resultados del **segmento 2** presentan similitudes a las del segmento anterior, mostrando como la mayoría de respuestas indican que tienen dificultades al encontrar estacionamiento en lugares que no conocen, les parece una idea interesante un servicio que les muestre en tiempo real la disponibilidad de estacionamiento, demostrando como la mayoria esta dispuesto a pagar las tarifas por anticipado para garantizar un espacio.
+
+**Análisis por medio de herramientas estadísticas:**
+
+Segmento objetivo 1: [https://forms.gle/Lo3Z69GnkyYDcaAYA](https://forms.gle/Lo3Z69GnkyYDcaAYA) 
+
+
+
+Segmento objetivo 2: link
+
 
 ### 2.3. Needfinding
 
