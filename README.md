@@ -553,4 +553,10 @@ Utilizamos la escala de Fibonacci para la estimación de los Story Points.
 
 ## Bibliografía
 
-## Anexos
+### Anexos
+
+| Sección                           | Enlace                                                                                                                            |
+|-----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
+| Diseño en Canva                   | [Editar Diseño en Canva](https://www.canva.com/design/DAGOyaW6z7E/ub8lVBXsKH3Em5YVQb223g/edit?utm_content=DAGOyaW6z7E&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) |
+| Miro Board 1                      | [Abrir Miro Board 1](https://miro.com/app/board/uXjVKmNkzqc=/?share_link_id=307784420338)                                          |
+| Miro Board 2                      | [Abrir Miro Board 2](https://miro.com/app/board/uXjVKmOWBhk=/?share_link_id=425124811159)                                          |
