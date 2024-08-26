@@ -256,18 +256,18 @@ Nos centraremos en hacer cumplir las normas que vienen con la gestión de estaci
 
 **Preguntas principales:**
 
-* Cuando visitas una ciudad, ¿qué tan difícil te resulta encontrar estacionamiento?  
-* ¿Utilizas aplicaciones o servicios para encontrar estacionamiento cuando viajas?  
-* ¿Qué tan útil te parecería una aplicación que te muestre en tiempo real los espacios de estacionamiento disponibles?  
-* ¿Prefieres pagar por adelantado para asegurar un espacio de estacionamiento durante tu visita?  
-* ¿Qué tan importante es para ti la proximidad del estacionamiento a tu destino?  
-* ¿Te sentirías más tranquilo/a utilizando un sistema que optimice la ruta hacia el estacionamiento más cercano?  
-* ¿Cómo influiría en tu decisión de viaje la disponibilidad garantizada de estacionamiento?
+* ¿Consideras sencillo el proceso de gestionamiento de espacios en tu estacionamiento?  
+* ¿Qué tan importante es para ti contar con información en tiempo real sobre los espacios disponibles?  
+* ¿Utilizas algún sistema digital para administrar los pagos y reservas de los espacios de estacionamiento?  
+* ¿Qué beneficios ves en la posibilidad de automatizar el proceso de reserva y pago de los espacios de estacionamiento?  
+* ¿Qué tan relevante es para ti ofrecer opciones de pago seguras y rápidas a tus clientes?  
+* ¿De qué manera crees que la integración de una app que gestione datos y pagos podría mejorar la eficiencia de tu negocio?
 
 **Preguntas complementarias:**
 
-* ¿Has experimentado dificultades al intentar encontrar estacionamiento en ciudades que visitas?  
-* ¿Qué tan dispuesto/a estarías a usar una plataforma que ofrezca estacionamiento garantizado durante tu viaje?
+* ¿Cuáles son los principales desafíos que enfrentas al administrar tu estacionamiento?  
+* ¿Qué funcionalidades adicionales te gustaría que una app ofreciera para facilitar la gestión de tu negocio?  
+* ¿Te gustaría recibir reportes o análisis sobre la ocupación y rotación de vehículos en tu estacionamiento?
 
 #### 2.2.2. Registro de entrevistas
 **Segmento objetivo \#1: Conductores Urbanos Frecuentes**
@@ -391,7 +391,23 @@ Los resultados del **segmento 1** indican que, aunque las necesidades de estacio
 
 Segmento objetivo 1: [https://forms.gle/Lo3Z69GnkyYDcaAYA](https://forms.gle/Lo3Z69GnkyYDcaAYA) 
 
+![Pregunta 1 - Segmento 1](Imagenes/Seg1-P1.png)
 
+![Pregunta 2 - Segmento 1](Imagenes/Seg1-P2.png)
+
+![Pregunta 3 - Segmento 1](Imagenes/Seg1-P3.png)
+
+![Pregunta 4 - Segmento 1](Imagenes/Seg1-P4.png)
+
+![Pregunta 5 - Segmento 1](Imagenes/Seg1-P5.png)
+
+![Pregunta 6 - Segmento 1](Imagenes/Seg1-P6.png)
+
+![Pregunta 7 - Segmento 1](Imagenes/Seg1-P7.png)
+
+![Pregunta 8 - Segmento 1](Imagenes/Seg1-P8.png)
+
+![Pregunta 9 - Segmento 1](Imagenes/Seg1-P9.png)
 
 Segmento objetivo 2: link
 
