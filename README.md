@@ -165,7 +165,7 @@ En esta sección describiremos la descripción de nuestra Startup.
  **Integrantes**                                              | **Descripción**                                                                                                                                                                                                                                                | **Conocimientos**                               |
 |--------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|
 | ![Foto de Diego](Imagenes/Diego.jpg) <br> Diego Ulises Soto Quispe | Soy estudiante de 5to ciclo en la carrera de Ingeniería de Software. Soy responsable en las labores que se asignan y puntual con los trabajos por entregar, fuera del mundo de programación, me gusta jugar basquet, salir a pasear, jugar videojuegos y manejar en bicicleta. | HTML, Base de datos en SQL Server, C++, Python, NoSQL, JSON |
-| ![Foto de Diego_C](Imagenes/Diego_C.jpg) <br> Diego Alonso Cacho Seminario | Mi nombre es Diego Cacho y tengo 19 años, actualmente me encuentro 5to ciclo de mi carrera como Ingeniero de Software en la UPC. Me considero una persona tranquila y diligente, intento realizar mis tareas y trabajos lo antes posible para evitar contratiempos en un futuro, especialmente si son actividades que consumen mucho tiempo. Como miembro de equipo buscaré ayudar a mis compañeros cuando lo necesiten, realizando además mis entregas lo más temprano posible. | C++, C#, Python, Unity 2D/3D |                                                 |
+|                                                              |                                                                                                                                                                                                                                                                |                                                 |
 |                                                              |                                                                                                                                                                                                                                                                |                                                 |
 |                                                              |                                                                                                                                                                                                                                                                |                                                 |
   |                                                                                                                                                                                                                                                                |                                                 |
@@ -427,9 +427,24 @@ Para la elaboración de los Hypothesis Statements se utilizó el formato Lean UX
 | US19          | Revisión de Espacios Recomendados   | Como Conductor Urbano Frecuente, quiero ver recomendaciones basadas en mis patrones de uso para elegir los mejores espacios de estacionamiento.                | **Escenario 01:** Dado que un conductor ha usado frecuentemente ciertos espacios, cuando abre la aplicación, entonces se muestran recomendaciones personalizadas. <br> **Escenario 02:** Dado que las recomendaciones mejoran la eficiencia, cuando un conductor sigue las sugerencias, entonces se proporciona feedback para ajustar futuras recomendaciones. | EP06                      |
 | US20          | Integración con Servicios de Terceros | Como Conductor Urbano Frecuente, quiero que la aplicación se integre con servicios de terceros, como mapas o asistentes de voz, para mejorar mi experiencia de uso. | **Escenario 01:** Dado que un conductor utiliza un asistente de voz compatible, cuando solicita información sobre estacionamientos, entonces el asistente proporciona detalles en tiempo real. <br> **Escenario 02:** Dado que los servicios de mapas mejoran la navegación, cuando un conductor selecciona una ruta, entonces se sincroniza automáticamente con PARKINGNOW. | EP04                      |
 
+## 3.3. Impact Mapping
+
+<p align="center">
+  <strong>Conductor Urbano Frecuente</strong>
+</p>
+
+<p align="center">
+  <img src="Imagenes/IMPACT%20MAP_%20Impact_map_conductor.png" alt="IMPACT MAP: Impact_map_conductor" width="600"/>
+</p>
 
 
-### 3.3. Impact Mapping
+<p align="center">
+  <strong>Dueño de Playa de Estacionamiento</strong>
+</p>
+
+<p align="center">
+  <img src="Imagenes/IMPACT%20MAP_%20Dueño%20de%20Playa%20de%20Estacionamiento.png" alt="IMPACT MAP: Dueño de Playa de Estacionamiento" width="600"/>
+</p>
 
 
 ### 3.4. Product Backlog
