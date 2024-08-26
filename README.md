@@ -430,7 +430,22 @@ Para la elaboración de los Hypothesis Statements se utilizó el formato Lean UX
 
 ### 3.3. Impact Mapping
 
+
 ### 3.4. Product Backlog
+
+Utilizamos la escala de Fibonacci para la estimación de los Story Points.
+
+| Orden | User Story ID | Título                                 | Descripción                                                                                                                                              | Story Points (1/2/3/5/8) |
+|-------|---------------|----------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|
+| 1     | US01          | Búsqueda de Estacionamiento             | Como usuario de **PARKINGNOW**, quiero buscar espacios de estacionamiento disponibles cerca de mi ubicación para estacionar rápidamente y sin problemas.  | 8                        |
+| 2     | US10          | Integración con Calendario              | Como usuario de **PARKINGNOW**, quiero que la aplicación sincronice mis reservas con mi calendario personal para gestionar mejor mi tiempo y compromisos.  | 8                        |
+| 3     | US05          | Notificaciones de Disponibilidad        | Como usuario de **PARKINGNOW**, quiero recibir notificaciones en tiempo real sobre la disponibilidad de estacionamientos cercanos para elegir la mejor opción rápidamente. | 5                        |
+| 4     | US03          | Pago por Transacción Segura             | Como usuario de **PARKINGNOW**, quiero realizar pagos seguros por cada transacción a través de la aplicación para evitar el uso de efectivo y asegurar la protección de mis datos. | 5                        |
+| 5     | US15          | Actualización Automática de Rutas       | Como usuario de **PARKINGNOW**, quiero que la aplicación actualice automáticamente las rutas hacia el estacionamiento más cercano en caso de cambios de tráfico para reducir el tiempo de viaje. | 5                        |
+| 6     | US08          | Opiniones de Estacionamiento            | Como usuario de **PARKINGNOW**, quiero dejar opiniones y calificaciones sobre los espacios de estacionamiento utilizados para ayudar a mejorar el servicio. | 3                        |
+| 7     | US17          | Feedback Post-Estacionamiento           | Como usuario de **PARKINGNOW**, quiero proporcionar feedback después de cada uso de estacionamiento para ayudar a mejorar la calidad del servicio.        | 2                        |
+| 8     | US07          | Histórico de Estacionamiento            | Como usuario de **PARKINGNOW**, quiero acceder a un historial de mis estacionamientos pasados para revisar mis patrones de uso y gastos.                  | 2                        |
+
 
 ## Capítulo IV: Product Design
 
