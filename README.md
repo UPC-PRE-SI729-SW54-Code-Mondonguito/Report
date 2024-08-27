@@ -168,6 +168,7 @@ En esta sección describiremos la descripción de nuestra Startup.
 | ![Foto de Diego_C](Imagenes/Diego_C.jpg) <br> Diego Alonso Cacho Seminario | Mi nombre es Diego Cacho y tengo 19 años, actualmente me encuentro 5to ciclo de mi carrera como Ingeniero de Software en la UPC. Me considero una persona tranquila y diligente, intento realizar mis tareas y trabajos lo antes posible para evitar contratiempos en un futuro, especialmente si son actividades que consumen mucho tiempo. Como miembro de equipo buscaré ayudar a mis compañeros cuando lo necesiten, realizando además mis entregas lo más temprano posible. | C++, C#, Python, Unity 2D/3D | 
 | ![Foto de Omar](Imagenes/Omar.jpeg) <br> Omar Harold Rivera Ticllacuri | Soy estudiante de Ingeniería de Software, tengo 19 años y actualmente me encuentro en el quinto ciclo de mi carrera. Soy una persona con la cual tengo la disciplina y responsable para desarrollar proyectos de software y software de entretenimiento. Cuento con experiencia sobre el desarrollo de software de entretenimiento. Por ende, apoyaré al grupo en todo lo posible para poder desarrollar adecuadamente el trabajo y la propuesta que se nos asignó. | C++, C#, Python, Unity 2D/3D, Html y Css|
 | ![Foto de Samuel](Imagenes/Samuel.jpeg) <br> Samuel Elias Molina Asencios | Soy estudiante de 7mo ciclo en la carrera de Ingeniería de Software. Actualmente formo parte de un equipo de desarrollo ejecutando el rol de Analista desarrollador de software, me gusta mucho el arte y el deporte, en mis tiempos libres toco Piano o voy a nadar no hay nada mejor que la natación. | SQL, NoSQL, C++, Java, JavaScript, Firebird, Vue, Quasar, Node js, Jreport, PHP, Sniffer, HTML, CSS.|
+| ![Foto de Rodrigo](Imagenes/Rodrigo.png) <br> Rodrigo Liberato Saldaña | Soy estudiante de 6to ciclo de la carrera de Ingenieria de software, soy una persona que valora el esfuerzo e intenta apoyar en todo lo posible. La responsabilidad y honestidad son unas de mis cualidades y que seran de ayuda para que el trabajo salga lo mejor posible | C++, SQL, Java, PHP, HTML, CSS.|
 
 
 
@@ -590,49 +591,10 @@ Segmento objetivo 2: link
 ### 2.3. Needfinding
 
 #### 2.3.1. User Personas
-###### User Task Matrix para Conductores Urbanos
-![User Person s1](Imagenes/User_Persona_s1.png)
-
-###### User Task Matrix para Dueños de Estacionamientos
-![User Person s2](Imagenes/User_Persona_s2.png)
-
-
 
 #### 2.3.2. User Task Matrix
-###### User Task Matrix para Conductores Urbanos
-
-| **Tarea**                           | **Frecuencia** | **Importancia**   |
-|-------------------------------------|----------------|-------------|
-|Buscar estacionamientos disponibles |	Varias veces a la semana	|Alta|
-|Comparar precios de estacionamientos|	Frecuentemente	|Moderada|
-|Reservar estacionamientos con anticipación|	A veces	|Alta|
-|Pagar por estacionamiento a través de la aplicación	|Frecuentemente	|Alta|
-|Recibir direcciones al estacionamiento reservado	|Frecuentemente|Moderada|
-|Filtrar estacionamientos por criterios (precio, seguridad, etc.)	|Varias veces a la semana	|Alta|
-|Recibir notificaciones sobre descuentos y ofertas|	A veces	|Baja|
-|Verificar disponibilidad de estacionamiento en tiempo real	|Frecuentemente	|Alta|
-|Consultar historial de estacionamientos utilizados|	Rara vez	|Baja|
-
-
-###### User Task Matrix para Dueños de Estacionamientos
-| **Tarea**                           | **Frecuencia** | **Importancia**   |
-|-------------------------------------|----------------|-------------|
-|Buscar estacionamientos disponibles |	Frecuentemente	|Alta|
-|Comparar precios de estacionamientos|	Varias veces a la semana	|Alta|
-|Reservar estacionamientos con anticipación|	A veces	|Alta|
-|Pagar por estacionamiento a través de la aplicación	|Frecuentemente	|Moderada|
-|Recibir direcciones al estacionamiento reservado	|Cada vez que reservan	|Moderada|
-|Filtrar estacionamientos por criterios (precio, seguridad, etc.)	|Varias veces a la semana	|Alta|
-|Recibir notificaciones sobre descuentos y ofertas|	Frecuentemente	|Moderada|
-|Verificar disponibilidad de estacionamiento en tiempo real	|Con Frecuencia	|Alta|
-|Consultar historial de estacionamientos utilizados|	A veces |Moderada|
 
 #### 2.3.3. User Journey Mapping
-###### User Task Matrix para Conductores Urbanos
-![User Person s1](Imagenes/JournyMapping_s1%20.png)
-
-###### User Task Matrix para Dueños de Estacionamientos
-![User Person s2](Imagenes/JournyMapping_s2%20(1).png)
 
 #### 2.3.4. Empathy Mapping
 
@@ -800,9 +762,21 @@ Utilizamos la escala de Fibonacci para la estimación de los Story Points.
 
 #### 4.4.1. Web Applications Wireframes
 
+Link: [Figma](https://www.figma.com/design/qb02D1snVoDtoLfT0qdkRV/Parking-now?node-id=0-1&t=dsT3kQGDkndD6UwX-1)
+
+![Wireframe1](Imagenes/Wireframe1.png)
+
+![Wireframe2](Imagenes/Wireframe2.png)
+
+![Wireframe3](Imagenes/Wireframe3.png)
+
 #### 4.4.2. Web Applications Wireflow Diagrams
 
 #### 4.4.3. Web Applications Mock-ups
+
+Link: [Figma](https://www.figma.com/design/qb02D1snVoDtoLfT0qdkRV/Parking-now?node-id=0-1&t=dsT3kQGDkndD6UwX-1)
+
+![Mock-up1](Imagenes/Mockup1.png)
 
 #### 4.4.4. Web Applications User Flow Diagrams
 
