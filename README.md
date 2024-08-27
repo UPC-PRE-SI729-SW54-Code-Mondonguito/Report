@@ -590,10 +590,49 @@ Segmento objetivo 2: link
 ### 2.3. Needfinding
 
 #### 2.3.1. User Personas
+###### User Task Matrix para Conductores Urbanos
+![User Person s1](Imagenes/User_Persona_s1.png)
+
+###### User Task Matrix para Dueños de Estacionamientos
+![User Person s2](Imagenes/User_Persona_s2.png)
+
+
 
 #### 2.3.2. User Task Matrix
+###### User Task Matrix para Conductores Urbanos
+
+| **Tarea**                           | **Frecuencia** | **Importancia**   |
+|-------------------------------------|----------------|-------------|
+|Buscar estacionamientos disponibles |	Varias veces a la semana	|Alta|
+|Comparar precios de estacionamientos|	Frecuentemente	|Moderada|
+|Reservar estacionamientos con anticipación|	A veces	|Alta|
+|Pagar por estacionamiento a través de la aplicación	|Frecuentemente	|Alta|
+|Recibir direcciones al estacionamiento reservado	|Frecuentemente|Moderada|
+|Filtrar estacionamientos por criterios (precio, seguridad, etc.)	|Varias veces a la semana	|Alta|
+|Recibir notificaciones sobre descuentos y ofertas|	A veces	|Baja|
+|Verificar disponibilidad de estacionamiento en tiempo real	|Frecuentemente	|Alta|
+|Consultar historial de estacionamientos utilizados|	Rara vez	|Baja|
+
+
+###### User Task Matrix para Dueños de Estacionamientos
+| **Tarea**                           | **Frecuencia** | **Importancia**   |
+|-------------------------------------|----------------|-------------|
+|Buscar estacionamientos disponibles |	Frecuentemente	|Alta|
+|Comparar precios de estacionamientos|	Varias veces a la semana	|Alta|
+|Reservar estacionamientos con anticipación|	A veces	|Alta|
+|Pagar por estacionamiento a través de la aplicación	|Frecuentemente	|Moderada|
+|Recibir direcciones al estacionamiento reservado	|Cada vez que reservan	|Moderada|
+|Filtrar estacionamientos por criterios (precio, seguridad, etc.)	|Varias veces a la semana	|Alta|
+|Recibir notificaciones sobre descuentos y ofertas|	Frecuentemente	|Moderada|
+|Verificar disponibilidad de estacionamiento en tiempo real	|Con Frecuencia	|Alta|
+|Consultar historial de estacionamientos utilizados|	A veces |Moderada|
 
 #### 2.3.3. User Journey Mapping
+###### User Task Matrix para Conductores Urbanos
+![User Person s1](Imagenes/JournyMapping_s1%20.png)
+
+###### User Task Matrix para Dueños de Estacionamientos
+![User Person s2](Imagenes/JournyMapping_s2%20(1).png)
 
 #### 2.3.4. Empathy Mapping
 
