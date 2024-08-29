@@ -601,6 +601,7 @@ Segmento objetivo 2: link
 ![Empathy Map](Imagenes/Empathy_map.png)
 
 #### 2.3.5. As-is Scenario Mapping
+![As is Scenario](Imagenes/as_is_segment_1.jpg)
 
 ### 2.4. Ubiquitous Language
 **Espacio de Estacionamiento:** Un lugar específico dentro de un estacionamiento donde un vehículo puede ser aparcado.
