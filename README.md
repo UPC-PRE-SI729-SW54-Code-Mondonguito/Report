@@ -494,25 +494,22 @@ Acerca de la entrevista:
 
 Resumen:
 
-Para 
-
 **Segmento objetivo \#2: Dueños de playas de estacionamientos**
 
-Entrevistado N°1:
+Entrevistado N°1: Karen Aquino 
 
-* Sexo:  
-* Edad:  
-* Ubicación en la que vive:
+* Sexo: Femenino
+* Edad:  26
+* Ubicación en la que vive: La Molina
 
-Acerca de la entrevista:
+Acerca de la entrevista: 
 
-* Link:  
-* Instante en el que inicia:  
-* Duración:
+* Link:[https://youtu.be/OEVdYvxx6_w](https://youtu.be/OEVdYvxx6_w)
+* Instante en el que inicia:  00:24
+* Duración: 04:34 minutos
 
-Resumen:
+Resumen: La entrevistada fue una mujer que trabaja en una playa de estacionamientos y que se encuentra ligada al sector de servicio al cliente. En la entrevista se hicieron las 6 preguntas principales y una complementaria. Los datos que pudimos obtener fueron que la playa de estacionamientos donde trabaja usan tickets fisicos para mantener realizar los registros, sin embargo estos se suelen perder o no llegan a ser tan especificos. Ademas qu esta abierta a la existencia de una aplicaicon web que pueda facilitar el proceso de reserva, ya que sera mas atractivo para los consumidores y podran tener unas mejores reseñas. Por ultimo, nos dio algunas opciones que nos ayudara a mejorar la idea inicial de aplicacion web, que seria agregar el poder ver la gestion de turnos del personal, registro automatico de entrada y salida de los automoviles y la opcion de tarifas flexibles dependiendo del tiempo que los consumidores se mantengan usando el servicio.
 
-Para 
 
 Entrevistado N°2:
 
@@ -527,8 +524,6 @@ Acerca de la entrevista:
 * Duración:
 
 Resumen:
-
-Para 
 
 #### 2.2.3. Análisis de entrevistas
 De acuerdo con la información recopilada de las entrevistas, realizamos el siguiente análisis de entrevistas:
