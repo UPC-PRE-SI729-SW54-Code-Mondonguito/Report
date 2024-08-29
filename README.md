@@ -655,7 +655,7 @@ Segmento objetivo 2: link
 </p>
 
 ### 3.2. User Stories
-# Epics para PARKINGNOW
+## Epics para PARKINGNOW
 
 Las siguientes Epics describen las funcionalidades principales que PARKINGNOW necesita implementar para ofrecer una experiencia de usuario completa y eficiente en la gestión de estacionamientos, desde la reserva hasta la seguridad de la plataforma.
 
@@ -670,7 +670,7 @@ Las siguientes Epics describen las funcionalidades principales que PARKINGNOW ne
 
 ---
 
-# User Stories para PARKINGNOW
+## User Stories para PARKINGNOW
 
 Las siguientes User Stories detallan los requisitos específicos que los usuarios y desarrolladores deben cumplir para que PARKINGNOW funcione de acuerdo con las expectativas de sus clientes y garantice una experiencia de usuario eficiente y segura.
 
