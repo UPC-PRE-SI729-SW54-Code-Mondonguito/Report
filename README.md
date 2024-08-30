@@ -681,7 +681,7 @@ Las epics de **PARKINGNOW** describen las funcionalidades clave necesarias en la
 
 ---
 
-### **Historias de Usuario - Landing Page**
+### **User Stories - Landing Page**
 
 Las historias de usuario para la **landing page** de PARKINGNOW están diseñadas para asegurar que los usuarios puedan interactuar con la plataforma de manera intuitiva, desde el registro y login hasta la búsqueda y reserva de estacionamientos en tiempo real, garantizando una experiencia de usuario eficiente y satisfactoria.
 
