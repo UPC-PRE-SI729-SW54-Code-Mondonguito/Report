@@ -682,11 +682,6 @@ Las **epics** definidas para el proyecto **PARKINGNOW** están diseñadas para a
 | **EP18**            | Funcionalidad de Favoritos                    | **Como** usuario, **deseo** poder marcar estacionamientos como favoritos en la plataforma **para** acceder rápidamente a los lugares que uso frecuentemente. |
 | **EP19**            | Integración con Calendarios Digitales          | **Como** usuario, **deseo** integrar mis reservas de estacionamiento con mi calendario digital **para** recibir recordatorios y planificar mejor mi tiempo. |
 | **EP20**            | Mejora del Tiempo de Respuesta del Backend en la App | **Como** usuario, **deseo** que las consultas y búsquedas en la app sean rápidas y eficientes **para** evitar esperas prolongadas y mejorar mi experiencia general. |
-| **EP21**            | Funcionalidad de Reservas Grupales            | **Como** usuario de la app PARKINGNOW, **deseo** poder realizar reservas para múltiples vehículos simultáneamente **para** organizar eventos grupales o reuniones familiares. |
-| **EP22**            | Integración con Plataformas de Pago Digitales  | **Como** usuario, **deseo** que la app PARKINGNOW soporte pagos a través de varias plataformas digitales (PayPal, Apple Pay, Google Pay) **para** realizar transacciones de manera conveniente. |
-| **EP23**            | Modo de Visualización de Estacionamientos Cercanos | **Como** usuario, **deseo** visualizar en un mapa interactivo los estacionamientos disponibles cerca de mi ubicación actual **para** elegir el más conveniente con facilidad. |
-| **EP24**            | Optimización de Pagos por Transacción          | **Como** usuario de la app PARKINGNOW, **deseo** que el proceso de pago por transacción sea rápido y sencillo **para** completar mis reservas de estacionamiento sin complicaciones. |
-| **EP25**            | Funcionalidad de Recomendaciones Basadas en Uso Anterior | **Como** usuario, **deseo** recibir recomendaciones de estacionamientos basadas en mis reservas anteriores **para** facilitar mi experiencia y ahorrar tiempo en futuras búsquedas. |
 
 
 ---
