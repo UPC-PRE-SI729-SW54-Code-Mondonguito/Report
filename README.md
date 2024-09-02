@@ -928,25 +928,53 @@ Utilizamos la escala de Fibonacci para la estimación de los Story Points.
 
 ### 4.4. Web Applications UX/UI Design
 
+En esta seccion, se presentara los resultados del diseño de la Aplicacion Web en Figma.
+
 #### 4.4.1. Web Applications Wireframes
 
 Link: [Figma](https://www.figma.com/design/qb02D1snVoDtoLfT0qdkRV/Parking-now?node-id=0-1&t=dsT3kQGDkndD6UwX-1)
 
-![Wireframe1](Imagenes/Wireframe1.png)
+![Wireframe1](Imagenes/Wireframe_1.png)
 
-![Wireframe2](Imagenes/Wireframe2.png)
+![Wireframe2](Imagenes/Wireframe_2.png)
 
-![Wireframe3](Imagenes/Wireframe3.png)
+![Wireframe3](Imagenes/Wireframe_3.png)
+
+![Wireframe4](Imagenes/Wireframe_4.png)
+
+![Wireframe5](Imagenes/Wireframe_5.png)
+
+![Wireframe6](Imagenes/Wireframe_5.png)
 
 #### 4.4.2. Web Applications Wireflow Diagrams
+
+![Wireframe_Flow_1](Imagenes/Wireframe_Flow_1.png)
+
+![Wireframe_Flow_2](Imagenes/Wireframe_Flow_2.png)
 
 #### 4.4.3. Web Applications Mock-ups
 
 Link: [Figma](https://www.figma.com/design/qb02D1snVoDtoLfT0qdkRV/Parking-now?node-id=0-1&t=dsT3kQGDkndD6UwX-1)
 
-![Mock-up1](Imagenes/Mockup1.png)
+![Mock-up1](Imagenes/Mockup_1.png)
+
+![Mock-up2](Imagenes/Mockup_2.png)
+
+![Mock-up3](Imagenes/Mockup_3.png)
+
+![Mock-up4](Imagenes/Mockup_4.png)
+
+![Mock-up5](Imagenes/Mockup_5.png)
+
+![Mock-up6](Imagenes/Mockup_6.png)
 
 #### 4.4.4. Web Applications User Flow Diagrams
+
+![Mock-up_flow_1](Imagenes/Mockup_Flow_1.png)
+
+![Mock-up_flow_2](Imagenes/Mockup_Flow_2.png)
+
+![Mock-up_flow_3](Imagenes/Mockup_Flow_3.png)
 
 ### 4.5. Web Applications Prototyping
 
