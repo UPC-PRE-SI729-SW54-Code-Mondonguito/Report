@@ -970,11 +970,11 @@ Link: [Figma](https://www.figma.com/design/qb02D1snVoDtoLfT0qdkRV/Parking-now?no
 
 #### 4.4.4. Web Applications User Flow Diagrams
 
-![Mock-up_flow_1](Imagenes/Mockup_Flow_1.png)
+![Mock-up_flow_1](Imagenes/MockUp_Flow_1.png)
 
-![Mock-up_flow_2](Imagenes/Mockup_Flow_2.png)
+![Mock-up_flow_2](Imagenes/MockUp_Flow_2.png)
 
-![Mock-up_flow_3](Imagenes/Mockup_Flow_3.png)
+![Mock-up_flow_3](Imagenes/MockUp_Flow_3.png)
 
 ### 4.5. Web Applications Prototyping
 
