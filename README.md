@@ -338,6 +338,8 @@ Para la elaboración de los Hypothesis Statements se utilizó el formato Lean UX
   
 ##### 1.2.2.4. Lean UX Canvas
 
+El Lean UX Canvas de PARKINGNOW identifica los problemas de los conductores para encontrar estacionamiento y de los propietarios para maximizar su uso. Propone soluciones como sensores infrarrojos y sistemas de reserva anticipada para mejorar la eficiencia y satisfacción del usuario, validando su efectividad mediante hipótesis y métricas claras.
+
 <p align="center">
   <img src="Imagenes/LeanUXCanvas.png" alt="Lean UX Canvas" style="max-width: 70%; height: auto;" />
 </p>
