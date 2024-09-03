@@ -587,43 +587,95 @@ En esta sección se presentarán los artefactos generados a partir del proceso d
 En esta sección del documento, se presentan perfiles ficticios que representan a los grupos de interés identificados y que fueron objeto de entrevistas. La información proporcionada incluye datos demográficos, rasgos de personalidad, motivaciones, preferencias, metas, desafíos y comportamientos típicos. Estos detalles están basados en las entrevistas realizadas previamente. Se han utilizado herramientas de UXPressia para facilitar la elaboración de estos perfiles.
 
 
-###### User Task Matrix para Conductores Urbanos
+###### User Person para Conductores Urbanos
 ![User Person s1](Imagenes/Anna%20Pacheco.png)
 
-###### User Task Matrix para Dueños de Estacionamientos
+###### User Person para Dueños de Estacionamientos
 ![User Person s2](Imagenes/Luis%20Cordova.png)
 
 
-#### 2.3.2. User Task Matrix
-###### User Task Matrix para Conductores Urbanos
+## 2.3.2. User Task Matrix
 
-| **Tarea**                           | **Frecuencia** | **Importancia**   |
-|-------------------------------------|----------------|-------------|
-|Buscar estacionamientos disponibles |	Varias veces a la semana	|Alta|
-|Comparar precios de estacionamientos|	Frecuentemente	|Moderada|
-|Reservar estacionamientos con anticipación|	A veces	|Alta|
-|Pagar por estacionamiento a través de la aplicación	|Frecuentemente	|Alta|
-|Recibir direcciones al estacionamiento reservado	|Frecuentemente|Moderada|
-|Filtrar estacionamientos por criterios (precio, seguridad, etc.)	|Varias veces a la semana	|Alta|
-|Recibir notificaciones sobre descuentos y ofertas|	A veces	|Baja|
-|Verificar disponibilidad de estacionamiento en tiempo real	|Frecuentemente	|Alta|
-|Consultar historial de estacionamientos utilizados|	Rara vez	|Baja|
+En el User Task Matrix hemos identificado las actividades que realizan nuestros dos segmentos y hemos evaluado la importancia de cada una de estas tareas para cada segmento.
+
+### Indicadores de Importancia:
+- ALTA
+- MEDIA
+- BAJA
+
+### Indicadores de Frecuencia:
+- ALTA
+- MEDIA
+- BAJA
+
+### Segmento Objetivo: Conductores Urbanos Frecuentes
+| **Tarea**                                           | **Frecuencia** | **Importancia**   |
+|-----------------------------------------------------|----------------|--------------------|
+| Buscar estacionamientos disponibles                | Media          | Alta               |
+| Comparar precios de estacionamientos               | Alta           | Media              |
+| Reservar estacionamientos con anticipación          | Media          | Alta               |
+| Pagar por estacionamiento a través de la aplicación | Alta           | Alta               |
+| Recibir direcciones al estacionamiento reservado   | Alta           | Alta               |
+| Filtrar estacionamientos por criterios (precio, seguridad, etc.) | Alta           | Alta               |
+| Recibir notificaciones sobre descuentos y ofertas  | Media          | Baja               |
+| Verificar disponibilidad de estacionamiento en tiempo real | Alta           | Alta               |
+| Consultar historial de estacionamientos utilizados | Media          | Baja               |
 
 
-###### User Task Matrix para Dueños de Estacionamientos
-| **Tarea**                           | **Frecuencia** | **Importancia**   |
-|-------------------------------------|----------------|-------------|
-|Buscar estacionamientos disponibles |	Frecuentemente	|Alta|
-|Comparar precios de estacionamientos|	Varias veces a la semana	|Alta|
-|Reservar estacionamientos con anticipación|	A veces	|Alta|
-|Pagar por estacionamiento a través de la aplicación	|Frecuentemente	|Moderada|
-|Recibir direcciones al estacionamiento reservado	|Cada vez que reservan	|Moderada|
-|Filtrar estacionamientos por criterios (precio, seguridad, etc.)	|Varias veces a la semana	|Alta|
-|Recibir notificaciones sobre descuentos y ofertas|	Frecuentemente	|Moderada|
-|Verificar disponibilidad de estacionamiento en tiempo real	|Con Frecuencia	|Alta|
-|Consultar historial de estacionamientos utilizados|	A veces |Moderada|
+### Segmento Objetivo: Dueños de Estacionamientos
+| **Tarea**                                           | **Frecuencia** | **Importancia**   |
+|-----------------------------------------------------|----------------|--------------------|
+| Administrar y actualizar la disponibilidad de espacios | Alta           | Alta               |
+| Ajustar precios de los espacios de estacionamiento  | Media          | Alta               |
+| Gestionar reservas de estacionamientos             | Alta           | Alta               |
+| Procesar pagos de estacionamiento a través de la aplicación | Alta           | Media              |
+| Revisar y ajustar las características del estacionamiento (precio, seguridad, etc.) | Media          | Alta               |
+| Revisar reportes de uso y disponibilidad            | Media          | Media              |
+| Recibir y gestionar comentarios y valoraciones de los usuarios | Baja           | Media              |
+| Promocionar descuentos y ofertas especiales         | Media          | Media              |
+| Consultar el historial de transacciones y reservas  | Baja           | Media              |
+
+A través del User Task Matrix, podemos identificar las frecuencias e importancias entre los diferentes segmentos que presentamos y usar esta información como guía.
+
+#### Usuarios:
+Para los usuarios, las tareas que presentan mayor frecuencia son:
+- Pagar por estacionamiento a través de la aplicación.
+- Recibir direcciones al estacionamiento reservado.
+- Filtrar estacionamientos por criterios (precio, seguridad, etc.).
+- Verificar disponibilidad de estacionamiento en tiempo real.
+
+Estas tareas son cruciales para mejorar la experiencia del usuario en la búsqueda y uso de estacionamientos.
+
+Para los usuarios, las tareas que presentan mayor importancia son:
+- Pagar por estacionamiento a través de la aplicación.
+- Recibir direcciones al estacionamiento reservado.
+- Filtrar estacionamientos por criterios (precio, seguridad, etc.).
+- Verificar disponibilidad de estacionamiento en tiempo real.
+
+Estas tareas son importantes porque aseguran una experiencia de estacionamiento eficiente y satisfactoria, desde la búsqueda hasta el pago y la dirección.
+
+#### Dueños de Estacionamientos:
+Para los dueños de estacionamientos, las tareas que presentan mayor frecuencia son:
+- Administrar y actualizar la disponibilidad de espacios.
+- Gestionar reservas de estacionamientos.
+- Procesar pagos de estacionamiento a través de la aplicación.
+- Revisar y ajustar las características del estacionamiento (precio, seguridad, etc.).
+
+Estas tareas son esenciales para la gestión efectiva de sus espacios de estacionamiento y para asegurar que los usuarios tengan una experiencia positiva.
+
+Para los dueños de estacionamientos, las tareas que presentan mayor importancia son:
+- Administrar y actualizar la disponibilidad de espacios.
+- Ajustar precios de los espacios de estacionamiento.
+- Revisar reportes de uso y disponibilidad.
+- Revisar y ajustar las características del estacionamiento (precio, seguridad, etc.).
+
+Estas tareas son importantes porque permiten a los dueños optimizar la gestión de sus espacios y responder a las demandas del mercado de manera efectiva.
+
+#### Diferencias:
+Al analizar ambos segmentos objetivo, se observa que los usuarios están enfocados en la eficiencia y la comodidad en el proceso de estacionamiento, mientras que los dueños de estacionamientos se concentran en la gestión y optimización de sus espacios. Aunque cada segmento tiene objetivos distintos, ambos se benefician de un sistema que facilite la disponibilidad, la gestión y la experiencia de estacionamiento.
 
 #### 2.3.3. User Journey Mapping
+En esta sección, hemos creado los mapas de recorrido del usuario para cada tipo de usuario (cliente y propietario de estacionamiento). Para el cliente, el proceso comienza con la búsqueda de un espacio de estacionamiento, continúa con la selección y reserva de un espacio, el pago a través de la aplicación, y la obtención de direcciones hacia el lugar reservado. Finalmente, el cliente llega al espacio y lo utiliza. Este recorrido revela las metas, desafíos, oportunidades y pasos cruciales en su experiencia. Por otro lado, desde la perspectiva del propietario de estacionamiento, el enfoque está en gestionar la disponibilidad de espacios, ajustar los precios, procesar las reservas, y asegurarse de que el proceso de pago y uso se realice de manera fluida. El objetivo es ofrecer una experiencia satisfactoria que incentive a los clientes a recomendar el espacio y considerar al propietario como una opción confiable para futuros estacionamientos.
 ###### User Task Matrix para Conductores Urbanos
 ![User Person s1](Imagenes/JournyMapping_s1%20.png)
 
