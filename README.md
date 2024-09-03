@@ -581,14 +581,17 @@ Segmento objetivo 1: [https://forms.gle/Lo3Z69GnkyYDcaAYA](https://forms.gle/Lo3
 
 Segmento objetivo 2: link
 
-
+### 2.3. Needfinding
+En esta sección se presentarán los artefactos generados a partir del proceso de recopilación llevado a cabo en los segmentos objetivos. Este proceso culmina con la creación de los User Personas, la User Task Matrix, los User Journey Maps, el Empathy Mapping y el As-Is Scenario Mapping.
 #### 2.3.1. User Personas
+En esta sección del documento, se presentan perfiles ficticios que representan a los grupos de interés identificados y que fueron objeto de entrevistas. La información proporcionada incluye datos demográficos, rasgos de personalidad, motivaciones, preferencias, metas, desafíos y comportamientos típicos. Estos detalles están basados en las entrevistas realizadas previamente. Se han utilizado herramientas de UXPressia para facilitar la elaboración de estos perfiles.
+
+
 ###### User Task Matrix para Conductores Urbanos
-![User Person s1](Imagenes/User_Persona_s1.png)
+![User Person s1](Imagenes/Anna%20Pacheco.png)
 
 ###### User Task Matrix para Dueños de Estacionamientos
-![User Person s2](Imagenes/User_Persona_s2.png)
-
+![User Person s2](Imagenes/Luis%20Cordova.png)
 
 
 #### 2.3.2. User Task Matrix
