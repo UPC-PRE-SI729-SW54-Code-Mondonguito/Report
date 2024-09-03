@@ -676,11 +676,12 @@ Al analizar ambos segmentos objetivo, se observa que los usuarios están enfocad
 
 #### 2.3.3. User Journey Mapping
 En esta sección, hemos creado los mapas de recorrido del usuario para cada tipo de usuario (cliente y propietario de estacionamiento). Para el cliente, el proceso comienza con la búsqueda de un espacio de estacionamiento, continúa con la selección y reserva de un espacio, el pago a través de la aplicación, y la obtención de direcciones hacia el lugar reservado. Finalmente, el cliente llega al espacio y lo utiliza. Este recorrido revela las metas, desafíos, oportunidades y pasos cruciales en su experiencia. Por otro lado, desde la perspectiva del propietario de estacionamiento, el enfoque está en gestionar la disponibilidad de espacios, ajustar los precios, procesar las reservas, y asegurarse de que el proceso de pago y uso se realice de manera fluida. El objetivo es ofrecer una experiencia satisfactoria que incentive a los clientes a recomendar el espacio y considerar al propietario como una opción confiable para futuros estacionamientos.
-###### User Task Matrix para Conductores Urbanos
-![User Person s1](Imagenes/JournyMapping_s1%20.png)
+###### User Journey Mapping para Conductores Urbanos
+![User Journey Mapping s1](Imagenes/Customer%20journey%20map%202%20Anna.png)
 
-###### User Task Matrix para Dueños de Estacionamientos
-![User Person s2](Imagenes/JournyMapping_s2%20(1).png)
+###### User Journey Mapping para Dueños de Estacionamientos
+![User Journey Mapping s2](Imagenes/Customer%20journey%20map%201%20Luis.png)
+
 
 #### 2.3.4. Empathy Mapping
 
