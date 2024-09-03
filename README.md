@@ -1063,7 +1063,7 @@ Link: [Figma](https://www.figma.com/design/qb02D1snVoDtoLfT0qdkRV/Parking-now?no
 
 ![Mock-up5](Assets/Mockup_5.png)
 
-![Mock-up6](IAssets/Mockup_6.png)
+![Mock-up6](Assets/Mockup_6.png)
 
 #### 4.4.4. Web Applications User Flow Diagrams
 
