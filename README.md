@@ -1,7 +1,7 @@
 # **COURSE PROJECT**
 
 <p align="center">
-  <img src="Imagenes/UPC_logo.png" alt="Logo de la UPC" />
+  <img src="Assets/UPC_logo.png" alt="Logo de la UPC" />
 </p>
 
 <p align="center"><strong>Universidad Peruana de Ciencias Aplicadas</strong></p>
@@ -49,7 +49,7 @@ TB1: Las tareas asignadas para la entrega TB1 se han completado y están documen
 Durante la preparación del informe, se llevaron a cabo las siguientes actividades:
 
 - Se escribieron y diagramaron los contenidos asignados a cada miembro en formato Markdown, seguido de commits para asegurar el progreso en el repositorio.
-- Se crearon los artefactos necesarios utilizando las herramientas recomendadas y se obtuvieron enlaces de imagen a través de la carpeta `imagenes` en la rama `desarrollo` del repositorio del informe.
+- Se crearon los artefactos necesarios utilizando las herramientas recomendadas y se obtuvieron enlaces de imagen a través de la carpeta `Assets` en la rama `develop` del repositorio del informe.
 - Se organizaron reuniones para coordinar el progreso de los elementos del informe y para comunicar los avances del Sprint 1, que se enfoca en la Landing Page.
 
 # Student Outcome
@@ -164,11 +164,11 @@ En esta sección describiremos la descripción de nuestra Startup.
 
  **Integrantes**                                              | **Descripción**                                                                                                                                                                                                                                                | **Conocimientos**                               |
 |--------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|
-| ![Foto de Diego](Imagenes/Diego.jpg) <br> Diego Ulises Soto Quispe | Soy estudiante de 5to ciclo en la carrera de Ingeniería de Software. Soy responsable en las labores que se asignan y puntual con los trabajos por entregar, fuera del mundo de programación, me gusta jugar basquet, salir a pasear, jugar videojuegos y manejar en bicicleta. | HTML, Base de datos en SQL Server, C++, Python, NoSQL, JSON |
-| ![Foto de Diego_C](Imagenes/Diego_C.jpg) <br> Diego Alonso Cacho Seminario | Mi nombre es Diego Cacho y tengo 19 años, actualmente me encuentro 5to ciclo de mi carrera como Ingeniero de Software en la UPC. Me considero una persona tranquila y diligente, intento realizar mis tareas y trabajos lo antes posible para evitar contratiempos en un futuro, especialmente si son actividades que consumen mucho tiempo. Como miembro de equipo buscaré ayudar a mis compañeros cuando lo necesiten, realizando además mis entregas lo más temprano posible. | C++, C#, Python, Unity 2D/3D | 
-| ![Foto de Omar](Imagenes/Omar.jpeg) <br> Omar Harold Rivera Ticllacuri | Soy estudiante de Ingeniería de Software, tengo 19 años y actualmente me encuentro en el quinto ciclo de mi carrera. Soy una persona con la cual tengo la disciplina y responsable para desarrollar proyectos de software y software de entretenimiento. Cuento con experiencia sobre el desarrollo de software de entretenimiento. Por ende, apoyaré al grupo en todo lo posible para poder desarrollar adecuadamente el trabajo y la propuesta que se nos asignó. | C++, C#, Python, Unity 2D/3D, Html y Css|
-| ![Foto de Samuel](Imagenes/Samuel.jpeg) <br> Samuel Elias Molina Asencios | Soy estudiante de 7mo ciclo en la carrera de Ingeniería de Software. Actualmente formo parte de un equipo de desarrollo ejecutando el rol de Analista desarrollador de software, me gusta mucho el arte y el deporte, en mis tiempos libres toco Piano o voy a nadar no hay nada mejor que la natación. | SQL, NoSQL, C++, Java, JavaScript, Firebird, Vue, Quasar, Node js, Jreport, PHP, Sniffer, HTML, CSS.|
-| ![Foto de Rodrigo](Imagenes/Rodrigo.png) <br> Rodrigo Liberato Saldaña | Soy estudiante de 6to ciclo de la carrera de Ingenieria de software, soy una persona que valora el esfuerzo e intenta apoyar en todo lo posible. La responsabilidad y honestidad son unas de mis cualidades y que seran de ayuda para que el trabajo salga lo mejor posible | C++, SQL, Java, PHP, HTML, CSS.|
+| ![Foto de Diego](Assets/Diego.jpg) <br> Diego Ulises Soto Quispe | Soy estudiante de 5to ciclo en la carrera de Ingeniería de Software. Soy responsable en las labores que se asignan y puntual con los trabajos por entregar, fuera del mundo de programación, me gusta jugar basquet, salir a pasear, jugar videojuegos y manejar en bicicleta. | HTML, Base de datos en SQL Server, C++, Python, NoSQL, JSON |
+| ![Foto de Diego_C](Assets/Diego_C.jpg) <br> Diego Alonso Cacho Seminario | Mi nombre es Diego Cacho y tengo 19 años, actualmente me encuentro 5to ciclo de mi carrera como Ingeniero de Software en la UPC. Me considero una persona tranquila y diligente, intento realizar mis tareas y trabajos lo antes posible para evitar contratiempos en un futuro, especialmente si son actividades que consumen mucho tiempo. Como miembro de equipo buscaré ayudar a mis compañeros cuando lo necesiten, realizando además mis entregas lo más temprano posible. | C++, C#, Python, Unity 2D/3D | 
+| ![Foto de Omar](Assets/Omar.jpeg) <br> Omar Harold Rivera Ticllacuri | Soy estudiante de Ingeniería de Software, tengo 19 años y actualmente me encuentro en el quinto ciclo de mi carrera. Soy una persona con la cual tengo la disciplina y responsable para desarrollar proyectos de software y software de entretenimiento. Cuento con experiencia sobre el desarrollo de software de entretenimiento. Por ende, apoyaré al grupo en todo lo posible para poder desarrollar adecuadamente el trabajo y la propuesta que se nos asignó. | C++, C#, Python, Unity 2D/3D, Html y Css|
+| ![Foto de Samuel](Assets/Samuel.jpeg) <br> Samuel Elias Molina Asencios | Soy estudiante de 7mo ciclo en la carrera de Ingeniería de Software. Actualmente formo parte de un equipo de desarrollo ejecutando el rol de Analista desarrollador de software, me gusta mucho el arte y el deporte, en mis tiempos libres toco Piano o voy a nadar no hay nada mejor que la natación. | SQL, NoSQL, C++, Java, JavaScript, Firebird, Vue, Quasar, Node js, Jreport, PHP, Sniffer, HTML, CSS.|
+| ![Foto de Rodrigo](Assets/Rodrigo.png) <br> Rodrigo Liberato Saldaña | Soy estudiante de 6to ciclo de la carrera de Ingenieria de software, soy una persona que valora el esfuerzo e intenta apoyar en todo lo posible. La responsabilidad y honestidad son unas de mis cualidades y que seran de ayuda para que el trabajo salga lo mejor posible | C++, SQL, Java, PHP, HTML, CSS.|
 
 
 
@@ -341,7 +341,7 @@ Para la elaboración de los Hypothesis Statements se utilizó el formato Lean UX
 El Lean UX Canvas de PARKINGNOW identifica los problemas de los conductores para encontrar estacionamiento y de los propietarios para maximizar su uso. Propone soluciones como sensores infrarrojos y sistemas de reserva anticipada para mejorar la eficiencia y satisfacción del usuario, validando su efectividad mediante hipótesis y métricas claras.
 
 <p align="center">
-  <img src="Imagenes/LeanUXCanvas.png" alt="Lean UX Canvas" style="max-width: 70%; height: auto;" />
+  <img src="Assets/LeanUXCanvas.png" alt="Lean UX Canvas" style="max-width: 70%; height: auto;" />
 </p>
 
 <p align="center">Fuente: Elaboración propia.</p>
@@ -389,7 +389,7 @@ A continuacion, se presentara la tabla de competidores para analizar cada punto 
 
 | ***Competidor***          || ParkingNow| Parkimeter| ElParking| Aparcados|
 | ------------------- | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ***Logo***| |![ParkingNow](Imagenes/ParkingNowlogo.png) |![PaKimeter](Imagenes/Parkimeter.jpeg) |![ElParking](Imagenes/ElParking.png)|![Aparcados](Imagenes/Aparcados.jpg)
+| ***Logo***| |![ParkingNow](Assets/ParkingNowlogo.png) |![PaKimeter](Assets/Parkimeter.jpeg) |![ElParking](Assets/ElParking.png)|![Aparcados](Assets/Aparcados.jpg)
 | ***Perfil***| Overview| Es una aplicacion web que brinda la posibilidad de reservar espacios de estacionamiento en múltiples ciudades ademas que brinda la conexion entre los consumidores y dueños de estacionamientos| Es una aplicacion web y movil que ofrece servicios de reserva de plazas de aparcamiento en  diversas ciudades de Europa y América Latina| Es una aplicacion web y movil que ofrece servicios de reserva de plazas de aparcamiento en  diversas ciudades de Europa y América Latina| Es una aplicacion web y movil que ofrece servicios de reserva de plazas de aparcamiento en diversas ciudades de España principalmente, pero expandiéndose alrededor del mundo|
 || ***Ventaja competitiva ¿Qué valor ofrece a los clientes?*** | Cancelación gratuita hasta con 24 horas de antelación de la reserva, inclusion de un sensor para el automovil y ser el puente entre los consumidores y dueños de playas de estacionamientos en zonas urbanas| Ofrece descuentos de hasta el 70% y no cobra gastos de gestión | Permite más que solo pagar estacionamientos, sino gestionar multas y pagar parquímetros| La app incluye geolocalización y ofrece notificaciones a tiempo real|
 | ***Perfil de Marketing*** | ***Mercado objetivo***| Personas que buscaban soluciones de estacionamiento en áreas urbanas congestionadas y personas dueñas de estacionamientos de playas.| Personas que buscaban soluciones de estacionamiento en áreas urbanas congestionadas| Personas que buscaban soluciones de estacionamiento en áreas urbanas congestionadas| Personas que buscaban soluciones de estacionamiento en áreas urbanas congestionadas|
@@ -587,23 +587,23 @@ Los resultados del **segmento 1** indican que, aunque las necesidades de estacio
 
 Segmento objetivo 1: [https://forms.gle/Lo3Z69GnkyYDcaAYA](https://forms.gle/Lo3Z69GnkyYDcaAYA) 
 
-![Pregunta 1 - Segmento 1](Imagenes/Seg1-P1.png)
+![Pregunta 1 - Segmento 1](Assets/Seg1-P1.png)
 
-![Pregunta 2 - Segmento 1](Imagenes/Seg1-P2.png)
+![Pregunta 2 - Segmento 1](Assets/Seg1-P2.png)
 
-![Pregunta 3 - Segmento 1](Imagenes/Seg1-P3.png)
+![Pregunta 3 - Segmento 1](Assets/Seg1-P3.png)
 
-![Pregunta 4 - Segmento 1](Imagenes/Seg1-P4.png)
+![Pregunta 4 - Segmento 1](Assets/Seg1-P4.png)
 
-![Pregunta 5 - Segmento 1](Imagenes/Seg1-P5.png)
+![Pregunta 5 - Segmento 1](Assets/Seg1-P5.png)
 
-![Pregunta 6 - Segmento 1](Imagenes/Seg1-P6.png)
+![Pregunta 6 - Segmento 1](Assets/Seg1-P6.png)
 
-![Pregunta 7 - Segmento 1](Imagenes/Seg1-P7.png)
+![Pregunta 7 - Segmento 1](Assets/Seg1-P7.png)
 
-![Pregunta 8 - Segmento 1](Imagenes/Seg1-P8.png)
+![Pregunta 8 - Segmento 1](Assets/Seg1-P8.png)
 
-![Pregunta 9 - Segmento 1](Imagenes/Seg1-P9.png)
+![Pregunta 9 - Segmento 1](Assets/Seg1-P9.png)
 
 Segmento objetivo 2: link
 
@@ -617,12 +617,12 @@ En esta sección del documento, se presentan perfiles ficticios que representan 
 
 La "User Persona" de Anna Pacheco representa a conductores urbanos que necesitan estacionamientos rápidos y eficientes cerca de sus destinos. Anna es una organizadora de eventos de 29 años, motivada por la comodidad y la rapidez en sus desplazamientos. Se frustra con la falta de disponibilidad de estacionamientos y busca soluciones prácticas y transparentes.
 
-![User Person s1](Imagenes/Anna%20Pacheco.png)
+![User Person s1](Assets/Anna%20Pacheco.png)
 
 ###### User Person para Dueños de playa de estacionamientos
 
 La "User Persona" de Luis Cordova representa a propietarios de estacionamientos interesados en mejorar la gestión y aumentar ingresos. Luis, de 26 años y dueño de un estacionamiento, utiliza tecnología para optimizar la ocupación y reducir tiempos de espera. Sus objetivos incluyen la fidelización de clientes y la expansión del negocio, pero enfrenta frustraciones con problemas tecnológicos y altos costos operativos.
-![User Person s2](Imagenes/Luis%20Cordova.png)
+![User Person s2](Assets/Luis%20Cordova.png)
 
 
 ## 2.3.2. User Task Matrix
@@ -710,13 +710,13 @@ En esta sección, hemos creado los mapas de recorrido del usuario para cada tipo
 ###### User Journey Mapping para Conductores Urbanos
 Este "User Journey Mapping" muestra las etapas que un conductor urbano atraviesa al usar una app de estacionamiento, desde descubrir la app hasta evaluar su experiencia. Identifica puntos de contacto (como apps y GPS), problemas (como opciones confusas) y oportunidades para mejorar la usabilidad y la información de la app.
 
-![User Journey Mapping s1](Imagenes/Customer%20journey%20map%202%20Anna.png)
+![User Journey Mapping s1](Assets/Customer%20journey%20map%202%20Anna.png)
 
 ###### User Journey Mapping para Dueños de playa de Estacionamientos
 
 Este "User Journey Mapping" para dueños de estacionamientos describe las etapas de uso de una app de gestión, desde encontrar la herramienta adecuada y configurarla, hasta su instalación y seguimiento para optimización. Destaca desafíos en la selección de la app y la comprensión de sus funciones, con oportunidades para mejorar la personalización, la facilidad de uso y el soporte técnico.
 
-![User Journey Mapping s2](Imagenes/Customer%20journey%20map%201%20Luis.png)
+![User Journey Mapping s2](Assets/Customer%20journey%20map%201%20Luis.png)
 
 
 #### 2.3.4. Empathy Mapping
@@ -726,12 +726,12 @@ A continuación se pueden apreciar los Empathy Mapping de los segmentos objetivo
 ### Segmento objetivo: Conductores Urbanos Frecuentes
 Este "Empathy Map" representa a conductores urbanos frecuentes que enfrentan problemas para encontrar estacionamiento. Expresa sus frustraciones por la falta de opciones disponibles y su deseo de contar con herramientas que les brinden información en tiempo real sobre espacios seguros y accesibles.
 
-![Empathy Map](Imagenes/Empathy_map.png)
+![Empathy Map](Assets/Empathy_map.png)
 
 ### Segmento objetivo: Dueños de playas de estacionamientos
 
 #### 2.3.5. As-is Scenario Mapping
-![As is Scenario](Imagenes/as_is_segment_1.jpg)
+![As is Scenario](Assets/as_is_segment_1.jpg)
 
 ### 2.4. Ubiquitous Language
 **Espacio de Estacionamiento:** Un lugar específico dentro de un estacionamiento donde un vehículo puede ser aparcado.
@@ -780,13 +780,13 @@ Este "Empathy Map" representa a conductores urbanos frecuentes que enfrentan pro
 **To Be Scenario Mapping para Conductores Urbanos Frecuentes**
 
 <p align="center">
-  <img src="Imagenes/To be Scenario Mapping 1.png" alt="To Be Scenario Mapping para Conductores Urbanos Frecuentes" style="max-width: 70%; height: auto;" />
+  <img src="Assets/To be Scenario Mapping 1.png" alt="To Be Scenario Mapping para Conductores Urbanos Frecuentes" style="max-width: 70%; height: auto;" />
 </p>
 
 **To Be Scenario Mapping para Dueños de Playas de Estacionamientos**
 
 <p align="center">
-  <img src="Imagenes/To be Scenario Mapping 2.png" alt="To Be Scenario Mapping para Dueños de Playas de Estacionamientos" style="max-width: 70%; height: auto;" />
+  <img src="Assets/To be Scenario Mapping 2.png" alt="To Be Scenario Mapping para Dueños de Playas de Estacionamientos" style="max-width: 70%; height: auto;" />
 </p>
 
 ### 3.2. User Stories
@@ -904,7 +904,7 @@ Las **historias de usuario** para el proyecto **PARKINGNOW** están orientadas a
 Este Impact Map de PARKINGNOW se enfoca en mejorar la retención de conductores urbanos frecuentes mediante el aumento de la seguridad y la accesibilidad del estacionamiento en zonas urbanas. Define objetivos de negocio, como incrementar la retención en un 30%, e identifica soluciones como sistemas de navegación, sensores infrarrojos para monitoreo en tiempo real y notificaciones de disponibilidad de espacios. Las historias de usuario asociadas abordan la optimización de rutas, la verificación de seguridad y la gestión de alertas para mejorar la experiencia del usuario.
 
 <p align="center">
-  <img src="Imagenes/IMPACT%20MAP_%20Impact_map_conductor.png" alt="IMPACT MAP: Impact_map_conductor" width="600"/>
+  <img src="Assets/IMPACT%20MAP_%20Impact_map_conductor.png" alt="IMPACT MAP: Impact_map_conductor" width="600"/>
 </p>
 
 
@@ -912,7 +912,7 @@ Este Impact Map de PARKINGNOW se enfoca en mejorar la retención de conductores 
 
 Este Impact Map está diseñado para dueños de playas de estacionamiento, enfocado en mejorar la gestión y optimización de sus espacios. El objetivo es aumentar la eficiencia operativa y la satisfacción del cliente en un 30% en los próximos seis meses. Para lograrlo, se proponen soluciones como un sistema de gestión de reservas en tiempo real, visualización de disponibilidad de espacios mediante sensores, y herramientas de feedback de clientes. Estas funcionalidades permiten a los propietarios maximizar la ocupación, reducir tiempos de espera y mejorar la calidad del servicio a través de la retroalimentación directa de los usuarios.
 <p align="center">
-  <img src="Imagenes/IMPACT%20MAP_%20Dueño%20de%20Playa%20de%20Estacionamiento.png" alt="IMPACT MAP: Dueño de Playa de Estacionamiento" width="600"/>
+  <img src="Assets/IMPACT%20MAP_%20Dueño%20de%20Playa%20de%20Estacionamiento.png" alt="IMPACT MAP: Dueño de Playa de Estacionamiento" width="600"/>
 </p>
 
 
@@ -1031,47 +1031,47 @@ En esta seccion, se presentara los resultados del diseño de la Aplicacion Web e
 
 Link: [Figma](https://www.figma.com/design/qb02D1snVoDtoLfT0qdkRV/Parking-now?node-id=0-1&t=dsT3kQGDkndD6UwX-1)
 
-![Wireframe1](Imagenes/Wireframe_1.png)
+![Wireframe1](Assets/Wireframe_1.png)
 
-![Wireframe2](Imagenes/Wireframe_2.png)
+![Wireframe2](Assets/Wireframe_2.png)
 
-![Wireframe3](Imagenes/Wireframe_3.png)
+![Wireframe3](Assets/Wireframe_3.png)
 
-![Wireframe4](Imagenes/Wireframe_4.png)
+![Wireframe4](Assets/Wireframe_4.png)
 
-![Wireframe5](Imagenes/Wireframe_5.png)
+![Wireframe5](Assets/Wireframe_5.png)
 
-![Wireframe6](Imagenes/Wireframe_5.png)
+![Wireframe6](Assets/Wireframe_5.png)
 
 #### 4.4.2. Web Applications Wireflow Diagrams
 
-![Wireframe_Flow_1](Imagenes/Wireframe_Flow_1.png)
+![Wireframe_Flow_1](Assets/Wireframe_Flow_1.png)
 
-![Wireframe_Flow_2](Imagenes/Wireframe_Flow_2.png)
+![Wireframe_Flow_2](Assets/Wireframe_Flow_2.png)
 
 #### 4.4.3. Web Applications Mock-ups
 
 Link: [Figma](https://www.figma.com/design/qb02D1snVoDtoLfT0qdkRV/Parking-now?node-id=0-1&t=dsT3kQGDkndD6UwX-1)
 
-![Mock-up1](Imagenes/Mockup_1.png)
+![Mock-up1](Assets/Mockup_1.png)
 
-![Mock-up2](Imagenes/Mockup_2.png)
+![Mock-up2](Assets/Mockup_2.png)
 
-![Mock-up3](Imagenes/Mockup_3.png)
+![Mock-up3](Assets/Mockup_3.png)
 
-![Mock-up4](Imagenes/Mockup_4.png)
+![Mock-up4](Assets/Mockup_4.png)
 
-![Mock-up5](Imagenes/Mockup_5.png)
+![Mock-up5](Assets/Mockup_5.png)
 
-![Mock-up6](Imagenes/Mockup_6.png)
+![Mock-up6](IAssets/Mockup_6.png)
 
 #### 4.4.4. Web Applications User Flow Diagrams
 
-![Mock-up_flow_1](Imagenes/MockUp_Flow_1.png)
+![Mock-up_flow_1](Assets/MockUp_Flow_1.png)
 
-![Mock-up_flow_2](Imagenes/MockUp_Flow_2.png)
+![Mock-up_flow_2](Assets/MockUp_Flow_2.png)
 
-![Mock-up_flow_3](Imagenes/MockUp_Flow_3.png)
+![Mock-up_flow_3](Assets/MockUp_Flow_3.png)
 
 ### 4.5. Web Applications Prototyping
 
