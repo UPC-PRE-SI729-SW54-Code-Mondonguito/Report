@@ -98,10 +98,32 @@ Durante la preparación del informe, se llevaron a cabo las siguientes actividad
 - [3.3. Impact Mapping](#33-impact-mapping)
 - [3.4. Product Backlog](#34-product-backlog)
 
-## Capítulo IV: Product Design
-- [4.1. Style Guidelines](#41-style-guidelines)
-  - [4.1.1. General Style Guidelines](#411-general-style-guidelines)
+# Capítulo IV: Product Design
+
+## 4.1. StyleGuidelines
+
+### 4.1.1. General Style Guidelines.
+
+En este apartado, se mostrará de manera organizada los estilos y herramientas que se usarán para diseñar nuestra solución.
+
+**Brand Overview**
+
+En muchas ciudades, encontrar un espacio de estacionamiento adecuado es una tarea complicada, agravada por la falta de información actualizada y la ausencia de herramientas para reservar espacios con antelación. Esto da lugar a estacionamientos indebidos, congestión vehicular y una experiencia frustrante para los conductores. PARKINGNOW se ha diseñado para abordar estos problemas, ofreciendo una solución que conecta a los conductores con espacios de estacionamiento disponibles en tiempo real. Utilizando tecnología avanzada, como la localización geográfica y sensores infrarrojos, nuestra plataforma no solo facilita la búsqueda y reserva de espacios, sino que también mejora la eficiencia del tráfico urbano, beneficiando tanto a conductores como a propietarios de estacionamientos..
+
+
+**Brand name**
+
+El nombre de nuestra solución, PARKINGNOW, refleja su propósito central: ofrecer una herramienta inmediata y eficiente para encontrar y gestionar espacios de estacionamiento. El término "Parking" (estacionamiento) se combina con "Now" (ahora) para subrayar la inmediatez y la facilidad de uso que nuestra plataforma proporciona. Elegimos un nombre en inglés, dado su carácter universal y su capacidad para resonar en un mercado global.
+
+A continuación, se presenta el Logo:
+
+![logo.png](/Imagenes/parkingnow.png)
+
+**Typography**
+
+La tipografía en PARKINGNOW juega un papel crucial en la claridad y navegabilidad de nuestra interfaz. Hemos optado por una fuente moderna y legible que garantice que la información importante sea fácilmente accesible para los usuarios. La tipografía se organiza en cuatro niveles: headings (encabezados), body (cuerpo del texto), buttons (botones) y links (enlaces), asegurando una jerarquía visual clara y una experiencia de usuario coherente.
   - [4.1.2. Web Style Guidelines](#412-web-style-guidelines)
+- 
 - [4.2. Information Architecture](#42-information-architecture)
   - [4.2.1. Organization Systems](#421-organization-systems)
   - [4.2.2. Labeling Systems](#422-labeling-systems)
@@ -319,3 +341,6 @@ Durante la preparación del informe, se llevaron a cabo las siguientes actividad
 ## Bibliografía
 
 ## Anexos
+
+
+
