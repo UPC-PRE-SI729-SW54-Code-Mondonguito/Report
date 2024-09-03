@@ -413,10 +413,22 @@ A continuacion, encontraremos la tabla de Matriz de FODA y C.A.M.E para poder an
 
 ### 2.2. Entrevistas
 
+Esta sección se centra en la recopilación de información mediante entrevistas a representantes de los segmentos objetivo, con el fin de entender sus necesidades y expectativas en relación al servicio.
+
 #### 2.2.1. Diseño de entrevistas
-### Con el objetivo de obtener un mejor entendimiento de nuestros usuarios, queremos conocer sus puntos de vista para guiar nuestro enfoque y así implementar nuestro producto en base a sus problemas.
+
+Incluye la elaboración de preguntas principales y complementarias dirigidas a cada segmento, considerando aspectos demográficos, características de personalidad y preferencias tecnológicas para construir perfiles precisos de los usuarios.
 
 **Segmento objetivo \#1: Conductores Urbanos Frecuentes**
+
+**Preguntas demográficas:**
+
+-  ¿Cuál es tu nombre?
+- ¿Cuál es tu edad?
+-  ¿Dónde vives?
+-  ¿A qué te dedicas?
+-  ¿Cuáles consideras que son tus principales habilidades?
+
 
 **Preguntas principales:**
 
@@ -434,6 +446,14 @@ A continuacion, encontraremos la tabla de Matriz de FODA y C.A.M.E para poder an
 * ¿Qué mejoras te gustaría ver en los servicios de estacionamiento que utilizas actualmente?
 
 **Segmento objetivo \#2: Dueños de playas de estacionamientos**
+
+**Preguntas demográficas:**
+
+-  ¿Cuál es tu nombre?
+- ¿Cuál es tu edad?
+-  ¿Dónde vives?
+-  ¿A qué te dedicas?
+-  ¿Cuáles consideras que son tus principales habilidades?
 
 **Preguntas principales:**
 
@@ -594,9 +614,14 @@ En esta sección del documento, se presentan perfiles ficticios que representan 
 
 
 ###### User Person para Conductores Urbanos
+
+La "User Persona" de Anna Pacheco representa a conductores urbanos que necesitan estacionamientos rápidos y eficientes cerca de sus destinos. Anna es una organizadora de eventos de 29 años, motivada por la comodidad y la rapidez en sus desplazamientos. Se frustra con la falta de disponibilidad de estacionamientos y busca soluciones prácticas y transparentes.
+
 ![User Person s1](Imagenes/Anna%20Pacheco.png)
 
-###### User Person para Dueños de Estacionamientos
+###### User Person para Dueños de playa de estacionamientos
+
+La "User Persona" de Luis Cordova representa a propietarios de estacionamientos interesados en mejorar la gestión y aumentar ingresos. Luis, de 26 años y dueño de un estacionamiento, utiliza tecnología para optimizar la ocupación y reducir tiempos de espera. Sus objetivos incluyen la fidelización de clientes y la expansión del negocio, pero enfrenta frustraciones con problemas tecnológicos y altos costos operativos.
 ![User Person s2](Imagenes/Luis%20Cordova.png)
 
 
@@ -683,15 +708,27 @@ Al analizar ambos segmentos objetivo, se observa que los usuarios están enfocad
 #### 2.3.3. User Journey Mapping
 En esta sección, hemos creado los mapas de recorrido del usuario para cada tipo de usuario (cliente y propietario de estacionamiento). Para el cliente, el proceso comienza con la búsqueda de un espacio de estacionamiento, continúa con la selección y reserva de un espacio, el pago a través de la aplicación, y la obtención de direcciones hacia el lugar reservado. Finalmente, el cliente llega al espacio y lo utiliza. Este recorrido revela las metas, desafíos, oportunidades y pasos cruciales en su experiencia. Por otro lado, desde la perspectiva del propietario de estacionamiento, el enfoque está en gestionar la disponibilidad de espacios, ajustar los precios, procesar las reservas, y asegurarse de que el proceso de pago y uso se realice de manera fluida. El objetivo es ofrecer una experiencia satisfactoria que incentive a los clientes a recomendar el espacio y considerar al propietario como una opción confiable para futuros estacionamientos.
 ###### User Journey Mapping para Conductores Urbanos
+Este "User Journey Mapping" muestra las etapas que un conductor urbano atraviesa al usar una app de estacionamiento, desde descubrir la app hasta evaluar su experiencia. Identifica puntos de contacto (como apps y GPS), problemas (como opciones confusas) y oportunidades para mejorar la usabilidad y la información de la app.
+
 ![User Journey Mapping s1](Imagenes/Customer%20journey%20map%202%20Anna.png)
 
-###### User Journey Mapping para Dueños de Estacionamientos
+###### User Journey Mapping para Dueños de playa de Estacionamientos
+
+Este "User Journey Mapping" para dueños de estacionamientos describe las etapas de uso de una app de gestión, desde encontrar la herramienta adecuada y configurarla, hasta su instalación y seguimiento para optimización. Destaca desafíos en la selección de la app y la comprensión de sus funciones, con oportunidades para mejorar la personalización, la facilidad de uso y el soporte técnico.
+
 ![User Journey Mapping s2](Imagenes/Customer%20journey%20map%201%20Luis.png)
 
 
 #### 2.3.4. Empathy Mapping
 
+A continuación se pueden apreciar los Empathy Mapping de los segmentos objetivos.
+
+### Segmento objetivo: Conductores Urbanos Frecuentes
+Este "Empathy Map" representa a conductores urbanos frecuentes que enfrentan problemas para encontrar estacionamiento. Expresa sus frustraciones por la falta de opciones disponibles y su deseo de contar con herramientas que les brinden información en tiempo real sobre espacios seguros y accesibles.
+
 ![Empathy Map](Imagenes/Empathy_map.png)
+
+### Segmento objetivo: Dueños de playas de estacionamientos
 
 #### 2.3.5. As-is Scenario Mapping
 ![As is Scenario](Imagenes/as_is_segment_1.jpg)
