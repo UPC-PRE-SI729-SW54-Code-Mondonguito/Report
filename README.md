@@ -1085,6 +1085,7 @@ Este diagrama muestra la interacción entre nuestros segmentos objetivo y la apl
 
 ![Descripción de la Imagen](./assets/structurizr-SystemContext.png)
 
+
 #### 4.6.2. Software Architecture Container Diagrams
 
 #### 4.6.3. Software Architecture Components Diagrams
