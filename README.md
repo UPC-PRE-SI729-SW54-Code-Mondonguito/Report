@@ -1083,7 +1083,7 @@ Los diagramas de arquitectura de software nos ayudan a plantear el sistema de nu
 
 Este diagrama de contexto muestra la interacción entre nuestros segmentos objetivo y la aplicación PARKINGNOW, destacando las conexiones con sistemas externos como geolocalización y procesamiento de pagos.
 
-![Descripción de la Imagen](./assets/structurizr-SystemContext.png)
+![structurizr-SystemContext](Assets/structurizr-SystemContext.png)
 
 
 #### 4.6.2. Software Architecture Container Diagrams
