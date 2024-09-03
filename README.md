@@ -1077,7 +1077,13 @@ Link: [Figma](https://www.figma.com/design/qb02D1snVoDtoLfT0qdkRV/Parking-now?no
 
 ### 4.6. Domain-Driven Software Architecture
 
+Los diagramas de arquitectura de software nos ayudan a plantear el sistema de nuestro software, basándonos en el enfoque de desarrollo de Domain Driven Design.
+
 #### 4.6.1. Software Architecture Context Diagram
+
+Este diagrama muestra la interacción entre nuestros segmentos objetivo y la aplicación PARKINGNOW, destacando las conexiones con sistemas externos como geolocalización y procesamiento de pagos.
+
+![Descripción de la Imagen](./assets/structurizr-SystemContext.png)
 
 #### 4.6.2. Software Architecture Container Diagrams
 
