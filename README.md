@@ -858,19 +858,18 @@ Las **historias de usuario** para el proyecto **PARKINGNOW** están orientadas a
 
 ## 3.3. Impact Mapping
 
-<p align="center">
-  <strong>Conductor Urbano Frecuente</strong>
-</p>
+**Descripción del Impact Map: Conductor Urbano Frecuente para PARKINGNOW**
+
+Este Impact Map de PARKINGNOW se enfoca en mejorar la retención de conductores urbanos frecuentes mediante el aumento de la seguridad y la accesibilidad del estacionamiento en zonas urbanas. Define objetivos de negocio, como incrementar la retención en un 30%, e identifica soluciones como sistemas de navegación, sensores infrarrojos para monitoreo en tiempo real y notificaciones de disponibilidad de espacios. Las historias de usuario asociadas abordan la optimización de rutas, la verificación de seguridad y la gestión de alertas para mejorar la experiencia del usuario.
 
 <p align="center">
   <img src="Imagenes/IMPACT%20MAP_%20Impact_map_conductor.png" alt="IMPACT MAP: Impact_map_conductor" width="600"/>
 </p>
 
 
-<p align="center">
-  <strong>Dueño de Playa de Estacionamiento</strong>
-</p>
+**Descripción del Impact Map: Dueño de Playa de Estacionamiento para PARKINGNOW**
 
+Este Impact Map está diseñado para dueños de playas de estacionamiento, enfocado en mejorar la gestión y optimización de sus espacios. El objetivo es aumentar la eficiencia operativa y la satisfacción del cliente en un 30% en los próximos seis meses. Para lograrlo, se proponen soluciones como un sistema de gestión de reservas en tiempo real, visualización de disponibilidad de espacios mediante sensores, y herramientas de feedback de clientes. Estas funcionalidades permiten a los propietarios maximizar la ocupación, reducir tiempos de espera y mejorar la calidad del servicio a través de la retroalimentación directa de los usuarios.
 <p align="center">
   <img src="Imagenes/IMPACT%20MAP_%20Dueño%20de%20Playa%20de%20Estacionamiento.png" alt="IMPACT MAP: Dueño de Playa de Estacionamiento" width="600"/>
 </p>
