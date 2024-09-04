@@ -100,55 +100,10 @@ Durante la preparación del informe, se llevaron a cabo las siguientes actividad
 
 # Capítulo IV: Product Design
 
-## 4.1. StyleGuidelines
 
-### 4.1.1. General Style Guidelines.
-
-En este apartado, se mostrará de manera organizada los estilos y herramientas que se usarán para diseñar nuestra solución.
-
-**Brand Overview**
-
-En muchas ciudades, encontrar un espacio de estacionamiento adecuado es una tarea complicada, agravada por la falta de información actualizada y la ausencia de herramientas para reservar espacios con antelación. Esto da lugar a estacionamientos indebidos, congestión vehicular y una experiencia frustrante para los conductores. PARKINGNOW se ha diseñado para abordar estos problemas, ofreciendo una solución que conecta a los conductores con espacios de estacionamiento disponibles en tiempo real. Utilizando tecnología avanzada, como la localización geográfica y sensores infrarrojos, nuestra plataforma no solo facilita la búsqueda y reserva de espacios, sino que también mejora la eficiencia del tráfico urbano, beneficiando tanto a conductores como a propietarios de estacionamientos..
-
-
-**Brand name**
-
-El nombre de nuestra solución, PARKINGNOW, refleja su propósito central: ofrecer una herramienta inmediata y eficiente para encontrar y gestionar espacios de estacionamiento. El término "Parking" (estacionamiento) se combina con "Now" (ahora) para subrayar la inmediatez y la facilidad de uso que nuestra plataforma proporciona. Elegimos un nombre en inglés, dado su carácter universal y su capacidad para resonar en un mercado global.
-
-A continuación, se presenta el Logo:
-
-![logo.png](/Imagenes/parkingnow.png)
-
-**Typography**
-
-La tipografía en PARKINGNOW juega un papel crucial en la claridad y navegabilidad de nuestra interfaz. Hemos optado por una fuente moderna y legible que garantice que la información importante sea fácilmente accesible para los usuarios. La tipografía se organiza en cuatro niveles: headings (encabezados), body (cuerpo del texto), buttons (botones) y links (enlaces), asegurando una jerarquía visual clara y una experiencia de usuario coherente.
-
-Hemos usado 2 fuentes de tipografia, la primera "Kalam" y la segunda "Tinos" para 
-el desarrollo de este proyecto. 
-
-![logo.png](/Imagenes/Typograpy.png)
-
-**Colors**
-
-La elección de colores es una parte importante del diseño. Una buena elección de colores transmite al usuario lo que nosotros realmente ofrecemos. Por eso tenemos como color primario el azul y el color secundario el verde azulado. Además, se muestran los colores estado los cuales usaremos para que el usuario sepa qué sucede mientras interactúa con nuestra aplicación.
-Los colores seleccionados para **PARKINGNOW** no solo definen la estética de la marca, sino que también comunican su propósito y valores.
-
-- **Color Primario (Azul Noche):** El azul noche es sinónimo de tecnología y seguridad, elementos clave en la experiencia de estacionamiento que queremos ofrecer. Este color genera una sensación de tranquilidad y confianza, aspectos esenciales para los usuarios de nuestra plataforma.
-  ![logo.png](/Imagenes/Azul.png)
-
-- **Color Secundario (Amarillo):** Este tono aporta una energía vibrante y resalta la eficiencia y visibilidad de nuestro servicio. El amarillo es ideal para captar la atención del usuario y enfatizar elementos importantes dentro de la plataforma como los botones o items resaltantes.
-   ![logo.png](/Imagenes/Amarrillo.png)
-
-- **Color Secundario (Gris):** El gris transmite neutralidad y profesionalismo, aportando un equilibrio visual en la interfaz. Este color se utiliza para áreas menos destacadas, brindando un contraste sutil y elegante.
-  ![logo.png](/Imagenes/BN.png)
-- **Color Secundario (Blanco):** El blanco representa pureza y simplicidad, ofreciendo un fondo limpio y claro que mejora la legibilidad y la experiencia de usuario en nuestra plataforma. Es fundamental para destacar el contenido principal y proporcionar una apariencia ordenada.
-  ![logo.png](/Imagenes/BN2.png)
-- **Color Secundario (Negro):** El negro evoca sofisticación y seriedad, utilizado en detalles y tipografía para proporcionar un fuerte contraste con los demás colores. Este tono refuerza la solidez y fiabilidad del servicio que ofrecemos.
-   ![logo.png](/Imagenes/BN3.png)
-
-
-  - [4.1.2. Web Style Guidelines](#412-web-style-guidelines)
-- 
+- [4.1. Style Guidelines](#41-style-Guidelines)
+  - [4.1.1. General Style Guidelines](#411-General-Style-Guidelines)
+  - [4.1.2. Web Style Guidelines](#412-Web-Style-Guidelines)
 - [4.2. Information Architecture](#42-information-architecture)
   - [4.2.1. Organization Systems](#421-organization-systems)
   - [4.2.2. Labeling Systems](#422-labeling-systems)
@@ -258,12 +213,61 @@ Los colores seleccionados para **PARKINGNOW** no solo definen la estética de la
 ### 3.4. Product Backlog
 
 ## Capítulo IV: Product Design
+# Capítulo IV: Product Design
 
-### 4.1. Style Guidelines
+## 4.1. StyleGuidelines
 
-#### 4.1.1. General Style Guidelines
+### 4.1.1. General Style Guidelines.
 
-#### 4.1.2. Web Style Guidelines
+En este apartado, se mostrará de manera organizada los estilos y herramientas que se usarán para diseñar nuestra solución.
+
+**Brand Overview**
+
+En muchas ciudades, encontrar un espacio de estacionamiento adecuado es una tarea complicada, agravada por la falta de información actualizada y la ausencia de herramientas para reservar espacios con antelación. Esto da lugar a estacionamientos indebidos, congestión vehicular y una experiencia frustrante para los conductores. PARKINGNOW se ha diseñado para abordar estos problemas, ofreciendo una solución que conecta a los conductores con espacios de estacionamiento disponibles en tiempo real. Utilizando tecnología avanzada, como la localización geográfica y sensores infrarrojos, nuestra plataforma no solo facilita la búsqueda y reserva de espacios, sino que también mejora la eficiencia del tráfico urbano, beneficiando tanto a conductores como a propietarios de estacionamientos..
+
+
+**Brand name**
+
+El nombre de nuestra solución, PARKINGNOW, refleja su propósito central: ofrecer una herramienta inmediata y eficiente para encontrar y gestionar espacios de estacionamiento. El término "Parking" (estacionamiento) se combina con "Now" (ahora) para subrayar la inmediatez y la facilidad de uso que nuestra plataforma proporciona. Elegimos un nombre en inglés, dado su carácter universal y su capacidad para resonar en un mercado global.
+
+A continuación, se presenta el Logo:
+
+![logo.png](/Imagenes/parkingnow.png)
+
+**Typography**
+
+La tipografía en PARKINGNOW juega un papel crucial en la claridad y navegabilidad de nuestra interfaz. Hemos optado por una fuente moderna y legible que garantice que la información importante sea fácilmente accesible para los usuarios. La tipografía se organiza en cuatro niveles: headings (encabezados), body (cuerpo del texto), buttons (botones) y links (enlaces), asegurando una jerarquía visual clara y una experiencia de usuario coherente.
+
+Hemos usado 2 fuentes de tipografia, la primera "Kalam" y la segunda "Tinos" para 
+el desarrollo de este proyecto. 
+
+![logo.png](/Imagenes/Typograpy.png)
+
+**Colors**
+
+La elección de colores es una parte importante del diseño. Una buena elección de colores transmite al usuario lo que nosotros realmente ofrecemos. Por eso tenemos como color primario el azul y el color secundario el verde azulado. Además, se muestran los colores estado los cuales usaremos para que el usuario sepa qué sucede mientras interactúa con nuestra aplicación.
+Los colores seleccionados para **PARKINGNOW** no solo definen la estética de la marca, sino que también comunican su propósito y valores.
+
+- **Color Primario (Azul Noche):** El azul noche es sinónimo de tecnología y seguridad, elementos clave en la experiencia de estacionamiento que queremos ofrecer. Este color genera una sensación de tranquilidad y confianza, aspectos esenciales para los usuarios de nuestra plataforma.
+  ![logo.png](/Imagenes/Azul.png)
+
+- **Color Secundario (Amarillo):** Este tono aporta una energía vibrante y resalta la eficiencia y visibilidad de nuestro servicio. El amarillo es ideal para captar la atención del usuario y enfatizar elementos importantes dentro de la plataforma como los botones o items resaltantes.
+   ![logo.png](/Imagenes/Amarrillo.png)
+
+- **Color Secundario (Gris):** El gris transmite neutralidad y profesionalismo, aportando un equilibrio visual en la interfaz. Este color se utiliza para áreas menos destacadas, brindando un contraste sutil y elegante.
+  ![logo.png](/Imagenes/BN.png)
+- **Color Secundario (Blanco):** El blanco representa pureza y simplicidad, ofreciendo un fondo limpio y claro que mejora la legibilidad y la experiencia de usuario en nuestra plataforma. Es fundamental para destacar el contenido principal y proporcionar una apariencia ordenada.
+  ![logo.png](/Imagenes/BN2.png)
+- **Color Secundario (Negro):** El negro evoca sofisticación y seriedad, utilizado en detalles y tipografía para proporcionar un fuerte contraste con los demás colores. Este tono refuerza la solidez y fiabilidad del servicio que ofrecemos.
+   ![logo.png](/Imagenes/BN3.png)
+  - [4.1.2. Web Style Guidelines](#412-web-style-guidelines)
+
+Desarrollaremos un sitio web adaptable a dispositivos móviles, lo que significa que se ajustará a cualquier tamaño de pantalla sin comprometer la experiencia del usuario, manteniéndolo siempre intuitivo y visualmente atractivo. Considerando lo anterior, nuestra aplicación web deberá adaptarse a las diferentes resoluciones utilizadas en los dispositivos actuales.
+
+Utilizaremos el patrón Z en el diseño, asegurándonos de que el usuario comience su navegación en la página de inicio y en la aplicación web visualizando el logo. Luego, naturalmente, se desplazará hacia la derecha donde encontrará las diferentes opciones disponibles. Después, el usuario bajará verticalmente para explorar el contenido general de la página de inicio y la aplicación web. Finalmente, se moverá horizontalmente hacia la derecha para acceder a la información sobre nuestra startup y los medios para contactarnos.
+
+Es importante destacar que el diseño incorpora colores que captarán la atención del usuario, evocando sensaciones de tranquilidad, confianza y deseo de utilizar nuestra aplicación. Además, los espacios y efectos implementados guiarán al usuario para comprender fácilmente el propósito de nuestra página de inicio y la aplicación web.
+   ![logo.png](/Imagenes/PatronZ.jpg)
 
 ### 4.2. Information Architecture
 
