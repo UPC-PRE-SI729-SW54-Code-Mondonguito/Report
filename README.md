@@ -1147,7 +1147,7 @@ Este diagrama de contexto muestra la interacción entre nuestros segmentos objet
 
 Este diagrama de contenedores ilustra los componentes clave de la plataforma PARKINGNOW y cómo interactúan entre sí y con sistemas externos. Se destacan la Aplicación Web, la API Backend, la Base de Datos, y servicios externos como la pasarela de pago y geolocalización. Cada contenedor cumple una función específica para asegurar el funcionamiento integral del sistema.
 
-![Diagrama de Contenedores](Assets/structurizr-94826-Container-001.png)
+![Diagrama de Contenedores](Assets/structurizr-Container-001.png)
 
 #### 4.6.3. Software Architecture Components Diagrams
 
