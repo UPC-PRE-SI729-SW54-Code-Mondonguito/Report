@@ -1021,8 +1021,14 @@ Utilizamos la escala de Fibonacci para la estimación de los Story Points.
 
 #### 4.3.1. Landing Page Wireframe
 
-#### 4.3.2. Landing Page Mock-up
+![WireframeLP1](Assets/LandingPageWireframe1.png)
 
+![WireframeLP2](Assets/LandingPageWireframe2.png)
+
+#### 4.3.2. Landing Page Mock-up
+![MockupLP1](Assets/LandingPageMockup1.png)
+
+![MockupLP2](Assets/LandingPageMockup2.png)
 ### 4.4. Web Applications UX/UI Design
 
 En esta seccion, se presentara los resultados del diseño de la Aplicacion Web en Figma.
@@ -1031,49 +1037,97 @@ En esta seccion, se presentara los resultados del diseño de la Aplicacion Web e
 
 Link: [Figma](https://www.figma.com/design/qb02D1snVoDtoLfT0qdkRV/Parking-now?node-id=0-1&t=dsT3kQGDkndD6UwX-1)
 
+En estas imagenes, podemos ver el wireframde la home page, donde da la bienvenida al suauri y brinda informacion sobre quienes somos y que es lo queremos. En la parte de la derecha podemos ver el Inicio de Sesion, y las formas en que los usuarios se pueden registrar en la aplicacion web, es decir, como conductor o dueño de una playa de estacionamiento
+
 ![Wireframe1](Assets/Wireframe_1.png)
+
+En estas imagenes se puede ver donde el usuario selecciona si es que es un conductor o el dueño de una playa de estacionamiento. Asimismo, se pueden ver las pantallas de confirmarcion de reservas, registro y de opinion enviada.
 
 ![Wireframe2](Assets/Wireframe_2.png)
 
+En estas imagenes se peuden ver la forma en que se vera al momento de buscar un lugar para la reserva, de esta manera el usuario podra ver el nombre del establecimiento, las reseñas, descripcion, fotos del estacionamient, podra dejar una reseña o reservar en el establecimiento.
+
+Además en la segunda imagen podra ver su historial y revisar sus lugares marcados como favoritos.
+
 ![Wireframe3](Assets/Wireframe_3.png)
 
-![Wireframe4](Assets/Wireframe_4.png)
+En las siguientes imagenes lo que se puede ver es el Dashboard del dueño de playas de estacionamiento, donde tendra las siguientes opciones: Inicio, registro de locales, reservas, monitoreo de Automoviles y alarmas de los locales, las configuraciones, notificaciones que llegaran a la aplicacion dependiendo de las preferencias del usuario y por ultimo, cerrar sesion.
 
+![Wireframe4](Assets/Wireframe_4.png)
 ![Wireframe5](Assets/Wireframe_5.png)
 
-![Wireframe6](Assets/Wireframe_5.png)
+En las siguientes imagenes lo que se puede ver es el Dashboard de los condutores, donde tendra las siguientes opciones: Inicio, reservas, soporte a tiempo real,seguimiento y alarmas del automovil que posea el escaner, las configuraciones, notificaciones que llegaran a la aplicacion dependiendo de las preferencias del usuario y por ultimo, cerrar sesion.
+
+![Wireframe6](Assets/Wireframe_6.png)
+![Wireframe7](Assets/Wireframe_7.png)
 
 #### 4.4.2. Web Applications Wireflow Diagrams
-
-![Wireframe_Flow_1](Assets/Wireframe_Flow_1.png)
-
-![Wireframe_Flow_2](Assets/Wireframe_Flow_2.png)
+![Wireflow1](Assets/Wireflow_1.png)
+![Wireflow2](Assets/Wireflow_2.png)
+![Wireflow3](Assets/Wireflow_3.png)
+![Wireflow4](Assets/Wireflow_4.png)
+![Wireflow5](Assets/Wireflow_5.png)
+![Wireflow6](Assets/Wireflow_6.png)
+![Wireflow7](Assets/Wireflow_7.png)
+![Wireflow8](Assets/Wireflow_8.png)
 
 #### 4.4.3. Web Applications Mock-ups
 
 Link: [Figma](https://www.figma.com/design/qb02D1snVoDtoLfT0qdkRV/Parking-now?node-id=0-1&t=dsT3kQGDkndD6UwX-1)
 
+Las dos siguientes imagenes son la homepage y la pagina donde se describen las caracteristicas de nuestro producto.
+
 ![Mock-up1](Assets/Mockup_1.png)
+
+
+Aqui se pueden ver las pestañas de inicio de sesion, registro y por ultimo para realizar el pago de una reserva.
 
 ![Mock-up2](Assets/Mockup_2.png)
 
+Aqui se pueden ver las pestañas de confirmacion de pago de reserva, registro y de envio de opinion.
+
 ![Mock-up3](Assets/Mockup_3.png)
 
+En las siguientes 4 imagenes se puede ver el mapa de busqueda para las playas de estacionamiento, la forma de reservar un espacio y como dejar una opinion en los establecimientos.
 ![Mock-up4](Assets/Mockup_4.png)
 
 ![Mock-up5](Assets/Mockup_5.png)
 
+A continuacion se puede ver el Dashboard de los usuarios conductores, donde tendran las opciones que se mencionaron en la seccion del Wireframe.
+
 ![Mock-up6](Assets/Mockup_6.png)
+
+![Mock-up7](Assets/Mockup_7.png)
+
+![Mock-up8](Assets/Mockup_8.png)
+
+![Mock-up9](Assets/Mockup_9.png)
+
+A continuacion se puede ver el Dashboard de los Dueños de playas de estacionamiento, donde tendran las opciones que se mencionaron en la seccion del Wireframe.
+
+![Mock-up10](Assets/Mockup_10.png)
+
+![Mock-up11](Assets/Mockup_11.png)
+
+![Mock-up12](Assets/Mockup_12.png)
+
+![Mock-up13](Assets/Mockup_13.png)
 
 #### 4.4.4. Web Applications User Flow Diagrams
 
-![Mock-up_flow_1](Assets/MockUp_Flow_1.png)
+![Userflow1](Assets/Userflow_1.png)
+![Userflow2](Assets/Userflow_2.png)
+![Userflow3](Assets/Userflow_3.png)
+![Userflow4](Assets/Userflow_4.png)
+![Userflow5](Assets/Userflow_5.png)
+![Userflow6](Assets/Userflow_6.png)
 
-![Mock-up_flow_2](Assets/MockUp_Flow_2.png)
-
-![Mock-up_flow_3](Assets/MockUp_Flow_3.png)
 
 ### 4.5. Web Applications Prototyping
+Link: [Figma](https://www.figma.com/design/qb02D1snVoDtoLfT0qdkRV/Parking-now?node-id=0-1&t=dsT3kQGDkndD6UwX-1)
+
+![Prototyping](Assets/Prototyping.png)
+
 
 ### 4.6. Domain-Driven Software Architecture
 
