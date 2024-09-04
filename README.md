@@ -779,6 +779,8 @@ Este "Empathy Map" representa a conductores urbanos frecuentes que enfrentan pro
 ### 3.1. To-Be Scenario Mapping
 **To Be Scenario Mapping para Conductores Urbanos Frecuentes**
 
+
+
 <p align="center">
   <img src="Assets/To be Scenario Mapping 1.png" alt="To Be Scenario Mapping para Conductores Urbanos Frecuentes" style="max-width: 70%; height: auto;" />
 </p>
@@ -1143,7 +1145,13 @@ Este diagrama de contexto muestra la interacción entre nuestros segmentos objet
 
 #### 4.6.2. Software Architecture Container Diagrams
 
+Este diagrama de contenedores ilustra los componentes clave de la plataforma PARKINGNOW y cómo interactúan entre sí y con sistemas externos. Se destacan la Aplicación Web, la API Backend, la Base de Datos, y servicios externos como la pasarela de pago y geolocalización. Cada contenedor cumple una función específica para asegurar el funcionamiento integral del sistema.
+
+![Diagrama de Contenedores](Assets/structurizr-94826-Container-001.png)
+
 #### 4.6.3. Software Architecture Components Diagrams
+
+
 
 ### 4.7. Software Object-Oriented Design
 
