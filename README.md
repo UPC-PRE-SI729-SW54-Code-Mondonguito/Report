@@ -122,6 +122,31 @@ A continuación, se presenta el Logo:
 **Typography**
 
 La tipografía en PARKINGNOW juega un papel crucial en la claridad y navegabilidad de nuestra interfaz. Hemos optado por una fuente moderna y legible que garantice que la información importante sea fácilmente accesible para los usuarios. La tipografía se organiza en cuatro niveles: headings (encabezados), body (cuerpo del texto), buttons (botones) y links (enlaces), asegurando una jerarquía visual clara y una experiencia de usuario coherente.
+
+Hemos usado 2 fuentes de tipografia, la primera "Kalam" y la segunda "Tinos" para 
+el desarrollo de este proyecto. 
+
+![logo.png](/Imagenes/Typograpy.png)
+
+**Colors**
+
+La elección de colores es una parte importante del diseño. Una buena elección de colores transmite al usuario lo que nosotros realmente ofrecemos. Por eso tenemos como color primario el azul y el color secundario el verde azulado. Además, se muestran los colores estado los cuales usaremos para que el usuario sepa qué sucede mientras interactúa con nuestra aplicación.
+Los colores seleccionados para **PARKINGNOW** no solo definen la estética de la marca, sino que también comunican su propósito y valores.
+
+- **Color Primario (Azul Noche):** El azul noche es sinónimo de tecnología y seguridad, elementos clave en la experiencia de estacionamiento que queremos ofrecer. Este color genera una sensación de tranquilidad y confianza, aspectos esenciales para los usuarios de nuestra plataforma.
+  ![logo.png](/Imagenes/Azul.png)
+
+- **Color Secundario (Amarillo):** Este tono aporta una energía vibrante y resalta la eficiencia y visibilidad de nuestro servicio. El amarillo es ideal para captar la atención del usuario y enfatizar elementos importantes dentro de la plataforma como los botones o items resaltantes.
+   ![logo.png](/Imagenes/Amarrillo.png)
+
+- **Color Secundario (Gris):** El gris transmite neutralidad y profesionalismo, aportando un equilibrio visual en la interfaz. Este color se utiliza para áreas menos destacadas, brindando un contraste sutil y elegante.
+  ![logo.png](/Imagenes/BN.png)
+- **Color Secundario (Blanco):** El blanco representa pureza y simplicidad, ofreciendo un fondo limpio y claro que mejora la legibilidad y la experiencia de usuario en nuestra plataforma. Es fundamental para destacar el contenido principal y proporcionar una apariencia ordenada.
+  ![logo.png](/Imagenes/BN2.png)
+- **Color Secundario (Negro):** El negro evoca sofisticación y seriedad, utilizado en detalles y tipografía para proporcionar un fuerte contraste con los demás colores. Este tono refuerza la solidez y fiabilidad del servicio que ofrecemos.
+   ![logo.png](/Imagenes/BN3.png)
+
+
   - [4.1.2. Web Style Guidelines](#412-web-style-guidelines)
 - 
 - [4.2. Information Architecture](#42-information-architecture)
