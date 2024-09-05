@@ -1396,7 +1396,169 @@ La gestión del código fuente es una parte fundamental del desarrollo de cualqu
 - **Backend:** https://github.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Backend
 
 
+### GitFlow
+
+Para la gestión del desarrollo de código, PARKINGNOW sigue el flujo de trabajo **GitFlow**, que permite la creación de ramas para distintas funciones y asegura un proceso de integración continuo y ordenado. A continuación, se detallan las ramas y su funcionamiento:
+
+1. **Master Branch:** Rama principal que contiene las versiones estables del proyecto. Todas las demás ramas se derivan de aquí.
+2. **Develop Branch:** Rama secundaria que almacena las características en desarrollo antes de fusionarse a la rama principal.
+3. **Feature Branches:** Ramas temporales que se crean para desarrollar nuevas funcionalidades. Estas se crean desde `develop` y, al completarse, se fusionan de nuevo en `develop`.
+4. **Feature Branches:**
+   - Son ramas temporales que se crean para desarrollar nuevas funcionalidades o solucionar problemas específicos. Estas ramas se crean a partir de **develop** y, una vez finalizado el trabajo, se fusionan nuevamente en **develop**. Cada **feature branch** debe tener un nombre descriptivo, como `feature/nueva-funcionalidad`, que indique la naturaleza de la tarea en desarrollo.
+
+5. **Release Branches:**
+   - Estas ramas se crean cuando el equipo decide que la rama **develop** está lista para ser convertida en una nueva versión estable. A partir de aquí, se realizan los últimos ajustes y correcciones antes de fusionarse en la **Master**. Esta rama también permite preparar versiones de prueba para el equipo de QA.
+
+6. **Hotfix Branches:**
+   - Son ramas dedicadas a solucionar errores críticos en la **Master** que no pueden esperar a la siguiente versión. Se crean a partir de **Master** y, una vez solucionado el error, se fusionan tanto en **Master** como en **develop** para asegurar que las correcciones también se apliquen a la rama de desarrollo.
+
+### Implementación de GitFlow
+
+Para implementar **GitFlow** en PARKINGNOW, se utiliza la siguiente estructura de ramas:
+
+- **Master:** La versión estable del proyecto, lista para ser lanzada o en producción.
+- **Develop:** La rama de desarrollo donde se integran todas las nuevas características antes de ser lanzadas.
+- **Feature Branches:** Ramas temporales, nombradas `feature/nombre-funcionalidad`, para el desarrollo de características individuales.
+- **Release Branches:** Ramas temporales, nombradas `release/nombre-version`, utilizadas para preparar versiones finales antes de ser fusionadas en **Master**.
+- **Hotfix Branches:** Ramas temporales, nombradas `hotfix/nombre-problema`, que permiten arreglar errores críticos en la **Master** y luego se fusionan en **Develop** para mantener el proyecto sincronizado.
+
+### Commits Convencionales
+
+Para los mensajes de commit en el proyecto **PARKINGNOW**, se sigue la convención **Conventional Commits**. Estos mensajes deben seguir el formato estándar para facilitar la lectura y entendimiento del historial del proyecto:
+
+```plaintext
+<type>[optional scope]: <description>
+
+[optional body]
+
+[optional footer(s)]
+```
+
+- **Type:** 
+   - `feat`: Se usa cuando se añade una nueva característica.
+   - `fix`: Para la corrección de errores.
+   - `docs`: Modificaciones en la documentación.
+   - `style`: Cambios que no afectan la lógica del código, como formato o estilo.
+   - `refactor`: Modificaciones que no añaden características ni corrigen errores.
+   - `test`: Adición o modificación de pruebas.
+   
+- **Scope:** Proporciona información adicional sobre el área del código afectada. Ejemplo: `feat(auth): add login functionality`.
+
+### Ejemplos de commits:
+
+- `feat(login): add user authentication module`
+- `fix(payment): resolve payment gateway issue`
+- `docs(README): update setup instructions`
+
+Con esta estructura, **PARKINGNOW** puede gestionar eficientemente el flujo de trabajo del desarrollo, asegurando una integración continua y una organización clara del código fuente.
+
 #### 5.1.3. Source Code Style Guide & Conventions
+
+En el proyecto **PARKINGNOW**, hemos implementado una serie de guías de estilo y convenciones para asegurar que todo el equipo de desarrollo siga una estructura consistente y clara en todo el ciclo de vida del proyecto. Esto facilita la legibilidad del código, mejora la colaboración entre los desarrolladores y asegura que el código sea mantenible a largo plazo.
+
+#### Nomenclatura General
+
+Para asegurar la coherencia en todo el código, se seguirán las siguientes directrices:
+
+- Los nombres de variables, funciones y métodos deben utilizar **camelCase**.
+- Los nombres de clases y componentes seguirán la convención **PascalCase**.
+- Para los archivos y carpetas, se empleará la convención **kebab-case**.
+
+El uso de **inglés** para todos los nombres es obligatorio, con el fin de asegurar la comprensión entre los miembros del equipo y facilitar la colaboración internacional.
+
+**Ejemplos**:
+
+- Variables: `parkingSpace`, `userLocation`
+- Clases: `ParkingManager`, `User`
+- Archivos: `parking-manager.service.ts`, `user.controller.js`
+
+#### Espacios y Sangría
+
+La **sangría** de código en **PARKINGNOW** seguirá las siguientes reglas para asegurar la claridad y el orden del código:
+
+- Se utilizarán **2 espacios** para la sangría en archivos HTML, CSS, JavaScript, y TypeScript.
+- En archivos **Java**, se utilizarán **4 espacios** para la sangría.
+
+Esta convención ayuda a mantener la consistencia en todos los lenguajes empleados en el proyecto y facilita la colaboración entre diferentes desarrolladores.
+
+**Ejemplo de HTML con sangría**:
+
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>ParkingNOW</title>
+  </head>
+  <body>
+    <h1>Parking Disponibles</h1>
+    <p>Encuentra y reserva tu espacio fácilmente</p>
+  </body>
+</html>
+```
+
+#### Convenciones por Lenguaje
+
+1. **HTML/CSS/JavaScript**:
+   - Se utilizará la [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html) para asegurar la consistencia en la estructura y la presentación de los archivos HTML y CSS.
+   - Para JavaScript, adoptamos la [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript), ampliamente conocida y utilizada en la industria.
+
+2. **TypeScript**:
+   - **Angular** es el framework elegido para el frontend de PARKINGNOW, por lo que seguimos la [Angular Style Guide](https://angular.io/guide/styleguide), que dicta cómo deben estructurarse los módulos, servicios y componentes.
+   - También seguimos la [Google TypeScript Style Guide](https://google.github.io/styleguide/tsguide.html) para garantizar la correcta tipificación y legibilidad del código.
+
+3. **Java**:
+   - En el backend, utilizamos **Spring Boot** para crear APIs y servicios web. Seguimos la [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html) para mantener consistencia en la estructura de las clases y los métodos.
+   - Los nombres de clases serán descriptivos, utilizando sustantivos para clases y verbos para métodos.
+
+**Ejemplo de una clase Java**:
+
+```java
+public class ParkingManager {
+  private int availableSpaces;
+
+  public ParkingManager(int spaces) {
+    this.availableSpaces = spaces;
+  }
+
+  public void reserveSpace() {
+    if (availableSpaces > 0) {
+      availableSpaces--;
+    }
+  }
+}
+```
+
+4. **Gherkin**:
+   - Para escribir los tests automatizados, seguimos la convención de [Gherkin Syntax](https://cucumber.io/docs/gherkin/). Esto permite una descripción clara y precisa de los escenarios de prueba en los archivos `.feature`.
+   - Utilizamos **Given-When-Then** para describir el comportamiento esperado en cada escenario.
+
+**Ejemplo de Gherkin**:
+
+```gherkin
+Feature: Reserva de espacio de estacionamiento
+
+  Scenario: Reserva exitosa
+    Given el usuario ha iniciado sesión
+    When selecciona un espacio disponible
+    Then el sistema debe confirmar la reserva
+```
+
+#### Espaciado y Comillas
+
+- **Espacios**: Siempre se debe colocar un espacio alrededor de los operadores y entre los parámetros en las funciones.
+  
+  **Ejemplo**:
+  ```javascript
+  let totalSpaces = 50;
+  let bookedSpaces = 10;
+  let availableSpaces = totalSpaces - bookedSpaces;
+  ```
+
+- **Comillas**: En **JavaScript** y **TypeScript**, se utilizan comillas simples (`'`) para cadenas, mientras que en **HTML** se prefieren las comillas dobles (`"`).
+
+#### Límite de Longitud de Línea
+
+El código no debe exceder las **80 columnas** por línea. En caso de necesitar más espacio, se recomienda dividir la línea de código para mejorar la legibilidad.
 
 #### 5.1.4. Software Deployment Configuration
 
