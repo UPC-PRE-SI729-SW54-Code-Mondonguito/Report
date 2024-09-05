@@ -731,7 +731,19 @@ Este "Empathy Map" representa a conductores urbanos frecuentes que enfrentan pro
 ### Segmento objetivo: Dueños de playas de estacionamientos
 
 #### 2.3.5. As-is Scenario Mapping
-![As is Scenario](Assets/as_is_segment_1.jpg)
+
+### Segmento Conductores Urbanos Frecuentes
+
+El "As-is Scenario Mapping" para **Conductores Urbanos Frecuentes** resalta los desafíos y mejoras necesarias en la experiencia de estacionamiento, permitiendo optimizar las soluciones de **PARKINGNOW**.
+
+![As is Scenario](./Assets/As-is%20Scenario%20Mapping%20-%201.png)
+
+
+### Segmento Dueños de playas de estacionamientos
+
+El "As-is Scenario Mapping" para **Dueños de Playas de Estacionamientos** identifica sus desafíos y necesidades, desde la preparación del espacio hasta la gestión post-servicio, ayudando a mejorar la eficiencia y satisfacción en la gestión de sus estacionamientos con **PARKINGNOW**.
+
+![As is Scenario](./Assets/As-is%20Scenario%20Mapping%20-%202.png)
 
 ### 2.4. Ubiquitous Language
 **Espacio de Estacionamiento:** Un lugar específico dentro de un estacionamiento donde un vehículo puede ser aparcado.
