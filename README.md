@@ -1063,8 +1063,6 @@ La **Aplicación Web** de **PARKINGNOW** está diseñada para ofrecer una experi
 
 #### 4.2.2. Labeling Systems
 
-### 4.2.2. Labeling Systems
-
 En este apartado se describen los sistemas de etiquetado utilizados en la **Landing Page** y la **Aplicación Web** de **PARKINGNOW**. El etiquetado está diseñado para facilitar la navegación y mejorar la experiencia del usuario, asegurando que cada sección y funcionalidad sea fácilmente reconocible y accesible.
 
 #### **Etiquetas de Encabezados (Headings)**
@@ -1104,7 +1102,7 @@ Las etiquetas icónicas se basan en imágenes o iconos que transmiten significad
 
 - **Icono de Coche**: Representa la función de seguimiento del vehículo en el estacionamiento, asegurando que el usuario pueda ubicar su coche fácilmente.
 
-- **Icono de Notificación (Campana)**: Utilizado para alertar a los usuarios sobre actualizaciones importantes, como cambios en la disponibilidad de estacionamientos o confirmaciones de reservas.
+- **Icono de Notificación**: Utilizado para alertar a los usuarios sobre actualizaciones importantes, como cambios en la disponibilidad de estacionamientos o confirmaciones de reservas.
 
 Estas etiquetas se encuentran distribuidas en la barra de navegación y en las distintas secciones de la página y la aplicación, guiando a los usuarios de manera intuitiva y mejorando la experiencia de uso en **PARKINGNOW**.
 
