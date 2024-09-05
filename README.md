@@ -1265,9 +1265,6 @@ En esta sección, el equipo establece las decisiones y convenciones para mantene
 
 #### 5.1.1. Software Development Environment Configuration
 
-#### Product UX/UI Design
-
-
 En este apartado se mencionarán los distintos productos de software empleados por el equipo de desarrollo para llevar a cabo las actividades relacionadas con la elaboración del proyecto **PARKINGNOW**.
 
 #### Product UX/UI Design
@@ -1283,50 +1280,61 @@ En este apartado se mencionarán los distintos productos de software empleados p
 
 #### Software Development
 
+4. **Visual Studio Code**: [https://code.visualstudio.com/](https://code.visualstudio.com/)  
+   Entorno de desarrollo ligero empleado para la creación del landing page y las aplicaciones web, utilizando HTML5, CSS3, JavaScript y TypeScript.
 
-4. **WebStorm**:  
+5. **WebStorm**:  
    Entorno de desarrollo utilizado para trabajar con HTML, CSS, JavaScript y frameworks como Vue y Angular.
 
-5. **Rider**:  
+6. **Rider**:  
    Entorno de desarrollo usado para trabajar con el lenguaje C# y la plataforma .NET, utilizada para crear Web Services basados en ASP.NET para el proyecto.
 
-6. **Spring Boot Framework**:  
+7. **Spring Boot Framework**:  
    Framework utilizado para desarrollar servicios web RESTful en Java, proporcionando una base escalable y robusta.
 
-7. **GitHub**: [https://github.com/](https://github.com/)  
+8. **GitHub**: [https://github.com/](https://github.com/)  
    Plataforma de control de versiones utilizada para la gestión del código fuente, aplicando el flujo de trabajo GitFlow para garantizar un desarrollo ordenado.
 
-8. **Git**: [https://git-scm.com/](https://git-scm.com/)  
+9. **Git**: [https://git-scm.com/](https://git-scm.com/)  
    Software de control de versiones utilizado para gestionar los cambios en el código a través de commits y facilitar el trabajo colaborativo.
 
 #### Project Management and Collaboration
 
-9. **WhatsApp**: [https://web.whatsapp.com/](https://web.whatsapp.com/)  
+10. **WhatsApp**: [https://web.whatsapp.com/](https://web.whatsapp.com/)  
    Aplicación de mensajería utilizada para la coordinación y discusión de temas relacionados con el proyecto en tiempo real.
 
-10. **Google Docs**: [https://docs.google.com/](https://docs.google.com/)  
+11. **Google Docs**: [https://docs.google.com/](https://docs.google.com/)  
    Utilizado para la creación y edición colaborativa de documentos relacionados con el proyecto, permitiendo a varios miembros trabajar simultáneamente.
 
 #### Software Documentation
 
-11. **Vertabelo**: [https://vertabelo.com/](https://vertabelo.com/)  
+12. **Vertabelo**: [https://vertabelo.com/](https://vertabelo.com/)  
    Herramienta online utilizada para el diseño, creación y gestión colaborativa de bases de datos para el proyecto.
 
-12. **LucidChart**: [https://lucid.app/](https://lucid.app/)  
+13. **LucidChart**: [https://lucid.app/](https://lucid.app/)  
    Plataforma utilizada para la creación de diagramas UML, wireflows y user flows, facilitando la visualización y planificación del sistema.
 
-13. **Structurizr**: [https://www.structurizr.com/](https://www.structurizr.com/)  
+14. **Structurizr**: [https://www.structurizr.com/](https://www.structurizr.com/)  
    Herramienta utilizada para modelar la arquitectura de software mediante diagramas C4, permitiendo un modelado claro de la estructura del proyecto.
 
 #### Software Testing
 
-14. **Swagger / OpenAPI Specification**: [https://swagger.io/specification/](https://swagger.io/specification/)  
+15. **Swagger / OpenAPI Specification**: [https://swagger.io/specification/](https://swagger.io/specification/)  
    Utilizado para documentar y probar las APIs RESTful desarrolladas con Spring Boot, facilitando la creación de documentación interactiva.
 
-15. **Markdown**  
+16. **Markdown**  
    Lenguaje de marcado ligero utilizado para documentar el proyecto y en los archivos README del repositorio de la organización.
 
-#### 5.1.2. Source Code Management
+### 5.1.2. Source Code Management
+
+La gestión del código fuente es una parte fundamental del desarrollo de cualquier proyecto de software, ya que permite rastrear cambios, revertir versiones y coordinar a varios desarrolladores trabajando simultáneamente. En PARKINGNOW, utilizaremos **Git** como sistema de control de versiones y **GitHub** como plataforma para alojar nuestros repositorios.
+
+### URL de los Repositorios:
+- **Organización:** PARKINGNOW - https://github.com/PARKINGNOW
+- **Landing Page:** LandingPage-PARKINGNOW - https://github.com/PARKINGNOW/Landing-Page
+- **Frontend Web:** PARKINGNOW-Frontend - https://github.com/PARKINGNOW/Frontend
+- **Backend Web Services:** PARKINGNOW-Backend - https://github.com/PARKINGNOW/Backend
+
 
 #### 5.1.3. Source Code Style Guide & Conventions
 
