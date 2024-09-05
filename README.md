@@ -1330,10 +1330,11 @@ En este apartado se mencionarán los distintos productos de software empleados p
 La gestión del código fuente es una parte fundamental del desarrollo de cualquier proyecto de software, ya que permite rastrear cambios, revertir versiones y coordinar a varios desarrolladores trabajando simultáneamente. En PARKINGNOW, utilizaremos **Git** como sistema de control de versiones y **GitHub** como plataforma para alojar nuestros repositorios.
 
 ### URL de los Repositorios:
-- **Organización:** PARKINGNOW - https://github.com/PARKINGNOW
-- **Landing Page:** LandingPage-PARKINGNOW - https://github.com/PARKINGNOW/Landing-Page
-- **Frontend Web:** PARKINGNOW-Frontend - https://github.com/PARKINGNOW/Frontend
-- **Backend Web Services:** PARKINGNOW-Backend - https://github.com/PARKINGNOW/Backend
+- **Organización:** PARKINGNOW - https://github.com/UPC-PRE-SI729-SW54-Code-Mondonguito
+- **Reporte:** Report - PARKINGNOW - https://github.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Report
+- **Landing Page:** LandingPage-PARKINGNOW -https://github.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Landing-Page
+- **Frontend:** PARKINGNOW-Frontend - https://github.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Frontend
+- **Backend:** PARKINGNOW-Backend - https://github.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Backend
 
 
 #### 5.1.3. Source Code Style Guide & Conventions
