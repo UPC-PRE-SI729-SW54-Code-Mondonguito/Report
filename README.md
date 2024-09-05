@@ -730,7 +730,14 @@ Este "Empathy Map" representa a conductores urbanos frecuentes que enfrentan pro
 
 ### Segmento objetivo: Dueños de playas de estacionamientos
 
+El mapa de empatía para **Dueños de Playas de Estacionamientos** identifica sus necesidades y preocupaciones al gestionar espacios de estacionamiento, destacando oportunidades para optimizar operaciones y mejorar la experiencia del cliente con **PARKINGNOW**.
+
+![Empathy Map](./Assets/Dueños%20de%20playas%20de%20estacionamientos%20-%20Empathy%20Mapping.png)
+
+
 #### 2.3.5. As-is Scenario Mapping
+
+El As-Is nos proporciona un análisis visual de los escenarios actuales para identificar oportunidades de mejora en la experiencia del usuario.
 
 ### Segmento Conductores Urbanos Frecuentes
 
