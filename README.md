@@ -1265,62 +1265,66 @@ En esta sección, el equipo establece las decisiones y convenciones para mantene
 
 #### 5.1.1. Software Development Environment Configuration
 
-En este apartado, se mencionarán los distintos productos de software empleados por el equipo de desarrollo para llevar a cabo las actividades relacionadas con la elaboración del proyecto PARKINGNOW.
+#### Product UX/UI Design
+
+
+En este apartado se mencionarán los distintos productos de software empleados por el equipo de desarrollo para llevar a cabo las actividades relacionadas con la elaboración del proyecto **PARKINGNOW**.
 
 #### Product UX/UI Design
 
-**UXPressia**  
-[UXPressia](https://uxpressia.com/): UXPressia es una herramienta en línea que facilita a los equipos de trabajo la identificación y comprensión de los problemas, necesidades y comportamientos del usuario en relación con la solución de software que se está desarrollando, utilizando diversas plantillas. En nuestro proyecto, se utilizó para la creación de User Personas, Empathy Maps, Journey Maps e Impact Maps, proporcionando una visión clara y centrada en el usuario para mejorar la experiencia del mismo.
+1. **UXPressia**: [https://uxpressia.com/](https://uxpressia.com/)  
+   Se utilizó para la creación de User Personas, Empathy Maps, Journey Maps e Impact Maps, proporcionando una visión centrada en el usuario.
 
-**Figma**  
-[Figma](https://www.figma.com/): Figma es una herramienta de diseño y prototipado colaborativo en tiempo real, que permite a los equipos diseñar y maquetar tanto páginas web como aplicaciones. En el proyecto PARKINGNOW, se utilizó para la creación de wireframes, mock-ups y prototipos de aplicaciones móviles y de escritorio, permitiendo a los desarrolladores y diseñadores trabajar de manera conjunta y eficiente en la creación de la interfaz de usuario.
+2. **Figma**: [https://www.figma.com/](https://www.figma.com/)  
+   Herramienta de diseño colaborativo utilizada para la creación de wireframes, mock-ups y prototipos de aplicaciones móviles y de escritorio.
 
-**Miro**  
-[Miro](https://miro.com/): Miro es una plataforma de colaboración en línea que ofrece pizarras digitales interactivas y personalizables para la creación de diagramas, mapas de procesos, flujos de trabajo, y más. En el desarrollo de PARKINGNOW, Miro se utilizó específicamente para la creación de As-Is y To-Be Scenario Maps, ayudando a visualizar y planificar los diferentes escenarios de uso de la plataforma.
+3. **Miro**: [https://miro.com/](https://miro.com/)  
+   Utilizada para la creación de los As-Is y To-Be Scenario Maps, ayudando a visualizar y planificar los diferentes escenarios de uso de la plataforma.
 
 #### Software Development
 
-**Visual Studio Code**  
-[Visual Studio Code](https://code.visualstudio.com/): Visual Studio Code es un entorno de desarrollo ligero y personalizable utilizado por el equipo de PARKINGNOW para el desarrollo del landing page y de las aplicaciones web. Utilizando tecnologías como HTML5, CSS3, JavaScript, y TypeScript en combinación con el framework Angular, el equipo fue capaz de desarrollar una interfaz de usuario dinámica y responsiva.
 
-**GitHub**  
-[GitHub](https://github.com/): GitHub es una plataforma para alojamiento de proyectos mediante repositorios que utiliza el sistema de control de versiones Git. En el proyecto PARKINGNOW, GitHub es utilizado para la gestión del código fuente, permitiendo un trabajo colaborativo eficiente. Se aplica el modelo de flujo de trabajo GitFlow para la gestión de ramas, garantizando un desarrollo ordenado y controlado del proyecto. 
+4. **WebStorm**:  
+   Entorno de desarrollo utilizado para trabajar con HTML, CSS, JavaScript y frameworks como Vue y Angular.
 
-**Git**  
-[Git](https://git-scm.com/): Git es un software de control de versiones distribuido utilizado para llevar un historial detallado de los cambios realizados en el proyecto a través de commits. Git facilita el trabajo colaborativo, permitiendo que los desarrolladores trabajen en diferentes características simultáneamente y fusionen sus cambios de manera segura.
+5. **Rider**:  
+   Entorno de desarrollo usado para trabajar con el lenguaje C# y la plataforma .NET, utilizada para crear Web Services basados en ASP.NET para el proyecto.
 
-**WebStorm**  
-WebStorm es un entorno de desarrollo integrado (IDE) utilizado para trabajar con HTML, CSS, JavaScript y frameworks modernos como Angular y Vue.js. En PARKINGNOW, se utiliza para facilitar el desarrollo front-end de las aplicaciones web, ofreciendo herramientas avanzadas de depuración y autocompletado.
+6. **Spring Boot Framework**:  
+   Framework utilizado para desarrollar servicios web RESTful en Java, proporcionando una base escalable y robusta.
 
-**Spring Boot Framework**  
-Spring Boot es un framework de desarrollo rápido para crear aplicaciones empresariales utilizando Java. En el proyecto PARKINGNOW, se utiliza para desarrollar servicios web RESTful, proporcionando una base robusta y escalable para la comunicación entre el frontend y el backend de la aplicación.
+7. **GitHub**: [https://github.com/](https://github.com/)  
+   Plataforma de control de versiones utilizada para la gestión del código fuente, aplicando el flujo de trabajo GitFlow para garantizar un desarrollo ordenado.
 
-#### Software Documentation
-
-**LucidChart**  
-[LucidChart](https://www.lucidchart.com/): LucidChart es una herramienta en línea para la creación de diagramas, flujos y mapas mentales. En PARKINGNOW, se utilizó para la creación de diagramas UML, wireflows y user flows, permitiendo una representación visual clara y detallada de la arquitectura de la aplicación y los flujos de usuario.
-
-**Structurizr**  
-[Structurizr](https://structurizr.com/): Structurizr es una plataforma para modelado de arquitecturas de software mediante el uso de código. Fue utilizado en PARKINGNOW para crear el modelo C4 del sistema, lo que permitió al equipo visualizar la arquitectura en diferentes niveles de abstracción y asegurarse de que todos los componentes del sistema estuvieran bien diseñados e integrados.
-
-**Vertabelo**  
-[Vertabelo](https://vertabelo.com/): Vertabelo es una herramienta online que facilita el diseño, creación y gestión de bases de datos de manera colaborativa. En el proyecto PARKINGNOW, se utilizó para diseñar la estructura de la base de datos, garantizando que la base de datos esté bien organizada y optimizada para el rendimiento.
-
-#### Software Testing
-
-**Swagger / OpenAPI Specification**  
-[Swagger](https://swagger.io/specification/): Para la documentación de las APIs RESTful desarrolladas con Spring Boot, se utilizó Swagger bajo la especificación OpenAPI. Esta herramienta permite generar documentación interactiva que facilita la comprensión y prueba de los servicios web implementados en PARKINGNOW.
+8. **Git**: [https://git-scm.com/](https://git-scm.com/)  
+   Software de control de versiones utilizado para gestionar los cambios en el código a través de commits y facilitar el trabajo colaborativo.
 
 #### Project Management and Collaboration
 
-**Trello**  
-[Trello](https://trello.com/): Trello es una herramientas de gestión de proyectos utilizadas para la planificación y seguimiento del desarrollo del proyecto PARKINGNOW. Esta plataforma permite organizar tareas, asignar responsabilidades, y hacer un seguimiento del progreso de cada tarea, asegurando una ejecución eficiente y organizada del proyecto.
+9. **WhatsApp**: [https://web.whatsapp.com/](https://web.whatsapp.com/)  
+   Aplicación de mensajería utilizada para la coordinación y discusión de temas relacionados con el proyecto en tiempo real.
 
-**WhatsApp**  
-[WhatsApp](https://web.whatsapp.com/): WhatsApp es utilizado como la principal herramienta de comunicación instantánea para coordinar y discutir temas relacionados con el proyecto en tiempo real. Su facilidad de uso y amplia adopción entre los miembros del equipo lo hacen ideal para mantener una comunicación constante y fluida.
+10. **Google Docs**: [https://docs.google.com/](https://docs.google.com/)  
+   Utilizado para la creación y edición colaborativa de documentos relacionados con el proyecto, permitiendo a varios miembros trabajar simultáneamente.
 
-**Google Docs**  
-[Google Docs](https://docs.google.com/): Google Docs es una herramienta de edición colaborativa en línea utilizada para la creación y edición de documentos relacionados con el proyecto. Permite a varios miembros del equipo trabajar simultáneamente en la misma documentación, asegurando una colaboración efectiva y transparente en la elaboración de especificaciones técnicas y otros documentos relevantes. 
+#### Software Documentation
+
+11. **Vertabelo**: [https://vertabelo.com/](https://vertabelo.com/)  
+   Herramienta online utilizada para el diseño, creación y gestión colaborativa de bases de datos para el proyecto.
+
+12. **LucidChart**: [https://lucid.app/](https://lucid.app/)  
+   Plataforma utilizada para la creación de diagramas UML, wireflows y user flows, facilitando la visualización y planificación del sistema.
+
+13. **Structurizr**: [https://www.structurizr.com/](https://www.structurizr.com/)  
+   Herramienta utilizada para modelar la arquitectura de software mediante diagramas C4, permitiendo un modelado claro de la estructura del proyecto.
+
+#### Software Testing
+
+14. **Swagger / OpenAPI Specification**: [https://swagger.io/specification/](https://swagger.io/specification/)  
+   Utilizado para documentar y probar las APIs RESTful desarrolladas con Spring Boot, facilitando la creación de documentación interactiva.
+
+15. **Markdown**  
+   Lenguaje de marcado ligero utilizado para documentar el proyecto y en los archivos README del repositorio de la organización.
 
 #### 5.1.2. Source Code Management
 
