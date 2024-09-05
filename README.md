@@ -13,7 +13,7 @@ Ciclo: 5to <br>
 
 <h2 align="center">INFORME</h2>
 
-<h3 align="center">Startup:</h3>
+<h3 align="center">Startup: Code Mondoguito</h3>
 <p align="center"><strong>Producto: ParkingNow</strong></p>
 
 <h3 align="center">Team Members:</h3>
@@ -30,13 +30,13 @@ Ciclo: 5to <br>
 
 </div>
 
-<p align="center"><strong>Agosto 2024</strong></p>
+<p align="center"><strong>Septiembre 2024</strong></p>
 
 # Registro de Versiones del Informe
 
 | Versión | Fecha       | Autor(es)                                                                                                  | Descripción de la modificación                                                                                                                                                       |
 |---------|-------------|------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| TB1     | 12/09/2024  | Diego Alonso Cacho Seminario<br><br>Rodrigo Liberato Saldaña<br><br>Samuel Elias Molina Asencios<br><br>Omar Harold Rivera Ticllacuri<br><br>Diego Ulises Soto Quispe | Se agregó el contenido del capítulo 1 (apartados 1.1, 1.2 y 1.3); el contenido del capítulo 2 (apartados 2.1, 2.2, 2.3, 2.4); el contenido del capítulo 3 (apartados 3.1, 3.2, 3.3 y 3.4); el contenido del capítulo 4 (apartados 4.1, 4.2, 4.3, 4.4, 4.5, 4.6, 4.7 y 4.8); y el contenido del capítulo 5 (apartados 5.1 y 5.2). |
+| TB1     | 06/09/2024  | Diego Alonso Cacho Seminario<br><br>Rodrigo Liberato Saldaña<br><br>Samuel Elias Molina Asencios<br><br>Omar Harold Rivera Ticllacuri<br><br>Diego Ulises Soto Quispe | Se agregó el contenido del capítulo 1 (apartados 1.1, 1.2 y 1.3); el contenido del capítulo 2 (apartados 2.1, 2.2, 2.3, 2.4); el contenido del capítulo 3 (apartados 3.1, 3.2, 3.3 y 3.4); el contenido del capítulo 4 (apartados 4.1, 4.2, 4.3, 4.4, 4.5, 4.6, 4.7 y 4.8); y el contenido del capítulo 5 (apartados 5.1 y 5.2). |
 | TP1     |             | Diego Alonso Cacho Seminario<br><br>Rodrigo Liberato Saldaña<br><br>Samuel Elias Molina Asencios<br><br>Omar Harold Rivera Ticllacuri<br><br>Diego Ulises Soto Quispe |                                                                                                                                                                                       |
 | TB2     |             | Diego Alonso Cacho Seminario<br><br>Rodrigo Liberato Saldaña<br><br>Samuel Elias Molina Asencios<br><br>Omar Harold Rivera Ticllacuri<br><br>Diego Ulises Soto Quispe |                                                                                                                                                                                       |
 | TF1     |             | Diego Alonso Cacho Seminario<br><br>Rodrigo Liberato Saldaña<br><br>Samuel Elias Molina Asencios<br><br>Omar Harold Rivera Ticllacuri<br><br>Diego Ulises Soto Quispe |                                                                                                                                                                                       |
