@@ -1015,13 +1015,98 @@ Utilizamos la escala de Fibonacci para la estimación de los Story Points.
 
 ### 4.2. Information Architecture
 
-En esta sección, se detallan las decisiones de diseño tomadas para el desarrollo de la arquitectura de información de PARKINGNOW, con el objetivo de facilitar la adaptación e interacción del usuario con la aplicación y la landing page. Nuestro enfoque se centra en asegurar una navegación intuitiva, accesible y eficiente, que permita a los usuarios encontrar rápidamente la información y realizar las acciones deseadas.
-
-El diseño de la información se organiza bajo un esquema jerárquico y categorizado, optimizando la estructura de la página para diferentes tipos de usuarios: conductores urbanos frecuentes y dueños de playas de estacionamientos.
+En esta sección, el equipo detalla las decisiones y fundamentos que guían la organización del contenido en las experiencias web y móvil de PARKINGNOW, incluyendo tanto la Landing Page como las Aplicaciones Web. Estas propuestas están diseñadas para asegurar que los visitantes y usuarios se adapten fácilmente a la funcionalidad de cada producto y puedan encontrar lo que necesitan sin esfuerzo. Las decisiones incluyen los sistemas de organización, etiquetado, navegación y búsqueda.
 
 #### 4.2.1. Organization Systems
 
+### 4.2.1. Organization Systems
+
+Para estructurar la arquitectura de la información de **PARKINGNOW**, se ha adoptado un sistema de organización jerárquico tanto en la **Landing Page** como en la **Aplicación Web**. Este sistema facilita la navegación intuitiva y garantiza que los usuarios puedan encontrar fácilmente la información y las funciones que necesitan.
+
+#### **Landing Page** 
+
+La **Landing Page** de **PARKINGNOW** se organiza de manera jerárquica para que los usuarios puedan acceder rápidamente a la información más relevante y a las acciones necesarias para interactuar con la plataforma:
+
+1. **Barra de Navegación Principal**: Situada en la parte superior de la página, proporciona accesos rápidos a las secciones clave:
+   - **Inicio (Home)**: La página de inicio que da la bienvenida a los usuarios y proporciona una visión general de los servicios de **PARKINGNOW**. Incluye un banner destacado con un mensaje central y botones de llamada a la acción para el registro e inicio de sesión.
+   - **Servicios (Services)**: Desglosa los servicios ofrecidos tanto a conductores urbanos como a dueños de playas de estacionamiento. Esta sección está organizada para que cada tipo de usuario pueda rápidamente identificar cómo **PARKINGNOW** les beneficiará.
+   - **Transacción (Plans):** Explica las diferentes opciones de transacción disponibles para los usuarios, incluyendo características y beneficios de cada una. Esta sección está diseñada para facilitar la comprensión y comparación de opciones.
+   - **Contáctanos (Contact Us)**: Proporciona información de contacto, un formulario de consulta y enlaces a redes sociales, facilitando la comunicación entre los usuarios y el equipo de soporte de **PARKINGNOW**.
+   - **Nosotros (About Us)**: Describe la misión, visión, y el equipo detrás de **PARKINGNOW**, generando confianza y transparencia con los usuarios.
+
+2. **Estructura de Contenido Jerárquica**:
+   - **Encabezados y Subencabezados**: Organizan el contenido dentro de cada sección, permitiendo a los usuarios explorar más a fondo según sus intereses.
+   - **Botones de Llamada a la Acción (CTAs)**: Colocados estratégicamente para guiar a los usuarios hacia acciones deseadas, como registrarse, iniciar sesión o contactar con el equipo.
+
+3. **Footer**:
+   - Incluye enlaces a secciones importantes como políticas de privacidad, términos de servicio, contacto, y enlaces a redes sociales. El footer proporciona una navegación adicional para usuarios que desean explorar más sobre **PARKINGNOW**.
+
+#### **Aplicación Web**
+
+La **Aplicación Web** de **PARKINGNOW** está diseñada para ofrecer una experiencia personalizada para dos segmentos principales de usuarios: **Conductores Urbanos Frecuentes** y **Dueños de Playas de Estacionamiento**. La organización del contenido está estructurada de manera que cada tipo de usuario pueda navegar eficientemente por la aplicación.
+
+1. **Para Conductores Urbanos Frecuentes**:
+   - **Inicio (Home)**: Muestra una vista general de las reservas actuales y accesos rápidos a funcionalidades clave como la búsqueda de estacionamientos y favoritos.
+   - **Búsqueda de Estacionamiento (Search Parking)**: Permite a los usuarios buscar y ver la disponibilidad de espacios de estacionamiento en tiempo real, utilizando filtros avanzados para una experiencia de búsqueda más eficiente.
+   - **Favoritos (Favorites)**: Contiene una lista de los estacionamientos que el usuario ha marcado como favoritos, permitiendo un acceso rápido para futuras reservas.
+   - **Historial (History)**: Proporciona un registro completo de todas las reservas pasadas, ayudando a los usuarios a llevar un control de sus actividades de estacionamiento.
+
+2. **Para Dueños de Playas de Estacionamiento**:
+   - **Inicio (Home)**: Proporciona un resumen de la ocupación actual y las notificaciones relevantes.
+   - **Monitoreo (Monitoring)**: Herramientas para supervisar en tiempo real la ocupación de los estacionamientos y gestionar las reservas.
+   - **Reservas (Reservations)**: Permite la gestión de reservas, incluyendo la capacidad de aprobar o rechazar solicitudes de espacio de estacionamiento.
+   - **Estadísticas (Statistics)**: Proporciona análisis detallados del uso de los estacionamientos y métricas de ingresos, ayudando a los propietarios a optimizar su operación.
+
+3. **Interacción y Flujo de Trabajo**:
+   - Las interfaces están diseñadas para ser intuitivas y fáciles de usar, permitiendo a los usuarios completar tareas rápidamente con un mínimo de pasos.
+   - Cada sección dentro de la aplicación está claramente etiquetada y utiliza una combinación de texto e íconos para mejorar la usabilidad y la comprensión.
+
 #### 4.2.2. Labeling Systems
+
+### 4.2.2. Labeling Systems
+
+En este apartado se describen los sistemas de etiquetado utilizados en la **Landing Page** y la **Aplicación Web** de **PARKINGNOW**. El etiquetado está diseñado para facilitar la navegación y mejorar la experiencia del usuario, asegurando que cada sección y funcionalidad sea fácilmente reconocible y accesible.
+
+#### **Etiquetas de Encabezados (Headings)**
+Las etiquetas de encabezado en **PARKINGNOW** se utilizan para definir claramente las secciones principales de la página y la aplicación. Esto permite a los usuarios identificar rápidamente el contenido de cada sección:
+
+- **Inicio/Home**: Este encabezado se utiliza en la página principal para dar la bienvenida a los usuarios y proporcionar una introducción general a la plataforma. Aquí se muestra un banner con la misión de la empresa y botones de acceso rápido para registro e inicio de sesión.
+  
+- **Servicios/Services**: Sección que describe las funciones principales de la plataforma, como búsqueda y reserva de estacionamientos, optimización de rutas y monitoreo en tiempo real de espacios disponibles.
+
+- **Planes y Precios/Transaction Pricing:** Encabezado que detalla las opciones de precios y planes de transacción disponibles para los usuarios, tanto para conductores urbanos como para propietarios de estacionamientos.
+
+- **Contactanos/Contact Us**: Proporciona información de contacto y un formulario para que los usuarios puedan enviar consultas o solicitar soporte.
+
+- **Sobre Nosotros/About Us**: Ofrece información sobre la empresa, su misión, visión y el equipo detrás de **PARKINGNOW**.
+
+#### **Etiquetas Textuales (Text Labels)**
+Las etiquetas textuales son utilizadas para identificar categorías específicas o acciones dentro de la plataforma. Estas etiquetas ayudan a los usuarios a navegar de manera efectiva y realizar acciones específicas:
+
+- **Buscar Estacionamiento/Find Parking**: Utilizada en la barra de búsqueda, permite a los usuarios ingresar su ubicación deseada y buscar estacionamientos disponibles en tiempo real.
+
+- **Reservar/Reserve**: Botón que permite a los usuarios seleccionar y confirmar un espacio de estacionamiento disponible.
+
+- **Historial/History**: Etiqueta utilizada para acceder al historial de reservas del usuario, mostrando las reservas pasadas y las futuras.
+
+- **Favoritos/Favorites**: Sección donde los usuarios pueden ver los estacionamientos marcados como favoritos para un acceso rápido en futuras visitas.
+
+- **Configuraciones/Settings**: Permite a los usuarios acceder a sus preferencias de cuenta, notificaciones y ajustes de la aplicación.
+
+#### **Etiquetas Icónicas (Iconic Labels)**
+Las etiquetas icónicas se basan en imágenes o iconos que transmiten significado visualmente. Estas etiquetas son intuitivas y ayudan a los usuarios a comprender rápidamente las funcionalidades sin necesidad de texto:
+
+- **Icono de Búsqueda (Lupa)**: Representa la función de búsqueda de estacionamientos, facilitando la identificación rápida de esta acción.
+
+- **Icono de Calendario**: Utilizado para indicar la fecha y hora de las reservas en la sección de reservas y confirmación.
+
+- **Icono de Estrella**: Marca los estacionamientos favoritos del usuario, permitiendo un fácil acceso a estos en el futuro.
+
+- **Icono de Coche**: Representa la función de seguimiento del vehículo en el estacionamiento, asegurando que el usuario pueda ubicar su coche fácilmente.
+
+- **Icono de Notificación (Campana)**: Utilizado para alertar a los usuarios sobre actualizaciones importantes, como cambios en la disponibilidad de estacionamientos o confirmaciones de reservas.
+
+Estas etiquetas se encuentran distribuidas en la barra de navegación y en las distintas secciones de la página y la aplicación, guiando a los usuarios de manera intuitiva y mejorando la experiencia de uso en **PARKINGNOW**.
 
 #### 4.2.3. SEO Tags and Meta Tags
 
