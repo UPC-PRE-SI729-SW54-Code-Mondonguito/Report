@@ -1320,9 +1320,81 @@ Link: [Vertabelo](https://my.vertabelo.com/doc/pYDPCowUTtVaVuDmakCr4QlOKjdT1o1o)
 
 ### 5.1. Software Configuration Management
 
+En esta sección, el equipo establece las decisiones y convenciones para mantener la consistencia durante el ciclo de vida del desarrollo del software. Estas convenciones son cruciales para asegurar que todo el equipo esté alineado en términos de uso de herramientas, prácticas de codificación, y procesos de despliegue.
+
 #### 5.1.1. Software Development Environment Configuration
 
-#### 5.1.2. Source Code Management
+En este apartado se mencionarán los distintos productos de software empleados por el equipo de desarrollo para llevar a cabo las actividades relacionadas con la elaboración del proyecto **PARKINGNOW**.
+
+#### Product UX/UI Design
+
+1. **UXPressia**: [https://uxpressia.com/](https://uxpressia.com/)  
+   Se utilizó para la creación de User Personas, Empathy Maps, Journey Maps e Impact Maps, proporcionando una visión centrada en el usuario.
+
+2. **Figma**: [https://www.figma.com/](https://www.figma.com/)  
+   Herramienta de diseño colaborativo utilizada para la creación de wireframes, mock-ups y prototipos de aplicaciones móviles y de escritorio.
+
+3. **Miro**: [https://miro.com/](https://miro.com/)  
+   Utilizada para la creación de los As-Is y To-Be Scenario Maps, ayudando a visualizar y planificar los diferentes escenarios de uso de la plataforma.
+
+#### Software Development
+
+4. **Visual Studio Code**: [https://code.visualstudio.com/](https://code.visualstudio.com/)  
+   Entorno de desarrollo ligero empleado para la creación del landing page y las aplicaciones web, utilizando HTML5, CSS3, JavaScript y TypeScript.
+
+5. **WebStorm**:  
+   Entorno de desarrollo utilizado para trabajar con HTML, CSS, JavaScript y frameworks como Vue y Angular.
+
+6. **Rider**:  
+   Entorno de desarrollo usado para trabajar con el lenguaje C# y la plataforma .NET, utilizada para crear Web Services basados en ASP.NET para el proyecto.
+
+7. **Spring Boot Framework**:  
+   Framework utilizado para desarrollar servicios web RESTful en Java, proporcionando una base escalable y robusta.
+
+8. **GitHub**: [https://github.com/](https://github.com/)  
+   Plataforma de control de versiones utilizada para la gestión del código fuente, aplicando el flujo de trabajo GitFlow para garantizar un desarrollo ordenado.
+
+9. **Git**: [https://git-scm.com/](https://git-scm.com/)  
+   Software de control de versiones utilizado para gestionar los cambios en el código a través de commits y facilitar el trabajo colaborativo.
+
+#### Project Management and Collaboration
+
+10. **WhatsApp**: [https://web.whatsapp.com/](https://web.whatsapp.com/)  
+   Aplicación de mensajería utilizada para la coordinación y discusión de temas relacionados con el proyecto en tiempo real.
+
+11. **Google Docs**: [https://docs.google.com/](https://docs.google.com/)  
+   Utilizado para la creación y edición colaborativa de documentos relacionados con el proyecto, permitiendo a varios miembros trabajar simultáneamente.
+
+#### Software Documentation
+
+12. **Vertabelo**: [https://vertabelo.com/](https://vertabelo.com/)  
+   Herramienta online utilizada para el diseño, creación y gestión colaborativa de bases de datos para el proyecto.
+
+13. **LucidChart**: [https://lucid.app/](https://lucid.app/)  
+   Plataforma utilizada para la creación de diagramas UML, wireflows y user flows, facilitando la visualización y planificación del sistema.
+
+14. **Structurizr**: [https://www.structurizr.com/](https://www.structurizr.com/)  
+   Herramienta utilizada para modelar la arquitectura de software mediante diagramas C4, permitiendo un modelado claro de la estructura del proyecto.
+
+#### Software Testing
+
+15. **Swagger / OpenAPI Specification**: [https://swagger.io/specification/](https://swagger.io/specification/)  
+   Utilizado para documentar y probar las APIs RESTful desarrolladas con Spring Boot, facilitando la creación de documentación interactiva.
+
+16. **Markdown**  
+   Lenguaje de marcado ligero utilizado para documentar el proyecto y en los archivos README del repositorio de la organización.
+
+### 5.1.2. Source Code Management
+
+La gestión del código fuente es una parte fundamental del desarrollo de cualquier proyecto de software, ya que permite rastrear cambios, revertir versiones y coordinar a varios desarrolladores trabajando simultáneamente. En PARKINGNOW, utilizaremos **Git** como sistema de control de versiones y **GitHub** como plataforma para alojar nuestros repositorios.
+
+### URL de los Repositorios:
+- **Organización:**  https://github.com/UPC-PRE-SI729-SW54-Code-Mondonguito
+- **Reporte:**  https://github.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Report
+- **Landing Page:** https://github.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Landing-Page
+- **Frontend:** https://github.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Frontend
+- **Backend:** https://github.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Backend
+
 
 #### 5.1.3. Source Code Style Guide & Conventions
 
