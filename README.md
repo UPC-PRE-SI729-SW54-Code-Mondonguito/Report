@@ -1322,10 +1322,6 @@ Spring Boot es un framework de desarrollo rápido para crear aplicaciones empres
 **Google Docs**  
 [Google Docs](https://docs.google.com/): Google Docs es una herramienta de edición colaborativa en línea utilizada para la creación y edición de documentos relacionados con el proyecto. Permite a varios miembros del equipo trabajar simultáneamente en la misma documentación, asegurando una colaboración efectiva y transparente en la elaboración de especificaciones técnicas y otros documentos relevantes. 
 
-#### Conclusion
-
-Estas herramientas han sido seleccionadas y configuradas estratégicamente para maximizar la eficiencia del equipo, facilitar la colaboración y asegurar la entrega de un producto de alta calidad que satisfaga las necesidades de los usuarios y cumpla con los objetivos del proyecto.
-
 #### 5.1.2. Source Code Management
 
 #### 5.1.3. Source Code Style Guide & Conventions
