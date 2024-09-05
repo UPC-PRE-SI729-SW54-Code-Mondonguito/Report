@@ -13,7 +13,7 @@ Ciclo: 5to <br>
 
 <h2 align="center">INFORME</h2>
 
-<h3 align="center">Startup: Code Mondoguito</h3>
+<h3 align="center">Startup:</h3>
 <p align="center"><strong>Producto: ParkingNow</strong></p>
 
 <h3 align="center">Team Members:</h3>
@@ -30,13 +30,13 @@ Ciclo: 5to <br>
 
 </div>
 
-<p align="center"><strong>Septiembre 2024</strong></p>
+<p align="center"><strong>Agosto 2024</strong></p>
 
 # Registro de Versiones del Informe
 
 | Versión | Fecha       | Autor(es)                                                                                                  | Descripción de la modificación                                                                                                                                                       |
 |---------|-------------|------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| TB1     | 06/09/2024  | Diego Alonso Cacho Seminario<br><br>Rodrigo Liberato Saldaña<br><br>Samuel Elias Molina Asencios<br><br>Omar Harold Rivera Ticllacuri<br><br>Diego Ulises Soto Quispe | Se agregó el contenido del capítulo 1 (apartados 1.1, 1.2 y 1.3); el contenido del capítulo 2 (apartados 2.1, 2.2, 2.3, 2.4); el contenido del capítulo 3 (apartados 3.1, 3.2, 3.3 y 3.4); el contenido del capítulo 4 (apartados 4.1, 4.2, 4.3, 4.4, 4.5, 4.6, 4.7 y 4.8); y el contenido del capítulo 5 (apartados 5.1 y 5.2). |
+| TB1     | 12/09/2024  | Diego Alonso Cacho Seminario<br><br>Rodrigo Liberato Saldaña<br><br>Samuel Elias Molina Asencios<br><br>Omar Harold Rivera Ticllacuri<br><br>Diego Ulises Soto Quispe | Se agregó el contenido del capítulo 1 (apartados 1.1, 1.2 y 1.3); el contenido del capítulo 2 (apartados 2.1, 2.2, 2.3, 2.4); el contenido del capítulo 3 (apartados 3.1, 3.2, 3.3 y 3.4); el contenido del capítulo 4 (apartados 4.1, 4.2, 4.3, 4.4, 4.5, 4.6, 4.7 y 4.8); y el contenido del capítulo 5 (apartados 5.1 y 5.2). |
 | TP1     |             | Diego Alonso Cacho Seminario<br><br>Rodrigo Liberato Saldaña<br><br>Samuel Elias Molina Asencios<br><br>Omar Harold Rivera Ticllacuri<br><br>Diego Ulises Soto Quispe |                                                                                                                                                                                       |
 | TB2     |             | Diego Alonso Cacho Seminario<br><br>Rodrigo Liberato Saldaña<br><br>Samuel Elias Molina Asencios<br><br>Omar Harold Rivera Ticllacuri<br><br>Diego Ulises Soto Quispe |                                                                                                                                                                                       |
 | TF1     |             | Diego Alonso Cacho Seminario<br><br>Rodrigo Liberato Saldaña<br><br>Samuel Elias Molina Asencios<br><br>Omar Harold Rivera Ticllacuri<br><br>Diego Ulises Soto Quispe |                                                                                                                                                                                       |
@@ -52,10 +52,7 @@ Durante la preparación del informe, se llevaron a cabo las siguientes actividad
 - Se crearon los artefactos necesarios utilizando las herramientas recomendadas y se obtuvieron enlaces de imagen a través de la carpeta `Assets` en la rama `develop` del repositorio del informe.
 - Se organizaron reuniones para coordinar el progreso de los elementos del informe y para comunicar los avances del Sprint 1, que se enfoca en la Landing Page.
 
-# ABET – EAC - Student Outcome 3 
-
-Criterio: La capacidad de comunicarse efectivamente con un rango de audiencias. En el siguiente cuadro se describe las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 3.
-
+# Student Outcome
 | Criterio específico                                                                                 | Acciones realizadas | Conclusiones |
 |------------------------------------------------------------------------------------------------------|---------------------|--------------|
 | **Comunica oralmente con efectividad a diferentes rangos de audiencia.**                                          |              |
@@ -1108,12 +1105,44 @@ Las etiquetas icónicas se basan en imágenes o iconos que transmiten significad
 Estas etiquetas se encuentran distribuidas en la barra de navegación y en las distintas secciones de la página y la aplicación, guiando a los usuarios de manera intuitiva y mejorando la experiencia de uso en **PARKINGNOW**.
 
 #### 4.2.3. SEO Tags and Meta Tags
+Los SEO Tag y Meta Tags ayudaran a que la pagina estatica y la aplicacion web sea posible de analizar facilmente y se pueda gestionar de manera eficiente y optima.
+
+**Titulo**
+El titulo de nuestra Startup se definira de la siguiente manera:
+
+``<title> PARKINGNOW </title>``
+
+**Description**
+Las descriopciones de nuestra Startup se definira de la siguiente manera:
+
+``<meta name="description" content="ParkingNow es una aplicacion que ayudara a los usuarios a reservar lugares de estacionamiento"/>``
+
+**Keywords**
+Algunas Keywords como "viewport" se definira de la siguiente manera:
+
+``<meta name="viewport" content="width=device-width, initial-scale=1.0">``
+
+**Author**
+Nuestra marca sera registrada en nuestra pagina de la siguiente manera:
+
+``<meta name="copyright" content="© 2024 PARKINGNOW. Todos los derechos reservados"./``
 
 #### 4.2.4. Searching Systems
+Estos metodos de busqueda ayudaran a los usuarios a navegar por nuestra aplicacion web con mas facilidad y podran encontrar lo que estan buscando de forma intuitiva. Los metodos de busqueda para nuestra aplicacion web seran las siguientes:
+
+**Busqueda por caracteres:** Los usuarios podran buscar sus establecimientos por medio del nombre o dueño en la barra de busqueda de playa de estacionamiento.
+
+**Busqueda por ubicacion:** Los usuarios podran usar la ubicacion exacta para encontrar el establecimiento en la barra de busqeuda de playa de estacionamiento.
+
+**Busqueda por mapa:** Para hacerlo de forma mas intuitiva, decidimos que los usuarios tambien puedan usar el mapa para buscar locales lejanos o cercanos a su ubicacion.
 
 #### 4.2.5. Navigation Systems
 
+El metodo de navegacion para nuestro usuario por medio de las paginas de la aplicacion web sera intuitivo y sencillo para el usuario, donde tendra todo la vista y los colores llamativos ayudara a que sepa que hacer al momento de realizar alguna accion, como inicar sesion, registrarse, realizar una reserva, ver las estadisticas de sus establecimientos, etc. Asimismo la busqueda de playas de estacionamiento sera rapido y sin interrupciones para los usuarios.
+
 ### 4.3. Landing Page UI Design
+
+En el siguiente punto, mostraremos los dieños más tempranos de la pagina estatica y la aplicacion web.
 
 #### 4.3.1. Landing Page Wireframe
 
@@ -1158,13 +1187,29 @@ En las siguientes imagenes lo que se puede ver es el Dashboard de los condutores
 ![Wireframe7](Assets/Wireframe_7.png)
 
 #### 4.4.2. Web Applications Wireflow Diagrams
+
+User goal: Registrarse como conductor o dueno de playa de estacionamiento.
 ![Wireflow1](Assets/Wireflow_1.png)
+
+User goal: Iniciar sesion como conductor o dueno de playa de estacionamiento.
 ![Wireflow2](Assets/Wireflow_2.png)
+
+User goal: Hacer una reserva como conductor en la aplicacion.
 ![Wireflow3](Assets/Wireflow_3.png)
+
+User goal: Dejar una opinion a una playa de estacionamiento.
 ![Wireflow4](Assets/Wireflow_4.png)
+
+User goal: Recibir soporte en la pestaña de "Soporte" como conductor.
 ![Wireflow5](Assets/Wireflow_5.png)
+
+User Goal: Como usuario revisar el estado de mi carro por medio del sensor.
 ![Wireflow6](Assets/Wireflow_6.png)
+
+User Goal: Como dueño de la playa de estacionamiento, revisar las reservas programadas para el dia de hoy.
 ![Wireflow7](Assets/Wireflow_7.png)
+
+User Goal: Como dueño de la playa de estacionamiento monitorear las alertas y carros que se quedan en el estacionamiento.
 ![Wireflow8](Assets/Wireflow_8.png)
 
 #### 4.4.3. Web Applications Mock-ups
@@ -1211,11 +1256,22 @@ A continuacion se puede ver el Dashboard de los Dueños de playas de estacionami
 
 #### 4.4.4. Web Applications User Flow Diagrams
 
+User goal: Registrarse como conductor o dueno de playa de estacionamiento.
 ![Userflow1](Assets/Userflow_1.png)
+
+User goal: Iniciar sesion como conductor o dueno de playa de estacionamiento.
 ![Userflow2](Assets/Userflow_2.png)
+
+User goal: Dejar una opinion como conductor en la aplicacion.
 ![Userflow3](Assets/Userflow_3.png)
+
+User goal: Hacer una reserva como conductor en la aplicacion.
 ![Userflow4](Assets/Userflow_4.png)
+
+User Goal: Como conductor revisar mis reservas actias, poder reservar y ver los lugares marcados como favoritos
 ![Userflow5](Assets/Userflow_5.png)
+
+User Goal: Como dueño de una playa de estacionamientos revisar los locales y estadisticas.
 ![Userflow6](Assets/Userflow_6.png)
 
 
@@ -1255,87 +1311,18 @@ Este diagrama de contenedores ilustra los componentes clave de la plataforma PAR
 
 ### 4.8. Database Design
 
+En este punto se mostrara la base de datos utilizada en nuestro projecto en relacion a los contextos definidos anteriormente.
 #### 4.8.1. Database Diagram
+Link: [Vertabelo](https://my.vertabelo.com/doc/pYDPCowUTtVaVuDmakCr4QlOKjdT1o1o)
+![Base de datos](Assets/ParkingNow_Database-2024-09-05_13-28.png)
 
 ## Capítulo V: Product Implementation, Validation & Deployment
 
 ### 5.1. Software Configuration Management
 
-En esta sección, el equipo establece las decisiones y convenciones para mantener la consistencia durante el ciclo de vida del desarrollo del software. Estas convenciones son cruciales para asegurar que todo el equipo esté alineado en términos de uso de herramientas, prácticas de codificación, y procesos de despliegue.
-
 #### 5.1.1. Software Development Environment Configuration
 
-En este apartado se mencionarán los distintos productos de software empleados por el equipo de desarrollo para llevar a cabo las actividades relacionadas con la elaboración del proyecto **PARKINGNOW**.
-
-#### Product UX/UI Design
-
-1. **UXPressia**: [https://uxpressia.com/](https://uxpressia.com/)  
-   Se utilizó para la creación de User Personas, Empathy Maps, Journey Maps e Impact Maps, proporcionando una visión centrada en el usuario.
-
-2. **Figma**: [https://www.figma.com/](https://www.figma.com/)  
-   Herramienta de diseño colaborativo utilizada para la creación de wireframes, mock-ups y prototipos de aplicaciones móviles y de escritorio.
-
-3. **Miro**: [https://miro.com/](https://miro.com/)  
-   Utilizada para la creación de los As-Is y To-Be Scenario Maps, ayudando a visualizar y planificar los diferentes escenarios de uso de la plataforma.
-
-#### Software Development
-
-4. **Visual Studio Code**: [https://code.visualstudio.com/](https://code.visualstudio.com/)  
-   Entorno de desarrollo ligero empleado para la creación del landing page y las aplicaciones web, utilizando HTML5, CSS3, JavaScript y TypeScript.
-
-5. **WebStorm**:  
-   Entorno de desarrollo utilizado para trabajar con HTML, CSS, JavaScript y frameworks como Vue y Angular.
-
-6. **Rider**:  
-   Entorno de desarrollo usado para trabajar con el lenguaje C# y la plataforma .NET, utilizada para crear Web Services basados en ASP.NET para el proyecto.
-
-7. **Spring Boot Framework**:  
-   Framework utilizado para desarrollar servicios web RESTful en Java, proporcionando una base escalable y robusta.
-
-8. **GitHub**: [https://github.com/](https://github.com/)  
-   Plataforma de control de versiones utilizada para la gestión del código fuente, aplicando el flujo de trabajo GitFlow para garantizar un desarrollo ordenado.
-
-9. **Git**: [https://git-scm.com/](https://git-scm.com/)  
-   Software de control de versiones utilizado para gestionar los cambios en el código a través de commits y facilitar el trabajo colaborativo.
-
-#### Project Management and Collaboration
-
-10. **WhatsApp**: [https://web.whatsapp.com/](https://web.whatsapp.com/)  
-   Aplicación de mensajería utilizada para la coordinación y discusión de temas relacionados con el proyecto en tiempo real.
-
-11. **Google Docs**: [https://docs.google.com/](https://docs.google.com/)  
-   Utilizado para la creación y edición colaborativa de documentos relacionados con el proyecto, permitiendo a varios miembros trabajar simultáneamente.
-
-#### Software Documentation
-
-12. **Vertabelo**: [https://vertabelo.com/](https://vertabelo.com/)  
-   Herramienta online utilizada para el diseño, creación y gestión colaborativa de bases de datos para el proyecto.
-
-13. **LucidChart**: [https://lucid.app/](https://lucid.app/)  
-   Plataforma utilizada para la creación de diagramas UML, wireflows y user flows, facilitando la visualización y planificación del sistema.
-
-14. **Structurizr**: [https://www.structurizr.com/](https://www.structurizr.com/)  
-   Herramienta utilizada para modelar la arquitectura de software mediante diagramas C4, permitiendo un modelado claro de la estructura del proyecto.
-
-#### Software Testing
-
-15. **Swagger / OpenAPI Specification**: [https://swagger.io/specification/](https://swagger.io/specification/)  
-   Utilizado para documentar y probar las APIs RESTful desarrolladas con Spring Boot, facilitando la creación de documentación interactiva.
-
-16. **Markdown**  
-   Lenguaje de marcado ligero utilizado para documentar el proyecto y en los archivos README del repositorio de la organización.
-
-### 5.1.2. Source Code Management
-
-La gestión del código fuente es una parte fundamental del desarrollo de cualquier proyecto de software, ya que permite rastrear cambios, revertir versiones y coordinar a varios desarrolladores trabajando simultáneamente. En PARKINGNOW, utilizaremos **Git** como sistema de control de versiones y **GitHub** como plataforma para alojar nuestros repositorios.
-
-### URL de los Repositorios:
-- **Organización:** PARKINGNOW - https://github.com/UPC-PRE-SI729-SW54-Code-Mondonguito
-- **Reporte:** Report - PARKINGNOW - https://github.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Report
-- **Landing Page:** LandingPage-PARKINGNOW -https://github.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Landing-Page
-- **Frontend:** PARKINGNOW-Frontend - https://github.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Frontend
-- **Backend:** PARKINGNOW-Backend - https://github.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Backend
-
+#### 5.1.2. Source Code Management
 
 #### 5.1.3. Source Code Style Guide & Conventions
 
@@ -1360,6 +1347,16 @@ La gestión del código fuente es una parte fundamental del desarrollo de cualqu
 ##### 5.2.X.7. Software Deployment Evidence for Sprint Review
 
 ##### 5.2.X.8. Team Collaboration Insights during Sprint
+
+### 5.3. Validation Interviews
+
+#### 5.3.1. Diseño de Entrevistas
+
+#### 5.3.2. Registro de Entrevistas
+
+#### 5.3.3. Evaluaciones según heurísticas
+
+### 5.4. Video About-the-Product
 
 ## Conclusiones 
 
