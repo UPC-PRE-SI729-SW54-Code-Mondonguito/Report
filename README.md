@@ -1019,8 +1019,6 @@ En esta sección, el equipo detalla las decisiones y fundamentos que guían la o
 
 #### 4.2.1. Organization Systems
 
-### 4.2.1. Organization Systems
-
 Para estructurar la arquitectura de la información de **PARKINGNOW**, se ha adoptado un sistema de organización jerárquico tanto en la **Landing Page** como en la **Aplicación Web**. Este sistema facilita la navegación intuitiva y garantiza que los usuarios puedan encontrar fácilmente la información y las funciones que necesitan.
 
 #### **Landing Page** 
