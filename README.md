@@ -1366,15 +1366,15 @@ Este diagrama de contenedores ilustra los componentes clave de la plataforma PAR
 ![Diagrama de Contenedores](Assets/structurizr-Container-001.png)
 
 #### 4.6.3. Software Architecture Components Diagrams
-***Diagrama Parking Component***
+***Parking Component diagram***
 Diagrama que refiere a todo el componente que involucra los parkeos (playas de estacionamiento)
 ![Component Diagram](./Assets/component_parking.png) 
 
-***Diagrama Reservation Component***
+***Reservation Component diagram***
 Diagrama que refiere a todo el componente que involucra a las reservaciones
 ![Component Diagram](./Assets/component_reserva.png) 
 
-***Diagrama Location Component***
+***Location Component diagram***
 Diagrama que refiere a todo el componente que involucra a la gestion de ubicación en tiempo real
 ![Component Diagram](./Assets/component_location.png) 
 
