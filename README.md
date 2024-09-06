@@ -1617,13 +1617,82 @@ A continuación, se describen los pasos para realizar el despliegue de la **Land
 
 ##### 5.2.X.4. Testing Suite Evidence for Sprint Review
 
-##### 5.2.X.5. Execution Evidence for Sprint Review
+##### 5.2.1.5. Execution Evidence for Sprint Review.
+Tras finalizar el Sprint 1, pudimos implementar todas las secciones de nuestra Landing Page, asegurando que se vea perfectamente. También le dimos un formato llamativo que atrae la atención del usuario hacia sus distintos elementos. Además, incorporamos métodos de navegación en la página, como botones al principio y al final, que permiten desplazarse fácilmente entre las secciones. A continuación, te compartimos imágenes que muestran los avances logrados.
 
-##### 5.2.X.6. Services Documentation Evidence for Sprint Review
+Es importante destacar que el objetivo principal del Landing Page es convertir a los visitantes en futuros clientes o usuarios habituales de nuestro servicio. Para lograrlo, utilizamos llamados a la acción (Call To Action) que los guían hacia la aplicación web.
 
-##### 5.2.X.7. Software Deployment Evidence for Sprint Review
+A continuación, te presentamos capturas de pantalla del desarrollo del Landing Page:
 
-##### 5.2.X.8. Team Collaboration Insights during Sprint
+En la parte superior, el encabezado (Header) presenta botones para Inicio (Home), Características (Characteristics), Reserva de Espacio (Reserve-Space), y Contáctenos (Contact-Us), así como información sobre nosotros. Estos elementos permiten a los visitantes navegar fácilmente a la sección que desean ver.
+
+![NavBar.png](Imagenes/NavBar.png)
+**Imagen 1:** Encabezado y botones de desplazamiento.
+
+Se muestra la sección "Transforma", que ofrece una breve descripción y una frase representativa de ParkingNow. Esta sección facilita el inicio del uso del servicio web y presenta una imagen vinculada al mismo.
+
+![Transforma.png](Imagenes/PatronZ.png)
+**Imagen 2:** Sección Transforma.
+
+
+Se presenta la sección de beneficios del servicio, destacando las ventajas específicas para cada segmento objetivo definido por el equipo.
+
+![Beneficios.png](Imagenes/Segmentos.png)
+**Imagen 3:** Sección Beneficios del servicio
+
+La sección de tipos de clientes en la landing page muestra a los posibles usuarios los distintos perfiles de clientes disponibles.
+
+![segmento.png](Imagenes/Segmento2.png)
+**Imagen 4:** Sección tipo de cliente.
+
+Seguidamente se presenta la sección de contacto, aquí nuestros posibles usuarios pueden realizarnos preguntas personalizadas acerca de la aplicación que se está presentando.
+
+![membership.png](Imagenes/Somos1.png)
+![membership.png](Imagenes/Somos2.png)
+**Imagen 5:** Sección Contáctenos
+
+A continuación, se muestra la sección "Sobre nosotros" (about-us), donde se ofrece un resumen con información sobre los integrantes que están desarrollando la solución de software.
+
+
+
+![footer.png](Imagenes/Footer.png)
+**Imagen 6:** Sección footer.
+Finalmente, se muestra la sección del pie de página, donde están disponibles nuestros enlaces para que el usuario pueda volver a las secciones que prefiera.
+
+##### 5.2.1.6. Services Documentation Evidence for Sprint Review.
+
+En el primer sprint, hemos desarrollado y lanzado la página de inicio de la aplicación web "PARKINGNOW". Esta página incluye diferentes secciones, las cuales fueron creadas por el equipo Code Mondonguito, con cada miembro del grupo responsable de una sección específica.
+
+<table> 
+  <tr>
+    <td> <strong>End Point </strong></td>
+    <td align="center"> <strong>Funciones</strong> </td>
+  </tr>
+
+  <tr>
+    <td> CAMBIAR https://upc-pre-si729-sw54-code-mondonguito.github.io/Landing-Page/</td>
+    <td> Desplegar Landing Page de PARKINGNOW</td>
+  </tr>
+</table>
+
+##### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+
+Para implementar nuestra página, decidimos usar GitHub Pages. Durante este proceso, creamos un repositorio en GitHub para gestionar el control de versiones. En la sección de Configuración, publicamos el proyecto desde la rama "main", que anteriormente estaba en la rama "developer".
+
+**Link de la Landing Page desplegada:** [PARKINGNOW](https://upc-pre-si729-sw54-code-mondonguito.github.io/Landing-Page/) **-** CAMBIAR https://upc-pre-si729-sw54-code-mondonguito.github.io/Landing-Page/
+
+##### 5.2.1.8. Team Collaboration Insights during Sprint.
+En esta entrega, nuestro objetivo principal fue la creación de la Landing Page. Para lograrlo, utilizamos varias herramientas, incluyendo GitHub, Visual Studio Code, WebStorm, HTML, CSS y JavaScript. A continuación, presentamos los diagramas de flujo que muestran los commits realizados por cada miembro del equipo PARKINGNOW:
+
+--ingresar imagen de los commits
+
+Esta imagen proporciona una representación visual de las fechas en que se realizaron modificaciones en el repositorio de nuestra Landing Page, así como el número de cambios efectuados en cada commit. Este gráfico es útil para entender cómo ha evolucionado el proyecto a lo largo del tiempo y la intensidad del desarrollo.
+
+--ingresar imagen de los modificaciones del repositorio del landing page
+
+Estos gráficos muestran de manera visual las clonaciones realizadas en nuestro repositorio y las fechas en que ocurrieron. También proporcionan información sobre el número de visitantes que ha tenido el repositorio a lo largo del tiempo.
+
+--ingresar imagen de los branchs
 
 
 ### Conclusiones y recomendaciones
