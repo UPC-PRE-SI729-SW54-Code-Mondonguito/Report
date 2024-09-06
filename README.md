@@ -496,6 +496,10 @@ Resumen:
 
 Para Bárbara, la necesidad de estacionamiento no es frecuente, pero el tiempo que dedica a buscar un lugar varía según la zona. Actualmente, no utiliza aplicaciones para encontrar estacionamiento, pero valora conocer la disponibilidad antes de llegar y recibir recomendaciones sobre rutas para ahorrar tiempo. Está dispuesta a pagar tarifas adicionales para reservar un espacio, y considera el costo, la proximidad y la seguridad como factores clave al elegir dónde estacionar. En ocasiones, ha tenido que estacionar en lugares inconvenientes debido a la falta de opciones y tiempo limitado. Además, le interesaría que alguien pudiera estacionar su auto por ella.
 
+Captura de pantalla:
+![Captura de pantalla 1 - Segmento 1](Assets/Seg1-Interview1.png)
+
+
 Entrevistado N°2: Juan Pablo Guija Solis
 
 * Sexo: Masculino  
@@ -512,19 +516,27 @@ Resumen:
 
 Para Juan Pablo, que utiliza su vehículo a diario, encontrar estacionamiento es una necesidad frecuente. El tiempo que dedica a buscar un lugar depende de la zona, y actualmente no usa ninguna app para este propósito. Valora mucho conocer la disponibilidad de estacionamiento antes de llegar, ya que esto le permite ahorrar tiempo. Está dispuesto a pagar tarifas adicionales para reservar un espacio, siempre y cuando estas no sean excesivamente altas. Considera importantes el costo y la proximidad al elegir un lugar para estacionar. Ha tenido experiencias frustrantes, como perder un espacio o encontrarse con estacionamientos demasiado pequeños. Le gustaría recibir avisos en tiempo real cuando se libere un espacio cercano y notificaciones sobre posibles movimientos sospechosos en el área donde estaciona.
 
-Entrevistado N°3:
+Captura de pantalla:
+![Captura de pantalla 2 - Segmento 1](Assets/Seg1-Interview2.png)
 
-* Sexo:  
-* Edad:  
-* Ubicación en la que vive:
+Entrevistado N°3: Mario Andre Cacho Seminario
+
+* Sexo: Masculino  
+* Edad: 21  
+* Ubicación en la que vive: Surco
 
 Acerca de la entrevista:
 
-* Link:  
-* Instante en el que inicia:  
-* Duración:
+* Link: [https://youtu.be/pfjcuJ1VLr0](https://youtu.be/pfjcuJ1VLr0)   
+* Instante en el que inicia: 0:10  
+* Duración: 2:45
 
 Resumen:
+
+Para Mario, que utiliza su vehículo todos los días para el trabajo o actividades recreativas, encontrar estacionamiento es una necesidad frecuente. El tiempo que dedica a buscar un lugar depende de la hora del día, y actualmente no usa aplicaciones para este propósito. Valora mucho conocer la disponibilidad de estacionamiento antes de llegar y está interesado en recibir recomendaciones de rutas para ahorrar tiempo. Está dispuesto a pagar tarifas adicionales para reservar un espacio, siempre que esto le brinde mayor seguridad y proximidad, aspectos que considera cruciales. Ha experimentado frustraciones al buscar estacionamiento, como llegar tarde al trabajo debido a la falta de espacios o el tráfico. También le gustaría poder verificar la ocupación real de los estacionamientos a través de servicios que ofrecen esta función.
+
+Captura de pantalla:
+![Captura de pantalla 3 - Segmento 1](Assets/Seg1-Interview-3.png)
 
 **Segmento objetivo \#2: Dueños de playas de estacionamientos**
 
@@ -542,20 +554,46 @@ Acerca de la entrevista:
 
 Resumen: La entrevistada fue una mujer que trabaja en una playa de estacionamientos y que se encuentra ligada al sector de servicio al cliente. En la entrevista se hicieron las 6 preguntas principales y una complementaria. Los datos que pudimos obtener fueron que la playa de estacionamientos donde trabaja usan tickets fisicos para mantener realizar los registros, sin embargo estos se suelen perder o no llegan a ser tan especificos. Ademas qu esta abierta a la existencia de una aplicaicon web que pueda facilitar el proceso de reserva, ya que sera mas atractivo para los consumidores y podran tener unas mejores reseñas. Por ultimo, nos dio algunas opciones que nos ayudara a mejorar la idea inicial de aplicacion web, que seria agregar el poder ver la gestion de turnos del personal, registro automatico de entrada y salida de los automoviles y la opcion de tarifas flexibles dependiendo del tiempo que los consumidores se mantengan usando el servicio.
 
+Captura de pantalla:
+![Captura de pantalla 4 - Segmento 2](Assets/Seg2-Interview-1.png)
 
-Entrevistado N°2:
+Entrevistado N°2: Joaquin Horacio Delgado
 
-* Sexo:  
-* Edad:  
-* Ubicación en la que vive:
+* Sexo: Masculino  
+* Edad: 20  
+* Ubicación en la que vive: La Molina
 
 Acerca de la entrevista:
 
-* Link:  
-* Instante en el que inicia:  
-* Duración:
+* Link: [https://youtu.be/iP7E3OMT3VQ](https://youtu.be/iP7E3OMT3VQ)   
+* Instante en el que inicia: 0:08  
+* Duración: 8:26
 
 Resumen:
+
+Para Joaquín, el proceso de gestión de su playa de estacionamiento es sencillo en general, aunque a veces la organización se le complica. Considera importante contar con información en tiempo real sobre la disponibilidad de los espacios, lo que le evitaría tener que revisar físicamente la playa, ahorrando tiempo. Utiliza aplicaciones de pago como Yape o Plin, pero no aplicaciones para la reserva de espacios. Valora mucho la oferta de opciones de pago seguras y rápidas, ya que esto agiliza el proceso de entrada y salida de los clientes. Cree que una aplicación que le ayudará a organizar mejor los datos haría más eficiente el flujo y la gestión de los espacios. Además, le gustaría una funcionalidad donde los clientes pudieran indicar el tiempo que se quedarán en el estacionamiento, permitiendo a la app calcular el costo.
+
+Captura de pantalla:
+![Captura de pantalla 5 - Segmento 2](Assets/Seg2-Interview-2.png)
+
+Entrevistado N°3: Johan Bottger Salazar
+
+* Sexo: Masculino  
+* Edad: 21  
+* Ubicación en la que vive: San Borja
+
+Acerca de la entrevista:
+
+* Link: [https://youtu.be/IXmJUVjCEaI](https://youtu.be/IXmJUVjCEaI)   
+* Instante en el que inicia: 0:08  
+* Duración: 4:40
+
+Resumen:
+
+Para Johan, el proceso de gestión de sus dos espacios de estacionamiento es sencillo debido a su baja cantidad, aunque a veces le resulta complicado organizar su tiempo. Considera importante disponer de información en tiempo real sobre la disponibilidad de los espacios para evitar revisar el estacionamiento constantemente. Usa aplicaciones de pago como Yape, pero no utiliza apps para reservas. Piensa que una automatización del proceso le ahorraría tiempo, evitaría llamadas innecesarias y mejoraría la organización de los pagos. La seguridad es un factor crucial, tanto para sus clientes como para él mismo, ya que alquila los espacios dentro del edificio en el que reside. Además, le gustaría contar con una funcionalidad que le permita ver información relevante de sus clientes, como nombre y teléfono, para garantizar una mayor seguridad.
+
+Captura de pantalla:
+![Captura de pantalla 6 - Segmento 2](Assets/Seg2-Interview-3.png)
 
 #### 2.2.3. Análisis de entrevistas
 De acuerdo con la información recopilada de las entrevistas, realizamos el siguiente análisis de entrevistas:
@@ -578,17 +616,20 @@ Segmento objetivo \#2:
 
 **Hallazgos:**
 
-* La necesidad de estacionamiento es constante: la mayoría tiene dificultades al encontrar estacionamiento.  
-* No se utilizan aplicaciones para encontrar estacionamiento.  
-* Se desea una funcionalidad de verificar en tiempo real los espacios disponibles.  
-* Se está dispuesto a pagar tarifas adelantadas para reservar un espacio, siempre y cuando estas no sean demasiado altas.  
-* Factores como la proximidad y el costo son cruciales.  
-* Influye regularmente la disponibilidad de estacionamiento al realizar un viaje.  
-* Existen frustraciones comunes relacionadas con la búsqueda de estacionamiento, especialmente cuando es un lugar nuevo.
+* La gestión de los estacionamientos es generalmente sencilla debido a la baja cantidad de espacios, pero la organización y el manejo del tiempo pueden ser complicados.  
+* Es importante contar con información en tiempo real sobre la disponibilidad de los espacios para evitar revisiones constantes del estacionamiento.  
+* Se utilizan aplicaciones de pago como Yape, pero no se emplean aplicaciones para la reserva de espacios.  
+* La automatización del proceso se ve como una solución clave para ahorrar tiempo, evitar llamadas innecesarias y mejorar la organización de pagos.  
+* La seguridad es crucial tanto para los clientes como para los dueños, especialmente cuando los espacios se encuentran en áreas residenciales.  
+* Se valora la posibilidad de acceder a información importante de los clientes (como nombre y teléfono) para garantizar mayor seguridad.
 
 **Conclusiones de ambos segmentos:**
 
-Los resultados del **segmento 1** indican que, aunque las necesidades de estacionamiento varían en frecuencia, hay un consenso en la importancia de conocer la disponibilidad de espacios antes de llegar. La disposición a pagar tarifas adicionales es alta, siempre que estas sean razonables. Los factores de costo, proximidad y seguridad son cruciales al elegir un lugar para estacionar. Existen frustraciones comunes con la búsqueda de estacionamiento, y se valora la tecnología para mejorar la experiencia, como recibir avisos en tiempo real y recomendaciones de rutas. La opción de asistencia para estacionar también es deseada. De igual manera, los resultados del **segmento 2** presentan similitudes a las del segmento anterior, mostrando como la mayoría de respuestas indican que tienen dificultades al encontrar estacionamiento en lugares que no conocen, les parece una idea interesante un servicio que les muestre en tiempo real la disponibilidad de estacionamiento, demostrando como la mayoria esta dispuesto a pagar las tarifas por anticipado para garantizar un espacio.
+Los resultados del **segmento 1** indican que, aunque las necesidades de estacionamiento varían en frecuencia, hay un consenso en la importancia de conocer la disponibilidad de espacios antes de llegar. La disposición a pagar tarifas adicionales es alta, siempre que estas sean razonables. Los factores de costo, proximidad y seguridad son cruciales al elegir un lugar para estacionar. Existen frustraciones comunes con la búsqueda de estacionamiento, y se valora la tecnología para mejorar la experiencia, como recibir avisos en tiempo real y recomendaciones de rutas. La opción de asistencia para estacionar también es deseada. Por otro lado, en el **segmento 2**, los dueños de playas de estacionamiento encuentran la gestión de pocos espacios generalmente sencilla, aunque la organización y el manejo del tiempo pueden ser desafiantes. Consideran clave contar con información en tiempo real para evitar revisiones constantes y valoran la automatización como una herramienta para ahorrar tiempo y mejorar la eficiencia en pagos. La seguridad, tanto para clientes como para ellos mismos, es esencial, especialmente en áreas residenciales, y ven útil acceder a datos relevantes de los usuarios para aumentar esa seguridad
+
+**Entrevista completa:**
+
+Link de las entrevistas completas: [ParkingNow \- Entrevistas Final.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202223990_upc_edu_pe/EbIvmu-9HRFItJu_A2zbRx0BPfLCx2uRJnBarh-nlbO95A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=jlmpb3)
 
 **Análisis por medio de herramientas estadísticas:**
 
@@ -612,7 +653,25 @@ Segmento objetivo 1: [https://forms.gle/Lo3Z69GnkyYDcaAYA](https://forms.gle/Lo3
 
 ![Pregunta 9 - Segmento 1](Assets/Seg1-P9.png)
 
-Segmento objetivo 2: link
+Segmento objetivo 2: [https://forms.gle/pCNNRar5TBzSPoX38](https://forms.gle/pCNNRar5TBzSPoX38) 
+
+![Pregunta 1 - Segmento 1](Assets/Seg2-P1.png)
+
+![Pregunta 2 - Segmento 1](Assets/Seg2-P2.png)
+
+![Pregunta 3 - Segmento 1](Assets/Seg2-P3.png)
+
+![Pregunta 4 - Segmento 1](Assets/Seg2-P4.png)
+
+![Pregunta 5 - Segmento 1](Assets/Seg2-P5.png)
+
+![Pregunta 6 - Segmento 1](Assets/Seg2-P6.png)
+
+![Pregunta 7 - Segmento 1](Assets/Seg2-P7.png)
+
+![Pregunta 8 - Segmento 1](Assets/Seg2-P8.png)
+
+![Pregunta 9 - Segmento 1](Assets/Seg2-P9.png)
 
 ### 2.3. Needfinding
 En esta sección se presentarán los artefactos generados a partir del proceso de recopilación llevado a cabo en los segmentos objetivos. Este proceso culmina con la creación de los User Personas, la User Task Matrix, los User Journey Maps, el Empathy Mapping y el As-Is Scenario Mapping.
