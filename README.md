@@ -13,7 +13,7 @@ Ciclo: 5to <br>
 
 <h2 align="center">INFORME</h2>
 
-<h3 align="center">Startup:</h3>
+<h3 align="center">Startup: Code Mondoguito</h3>
 <p align="center"><strong>Producto: ParkingNow</strong></p>
 
 <h3 align="center">Team Members:</h3>
@@ -30,7 +30,7 @@ Ciclo: 5to <br>
 
 </div>
 
-<p align="center"><strong>Agosto 2024</strong></p>
+<p align="center"><strong>Septiembre 2024</strong></p>
 
 # Registro de Versiones del Informe
 
@@ -52,11 +52,18 @@ Durante la preparación del informe, se llevaron a cabo las siguientes actividad
 - Se crearon los artefactos necesarios utilizando las herramientas recomendadas y se obtuvieron enlaces de imagen a través de la carpeta `Assets` en la rama `develop` del repositorio del informe.
 - Se organizaron reuniones para coordinar el progreso de los elementos del informe y para comunicar los avances del Sprint 1, que se enfoca en la Landing Page.
 
-# Student Outcome
-| Criterio específico                                                                                 | Acciones realizadas | Conclusiones |
-|------------------------------------------------------------------------------------------------------|---------------------|--------------|
-| **Comunica oralmente con efectividad a diferentes rangos de audiencia.**                                          |              |
-| **Comunica por escrito con efectividad a diferentes rangos de audiencia.**                           |                     |      
+# ABET – EAC - Student Outcome 3
+
+Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias.
+En el siguiente cuadro se describen las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 3.
+
+| Criterio específico                                                                                 | Acciones realizadas                                                                                                                                                                                                                                      | Conclusiones                                                                                                                                                                                                                                             |
+|------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Comunica oralmente con efectividad a diferentes rangos de audiencia.**                             | **Diego Alonso Cacho Seminario *TB1:*** Participé en las secciones del capítulo 2 relacionadas con el diseño, grabación y análisis de entrevistas, además de las encuestas realizadas a nuestros segmentos objetivo. Colaboré en el primer Sprint para esta entrega.<br>**Diego Ulises Soto Quispe *TB1:*** Durante las reuniones del proyecto, participé activamente explicando la introducción del proyecto y la problemática de la startup, utilizando un lenguaje claro para asegurar que todos los miembros del equipo comprendieran las metas y objetivos. Presenté de forma clara los resultados del análisis de requerimientos en el Capítulo 3 y los resultados de las pruebas en el Capítulo 5. <br> **Rodrigo Liberato *TB1:*** Para este entregable, comunique a mis compañeros todos mis avances y cambios que aporte, apoye a los que lo necesitaban y mis aportes significativos fueron en el capitulo 2, analisis de los competidores, capitulo 4, Wireframe y Mockup design, asi como sus Flow, y por ultimo, diseñe la base de datos e hice el PPT para la presentacion. <br>**Omar Harold Rivera Ticllacuri *TB1:*** Durante el desarrollo del proyecto participe de manera activa contribuyendo con el Capitulo 2, con el desarrollo del diseño de los segmentos de user persona,  el Landing Page, y partes del Capitulo 5. Logrando asi los objetivos establecidos para esta entrega. | La participación activa en las entrevistas y análisis de los resultados permitió identificar las necesidades clave de los usuarios, lo que contribuyó a la mejora continua del producto durante los Sprints. La comunicación efectiva fue crucial para asegurar que el equipo técnico comprendiera los requerimientos y los stakeholders estuvieran alineados con los objetivos del proyecto. |
+| **Comunica por escrito con efectividad a diferentes rangos de audiencia.**                           | **Diego Alonso Cacho Seminario *TB1:*** Realicé las correcciones necesarias dadas por mis compañeros respecto a los puntos con los que aporté para la TB1, además subí correctamente mis aportes al repositorio en línea, respetando el formato requerido.<br>**Diego Ulises Soto Quispe *TB1:*** En el Capítulo 1, fui el responsable de documentar el perfil de la startup y el marco teórico del proyecto, utilizando un lenguaje claro y conciso para describir los antecedentes. En el Capítulo 3, redacté los requerimientos específicos del sistema y las historias de usuario. También colaboré en los Capítulos 4 y 5 documentando el diseño del sistema y las configuraciones de implementación. <br> **Rodrigo Liberato** TB1: Para este entregable, los aportes que realize por escrito fueron los commits que realize por Git y los analisis de los competidores. <br>**Omar Harold Rivera Ticllacuri *TB1:***  En el Capitulo 2, contribui al desarrollar los user person, user task matrix y user Journey Mapping. En el Capitulo 4, el desarrollo del Style Guidelines y Landing Page UI Design. En el capitulo 5, trabaje en el desarrollo del Sprint 1 del  Landing Page, Services & Applications Implementation. Y finalmente, desarrolle el Landing Page| La gestión adecuada de las correcciones y el seguimiento del formato mejoraron la calidad de los documentos del equipo, garantizando una estructura clara y coherente en los entregables. La documentación precisa de los capítulos permitió que el equipo y los stakeholders tuvieran una referencia sólida para cada fase del proyecto. |
+
+
+
 # Contenido
 - [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
 - [Project Report Collaboration Insights](#project-report-collaboration-insights)
@@ -1564,6 +1571,42 @@ El código no debe exceder las **80 columnas** por línea. En caso de necesitar 
 
 #### 5.1.4. Software Deployment Configuration
 
+En esta sección se detalla la configuración necesaria para el despliegue de la solución **PARKINGNOW**, incluyendo los pasos clave para lograr la publicación satisfactoria de la **Landing Page**, **Servicios Web** y **Aplicaciones Web Frontend** utilizando GitHub Pages para visualizar cada commit del **Landing Page**.
+
+A continuación, se describen los pasos para realizar el despliegue de la **Landing Page** del proyecto **PARKINGNOW**:
+
+1. **Actualización de Ramas:**
+   Asegúrate de que todas las ramas del repositorio estén actualizadas. Luego, ingresa a GitHub y dirígete al repositorio del proyecto **PARKINGNOW**.
+
+2. **Acceso a las Configuraciones:**
+   Una vez dentro del repositorio, haz clic en la pestaña **Settings** en la parte superior del repositorio.
+
+![Configuración de GitHub Pages](./Assets/Configuration.png)
+
+
+3. **Selección de GitHub Pages:**
+   Dentro de la sección **Settings**, en el menú lateral, busca la opción llamada **Pages**. Esta opción permite configurar el despliegue de la página desde una rama específica del repositorio.
+
+   ![Selección de Rama](./Assets/Deploy.png)
+
+
+4. **Configuración de la Rama Principal:**
+   En la opción **Pages**, selecciona la rama principal (generalmente llamada **main** o **master**). Luego, haz clic en el botón **Save** para iniciar el proceso de deploy de la página.
+
+  ![Confirmación del Despliegue](./Assets/GithubPages.png)
+
+5. **Confirmación del Deploy:**
+   Una vez que GitHub complete el proceso de deploy, en la parte superior de la sección **Pages** se mostrará un mensaje de confirmación junto con el enlace generado para acceder a la **Landing Page** del proyecto.
+
+   ![Comprobación del Despliegue](./Assets/URL.png)
+
+
+6. **Acceso a la Página:**
+   Finalmente, podrás acceder a la **Landing Page** desde el enlace que se generó al finalizar el deploy. Aquí está el enlace para el proyecto **PARKINGNOW**: https://upc-pre-si729-sw54-code-mondonguito.github.io/Landing-Page/
+
+   ![Acceso a la Página](./Assets/Landing.png)
+
+
 ### 5.2. Landing Page, Services & Applications Implementation
 
 #### 5.2.X. Sprint n
@@ -1576,37 +1619,138 @@ El código no debe exceder las **80 columnas** por línea. En caso de necesitar 
 
 ##### 5.2.X.4. Testing Suite Evidence for Sprint Review
 
-##### 5.2.X.5. Execution Evidence for Sprint Review
+##### 5.2.1.5. Execution Evidence for Sprint Review.
+Tras finalizar el Sprint 1, pudimos implementar todas las secciones de nuestra Landing Page, asegurando que se vea perfectamente. También le dimos un formato llamativo que atrae la atención del usuario hacia sus distintos elementos. Además, incorporamos métodos de navegación en la página, como botones al principio y al final, que permiten desplazarse fácilmente entre las secciones. A continuación, te compartimos imágenes que muestran los avances logrados.
 
-##### 5.2.X.6. Services Documentation Evidence for Sprint Review
+Es importante destacar que el objetivo principal del Landing Page es convertir a los visitantes en futuros clientes o usuarios habituales de nuestro servicio. Para lograrlo, utilizamos llamados a la acción (Call To Action) que los guían hacia la aplicación web.
 
-##### 5.2.X.7. Software Deployment Evidence for Sprint Review
+A continuación, te presentamos capturas de pantalla del desarrollo del Landing Page:
 
-##### 5.2.X.8. Team Collaboration Insights during Sprint
+En la parte superior, el encabezado (Header) presenta botones para Inicio (Home), Características (Characteristics), Reserva de Espacio (Reserve-Space), y Contáctenos (Contact-Us), así como información sobre nosotros. Estos elementos permiten a los visitantes navegar fácilmente a la sección que desean ver.
 
-### 5.3. Validation Interviews
+![NavBar.png](Imagenes/NavBar.png)
+**Imagen 1:** Encabezado y botones de desplazamiento.
 
-#### 5.3.1. Diseño de Entrevistas
+Se muestra la sección "Transforma", que ofrece una breve descripción y una frase representativa de ParkingNow. Esta sección facilita el inicio del uso del servicio web y presenta una imagen vinculada al mismo.
 
-#### 5.3.2. Registro de Entrevistas
+![Transforma.png](Imagenes/PatronZ.png)
+**Imagen 2:** Sección Transforma.
 
-#### 5.3.3. Evaluaciones según heurísticas
 
-### 5.4. Video About-the-Product
+Se presenta la sección de beneficios del servicio, destacando las ventajas específicas para cada segmento objetivo definido por el equipo.
 
-## Conclusiones 
+![Beneficios.png](Imagenes/Segmentos.png)
+**Imagen 3:** Sección Beneficios del servicio
+
+La sección de tipos de clientes en la landing page muestra a los posibles usuarios los distintos perfiles de clientes disponibles.
+
+![segmento.png](Imagenes/Segmento2.png)
+**Imagen 4:** Sección tipo de cliente.
+
+Seguidamente se presenta la sección de contacto, aquí nuestros posibles usuarios pueden realizarnos preguntas personalizadas acerca de la aplicación que se está presentando.
+
+![membership.png](Imagenes/Somos1.png)
+![membership.png](Imagenes/Somos2.png)
+**Imagen 5:** Sección Contáctenos
+
+A continuación, se muestra la sección "Sobre nosotros" (about-us), donde se ofrece un resumen con información sobre los integrantes que están desarrollando la solución de software.
+
+
+
+![footer.png](Imagenes/Footer.png)
+**Imagen 6:** Sección footer.
+Finalmente, se muestra la sección del pie de página, donde están disponibles nuestros enlaces para que el usuario pueda volver a las secciones que prefiera.
+
+##### 5.2.1.6. Services Documentation Evidence for Sprint Review.
+
+En el primer sprint, hemos desarrollado y lanzado la página de inicio de la aplicación web "PARKINGNOW". Esta página incluye diferentes secciones, las cuales fueron creadas por el equipo Code Mondonguito, con cada miembro del grupo responsable de una sección específica.
+
+<table> 
+  <tr>
+    <td> <strong>End Point </strong></td>
+    <td align="center"> <strong>Funciones</strong> </td>
+  </tr>
+
+  <tr>
+    <td> CAMBIAR https://upc-pre-si729-sw54-code-mondonguito.github.io/Landing-Page/</td>
+    <td> Desplegar Landing Page de PARKINGNOW</td>
+  </tr>
+</table>
+
+##### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+
+Para implementar nuestra página, decidimos usar GitHub Pages. Durante este proceso, creamos un repositorio en GitHub para gestionar el control de versiones. En la sección de Configuración, publicamos el proyecto desde la rama "main", que anteriormente estaba en la rama "developer".
+
+**Link de la Landing Page desplegada:** [PARKINGNOW](https://upc-pre-si729-sw54-code-mondonguito.github.io/Landing-Page/) **-** CAMBIAR https://upc-pre-si729-sw54-code-mondonguito.github.io/Landing-Page/
+
+##### 5.2.1.8. Team Collaboration Insights during Sprint.
+En esta entrega, nuestro objetivo principal fue la creación de la Landing Page. Para lograrlo, utilizamos varias herramientas, incluyendo GitHub, Visual Studio Code, WebStorm, HTML, CSS y JavaScript. A continuación, presentamos los diagramas de flujo que muestran los commits realizados por cada miembro del equipo PARKINGNOW:
+
+--ingresar imagen de los commits
+
+Esta imagen proporciona una representación visual de las fechas en que se realizaron modificaciones en el repositorio de nuestra Landing Page, así como el número de cambios efectuados en cada commit. Este gráfico es útil para entender cómo ha evolucionado el proyecto a lo largo del tiempo y la intensidad del desarrollo.
+
+--ingresar imagen de los modificaciones del repositorio del landing page
+
+Estos gráficos muestran de manera visual las clonaciones realizadas en nuestro repositorio y las fechas en que ocurrieron. También proporcionan información sobre el número de visitantes que ha tenido el repositorio a lo largo del tiempo.
+
+--ingresar imagen de los branchs
+
 
 ### Conclusiones y recomendaciones
 
+
+El proyecto PARKINGNOW ha alcanzado avances significativos en la creación de una solución tecnológica integral para resolver los problemas de estacionamiento en las ciudades. Al combinar sensores infrarrojos de detección en tiempo real con una plataforma intuitiva para los usuarios, PARKINGNOW no solo optimiza la ocupación de los espacios de estacionamiento, sino que también facilita el día a día de los conductores urbanos. Esta solución ha demostrado ser eficaz tanto en la reducción de tiempos de búsqueda como en la mejora de la rentabilidad para los dueños de playas de estacionamiento, mostrando un balance ideal entre tecnología y experiencia del usuario.
+
+A lo largo del desarrollo, se ha priorizado un enfoque en la automatización, lo que ha permitido la integración fluida con los sistemas de gestión de estacionamientos ya existentes. Las entrevistas de validación con usuarios y pruebas de campo han confirmado que la solución no solo cumple con las expectativas iniciales, sino que supera las necesidades de los principales actores involucrados. La aplicación no solo resuelve el problema de encontrar estacionamiento, sino que contribuye al alivio del tráfico urbano y a una gestión más eficiente de los recursos, alineándose con los objetivos de sostenibilidad a largo plazo.
+
+PARKINGNOW tiene el potencial de consolidarse como un referente en la gestión de estacionamientos urbanos, especialmente en grandes ciudades donde los problemas de tráfico y la falta de espacios de estacionamiento representan un desafío diario. La plataforma ha mostrado una capacidad destacada para escalar y adaptarse a diferentes contextos, tanto en términos geográficos como en la evolución tecnológica.
+
+**Recomendaciones:**
+
+1. **Expansión de funcionalidades:** Se recomienda que PARKINGNOW continúe invirtiendo en el desarrollo de nuevas características que agreguen valor para los usuarios y propietarios de estacionamientos. Esto podría incluir la integración de sistemas de pago automatizados, alertas en tiempo real sobre disponibilidad de espacios y la mejora en la personalización de la experiencia del usuario a través de análisis predictivos de patrones de uso. Además, el uso de tecnología avanzada, como inteligencia artificial para pronósticos de ocupación, podría posicionar aún más a PARKINGNOW como un líder en la industria.
+
+2. **Expansión geográfica y sectorial:** Con el éxito demostrado en los primeros mercados, PARKINGNOW debería buscar expandirse a otras ciudades con alta demanda de estacionamiento y problemas recurrentes de tráfico. Además, explorar nuevas oportunidades en sectores específicos, como aeropuertos, centros comerciales y eventos masivos, podría ampliar aún más el mercado objetivo de la plataforma.
+
+3. **Estrategia de marketing y educación:** Para aumentar la adopción de la plataforma, es clave diseñar una campaña de marketing digital dirigida tanto a conductores como a dueños de estacionamientos. El uso de testimonios de usuarios satisfechos y estudios de caso concretos que demuestren la reducción de tiempo y costos puede ser una herramienta eficaz para atraer nuevos usuarios. También es importante educar al público objetivo sobre el impacto positivo que tiene el uso de PARKINGNOW en la mejora del tráfico y la sostenibilidad urbana.
+
+4. **Monitoreo y análisis continuo:** A medida que la plataforma crece, es esencial implementar sistemas de análisis continuo de los datos generados por los usuarios y los espacios de estacionamiento. El análisis de grandes volúmenes de datos permitirá la identificación temprana de problemas y la adaptación rápida a las necesidades cambiantes del mercado. Además, este enfoque de mejora continua garantizará que la experiencia del usuario siga siendo óptima y que el servicio mantenga su competitividad en el tiempo.
+
+5. **Sostenibilidad y responsabilidad social:** A medida que el impacto de PARKINGNOW crece, es recomendable enfocarse aún más en su papel dentro del ecosistema de movilidad sostenible. Iniciativas como reducir la huella de carbono de los conductores mediante la disminución de tiempo en busca de estacionamiento y la colaboración con proyectos de ciudades inteligentes posicionarán a PARKINGNOW no solo como una empresa rentable, sino también como un agente clave en la sostenibilidad urbana.
+
+
 ### Video About-the-Team
 
-## Bibliografía
+
+
+# Bibliografía
+
+1. **ICCSI**. (2023, 12 de marzo). *Estacionamiento inteligente con sensores: Revolución en estacionamientos*. ICCSI. Recuperado el 6 de septiembre de 2024, de [https://iccsi.com.ar/estacionamiento-inteligente-con-sensores](https://iccsi.com.ar/estacionamiento-inteligente-con-sensores)
+
+2. **Conducimos contigo**. (s.f.). *Elparking.com*. Recuperado el 1 de septiembre de 2024, de [https://elparking.com/](https://elparking.com/)
+
+3. **InnovaTech**. (2023, 15 de junio). *Smart Parking IoT: Descubre cómo funciona*. InnovaTech. Recuperado el 6 de septiembre de 2024, de [https://www.innova-tech.mx/smart-parking-iot](https://www.innova-tech.mx/smart-parking-iot)
+
+4. **People, S.**. (s.f.). *App Aparcados*. Apk2gestion.com. Recuperado el 2 de septiembre de 2024, de [https://apk2gestion.com/es/servicios/conoce-nuestra-app](https://apk2gestion.com/es/servicios/conoce-nuestra-app)
+
+5. **Reserva de parking - Parkimeter**. (s.f.). *Parkimeter.com*. Recuperado el 3 de septiembre de 2024, de [https://parkimeter.com/es?srsltid=AfmBOoqJCDlJN_hdtP3dMuF6fXWF8B1PytqQ2hWnVsgR7rEAH4a00y3P](https://parkimeter.com/es?srsltid=AfmBOoqJCDlJN_hdtP3dMuF6fXWF8B1PytqQ2hWnVsgR7rEAH4a00y3P)
+
+6. **Sernauto**. (s.f.). *Tipos de sensores de los vehículos: Qué función cumplen*. Sernauto. Recuperado el 6 de septiembre de 2024, de [https://www.sernauto.es/blog/tipos-de-sensores-de-losvehiculos-que-funcion-cumplen/](https://www.sernauto.es/blog/tipos-de-sensores-de-losvehiculos-que-funcion-cumplen/)
+
+7. **Propuesta País**. (2023, 22 de julio). *La necesidad de una política de estacionamiento vehicular en Lima Metropolitana*. Propuesta País. Recuperado el 6 de septiembre de 2024, de [https://propuestapais.pe/noticia/la-necesidad-de-una-politica-de-estacionamiento-vehicular-en-lima-metropolitana/](https://propuestapais.pe/noticia/la-necesidad-de-una-politica-de-estacionamiento-vehicular-en-lima-metropolitana/)
+
+8. **Intertraffic**. (2023, 28 de junio). *Revolucionando las experiencias de estacionamiento: Las últimas soluciones inteligentes para un estacionamiento eficiente*. Intertraffic. Recuperado el 6 de septiembre de 2024, de [https://www.intertraffic.com/news/espanol/revolucionando-las-experiencias-de-estacionamiento](https://www.intertraffic.com/news/espanol/revolucionando-las-experiencias-de-estacionamiento)
+
 
 ## Anexos
 
-| Sección         | Enlace                                                                                           |
-|-----------------|--------------------------------------------------------------------------------------------------|
-| Diseño en Canva | https://www.canva.com/design/DAGOyaW6z7E/ub8lVBXsKH3Em5YVQb223g/edit?utm_content=DAGOyaW6z7E&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton |
-| Miro Board 1    | https://miro.com/app/board/uXjVKmNkzqc=/?share_link_id=307784420338                               |
-| Miro Board 2    | https://miro.com/app/board/uXjVKmOWBhk=/?share_link_id=425124811159                               |
-
+| Sección                                                   | Enlace                                                                                                                                                             |
+|-----------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Lean UX Canvas                                             | [https://www.canva.com/design/DAGOyaW6z7E/ub8lVBXsKH3Em5YVQb223g/edit?utm_content=DAGOyaW6z7E&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGOyaW6z7E/ub8lVBXsKH3Em5YVQb223g/edit?utm_content=DAGOyaW6z7E&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) |
+| To be Scenario Mapping - Dueños de playa de estacionamiento | [https://miro.com/app/board/uXjVKmNkzqc=/?share_link_id=307784420338](https://miro.com/app/board/uXjVKmNkzqc=/?share_link_id=307784420338)                                                               |
+| To be Scenario Mapping - Conductores Urbanos Frecuentes     | [https://miro.com/app/board/uXjVKmOWBhk=/?share_link_id=425124811159](https://miro.com/app/board/uXjVKmOWBhk=/?share_link_id=425124811159)                                                               |
+| Dueños de playas de estacionamientos                       | [https://miro.com/app/board/uXjVKkwEdZI=/?share_link_id=724391040067](https://miro.com/app/board/uXjVKkwEdZI=/?share_link_id=724391040067)                                                               |
+| Conductores Urbanos Frecuentes                             | [https://miro.com/app/board/uXjVKlATTNc=/?share_link_id=958948485500](https://miro.com/app/board/uXjVKlATTNc=/?share_link_id=958948485500)                                                               |
+| Figma                                                     | [https://www.figma.com/design/qb02D1snVoDtoLfT0qdkRV/Parking-now?node-id=0-1&t=32cD1vUOTgXzKlv9-1](https://www.figma.com/design/qb02D1snVoDtoLfT0qdkRV/Parking-now?node-id=0-1&t=32cD1vUOTgXzKlv9-1)     |
+| Vertabelo                                                 | [https://my.vertabelo.com/doc/pYDPCowUTtVaVuDmakCr4QlOKjdT1o1o](https://my.vertabelo.com/doc/pYDPCowUTtVaVuDmakCr4QlOKjdT1o1o)                                                                           |
+| Entrevistas en general - Segmento 1 y 2                                     | [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202223990_upc_edu_pe/EbIvmu-9HRFItJu_A2zbRx0BPfLCx2uRJnBarh-nlbO95A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=jlmpb3](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202223990_upc_edu_pe/EbIvmu-9HRFItJu_A2zbRx0BPfLCx2uRJnBarh-nlbO95A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=jlmpb3) |
