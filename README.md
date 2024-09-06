@@ -1300,7 +1300,9 @@ Este diagrama de contenedores ilustra los componentes clave de la plataforma PAR
 ![Diagrama de Contenedores](Assets/structurizr-Container-001.png)
 
 #### 4.6.3. Software Architecture Components Diagrams
-
+***Diagrama Parking Component***
+Diagrama que refiere a todo el componente que involucra los parkeos (playas de estacionamiento)
+![Component Diagram](./Assets/component_parking.png) 
 
 
 ### 4.7. Software Object-Oriented Design
