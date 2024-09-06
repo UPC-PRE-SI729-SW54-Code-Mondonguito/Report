@@ -1374,6 +1374,10 @@ Diagrama que refiere a todo el componente que involucra los parkeos (playas de e
 Diagrama que refiere a todo el componente que involucra a las reservaciones
 ![Component Diagram](./Assets/component_reserva.png) 
 
+***Diagrama Location Component***
+Diagrama que refiere a todo el componente que involucra a la gestion de ubicación en tiempo real
+![Component Diagram](./Assets/component_location.png) 
+
 
 
 ### 4.7. Software Object-Oriented Design
