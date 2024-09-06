@@ -315,11 +315,11 @@ Durante la preparación del informe, se llevaron a cabo las siguientes actividad
 
 | Repository | Branch | Commit ID | Commit Message | Commit Message Body | Committed on (Date) |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| [https://github.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Landing-Page](https://github.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Landing-Page)  | Feature/Diego Ulises | d033f50 | Update README.md | \- | 15/09/24 |
-|  | Feature/Omar Harold | fcff3d9 | Update README.md | \- | 26/09/24 |
-|  | Feature/Diego Cacho | 236b776 | Update README.md | \- | 26/09/24 |
-|  | Feature/Rodrigo Liberato | ab49487 | Update README.md | \- | 27/09/24 |
-|  | Feature/ Samuel Elias | 2f0a9d7 | Update README.md | \- | 27/09/24 |
+| [https://github.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Landing-Page](https://github.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Landing-Page)  | Feature/main | d033f50 | Update README.md | \- | 15/09/24 |
+|  | Feature/main | fcff3d9 | Update README.md | \- | 26/09/24 |
+|  | Feature/main | 236b776 | Update README.md | \- | 26/09/24 |
+|  | Feature/main | ab49487 | Update README.md | \- | 27/09/24 |
+|  | Feature/main | 2f0a9d7 | Update README.md | \- | 27/09/24 |
 
 ##### 5.2.1.4 Testing suite evidence for sprint review
 
