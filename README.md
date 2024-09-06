@@ -44,13 +44,16 @@ Ciclo: 5to <br>
 
 # Project Report Collaboration Insights
 
-TB1: Las tareas asignadas para la entrega TB1 se han completado y están documentadas en el siguiente repositorio de GitHub perteneciente a la organización del equipo: [Repositorio GitHub](#).
+TB1: Las tareas asignadas para la entrega TB1 se han completado y están documentadas en el siguiente repositorio de GitHub perteneciente a la organización del equipo: [Repositorio GitHub](https://github.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Report)
 
 Durante la preparación del informe, se llevaron a cabo las siguientes actividades:
 
 - Se escribieron y diagramaron los contenidos asignados a cada miembro en formato Markdown, seguido de commits para asegurar el progreso en el repositorio.
 - Se crearon los artefactos necesarios utilizando las herramientas recomendadas y se obtuvieron enlaces de imagen a través de la carpeta `Assets` en la rama `develop` del repositorio del informe.
 - Se organizaron reuniones para coordinar el progreso de los elementos del informe y para comunicar los avances del Sprint 1, que se enfoca en la Landing Page.
+
+![alt text](Assets/Insights.jpg)
+
 
 # ABET – EAC - Student Outcome 3
 
@@ -1740,7 +1743,7 @@ En el primer sprint, hemos desarrollado y lanzado la página de inicio de la apl
   </tr>
 
   <tr>
-    <td> CAMBIAR https://upc-pre-si729-sw54-code-mondonguito.github.io/Landing-Page/</td>
+    <td>  https://upc-pre-si729-sw54-code-mondonguito.github.io/Landing-Page/</td>
     <td> Desplegar Landing Page de PARKINGNOW</td>
   </tr>
 </table>
@@ -1749,20 +1752,22 @@ En el primer sprint, hemos desarrollado y lanzado la página de inicio de la apl
 
 Para implementar nuestra página, decidimos usar GitHub Pages. Durante este proceso, creamos un repositorio en GitHub para gestionar el control de versiones. En la sección de Configuración, publicamos el proyecto desde la rama "main", que anteriormente estaba en la rama "developer".
 
-**Link de la Landing Page desplegada:** [PARKINGNOW](https://upc-pre-si729-sw54-code-mondonguito.github.io/Landing-Page/) **-** CAMBIAR https://upc-pre-si729-sw54-code-mondonguito.github.io/Landing-Page/
+**Link de la Landing Page desplegada:** [PARKINGNOW](https://upc-pre-si729-sw54-code-mondonguito.github.io/Landing-Page/) **-**  https://upc-pre-si729-sw54-code-mondonguito.github.io/Landing-Page/
 
 ##### 5.2.1.8. Team Collaboration Insights during Sprint.
 En esta entrega, nuestro objetivo principal fue la creación de la Landing Page. Para lograrlo, utilizamos varias herramientas, incluyendo GitHub, Visual Studio Code, WebStorm, HTML, CSS y JavaScript. A continuación, presentamos los diagramas de flujo que muestran los commits realizados por cada miembro del equipo PARKINGNOW:
 
---ingresar imagen de los commits
+![alt text](Assets/Commits.jpg)
 
 Esta imagen proporciona una representación visual de las fechas en que se realizaron modificaciones en el repositorio de nuestra Landing Page, así como el número de cambios efectuados en cada commit. Este gráfico es útil para entender cómo ha evolucionado el proyecto a lo largo del tiempo y la intensidad del desarrollo.
 
---ingresar imagen de los modificaciones del repositorio del landing page
+
+
+![alt text](Assets/commits.png)
 
 Estos gráficos muestran de manera visual las clonaciones realizadas en nuestro repositorio y las fechas en que ocurrieron. También proporcionan información sobre el número de visitantes que ha tenido el repositorio a lo largo del tiempo.
 
---ingresar imagen de los branchs
+![alt text](Assets/Ramas.png)
 
 
 ### Conclusiones y recomendaciones
