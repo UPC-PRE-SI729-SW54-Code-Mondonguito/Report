@@ -13,7 +13,7 @@ Ciclo: 5to <br>
 
 <h2 align="center">INFORME</h2>
 
-<h3 align="center">Startup:</h3>
+<h3 align="center">Startup: Code Mondoguito</h3>
 <p align="center"><strong>Producto: ParkingNow</strong></p>
 
 <h3 align="center">Team Members:</h3>
@@ -30,7 +30,7 @@ Ciclo: 5to <br>
 
 </div>
 
-<p align="center"><strong>Agosto 2024</strong></p>
+<p align="center"><strong>Septiembre 2024</strong></p>
 
 # Registro de Versiones del Informe
 
@@ -52,7 +52,12 @@ Durante la preparación del informe, se llevaron a cabo las siguientes actividad
 - Se crearon los artefactos necesarios utilizando las herramientas recomendadas y se obtuvieron enlaces de imagen a través de la carpeta `Assets` en la rama `develop` del repositorio del informe.
 - Se organizaron reuniones para coordinar el progreso de los elementos del informe y para comunicar los avances del Sprint 1, que se enfoca en la Landing Page.
 
-# Student Outcome
+# ABET – EAC - Student Outcome 3 
+Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias. 
+En el siguiente cuadro se describe las acciones realizadas y enunciados de 
+conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro 
+del ABET – EAC - Student Outcome 3. 
+
 | Criterio específico                                                                                 | Acciones realizadas | Conclusiones |
 |------------------------------------------------------------------------------------------------------|---------------------|--------------|
 | **Comunica oralmente con efectividad a diferentes rangos de audiencia.**                                          |              |
@@ -1561,6 +1566,42 @@ Feature: Reserva de espacio de estacionamiento
 El código no debe exceder las **80 columnas** por línea. En caso de necesitar más espacio, se recomienda dividir la línea de código para mejorar la legibilidad.
 
 #### 5.1.4. Software Deployment Configuration
+
+En esta sección se detalla la configuración necesaria para el despliegue de la solución **PARKINGNOW**, incluyendo los pasos clave para lograr la publicación satisfactoria de la **Landing Page**, **Servicios Web** y **Aplicaciones Web Frontend** utilizando GitHub Pages para visualizar cada commit del **Landing Page**.
+
+A continuación, se describen los pasos para realizar el despliegue de la **Landing Page** del proyecto **PARKINGNOW**:
+
+1. **Actualización de Ramas:**
+   Asegúrate de que todas las ramas del repositorio estén actualizadas. Luego, ingresa a GitHub y dirígete al repositorio del proyecto **PARKINGNOW**.
+
+2. **Acceso a las Configuraciones:**
+   Una vez dentro del repositorio, haz clic en la pestaña **Settings** en la parte superior del repositorio.
+
+![Configuración de GitHub Pages](./Assets/Configuration.png)
+
+
+3. **Selección de GitHub Pages:**
+   Dentro de la sección **Settings**, en el menú lateral, busca la opción llamada **Pages**. Esta opción permite configurar el despliegue de la página desde una rama específica del repositorio.
+
+   ![Selección de Rama](./Assets/Deploy.png)
+
+
+4. **Configuración de la Rama Principal:**
+   En la opción **Pages**, selecciona la rama principal (generalmente llamada **main** o **master**). Luego, haz clic en el botón **Save** para iniciar el proceso de deploy de la página.
+
+  ![Confirmación del Despliegue](./Assets/GithubPages.png)
+
+5. **Confirmación del Deploy:**
+   Una vez que GitHub complete el proceso de deploy, en la parte superior de la sección **Pages** se mostrará un mensaje de confirmación junto con el enlace generado para acceder a la **Landing Page** del proyecto.
+
+   ![Comprobación del Despliegue](./Assets/URL.png)
+
+
+6. **Acceso a la Página:**
+   Finalmente, podrás acceder a la **Landing Page** desde el enlace que se generó al finalizar el deploy. Aquí está el enlace para el proyecto **PARKINGNOW**: https://upc-pre-si729-sw54-code-mondonguito.github.io/Landing-Page/
+
+   ![Acceso a la Página](./Assets/Landing.png)
+
 
 ### 5.2. Landing Page, Services & Applications Implementation
 
