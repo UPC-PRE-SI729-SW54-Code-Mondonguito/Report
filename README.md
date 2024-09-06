@@ -280,6 +280,52 @@ Durante la preparación del informe, se llevaron a cabo las siguientes actividad
 
 ### 5.2. Landing Page, Services & Applications Implementation
 
+### 5.2.1 Sprint 1
+
+##### 5.2.1.1 Sprint planning 1
+
+| Sprint \# | Sprint 1 |
+| :---: | :---: |
+| **Sprint Planning Background** |
+| Date | 03/09/24 |
+| Time | 22:10 horas |
+| Location | Virtual meeting \- Zoom |
+| Prepared By | Diego Ulises Soto Quispe |
+| Attendees | \-Diego Ulises Soto Quispe \-Diego Alonso Cacho Seminario \-Rodrigo Liberato Saldaña \-Omar Harold Rivera Ticllacuri \-Samuel Elias Molina Asencios |
+| Sprint n-1 Review Summary | No hubo Sprint Pasado |
+| Sprint n-1 Retrospective Summary | No hubo Sprint Pasado |
+| **Sprint Goal & User Stories** |
+| Sprint 1 Goal | Landing Page ParkingNow |
+| Sprint 1 Velocity | Velocidad de 30 \- Primer Sprint |
+| Sum of Story Points | Sprint 1 \- 104 Story Points |
+
+##### 5.2.1.2 Sprint backlog 1
+
+| Sprint \# | Sprint 1 |  |  |  |  |  |  |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| User Story |  | Work-Item / Task |  |  |  |  |  |
+| ID | Title | ID | Title | Description | Estimation (Hours) | Assigned To | Status |
+| SS01 | Sección Header | WT01 | Implementación del header, estilos y barra de navegación | Realizar la barra de navegación utilizando JS/CSS | 3 | Diego Ulises | Done |
+| SS02 | Sección Inicio | WT02 | Implementación de la sección Inicio  | Realizar la sección de Inicio empleando estilo responsive | 2 | Omar Harold | Done |
+| SS03 | Sección Características | WT03 | Implementación de la sección Características | Realizar la sección de Características | 2 | Diego Cacho | Done |
+| SS04 | Sección Iniciar Sesión/Registrar Cuenta | WT04 | Implementación de la sección Iniciar Sesión/Registrar Cuenta | Realizar la sección de Iniciar Sesión/Registrar Cuenta | 3 | Rodrigo Liberato | Done |
+| SS05 | Sección Reservar Espacio | WT05 | Implementación de la sección Reservar Espacio | Realizar la sección de Reservar Espacio | 4 | Samuel Elias | Done |
+
+##### 5.2.1.3 Development evidence for sprint review
+
+| Repository | Branch | Commit ID | Commit Message | Commit Message Body | Committed on (Date) |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| [https://github.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Landing-Page](https://github.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Landing-Page)  | Feature/Diego Ulises | d033f50 | Update README.md | \- | 15/09/24 |
+|  | Feature/Omar Harold | fcff3d9 | Update README.md | \- | 26/09/24 |
+|  | Feature/Diego Cacho | 236b776 | Update README.md | \- | 26/09/24 |
+|  | Feature/Rodrigo Liberato | ab49487 | Update README.md | \- | 27/09/24 |
+|  | Feature/ Samuel Elias | 2f0a9d7 | Update README.md | \- | 27/09/24 |
+
+##### 5.2.1.4 Testing suite evidence for sprint review
+
+En la presente entrega para el Sprint 1 no se incluye esta sección debido a que se desarrolló principalmente el Landing Page como base. Este se logró realizar satisfactoriamente según las necesidades de nuestros usuarios siguiendo las especificaciones de nuestro Sprint Backlog.
+
+
 #### 5.2.X. Sprint n
 
 ##### 5.2.X.1. Sprint Planning n
