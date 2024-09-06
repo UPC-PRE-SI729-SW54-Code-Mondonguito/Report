@@ -1699,36 +1699,36 @@ A continuación, te presentamos capturas de pantalla del desarrollo del Landing 
 
 En la parte superior, el encabezado (Header) presenta botones para Inicio (Home), Características (Characteristics), Reserva de Espacio (Reserve-Space), y Contáctenos (Contact-Us), así como información sobre nosotros. Estos elementos permiten a los visitantes navegar fácilmente a la sección que desean ver.
 
-![NavBar.png](Imagenes/NavBar.png)
+![NavBar.png](Assets/NavBar.png)
 **Imagen 1:** Encabezado y botones de desplazamiento.
 
 Se muestra la sección "Transforma", que ofrece una breve descripción y una frase representativa de ParkingNow. Esta sección facilita el inicio del uso del servicio web y presenta una imagen vinculada al mismo.
 
-![Transforma.png](Imagenes/PatronZ.png)
+![Transforma.png](Assets/PatronZ.png)
 **Imagen 2:** Sección Transforma.
 
 
 Se presenta la sección de beneficios del servicio, destacando las ventajas específicas para cada segmento objetivo definido por el equipo.
 
-![Beneficios.png](Imagenes/Segmentos.png)
+![Beneficios.png](Assets/Segmentos.png)
 **Imagen 3:** Sección Beneficios del servicio
 
 La sección de tipos de clientes en la landing page muestra a los posibles usuarios los distintos perfiles de clientes disponibles.
 
-![segmento.png](Imagenes/Segmento2.png)
+![segmento.png](Assets/Segmento2.png)
 **Imagen 4:** Sección tipo de cliente.
 
 Seguidamente se presenta la sección de contacto, aquí nuestros posibles usuarios pueden realizarnos preguntas personalizadas acerca de la aplicación que se está presentando.
 
-![membership.png](Imagenes/Somos1.png)
-![membership.png](Imagenes/Somos2.png)
+![membership.png](Assets/Somos1.png)
+![membership.png](Assets/Somos2.png)
 **Imagen 5:** Sección Contáctenos
 
 A continuación, se muestra la sección "Sobre nosotros" (about-us), donde se ofrece un resumen con información sobre los integrantes que están desarrollando la solución de software.
 
 
 
-![footer.png](Imagenes/Footer.png)
+![footer.png](Assets/Footer.png)
 **Imagen 6:** Sección footer.
 Finalmente, se muestra la sección del pie de página, donde están disponibles nuestros enlaces para que el usuario pueda volver a las secciones que prefiera.
 
