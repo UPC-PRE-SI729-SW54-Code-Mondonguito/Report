@@ -1311,6 +1311,11 @@ Este diagrama de contenedores ilustra los componentes clave de la plataforma PAR
 Diagrama que refiere a todo el componente que involucra los parkeos (playas de estacionamiento)
 ![Component Diagram](./Assets/component_parking.png) 
 
+***Diagrama Reservation Component***
+Diagrama que refiere a todo el componente que involucra a las reservaciones
+![Component Diagram](./Assets/component_reserva.png) 
+
+
 
 ### 4.7. Software Object-Oriented Design
 
