@@ -1220,9 +1220,11 @@ En el siguiente punto, mostraremos los dieños más tempranos de la pagina estat
 ![WireframeLP2](Assets/LandingPageWireframe2.png)
 
 #### 4.3.2. Landing Page Mock-up
-![MockupLP1](Assets/LandingPageMockup1.png)
 
-![MockupLP2](Assets/LandingPageMockup2.png)
+![MockupLP1](Assets/LandingPageMockUp1.png)
+
+![MockupLP2](Assets/LandingPageMockUp2.png)
+
 ### 4.4. Web Applications UX/UI Design
 
 En esta seccion, se presentara los resultados del diseño de la Aplicacion Web en Figma.
