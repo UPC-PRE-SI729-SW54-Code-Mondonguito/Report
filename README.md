@@ -60,8 +60,9 @@ del ABET – EAC - Student Outcome 3.
 
 | Criterio específico                                                                                 | Acciones realizadas | Conclusiones |
 |------------------------------------------------------------------------------------------------------|---------------------|--------------|
-| **Comunica oralmente con efectividad a diferentes rangos de audiencia.**                                          |              |
-| **Comunica por escrito con efectividad a diferentes rangos de audiencia.**                           |                     |      
+| **Comunica oralmente con efectividad a diferentes rangos de audiencia.**                             |**Diego Alonso Cacho Seminario *TB1:*** Participe en las secciones del capítulo 2 relacionadas con el diseño, grabación y análisis de entrevistas teniendo en cuenta además las encuestas realizadas a nuestros segmentos objetivo, además aporte con la realización de los Sprints, más concretamente en el primero para esta entrega.                     |
+| **Comunica por escrito con efectividad a diferentes rangos de audiencia.**                           |**Diego Alonso Cacho Seminario *TB1:*** Realice las correcciones necesarias dadas por mis compañeros respecto a los puntos con los que aporte para la TB1, además subí correctamente mis aportes al repositorio en línea, utilizando y respetando el formato dado.                     |      
+
 # Contenido
 - [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
 - [Project Report Collaboration Insights](#project-report-collaboration-insights)
