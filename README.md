@@ -743,14 +743,14 @@ El As-Is nos proporciona un análisis visual de los escenarios actuales para ide
 
 El "As-is Scenario Mapping" para **Conductores Urbanos Frecuentes** resalta los desafíos y mejoras necesarias en la experiencia de estacionamiento, permitiendo optimizar las soluciones de **PARKINGNOW**.
 
-![As is Scenario](./Assets/As-is%20Scenario%20Mapping%20-%201.png)
+![As is Scenario](./Assets/as_is_segment_1.jpg) 
 
 
 ### Segmento Dueños de playas de estacionamientos
 
 El "As-is Scenario Mapping" para **Dueños de Playas de Estacionamientos** identifica sus desafíos y necesidades, desde la preparación del espacio hasta la gestión post-servicio, ayudando a mejorar la eficiencia y satisfacción en la gestión de sus estacionamientos con **PARKINGNOW**.
 
-![As is Scenario](./Assets/As-is%20Scenario%20Mapping%20-%202.png)
+![As is Scenario](./Assets/as_is_segment_2.jpg)
 
 ### 2.4. Ubiquitous Language
 **Espacio de Estacionamiento:** Un lugar específico dentro de un estacionamiento donde un vehículo puede ser aparcado.
