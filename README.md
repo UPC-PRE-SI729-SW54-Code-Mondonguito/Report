@@ -1643,9 +1643,14 @@ A continuación, se describen los pasos para realizar el despliegue de la **Land
 
 ## Anexos
 
-| Sección         | Enlace                                                                                           |
-|-----------------|--------------------------------------------------------------------------------------------------|
-| Diseño en Canva | https://www.canva.com/design/DAGOyaW6z7E/ub8lVBXsKH3Em5YVQb223g/edit?utm_content=DAGOyaW6z7E&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton |
-| Miro Board 1    | https://miro.com/app/board/uXjVKmNkzqc=/?share_link_id=307784420338                               |
-| Miro Board 2    | https://miro.com/app/board/uXjVKmOWBhk=/?share_link_id=425124811159                               |
+## Anexos
 
+| Sección                                                   | Enlace                                                                                                                                                             |
+|-----------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Lean UX Canvas                                             | [https://www.canva.com/design/DAGOyaW6z7E/ub8lVBXsKH3Em5YVQb223g/edit?utm_content=DAGOyaW6z7E&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGOyaW6z7E/ub8lVBXsKH3Em5YVQb223g/edit?utm_content=DAGOyaW6z7E&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) |
+| To be Scenario Mapping - Dueños de playa de estacionamiento | [https://miro.com/app/board/uXjVKmNkzqc=/?share_link_id=307784420338](https://miro.com/app/board/uXjVKmNkzqc=/?share_link_id=307784420338)                                                               |
+| To be Scenario Mapping - Conductores Urbanos Frecuentes     | [https://miro.com/app/board/uXjVKmOWBhk=/?share_link_id=425124811159](https://miro.com/app/board/uXjVKmOWBhk=/?share_link_id=425124811159)                                                               |
+| Dueños de playas de estacionamientos                       | [https://miro.com/app/board/uXjVKkwEdZI=/?share_link_id=724391040067](https://miro.com/app/board/uXjVKkwEdZI=/?share_link_id=724391040067)                                                               |
+| Conductores Urbanos Frecuentes                             | [https://miro.com/app/board/uXjVKlATTNc=/?share_link_id=958948485500](https://miro.com/app/board/uXjVKlATTNc=/?share_link_id=958948485500)                                                               |
+| Figma                                                     | [https://www.figma.com/design/qb02D1snVoDtoLfT0qdkRV/Parking-now?node-id=0-1&t=32cD1vUOTgXzKlv9-1](https://www.figma.com/design/qb02D1snVoDtoLfT0qdkRV/Parking-now?node-id=0-1&t=32cD1vUOTgXzKlv9-1)     |
+| Vertabelo                                                 | [https://my.vertabelo.com/doc/pYDPCowUTtVaVuDmakCr4QlOKjdT1o1o](https://my.vertabelo.com/doc/pYDPCowUTtVaVuDmakCr4QlOKjdT1o1o)                                                                           |
