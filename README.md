@@ -1,5 +1,4 @@
 
-
 ## Capítulo V: Product Implementation, Validation & Deployment
 
 ### 5.1. Software Configuration Management
@@ -78,7 +77,6 @@ La gestión del código fuente es una parte fundamental del desarrollo de cualqu
 - **Landing Page:** https://github.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Landing-Page
 - **Frontend:** https://github.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Frontend
 - **Backend:** https://github.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Backend
-
 
 ### GitFlow
 
@@ -258,12 +256,10 @@ A continuación, se describen los pasos para realizar el despliegue de la **Land
 
 ![Configuración de GitHub Pages](./Assets/Configuration.png)
 
-
 3. **Selección de GitHub Pages:**
    Dentro de la sección **Settings**, en el menú lateral, busca la opción llamada **Pages**. Esta opción permite configurar el despliegue de la página desde una rama específica del repositorio.
 
    ![Selección de Rama](./Assets/Deploy.png)
-
 
 4. **Configuración de la Rama Principal:**
    En la opción **Pages**, selecciona la rama principal (generalmente llamada **main** o **master**). Luego, haz clic en el botón **Save** para iniciar el proceso de deploy de la página.
@@ -275,12 +271,10 @@ A continuación, se describen los pasos para realizar el despliegue de la **Land
 
    ![Comprobación del Despliegue](./Assets/URL.png)
 
-
 6. **Acceso a la Página:**
    Finalmente, podrás acceder a la **Landing Page** desde el enlace que se generó al finalizar el deploy. Aquí está el enlace para el proyecto **PARKINGNOW**: https://upc-pre-si729-sw54-code-mondonguito.github.io/Landing-Page/
 
    ![Acceso a la Página](./Assets/Landing.png)
-
 
 ### 5.2. Landing Page, Services & Applications Implementation
 
@@ -315,7 +309,6 @@ A continuación, se describen los pasos para realizar el despliegue de la **Land
 | SS04 | Sección Iniciar Sesión/Registrar Cuenta | WT04 | Implementación de la sección Iniciar Sesión/Registrar Cuenta | Realizar la sección de Iniciar Sesión/Registrar Cuenta | 3 | Rodrigo Liberato | Done |
 | SS05 | Sección Reservar Espacio | WT05 | Implementación de la sección Reservar Espacio | Realizar la sección de Reservar Espacio | 4 | Samuel Elias | Done |
 
-
 ##### 5.2.1.3. Development Evidence for Sprint Review
 
 | Repository | Branch | Commit ID | Commit Message | Commit Message Body | Committed on (Date) |
@@ -325,7 +318,6 @@ A continuación, se describen los pasos para realizar el despliegue de la **Land
 |  | Feature/main | 236b776 | Update README.md | \- | 26/09/24 |
 |  | Feature/main | ab49487 | Update README.md | \- | 27/09/24 |
 |  | Feature/main | 2f0a9d7 | Update README.md | \- | 27/09/24 |
-
 
 ##### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
@@ -348,7 +340,6 @@ Se muestra la sección "Transforma", que ofrece una breve descripción y una fra
 ![Transforma.png](Assets/PatronZ.png)
 **Imagen 2:** Sección Transforma.
 
-
 Se presenta la sección de beneficios del servicio, destacando las ventajas específicas para cada segmento objetivo definido por el equipo.
 
 ![Beneficios.png](Assets/Segmentos.png)
@@ -366,7 +357,6 @@ Seguidamente se presenta la sección de contacto, aquí nuestros posibles usuari
 **Imagen 5:** Sección Contáctenos
 
 A continuación, se muestra la sección "Sobre nosotros" (about-us), donde se ofrece un resumen con información sobre los integrantes que están desarrollando la solución de software.
-
 
 
 ![footer.png](Assets/Footer.png)
@@ -403,16 +393,13 @@ En esta entrega, nuestro objetivo principal fue la creación de la Landing Page.
 Esta imagen proporciona una representación visual de las fechas en que se realizaron modificaciones en el repositorio de nuestra Landing Page, así como el número de cambios efectuados en cada commit. Este gráfico es útil para entender cómo ha evolucionado el proyecto a lo largo del tiempo y la intensidad del desarrollo.
 
 
-
 ![alt text](Assets/commits.png)
 
 Estos gráficos muestran de manera visual las clonaciones realizadas en nuestro repositorio y las fechas en que ocurrieron. También proporcionan información sobre el número de visitantes que ha tenido el repositorio a lo largo del tiempo.
 
 ![alt text](Assets/Ramas.png)
 
-
 ### Conclusiones y recomendaciones
-
 
 El proyecto PARKINGNOW ha alcanzado avances significativos en la creación de una solución tecnológica integral para resolver los problemas de estacionamiento en las ciudades. Al combinar sensores infrarrojos de detección en tiempo real con una plataforma intuitiva para los usuarios, PARKINGNOW no solo optimiza la ocupación de los espacios de estacionamiento, sino que también facilita el día a día de los conductores urbanos. Esta solución ha demostrado ser eficaz tanto en la reducción de tiempos de búsqueda como en la mejora de la rentabilidad para los dueños de playas de estacionamiento, mostrando un balance ideal entre tecnología y experiencia del usuario.
 
@@ -432,9 +419,7 @@ PARKINGNOW tiene el potencial de consolidarse como un referente en la gestión d
 
 5. **Sostenibilidad y responsabilidad social:** A medida que el impacto de PARKINGNOW crece, es recomendable enfocarse aún más en su papel dentro del ecosistema de movilidad sostenible. Iniciativas como reducir la huella de carbono de los conductores mediante la disminución de tiempo en busca de estacionamiento y la colaboración con proyectos de ciudades inteligentes posicionarán a PARKINGNOW no solo como una empresa rentable, sino también como un agente clave en la sostenibilidad urbana.
 
-
 ### Video About-the-Team
-
 
 
 # Bibliografía
@@ -455,7 +440,6 @@ PARKINGNOW tiene el potencial de consolidarse como un referente en la gestión d
 
 8. **Intertraffic**. (2023, 28 de junio). *Revolucionando las experiencias de estacionamiento: Las últimas soluciones inteligentes para un estacionamiento eficiente*. Intertraffic. Recuperado el 6 de septiembre de 2024, de [https://www.intertraffic.com/news/espanol/revolucionando-las-experiencias-de-estacionamiento](https://www.intertraffic.com/news/espanol/revolucionando-las-experiencias-de-estacionamiento)
 
-
 ## Anexos
 
 | Sección                                                   | Enlace                                                                                                                                                             |
@@ -469,3 +453,5 @@ PARKINGNOW tiene el potencial de consolidarse como un referente en la gestión d
 | Vertabelo                                                 | [https://my.vertabelo.com/doc/pYDPCowUTtVaVuDmakCr4QlOKjdT1o1o](https://my.vertabelo.com/doc/pYDPCowUTtVaVuDmakCr4QlOKjdT1o1o)                                                                           |
 | Entrevistas en general - Segmento 1 y 2                                     | [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202223990_upc_edu_pe/EbIvmu-9HRFItJu_A2zbRx0BPfLCx2uRJnBarh-nlbO95A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=jlmpb3](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202223990_upc_edu_pe/EbIvmu-9HRFItJu_A2zbRx0BPfLCx2uRJnBarh-nlbO95A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=jlmpb3) |
 |Link de video de exposicion |[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215623_upc_edu_pe/EWKHzhsfxolEvJLdJNUX07sBGrxabKWvXX_kvqdSpUFZTA?e=MpiEeE ](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215623_upc_edu_pe/EWKHzhsfxolEvJLdJNUX07sBGrxabKWvXX_kvqdSpUFZTA?e=MpiEeE ) |
+
+
