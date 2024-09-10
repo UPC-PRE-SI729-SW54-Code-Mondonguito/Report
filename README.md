@@ -1746,16 +1746,14 @@ A continuación, se describen los pasos para realizar el despliegue de la **Land
 | Time | 22:10 horas |
 | Location | Virtual meeting \- Zoom |
 | Prepared By | Diego Ulises Soto Quispe |
-| Attendees | \-Diego Ulises Soto Quispe \-Diego Alonso Cacho Seminario \-Rodrigo Liberato Saldaña \-Omar Harold Rivera Ticllacuri \-Samuel Elias Molina Asencios |
-| Sprint n-1 Review Summary | 
-Para adaptar el formato del texto de ejemplo a tu proyecto sobre PARKINGNOW, puedes estructurarlo de la siguiente manera:
+| Attendees | \- Diego Ulises Soto Quispe <br> \- Diego Alonso Cacho Seminario <br> \- Rodrigo Liberato Saldaña <br> \- Omar Harold Rivera Ticllacuri <br> \- Samuel Elias Molina Asencios |
+| Sprint 1 Review Summary | La opinión del product owner y las partes interesadas con respecto al avance realizado sobre el desarrollo de la landing page de PARKINGNOW fue positiva, cumpliendo con los objetivos esperados. |
+| Sprint 1 Retrospective Summary | Se completó la implementación de la primera versión de la landing page, aunque se identificaron algunas deficiencias en cuanto al diseño visual y la usabilidad de la plataforma. Se mejorará en futuros sprints. |
+| **Sprint Goal & User Stories** |  |
+| Sprint 1 Goal | Desarrollar la Landing Page de PARKINGNOW. |
+| Sprint 1 Velocity | Velocidad de 30 \- Primer Sprint |
+| Sum of Story Points | Sprint 1 \- 104 Story Points |
 
-Se establecieron las primeras historias de usuario centradas en el desarrollo de la plataforma de gestión de estacionamientos PARKINGNOW y la implementación de la lógica de funcionamiento con sensores infrarrojos.
-
-El despliegue de la plataforma inicial de PARKINGNOW se completó con éxito dentro del plazo acordado. La documentación se ha ampliado con la incorporación de la visión de negocio y la integración de los artefactos tecnológicos pertinentes, como los sensores infrarrojos y los sistemas de geolocalización. |
-| Sprint n-1 Retrospective Summary | En términos generales, hemos mantenido una excelente coordinación y comunicación como equipo, utilizando plataformas colaborativas como Google Meet y Slack. Sin embargo, aún hay margen para mejorar en la gestión de tareas y coordinación interdepartamental, lo que facilitará la excelencia en futuros lanzamientos de producto.
-
-Para asegurar un progreso continuo en el proyecto PARKINGNOW, es fundamental optimizar la estimación en la creación de wireframes y mockups para evitar desfases en el calendario y garantizar un flujo de trabajo más estable y eficiente.
 
 Es necesario aumentar el uso del formato Markdown en nuestra documentación técnica y comunicaciones. Esto mejorará la comprensión y el acceso a la información para todos los miembros del equipo, asegurando que todos estén alineados con las últimas actualizaciones. |
 | **Sprint Goal & User Stories** |  |
