@@ -1754,13 +1754,6 @@ A continuación, se describen los pasos para realizar el despliegue de la **Land
 | Sprint 1 Velocity | Velocidad de 30 \- Primer Sprint |
 | Sum of Story Points | Sprint 1 \- 104 Story Points |
 
-
-Es necesario aumentar el uso del formato Markdown en nuestra documentación técnica y comunicaciones. Esto mejorará la comprensión y el acceso a la información para todos los miembros del equipo, asegurando que todos estén alineados con las últimas actualizaciones. |
-| **Sprint Goal & User Stories** |  |
-| Sprint 1 Goal | Landing Page ParkingNow |
-| Sprint 1 Velocity | Velocidad de 30 \- Primer Sprint |
-| Sum of Story Points | Sprint 1 \- 104 Story Points |
-
 ##### 5.2.1.2. Sprint Backlog 1
 
 | Sprint \# | Sprint 1 |  |  |  |  |  |  |
