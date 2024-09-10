@@ -289,11 +289,11 @@ A continuación, se describen los pasos para realizar el despliegue de la **Land
 | Time | 22:10 horas |
 | Location | Virtual meeting \- Zoom |
 | Prepared By | Diego Ulises Soto Quispe |
-| Attendees | \-Diego Ulises Soto Quispe \-Diego Alonso Cacho Seminario \-Rodrigo Liberato Saldaña \-Omar Harold Rivera Ticllacuri \-Samuel Elias Molina Asencios |
-| Sprint n-1 Review Summary |  |
-| Sprint n-1 Retrospective Summary |  |
+| Attendees | \- Diego Ulises Soto Quispe <br> \- Diego Alonso Cacho Seminario <br> \- Rodrigo Liberato Saldaña <br> \- Omar Harold Rivera Ticllacuri <br> \- Samuel Elias Molina Asencios |
+| Sprint 1 Review Summary | La opinión del product owner y las partes interesadas con respecto al avance realizado sobre el desarrollo de la landing page de PARKINGNOW fue positiva, cumpliendo con los objetivos esperados. |
+| Sprint 1 Retrospective Summary | Se completó la implementación de la primera versión de la landing page, aunque se identificaron algunas deficiencias en cuanto al diseño visual y la usabilidad de la plataforma. Se mejorará en futuros sprints. |
 | **Sprint Goal & User Stories** |  |
-| Sprint 1 Goal | Landing Page ParkingNow |
+| Sprint 1 Goal | Desarrollar la Landing Page de PARKINGNOW. |
 | Sprint 1 Velocity | Velocidad de 30 \- Primer Sprint |
 | Sum of Story Points | Sprint 1 \- 104 Story Points |
 
