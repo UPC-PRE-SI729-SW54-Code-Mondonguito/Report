@@ -301,7 +301,7 @@ En el **Sprint 1**, el equipo se enfocó en desarrollar las principales seccione
 
 ##### 5.2.1.2. Sprint Backlog 1
 
-![alt text](Assets/Trello.png)
+![alt text](<Assets/trello .png>)
 
 Link del Trello: https://trello.com/invite/b/66e8592fa7463897e6009305/ATTI40cdd58c92843377c1bb36efe058ba4f83EFDA35/open-source-parkingnow
 
