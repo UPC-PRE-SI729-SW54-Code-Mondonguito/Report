@@ -437,8 +437,7 @@ Link del Trello: https://trello.com/invite/b/66e9b5b8f40799cfcf6b00d3/ATTIa96971
 
 ### Sprint Backlog 2
 
-
-| Sprint \# | Sprint 2 |
+| Sprint # | Sprint 2 |
 | :---: | :---: |
 | **User Story** | **Work-Item / Task** | **Description** | **Estimation (Hours)** | **Assigned To** | **Status (To-do / In-Process / To-Review / Done)** |
 | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -447,7 +446,8 @@ Link del Trello: https://trello.com/invite/b/66e9b5b8f40799cfcf6b00d3/ATTIa96971
 | US20 | T03 | Creación de API para Gestión de Usuarios | Desarrollar una API que permita la gestión CRUD de usuarios | 4 | Rodrigo Liberato Saldaña | In-Process |
 | US16 | T04 | Simplificación del Proceso de Reservas | Implementar un proceso simplificado para hacer reservas de espacios de estacionamiento más rápido | 4 | Diego Alonso Cacho Seminario | Done |
 | US18 | T05 | Gestión Básica de Promociones | Desarrollar una funcionalidad para gestionar promociones básicas en la plataforma | 5 | Diego Ulises Soto Quispe | Done |
-| US19 | T06 | Implementación de Funcionalidades de Seguridad Avanzadas | Implementar características avanzadas de seguridad para proteger las transacciones y los datos del usuario | 6 | Omar Harold Rivera Ticllacuri | Done | 
+| US19 | T06 | Implementación de Funcionalidades de Seguridad Avanzadas | Implementar características avanzadas de seguridad para proteger las transacciones y los datos del usuario | 6 | Omar Harold Rivera Ticllacuri | Done |
+
 
 
 ### Conclusiones y recomendaciones
