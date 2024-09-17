@@ -280,6 +280,8 @@ A continuación, se describen los pasos para realizar el despliegue de la **Land
 
 #### 5.2.1. Sprint 1
 
+En el **Sprint 1**, el equipo se enfocó en desarrollar las principales secciones de la Landing Page de PARKINGNOW, como la navegación intuitiva, el registro de usuarios a través de redes sociales y la visualización de promociones. Durante este sprint, se distribuyeron las tareas entre los miembros del equipo, quienes trabajaron en la implementación del diseño responsivo y funcional de la página.
+
 ##### 5.2.1.1. Sprint Planning 1
 
 | Sprint \# | Sprint 1 |
@@ -298,6 +300,10 @@ A continuación, se describen los pasos para realizar el despliegue de la **Land
 | Sum of Story Points | Sprint 1 \- 104 Story Points |
 
 ##### 5.2.1.2. Sprint Backlog 1
+
+![alt text](Assets/Trello.png)
+
+Link del Trello: https://trello.com/invite/b/66e8592fa7463897e6009305/ATTI40cdd58c92843377c1bb36efe058ba4f83EFDA35/open-source-parkingnow
 
 | Sprint \# | Sprint 1 |  |  |  |  |  |  |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -399,6 +405,51 @@ Estos gráficos muestran de manera visual las clonaciones realizadas en nuestro 
 
 ![alt text](Assets/Ramas.png)
 
+
+#### 5.2.2 Sprint 2
+
+##### 5.2.2.1.Sprint Planning 2 
+
+En esta sección se especifican los detalles del Sprint Planning Meeting, que es una reunión que se lleva a cabo al inicio de cada sprint con la finalidad de establecer las tareas que se realizarán durante el período determinado.
+##### 5.2.1.2. Sprint Planning 2
+
+| Sprint # | Sprint 2 |
+| :---: | :---: |
+| **Sprint Planning Background** |  |
+| Date | 21/09/24 |
+| Time | 11:00 AM |
+| Location | Virtual meeting \- Zoom |
+| Prepared By | Diego Ulises Soto Quispe |
+| Attendees | \- Diego Ulises Soto Quispe <br> \- Diego Alonso Cacho Seminario <br> \- Rodrigo Liberato Saldaña <br> \- Omar Harold Rivera Ticllacuri <br> \- Samuel Elias Molina Asencios |
+| Sprint 2 Review Summary | El objetivo del Sprint fue mejorar la experiencia del usuario con la optimización de las funcionalidades de la página PARKINGNOW. Se completaron tareas técnicas relacionadas con la API y la gestión de usuarios. |
+| Sprint 2 Retrospective Summary | La ejecución del Sprint fue efectiva, aunque se presentaron retos en la integración de la API. En el siguiente Sprint se mejorarán las funciones de notificaciones y seguridad. |
+| **Sprint Goal & User Stories** |  |
+| Sprint 2 Goal | Desarrollar la gestión de usuarios y la creación de APIs básicas para la plataforma PARKINGNOW. |
+| Sprint 2 Velocity | Velocidad de 30 - Segundo Sprint |
+| Sum of Story Points | Sprint 2 - 30 Story Points |
+
+
+##### Sprint Backlog 2
+
+![alt text](<Assets/Trello 2.png>)
+
+Link del Trello: https://trello.com/invite/b/66e9b5b8f40799cfcf6b00d3/ATTIa96971e39f8a6c5827fd4d56f290181a384AD640/sprint-backlog-2
+
+### Sprint Backlog 2
+
+
+| Sprint \# | Sprint 2 |
+| :---: | :---: |
+| **User Story** | **Work-Item / Task** | **Description** | **Estimation (Hours)** | **Assigned To** | **Status (To-do / In-Process / To-Review / Done)** |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| US13 | T01 | Creación de Endpoint para Obtener Disponibilidad | Crear un endpoint que devuelva la disponibilidad de los espacios en tiempo real | 6 | Omar Harold Rivera Ticllacuri | To-do |
+| US17 | T02 | Implementación de Logs de Auditoría | Implementar el sistema de auditoría para registrar las acciones importantes en la plataforma | 4 | Samuel Elias Molina Asencios | To-do |
+| US20 | T03 | Creación de API para Gestión de Usuarios | Desarrollar una API que permita la gestión CRUD de usuarios | 4 | Rodrigo Liberato Saldaña | In-Process |
+| US16 | T04 | Simplificación del Proceso de Reservas | Implementar un proceso simplificado para hacer reservas de espacios de estacionamiento más rápido | 4 | Diego Alonso Cacho Seminario | Done |
+| US18 | T05 | Gestión Básica de Promociones | Desarrollar una funcionalidad para gestionar promociones básicas en la plataforma | 5 | Diego Ulises Soto Quispe | Done |
+| US19 | T06 | Implementación de Funcionalidades de Seguridad Avanzadas | Implementar características avanzadas de seguridad para proteger las transacciones y los datos del usuario | 6 | Omar Harold Rivera Ticllacuri | Done | 
+
+
 ### Conclusiones y recomendaciones
 
 El proyecto PARKINGNOW ha alcanzado avances significativos en la creación de una solución tecnológica integral para resolver los problemas de estacionamiento en las ciudades. Al combinar sensores infrarrojos de detección en tiempo real con una plataforma intuitiva para los usuarios, PARKINGNOW no solo optimiza la ocupación de los espacios de estacionamiento, sino que también facilita el día a día de los conductores urbanos. Esta solución ha demostrado ser eficaz tanto en la reducción de tiempos de búsqueda como en la mejora de la rentabilidad para los dueños de playas de estacionamiento, mostrando un balance ideal entre tecnología y experiencia del usuario.
@@ -453,5 +504,4 @@ PARKINGNOW tiene el potencial de consolidarse como un referente en la gestión d
 | Vertabelo                                                 | [https://my.vertabelo.com/doc/pYDPCowUTtVaVuDmakCr4QlOKjdT1o1o](https://my.vertabelo.com/doc/pYDPCowUTtVaVuDmakCr4QlOKjdT1o1o)                                                                           |
 | Entrevistas en general - Segmento 1 y 2                                     | [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202223990_upc_edu_pe/EbIvmu-9HRFItJu_A2zbRx0BPfLCx2uRJnBarh-nlbO95A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=jlmpb3](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202223990_upc_edu_pe/EbIvmu-9HRFItJu_A2zbRx0BPfLCx2uRJnBarh-nlbO95A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=jlmpb3) |
 |Link de video de exposicion |[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215623_upc_edu_pe/EWKHzhsfxolEvJLdJNUX07sBGrxabKWvXX_kvqdSpUFZTA?e=MpiEeE ](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215623_upc_edu_pe/EWKHzhsfxolEvJLdJNUX07sBGrxabKWvXX_kvqdSpUFZTA?e=MpiEeE ) |
-
-
+|Link del Trello | https://trello.com/invite/b/66e8592fa7463897e6009305/ATTI40cdd58c92843377c1bb36efe058ba4f83EFDA35/open-source-parkingnow |
