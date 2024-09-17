@@ -435,18 +435,16 @@ En esta sección se especifican los detalles del Sprint Planning Meeting, que es
 
 Link del Trello: https://trello.com/invite/b/66e9b5b8f40799cfcf6b00d3/ATTIa96971e39f8a6c5827fd4d56f290181a384AD640/sprint-backlog-2
 
-### Sprint Backlog 2
-
-| Sprint # | Sprint 2 |
-| :---: | :---: |
-| **User Story** | **Work-Item / Task** | **Description** | **Estimation (Hours)** | **Assigned To** | **Status (To-do / In-Process / To-Review / Done)** |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| US13 | T01 | Creación de Endpoint para Obtener Disponibilidad | Crear un endpoint que devuelva la disponibilidad de los espacios en tiempo real | 6 | Omar Harold Rivera Ticllacuri | To-do |
-| US17 | T02 | Implementación de Logs de Auditoría | Implementar el sistema de auditoría para registrar las acciones importantes en la plataforma | 4 | Samuel Elias Molina Asencios | To-do |
-| US20 | T03 | Creación de API para Gestión de Usuarios | Desarrollar una API que permita la gestión CRUD de usuarios | 4 | Rodrigo Liberato Saldaña | In-Process |
-| US16 | T04 | Simplificación del Proceso de Reservas | Implementar un proceso simplificado para hacer reservas de espacios de estacionamiento más rápido | 4 | Diego Alonso Cacho Seminario | Done |
-| US18 | T05 | Gestión Básica de Promociones | Desarrollar una funcionalidad para gestionar promociones básicas en la plataforma | 5 | Diego Ulises Soto Quispe | Done |
-| US19 | T06 | Implementación de Funcionalidades de Seguridad Avanzadas | Implementar características avanzadas de seguridad para proteger las transacciones y los datos del usuario | 6 | Omar Harold Rivera Ticllacuri | Done |
+| Sprint \# | Sprint 2 |  |  |  |  |  |  |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| User Story |  | Work-Item / Task |  |  |  |  |  |
+| ID | Title | ID | Title | Description | Estimation (Hours) | Assigned To | Status |
+| US13 | Creación de Endpoint | T01 | Obtener Disponibilidad | Crear un endpoint que devuelva la disponibilidad de los espacios en tiempo real | 6 | Omar Harold | To-do |
+| US17 | Implementación de Logs | T02 | Auditoría | Implementar el sistema de auditoría para registrar las acciones importantes en la plataforma | 4 | Samuel Elias | To-do |
+| US20 | Creación de API | T03 | Gestión de Usuarios | Desarrollar una API que permita la gestión CRUD de usuarios | 4 | Rodrigo Liberato | In-Process |
+| US16 | Simplificación del Proceso de Reservas | T04 | Proceso Simplificado | Implementar un proceso simplificado para hacer reservas de espacios de estacionamiento más rápido | 4 | Diego Alonso | Done |
+| US18 | Gestión Básica de Promociones | T05 | Gestión de Promociones | Desarrollar una funcionalidad para gestionar promociones básicas en la plataforma | 5 | Diego Ulises | Done |
+| US19 | Implementación de Funcionalidades de Seguridad Avanzadas | T06 | Seguridad Avanzada | Implementar características avanzadas de seguridad para proteger las transacciones y los datos del usuario | 6 | Omar Harold | Done |
 
 
 
