@@ -1737,6 +1737,8 @@ A continuación, se describen los pasos para realizar el despliegue de la **Land
 
 #### 5.2.1. Sprint 1
 
+En el **Sprint 1**, el equipo se enfocó en desarrollar las principales secciones de la Landing Page de PARKINGNOW, como la navegación intuitiva, el registro de usuarios a través de redes sociales y la visualización de promociones. Durante este sprint, se distribuyeron las tareas entre los miembros del equipo, quienes trabajaron en la implementación del diseño responsivo y funcional de la página.
+
 ##### 5.2.1.1. Sprint Planning 1
 
 | Sprint \# | Sprint 1 |
