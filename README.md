@@ -1408,6 +1408,12 @@ Link: [Figma](https://www.figma.com/design/qb02D1snVoDtoLfT0qdkRV/Parking-now?no
 ![Prototyping](Assets/Prototyping.png)
 
 
+Evidencia:![alt text](<Assets/Expo - Flujo.jpg>)
+
+Explicación:
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214477_upc_edu_pe/EbbItuqjG5lKkbMH-BwTW1MBImmRTC15DyIPclYNgeb9MA?e=RwBYeG&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+
 ### 4.6. Domain-Driven Software Architecture
 
 Los diagramas de arquitectura de software nos ayudan a plantear el sistema de nuestro software, basándonos en el enfoque de desarrollo de Domain Driven Design.
@@ -1825,6 +1831,10 @@ A continuación, se muestra la sección "Sobre nosotros" (about-us), donde se of
 ![footer.png](Assets/Footer.png)
 **Imagen 6:** Sección footer.
 Finalmente, se muestra la sección del pie de página, donde están disponibles nuestros enlaces para que el usuario pueda volver a las secciones que prefiera.
+
+Evidencia: ![alt text](<Assets/Expo - Landing.jpg>)
+Explicación: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214477_upc_edu_pe/ETrgbRgEyStIt1wF9UGWUMABuhyTdtmanoHfLHgAjC1-_Q?e=fdr0Z8&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
 
 ##### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
