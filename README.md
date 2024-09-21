@@ -1028,14 +1028,14 @@ Utilizamos la escala de Fibonacci para la estimación de los Story Points.
 | 13          | US13              | Creación de Endpoint para Obtener Disponibilidad                  | Como developer de backend de PARKINGNOW, necesito crear un endpoint RESTful API que devuelva la disponibilidad de estacionamientos en tiempo real para que las aplicaciones cliente puedan mostrar esta información a los usuarios. | 5           |
 | 14          | US14              | Implementación de Seguridad para Transacciones                    | Como developer de backend de PARKINGNOW, necesito implementar medidas de seguridad avanzadas en las transacciones de la plataforma para proteger los datos del usuario y evitar fraudes.                       | 8             |
 | 15          | US15              | Integración de Notificaciones Push                                | Como developer de backend de PARKINGNOW, necesito integrar servicios de notificaciones push en la plataforma para mantener a los usuarios informados en tiempo real sobre cambios en la disponibilidad de espacios. | 5          |
-| 16           | US16: Simplificación del Proceso de Reservas     | Como developer de backend de PARKINGNOW, necesito implementar un proceso de reservas simplificado para que los usuarios puedan seleccionar y confirmar su espacio de estacionamiento rápidamente. | 5                      |
+| 16           | US16   | Simplificación del Proceso de Reservas     |Como developer de backend de PARKINGNOW, necesito implementar un proceso de reservas simplificado para que los usuarios puedan seleccionar y confirmar su espacio de estacionamiento rápidamente.                       |5|
 | 17          | US17              | Implementación de Logs de Auditoría                               | Como developer de backend de PARKINGNOW, necesito implementar logs de auditoría para registrar todas las acciones críticas en la plataforma y mejorar la seguridad y el seguimiento.                         | 5                |
 | 18          | US18              | Gestión Básica de Promociones                                     | Como developer de backend de PARKINGNOW, necesito desarrollar una API para crear y gestionar promociones de estacionamiento para que los administradores puedan atraer más usuarios.                         | 5                |
 | 19          | US19              | Implementación de Funcionalidades de Seguridad Avanzadas          | Como developer de backend de PARKINGNOW, necesito implementar funcionalidades de seguridad avanzadas para proteger la plataforma contra amenazas de seguridad y ataques maliciosos.                          | 8                |
 | 20          | US20              | Creación de API para Gestión de Usuarios                          | Como developer de backend de PARKINGNOW, necesito crear un endpoint RESTful API para la gestión de usuarios para permitir a los administradores realizar operaciones CRUD en cuentas de usuario.               | 5                |
 | 21          | US21              | Implementación Básica de Seguridad en Transacciones               | Como developer de backend de PARKINGNOW, necesito implementar medidas de seguridad básicas para las transacciones para proteger la información financiera de los usuarios.                                   | 3                |
 | 22          | US22              | Desarrollo de API para Gestión de Reservas de Estacionamiento     | Como developer de backend de PARKINGNOW, necesito desarrollar un endpoint API para la gestión de reservas de estacionamiento para permitir a los usuarios reservar y gestionar sus espacios de manera eficiente. | 3            |
-| 23           | US23: Monitoreo del Uso de Estacionamientos      | Como developer de backend de PARKINGNOW, necesito implementar funcionalidades de monitoreo del uso de los estacionamientos para asegurar que todos los espacios estén siendo gestionados correctamente. | 8                      |
+| 23           | US23 | Monitoreo del Uso de Estacionamientos      |  Como developer de backend de PARKINGNOW, necesito implementar funcionalidades de monitoreo del uso de los estacionamientos para asegurar que todos los espacios estén siendo gestionados correctamente.                       |8 |
 | 24          | US24              | Implementación de Funcionalidades de Análisis de Datos            | Como developer de backend de PARKINGNOW, necesito implementar funcionalidades de análisis de datos en la plataforma para que los administradores puedan obtener insights sobre el uso de la plataforma.       | 5                |
 | 25          | US25              | Implementación de Funcionalidades de Pruebas de Carga             | Como developer de backend de PARKINGNOW, necesito implementar funcionalidades de pruebas de carga para medir la capacidad del sistema y mejorar su resiliencia bajo condiciones de alta demanda.              | 8                |
 | 26          | US26              | Generación de Reportes Básicos de Uso                             | Como developer de backend de PARKINGNOW, necesito desarrollar una API para generar reportes simples sobre el uso de la plataforma para que los administradores puedan analizar el rendimiento y la interacción de los usuarios. | 3           |
@@ -1760,23 +1760,30 @@ En el **Sprint 1**, el equipo se enfocó en desarrollar las principales seccione
 | **Sprint Goal & User Stories** |  |
 | Sprint 1 Goal | Desarrollar la Landing Page de PARKINGNOW. |
 | Sprint 1 Velocity | Velocidad de 30 \- Primer Sprint |
-| Sum of Story Points | Sprint 1 \- 104 Story Points |
+| Sum of Story Points | Sprint 1 \- 54 Story Points |
 
 ##### 5.2.1.2. Sprint Backlog 1
 
 ![alt text](Assets/Trello.png)
 
 Link del Trello: https://trello.com/invite/b/66e8592fa7463897e6009305/ATTI40cdd58c92843377c1bb36efe058ba4f83EFDA35/open-source-parkingnow
-
-| Sprint \# | Sprint 1 |  |  |  |  |  |  |
+| Sprint \# | Sprint 1 |   |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| User Story |  | Work-Item / Task |  |  |  |  |  |
-| ID | Title | ID | Title | Description | Estimation (Hours) | Assigned To | Status |
-| SS01 | Sección Header | WT01 | Implementación del header, estilos y barra de navegación | Realizar la barra de navegación utilizando JS/CSS | 3 | Diego Ulises | Done |
-| SS02 | Sección Inicio | WT02 | Implementación de la sección Inicio  | Realizar la sección de Inicio empleando estilo responsive | 2 | Omar Harold | Done |
-| SS03 | Sección Características | WT03 | Implementación de la sección Características | Realizar la sección de Características | 2 | Diego Cacho | Done |
-| SS04 | Sección Iniciar Sesión/Registrar Cuenta | WT04 | Implementación de la sección Iniciar Sesión/Registrar Cuenta | Realizar la sección de Iniciar Sesión/Registrar Cuenta | 3 | Rodrigo Liberato | Done |
-| SS05 | Sección Reservar Espacio | WT05 | Implementación de la sección Reservar Espacio | Realizar la sección de Reservar Espacio | 4 | Samuel Elias | Done |
+| **User Story** |   | **Work-Item / Task** |   |   |   |   |   |
+| **ID** | **Title** | **ID** | **Title** | **Description** | **Estimation (Hours)** | **Assigned To** | **Status** |
+| **SS01** | Sección Header | **WT01** | Implementación del header, estilos y barra de navegación | Realizar la barra de navegación utilizando JS/CSS | 3 | Diego Ulises | Done |
+| **SS02** | Sección Inicio | **WT02** | Implementación de la sección Inicio  | Realizar la sección de Inicio empleando estilo responsive | 2 | Omar Harold | Done |
+| **SS03** | Sección Características | **WT03** | Implementación de la sección Características | Realizar la sección de Características | 2 | Diego Cacho | Done |
+| **SS04** | Sección Iniciar Sesión/Registrar Cuenta | **WT04** | Implementación de la sección Iniciar Sesión/Registrar Cuenta | Realizar la sección de Iniciar Sesión/Registrar Cuenta | 3 | Rodrigo Liberato | Done |
+| **SS05** | Sección Reservar Espacio | **WT05** | Implementación de la sección Reservar Espacio | Realizar la sección de Reservar Espacio | 4 | Samuel Elias | Done |
+| **SS06** | Registro con Redes Sociales | **WT06** | Implementación de Registro con Redes Sociales | Integrar Google y Facebook para registro | 3 | Diego Ulises | Done |
+| **SS07** | Recuperación de Contraseña | **WT07** | Implementación de Recuperación de Contraseña | Enviar enlace de recuperación por correo | 2 | Omar Harold | Done |
+| **SS08** | Gestión de Reservas en Tiempo Real | **WT08** | Implementación de Gestión de Reservas en Tiempo Real | Modificar y cancelar reservas desde la landing page | 3 | Diego Cacho | Done |
+| **SS09** | Chat de Soporte en Vivo | **WT09** | Implementación de Chat de Soporte en Vivo | Crear chat en vivo con soporte técnico | 4 | Samuel Elias | Done |
+| **SS10** | Alertas de Disponibilidad de Espacios | **WT10** | Implementación de Alertas de Disponibilidad de Espacios | Enviar alertas de disponibilidad de espacios en tiempo real | 4 | Rodrigo Liberato | Done |
+| **SS11** | Ver y Dejar Opiniones | **WT11** | Implementación de Ver y Dejar Opiniones | Crear funcionalidad para dejar y ver opiniones sobre estacionamientos | 3 | Samuel Elias | Done |
+| **SS12** | Visualización de Promociones | **WT12** | Implementación de Visualización de Promociones | Mostrar promociones y descuentos disponibles | 3 | Diego Ulises | Done |
+
 
 ##### 5.2.1.3. Development Evidence for Sprint Review
 
