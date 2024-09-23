@@ -1879,6 +1879,34 @@ Estos gráficos muestran de manera visual las clonaciones realizadas en nuestro 
 
 ![alt text](Assets/Ramas.png)
 
+### 5.2.2. Sprint 2
+##### 5.2.2.1.Sprint Planning 2.
+##### 5.2.2.2.Sprint Backlog 2.
+##### 5.2.2.3.Development Evidence for Sprint Review.
+##### 5.2.2.4.Testing Suite Evidence for Sprint Review.
+##### 5.2.2.5.Execution Evidence for Sprint Review.
+##### 5.2.2.6.Services Documentation Evidence for Sprint Review.
+
+
+
+
+
+
+
+| Nombre de Endpoint | Acciones Implementadas | Sintaxis de llamada | Especificacion de parametros | Ejemplo de llamada| Explicacion del Response|
+|- |- |- |- |-| - |
+| reservations-api.service.json | GET | ``fetch('src/app/reservations/services/reservations-api.service.json')`` | Siempre se necesitara la ID para hallar los datos| ``fetch('src/app/reservations/services/reservations-api.service.json') .then(response => response.json()) .then(data => {this.reservations = data;});`` | En esta seccion, se retornan los IDs de las reservas que se hicieorn en la aplicacion | 
+| reviews-api.service.json | GET | ``fetch('src/app/reviews/services/reviews-api.service.json')`` | Siempre se necesitara la ID para hallar los datos requeridos | ``fetch('src/app/reviews/services/reviews-api.service.json') .then(response => response.json()) .then(data => {this.reviews = data;});`` | En esta seccion, se retornan los IDs de las reviews que se hicieorn en la aplicacion  | 
+| parking-aviability-api.service.json | GET | ``fetch('src/app/parking/services/parkingAV-api.service.json')`` | Siempre se necesitara la ID para hallar los datos requeridos | ``fetch('src/app/parking/services/parkingAV-api.service.json') .then(response => response.json()) .then(data => {this.parkingAV = data;});`` | En esta seccion, se retornan los IDs de los sitios libres en los estacionamientos que se hicieorn en la aplicacion |
+| users-api.service.json | GET | (Not used) | Siempre se necesitara la ID para hallar los datos requeridos | Language spanish to english index.html | En esta seccion, se retornan los IDs de los usuarios que se hicieorn en la aplicacion |
+| promotions-api.service.json | GET | ``fetch('src/app/promotions/services/promotions-api.service.json')`` | Siempre se necesitara la ID para hallar los datos requeridos | ``fetch('src/app/promotions/services/promotions-api.service.json') .then(response => response.json()) .then(data => {this.promotions = data;});`` | En esta seccion, se retornan los IDs de las promociones que se hicieorn en la aplicacion |
+| security-api.service.json | GET | ``fetch('src/app/security/services/security-api.service.json')`` | Siempre se necesitara la ID para hallar los datos requeridos | ``fetch('src/app/security/services/security-api.service.json') .then(response => response.json()) .then(data => {this.security = data;});`` | En esta seccion, se retornan los IDs de los servicios de seguridad que se hicieorn en la aplicacion |
+
+##### 5.2.2.7.Software Deployment Evidence for Sprint Review.
+##### 5.2.2.8.Team Collaboration Insights during Sprint.
+
+
+
 ### Conclusiones y recomendaciones
 
 El proyecto PARKINGNOW ha alcanzado avances significativos en la creación de una solución tecnológica integral para resolver los problemas de estacionamiento en las ciudades. Al combinar sensores infrarrojos de detección en tiempo real con una plataforma intuitiva para los usuarios, PARKINGNOW no solo optimiza la ocupación de los espacios de estacionamiento, sino que también facilita el día a día de los conductores urbanos. Esta solución ha demostrado ser eficaz tanto en la reducción de tiempos de búsqueda como en la mejora de la rentabilidad para los dueños de playas de estacionamiento, mostrando un balance ideal entre tecnología y experiencia del usuario.
