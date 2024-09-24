@@ -364,7 +364,7 @@ Diagrama que refiere a todo el componente que involucra a la gestion de ubicaci√
 ### 4.7. Software Object-Oriented Design
 
 #### 4.7.1. Class Diagrams
-
+![Class Diagram](./Assets/Class_Diagram.png) 
 
 #### 4.7.2. Class Dictionary
 | N | Entidad | Nombre de Atributos | Definici√≥n | Tipo de Datos |
