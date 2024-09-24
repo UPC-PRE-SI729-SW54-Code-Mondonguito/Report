@@ -411,7 +411,8 @@ Estos gráficos muestran de manera visual las clonaciones realizadas en nuestro 
 ##### 5.2.2.1.Sprint Planning 2 
 
 En esta sección se especifican los detalles del Sprint Planning Meeting, que es una reunión que se lleva a cabo al inicio de cada sprint con la finalidad de establecer las tareas que se realizarán durante el período determinado.
-##### 5.2.1.2. Sprint Planning 2
+
+##### 5.2.2.2. Sprint Planning 2
 
 | Sprint # | Sprint 2 |
 | :---: | :---: |
@@ -446,7 +447,17 @@ Link del Trello: https://trello.com/invite/b/66e9b5b8f40799cfcf6b00d3/ATTIa96971
 | US18 | Gestión Básica de Promociones | T05 | Gestión de Promociones | Desarrollar una funcionalidad para gestionar promociones básicas en la plataforma | 5 | Diego Ulises | Done |
 | US19 | Implementación de Funcionalidades de Seguridad Avanzadas | T06 | Seguridad Avanzada | Implementar características avanzadas de seguridad para proteger las transacciones y los datos del usuario | 6 | Omar Harold | Done |
 
+##### 5.2.2.3. Development Evidence for Sprint Review
+| Repository | Branch | Commit ID | Commit Message | Commit Message Body | Committed on (Date) |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| [https://github.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Landing-Page](https://github.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Landing-Page)  | feature/chapter-5 | f93fb7c | Add Sprint 2 table to README | \- | 17/09/24 |
+|  | feature/chapter-5 | b3ba393 | Added 5.2.2.6 section on README.md | \- | 24/09/24 |
+|  | feature/chapter-5 | a5224f0 | Update README.md | \- | 23/09/24 |
+|  | feature/chapter-5 | 0581697 | Updated README.md and added Trello board screenshot | \- | 17/09/24 |
+|  | feature/chapter-5 | 74b2f9c | Update README.md | \- | 24/09/24 |
 
+##### 5.2.2.4. Testing Suite Evidence for Sprint Review
+Debido al desarrollo del Landing Page y del Front End Application dentro del Sprint 2, se omite esta sección para el presente avance del proyecto. En futuro desarrollo se brindará información con mayor detalle.
 
 ### Conclusiones y recomendaciones
 
