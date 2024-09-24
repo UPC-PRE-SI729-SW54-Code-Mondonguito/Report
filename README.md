@@ -365,7 +365,104 @@ Diagrama que refiere a todo el componente que involucra a la gestion de ubicaci�
 
 #### 4.7.1. Class Diagrams
 
+
 #### 4.7.2. Class Dictionary
+| N | Entidad | Nombre de Atributos | Definición | Tipo de Datos |
+| :---: | ----- | ----- | ----- | ----- |
+| 1 | Usuario | usuario\_id | Código de Usuario (Número de Usuarios) | int |
+|  |  | nombre\_usuario | Nombre del usuario | varchar |
+|  |  | contrasena | Contraseña de la cuenta del usuario | varchar |
+|  |  | rol | Rol del usuario | varchat |
+| 2 | Alertas | Alerta\_id | Código de la Alerta | int |
+|  |  | alerta\_activa | Estado de la Alerta | bool |
+| 3 | Transacción | transaccion\_id | Código de la transacción | int |
+|  |  | fecha | Fecha de la transacción | date |
+|  |  | monto | Monto de la transacción | decimal |
+|  |  | metodo\_pago | Método de pago de la transacción | varchar |
+|  |  | estado | Estado de la transacción | varchar |
+| 4 | Seguridad | seguridad | Tipo de seguridad | int |
+|  |  | descripción | Descripción del tipo de seguridad | varchar |
+|  |  | nivel\_seguridad | Nivel de seguridad | varchar |
+| 5 | Dashboard | tiempo\_carga | Tiempo de carga | int |
+|  |  | numero\_usuarios | Número de usuarios en el local | int |
+|  |  | numero\_reservas | Número de reservas en el local | int |
+|  |  | numero\_opiniones | Número de opiniones en el local | int |
+|  |  | ingresos\_totales | Cantidad de ingresos en el local | decimal |
+|  |  | promedio\_calificacion | Promedio de calificación en el local | float |
+|  |  | tiempo\_uso\_promedio | Tiempo de uso promedio en el local | TimeSpan |
+|  |  | numero\_espacios\_disponibles | Número de espacios disponibles en el local | int |
+|  |  | numero\_notificaciones | Número de notificaciones | int |
+| 6 | Promociones | promocion\_id | Código de promoción | int |
+|  |  | descripcion | Descripción de la promoción | varchar |
+|  |  | descuento | Cantidad del descuento | decimal |
+|  |  | fecha\_inicio | Fecha de inicio de la promoción | date |
+|  |  | fecha\_fin | Fecha de fin de la promoción | date |
+| 7 | Tarifa | tarifa\_id | Código de la tarifa | int |
+|  |  | descripcion | Descripció de la tarifa | varchar |
+|  |  | precio\_hora | Cantidad monetaria por hora en el estacionamiento | decimal |
+|  |  | dia\_semana | Día de la semana de la tarifa | varchar |
+|  |  | Horario | Horario por el tiempo de estacionamiento usado | varchar |
+| 8 | ServicioAlCliente | Asesorid | Código del Asesor | int |
+|  |  | Nombre | Nombre del Asesor | string |
+|  |  | Apellido | Apellido del Asesor | string |
+| 9 | Servicio\_al\_cliente | Asesor\_id | Código del Asesor | int |
+|  |  | nombre | Nombre del Asesor | varchar |
+|  |  | apellido | Apellido del Asesor | varchar |
+| 10 | Vehículo | vehiculo\_id | Código del vehículo | int |
+|  |  | marca | Marca del vehículo | varchar |
+|  |  | modelo | Modelo del vehículo | varchar |
+|  |  | color | Color del vehículo | varchar |
+|  |  | placa | Placa del vehículo | varchar |
+| 11 | Asesorias | Asesoria\_ID | Código de la Asesoría | int |
+|  |  | Razon | Razón de la Asesoría | varchar |
+|  |  | fecha | Fecha de la Asesoría | date |
+|  |  | hora\_inicio | Hora de inicio de la Asesoría | time |
+|  |  | hora\_final | Hora de fin de la Asesoría | time |
+|  |  | Servicio\_al\_cliente\_Asesor\_id | Código del Asesor | int |
+| 12 | Persona | ID | Código de la Persona | int |
+|  |  | nombre | Nombre de la persona | string |
+|  |  | apellido | Apellido de la persona | string |
+|  |  | email | Email de la persona | string |
+| 13 | Conductores | placa\_de\_vehiculo | Placa del vehículo del conductor | varchar |
+|  |  | DNI | DNI del conductor | varchar |
+| 14 | Notificacion | Notificacion\_id | Código de la notificación | int |
+|  |  | descripcion | Descripción de la notificación | varchar |
+|  |  | fecha | Fecha de la notificación | date |
+|  |  | hora | Hora exacta de la notificación | time |
+|  |  | Alertas\_Alerta\_id | Código de la Alerta | int |
+|  |  | prioridad | Prioridad de la notificación | varchar |
+|  |  | fecha\_envio | Fecha de envío de la notificación | date |
+| 15 | Duenos\_de\_playas | DuenoId | ID del dueño del estacionamiento | int |
+|  |  | Nombre | Nombre del dueño del estacionamiento | string |
+|  |  | Apellido | Apellido del dueño del estacionamiento | string |
+|  |  | Correo | Correo del dueño del estacionamiento | string |
+|  |  | RUC | RUC del dueño del estacionamiento | string |
+|  |  | telefono | Teléfono del dueño del estacionamiento | varchar |
+|  |  | direccion | Dirección del dueño del estacionamiento | varchar |
+| 16 | Reservas | reservas\_id | Código de la reserva | int |
+|  |  | Fecha | Fecha de la reserva | int |
+|  |  | hora\_inicio | Hora de inicio de la reserva | time |
+|  |  | hora\_final | Hora de fin de la reserva | time |
+|  |  | estado\_reserva | Estado de la reserva | varchar |
+|  |  | numero\_vehiculo | Número del vehículo en reserva | varchar |
+|  |  | local\_x\_espacio\_Espacio\_Espacios\_id | ID del espacio usado en el estacionamiento | int |
+| 17 | Recibo | recibo\_id | Código del recibo | int |
+|  |  | descripcion | Descripción del recibo | int |
+|  |  | metodo\_de\_pago | Método de pago del recibo | int |
+|  |  | Reservas\_reservas\_id | Código de la reserva | int |
+| 18 | Opinion | opinion\_id | Código de la opinión | int |
+|  |  | usuario\_id | Código del usuario | int |
+|  |  | fecha\_opinion | Fecha de la opinión | date |
+|  |  | descripcion | Descripción de la opinión | varchar |
+|  |  | titulo | Título de la opinión | varchar |
+| 19 | Local | local\_id | Código del local | int |
+|  |  | descripcion | Descripción del local | varchar |
+|  |  | ubicacion | Ubicación del local | varchar |
+|  |  | cantidad\_empleados | Cantidad de empleados del local | int |
+| 20 | Espacio | Espacios\_id | Código de los espacios | int |
+|  |  | Sensor | Sensor de los espacios | int |
+|  |  | descripcion | Descripción de los espacios | varchar |
+|  |  | ubicacion | Ubicación de los espacios | varchar |
 
 ### 4.8. Database Design
 
