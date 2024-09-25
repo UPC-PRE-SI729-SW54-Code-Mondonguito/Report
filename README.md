@@ -297,7 +297,7 @@ En el **Sprint 1**, el equipo se enfocó en desarrollar las principales seccione
 | **Sprint Goal & User Stories** |  |
 | Sprint 1 Goal | Desarrollar la Landing Page de PARKINGNOW. |
 | Sprint 1 Velocity | Velocidad de 30 \- Primer Sprint |
-| Sum of Story Points | Sprint 1 \- 104 Story Points |
+| Sum of Story Points | Sprint 1 \- 23 Story Points |
 
 ##### 5.2.1.2. Sprint Backlog 1
 
@@ -309,11 +309,11 @@ Link del Trello: https://trello.com/invite/b/66e8592fa7463897e6009305/ATTI40cdd5
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | User Story |  | Work-Item / Task |  |  |  |  |  |
 | ID | Title | ID | Title | Description | Estimation (Hours) | Assigned To | Status |
-| SS01 | Sección Header | WT01 | Implementación del header, estilos y barra de navegación | Realizar la barra de navegación utilizando JS/CSS | 3 | Diego Ulises | Done |
-| SS02 | Sección Inicio | WT02 | Implementación de la sección Inicio  | Realizar la sección de Inicio empleando estilo responsive | 2 | Omar Harold | Done |
-| SS03 | Sección Características | WT03 | Implementación de la sección Características | Realizar la sección de Características | 2 | Diego Cacho | Done |
-| SS04 | Sección Iniciar Sesión/Registrar Cuenta | WT04 | Implementación de la sección Iniciar Sesión/Registrar Cuenta | Realizar la sección de Iniciar Sesión/Registrar Cuenta | 3 | Rodrigo Liberato | Done |
-| SS05 | Sección Reservar Espacio | WT05 | Implementación de la sección Reservar Espacio | Realizar la sección de Reservar Espacio | 4 | Samuel Elias | Done |
+| US31 | Mejora de la Interfaz de Búsqueda | T01 | Implementación del header, estilos y barra de navegación | Realizar la barra de navegación utilizando JS/CSS | 3 | Diego Ulises | Done |
+| US01 | Navegación Intuitiva	 | T02 | Implementación de la sección Inicio  | Realizar la sección de Inicio empleando estilo responsive | 2 | Omar Harold | Done |
+| US02 | Registro con Redes Sociales	 | T03 | Implementación de registro con Redes Sociales | Realizar la sección de registro con Redes Sociales | 2 | Diego Cacho | Done |
+| US38 | Creación de Funcionalidad de Registro y Login | T04 | Implementación de la sección Iniciar Sesión/Registrar Cuenta | Realizar la sección de Iniciar Sesión/Registrar Cuenta | 3 | Rodrigo Liberato | Done |
+| US04 | Gestión de Reservas en Tiempo Real	 | T05 | Implementación de la sección Reservar y modificar Espacio | Realizar la sección de Reservar y modificar Espacio | 4 | Samuel Elias | Done |
 
 ##### 5.2.1.3. Development Evidence for Sprint Review
 
