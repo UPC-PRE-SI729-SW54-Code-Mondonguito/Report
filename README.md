@@ -164,9 +164,9 @@ En esta sección describiremos la descripción de nuestra Startup.
 
 ### 1.1.1. Descripción de la Startup
 
-**PARKINGNOW** es una startup tecnológica enfocada en ofrecer una solución integral para el estacionamiento en tiempo real. Nuestra plataforma digital permite a los usuarios reservar y pagar por espacios de estacionamiento utilizando la localización geográfica y un **sensor infrarrojo** para una gestión más eficiente y automatizada. Basado en un modelo de negocio independiente y sostenible, **PARKINGNOW** se adapta tanto a usuarios frecuentes como a usuarios ocasionales mediante un sistema de transacciones. La innovación de **PARKINGNOW** radica en la integración de datos en tiempo real, incluidos los datos proporcionados por un sensor infrarrojo, para garantizar la disponibilidad de espacios y optimizar las rutas hacia los estacionamientos más cercanos. Este sensor infrarrojo detecta la presencia de vehículos en los espacios de estacionamiento al percibir cuando un objeto interrumpe su señal de luz. Cuando un vehículo ocupa o deja un espacio, el sensor infrarrojo envía una señal a la plataforma para actualizar la disponibilidad en tiempo real, mejorando así la eficiencia y la experiencia del usuario.
+PARKINGNOW es una startup tecnológica enfocada en ofrecer una solución integral para el estacionamiento en tiempo real. Nuestra plataforma digital permite a los usuarios reservar y pagar por espacios de estacionamiento utilizando la localización geográfica y un sensor infrarrojo para una gestión más eficiente y automatizada. Basado en un modelo de negocio independiente y sostenible, PARKINGNOW se adapta tanto a usuarios frecuentes como a usuarios ocasionales mediante un sistema de transacciones. La innovación de PARKINGNOW radica en la integración de datos en tiempo real, incluidos los datos proporcionados por un sensor infrarrojo, para garantizar la disponibilidad de espacios y optimizar las rutas hacia los estacionamientos más cercanos. Este sensor infrarrojo detecta la presencia de vehículos en los espacios de estacionamiento al percibir cuando un objeto interrumpe su señal de luz. Cuando un vehículo ocupa o deja un espacio, el sensor infrarrojo envía una señal a la plataforma para actualizar la disponibilidad en tiempo real, mejorando así la eficiencia y la experiencia del usuario.
 
-**Misión**: Ser el puente entre conductores y propietarios de estacionamientos, optimizando la experiencia de estacionamiento en tiempo real. **PARKINGNOW** facilita el acceso a espacios de estacionamiento utilizando un sensor infrarrojo para una gestión automatizada y eficiente, contribuyendo a la rentabilidad de quienes los poseen y cubriendo así las necesidades de ambos segmentos de mercado.
+**Misión**: Ser el puente entre conductores y propietarios de estacionamientos, optimizando la experiencia de estacionamiento en tiempo real. PARKINGNOW facilita el acceso a espacios de estacionamiento utilizando un sensor infrarrojo para una gestión automatizada y eficiente, contribuyendo a la rentabilidad de quienes los poseen y cubriendo así las necesidades de ambos segmentos de mercado.
 
 **Visión**: Convertirnos en la plataforma líder en la gestión de estacionamientos urbanos en los próximos 5 años, mejorando la movilidad en las ciudades mediante soluciones tecnológicas innovadoras y sostenibles, como el uso de un sensor infrarrojo, que beneficien tanto a conductores como a propietarios de estacionamientos.
 
@@ -185,7 +185,7 @@ En esta sección describiremos la descripción de nuestra Startup.
 
 ### 1.2. Solution Profile
 
-**PARKINGNOW** es una solución innovadora diseñada para transformar la experiencia de estacionamiento en las ciudades. Ofrece una plataforma digital que permite a los usuarios encontrar, reservar y pagar por espacios de estacionamiento en tiempo real, utilizando la localización geográfica y un sensor infrarrojo. Nuestra tecnología emplea este sensor para detectar automáticamente la presencia de vehículos en los espacios de estacionamiento al percibir cuando un objeto interrumpe su señal de luz. Esto permite actualizar en tiempo real la disponibilidad de los espacios y dirigir a los conductores hacia los estacionamientos más cercanos, optimizando sus rutas y reduciendo el tiempo de búsqueda. Esta funcionalidad mejora significativamente la experiencia de los conductores al proporcionar información precisa y en tiempo real sobre la disponibilidad de espacios. En resumen, **PARKINGNOW** ofrece una solución integral para los desafíos del estacionamiento urbano, beneficiando tanto a los conductores como a los propietarios de estacionamientos.
+PARKINGNOW es una solución innovadora diseñada para transformar la experiencia de estacionamiento en las ciudades. Ofrece una plataforma digital que permite a los usuarios encontrar, reservar y pagar por espacios de estacionamiento en tiempo real, utilizando la localización geográfica y un sensor infrarrojo. Nuestra tecnología emplea este sensor para detectar automáticamente la presencia de vehículos en los espacios de estacionamiento al percibir cuando un objeto interrumpe su señal de luz. Esto permite actualizar en tiempo real la disponibilidad de los espacios y dirigir a los conductores hacia los estacionamientos más cercanos, optimizando sus rutas y reduciendo el tiempo de búsqueda. Esta funcionalidad mejora significativamente la experiencia de los conductores al proporcionar información precisa y en tiempo real sobre la disponibilidad de espacios. En resumen, PARKINGNOW ofrece una solución integral para los desafíos del estacionamiento urbano, beneficiando tanto a los conductores como a los propietarios de estacionamientos.
 
 
 ### 1.2.1. Antecedentes y problemática
@@ -197,7 +197,7 @@ Para entender mejor las necesidades de nuestros usuarios y alinear nuestro enfoq
 #### What
 
 **¿Cuál es el problema?**  
-El principal problema que **PARKINGNOW** busca resolver es la falta de estacionamientos disponibles y adecuados, lo que lleva a los conductores a estacionarse en zonas no permitidas, generando congestión y exponiéndose a riesgos como multas o robos. Además, la falta de tecnologías avanzadas para la gestión de espacios, como los sensores infrarrojos, limita la capacidad de los estacionamientos para manejar la disponibilidad en tiempo real.
+El principal problema que PARKINGNOW busca resolver es la falta de estacionamientos disponibles y adecuados, lo que lleva a los conductores a estacionarse en zonas no permitidas, generando congestión y exponiéndose a riesgos como multas o robos. Además, la falta de tecnologías avanzadas para la gestión de espacios, como los sensores infrarrojos, limita la capacidad de los estacionamientos para manejar la disponibilidad en tiempo real.
 
 #### When
 
@@ -205,7 +205,7 @@ El principal problema que **PARKINGNOW** busca resolver es la falta de estaciona
 El problema ocurre principalmente durante las horas pico, cuando la demanda de espacios de estacionamiento es mayor y los conductores no encuentran un lugar disponible que cumpla con sus expectativas.
 
 **¿Cuándo utiliza el cliente el producto?**  
-Los clientes utilizan **PARKINGNOW** para verificar la disponibilidad de estacionamientos en tiempo real, realizar reservas, comparar tarifas y asegurarse de que el estacionamiento seleccionado cumpla con sus expectativas, gracias a la información en tiempo real proporcionada por los sensores infrarrojos.
+Los clientes utilizan PARKINGNOW para verificar la disponibilidad de estacionamientos en tiempo real, realizar reservas, comparar tarifas y asegurarse de que el estacionamiento seleccionado cumpla con sus expectativas, gracias a la información en tiempo real proporcionada por los sensores infrarrojos.
 
 #### Where
 
@@ -234,10 +234,10 @@ La falta de información actualizada y la ausencia de herramientas eficientes pa
 #### How
 
 **¿En qué condiciones los clientes usan nuestro producto?**  
-Los clientes pueden usar **PARKINGNOW** en diversas situaciones, como al planificar un viaje a una nueva ciudad, al buscar estacionamientos que se ajusten a sus preferencias, o durante eventos importantes donde encontrar estacionamiento puede ser más difícil. Los sensores infrarrojos proporcionan información en tiempo real, mejorando la experiencia del usuario.
+Los clientes pueden usar PARKINGNOW en diversas situaciones, como al planificar un viaje a una nueva ciudad, al buscar estacionamientos que se ajusten a sus preferencias, o durante eventos importantes donde encontrar estacionamiento puede ser más difícil. Los sensores infrarrojos proporcionan información en tiempo real, mejorando la experiencia del usuario.
 
 **¿Cómo nos conocerán los usuarios?**  
-Los usuarios nos conocerán a través de campañas publicitarias en redes sociales que destacarán los beneficios y ventajas de **PARKINGNOW**, incluyendo la tecnología avanzada como los sensores infrarrojos para una gestión de estacionamiento más eficiente.
+Los usuarios nos conocerán a través de campañas publicitarias en redes sociales que destacarán los beneficios y ventajas de PARKINGNOW, incluyendo la tecnología avanzada como los sensores infrarrojos para una gestión de estacionamiento más eficiente.
 
 #### How much
 
@@ -308,9 +308,9 @@ Sabremos que tenemos éxito cuando veamos [these behaviors in our target audienc
 
 - **¿Quién utiliza nuestra plataforma?** Nuestra plataforma es utilizada por conductores urbanos que necesitan estacionar sus vehículos de manera segura y conveniente, así como por propietarios de estacionamientos que desean maximizar la ocupación de sus espacios.
 - **¿Cómo se integra nuestro producto en la rutina diaria?** Nuestro producto se integra en la rutina diaria de los conductores al proporcionar una solución rápida y fácil de usar para encontrar y reservar estacionamientos, reduciendo así el tiempo dedicado a buscar espacios gracias al uso de sensores infrarrojos.
-- **¿Cuáles son los desafíos que aborda nuestro producto?** **PARKINGNOW** aborda los desafíos de la falta de información en tiempo real sobre la disponibilidad de estacionamientos y la optimización de rutas hacia los espacios más cercanos.
-- **¿Qué imagen deseamos proyectar con nuestro producto?** Deseamos proyectar una imagen de eficiencia, confiabilidad e innovación. Queremos que **PARKINGNOW** sea visto como la solución líder en la industria de estacionamiento urbano.
-- **¿Cuál es el propósito fundamental de nuestra aplicación?** El propósito fundamental de **PARKINGNOW** es facilitar el proceso de búsqueda, reserva y gestión de espacios de estacionamiento para conductores urbanos y propietarios de estacionamientos.
+- **¿Cuáles son los desafíos que aborda nuestro producto?** PARKINGNOW aborda los desafíos de la falta de información en tiempo real sobre la disponibilidad de estacionamientos y la optimización de rutas hacia los espacios más cercanos.
+- **¿Qué imagen deseamos proyectar con nuestro producto?** Deseamos proyectar una imagen de eficiencia, confiabilidad e innovación. Queremos que PARKINGNOW sea visto como la solución líder en la industria de estacionamiento urbano.
+- **¿Cuál es el propósito fundamental de nuestra aplicación?** El propósito fundamental de PARKINGNOW es facilitar el proceso de búsqueda, reserva y gestión de espacios de estacionamiento para conductores urbanos y propietarios de estacionamientos.
 - **¿Qué funcionalidades destacan en nuestra aplicación?** Las funcionalidades destacadas incluyen la búsqueda avanzada de estacionamientos basada en localización y disponibilidad en tiempo real, la reserva en línea de espacios, la optimización de rutas y herramientas de análisis para propietarios de estacionamientos.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
@@ -681,7 +681,9 @@ Segmento objetivo 2: [https://forms.gle/pCNNRar5TBzSPoX38](https://forms.gle/pCN
 
 ### 2.3. Needfinding
 En esta sección se presentarán los artefactos generados a partir del proceso de recopilación llevado a cabo en los segmentos objetivos. Este proceso culmina con la creación de los User Personas, la User Task Matrix, los User Journey Maps, el Empathy Mapping y el As-Is Scenario Mapping.
-#### 2.3.1. User Personas
+
+
+### 2.3.1. User Personas
 En esta sección del documento, se presentan perfiles ficticios que representan a los grupos de interés identificados y que fueron objeto de entrevistas. La información proporcionada incluye datos demográficos, rasgos de personalidad, motivaciones, preferencias, metas, desafíos y comportamientos típicos. Estos detalles están basados en las entrevistas realizadas previamente. Se han utilizado herramientas de UXPressia para facilitar la elaboración de estos perfiles.
 
 
@@ -711,32 +713,28 @@ En el User Task Matrix hemos identificado las actividades que realizan nuestros 
 - MEDIA
 - BAJA
 
-### Segmento Objetivo: Conductores Urbanos Frecuentes
-| **Tarea**                                           | **Frecuencia** | **Importancia**   |
-|-----------------------------------------------------|----------------|--------------------|
-| Buscar estacionamientos disponibles                | Media          | Alta               |
-| Comparar precios de estacionamientos               | Alta           | Media              |
-| Reservar estacionamientos con anticipación          | Media          | Alta               |
-| Pagar por estacionamiento a través de la aplicación | Alta           | Alta               |
-| Recibir direcciones al estacionamiento reservado   | Alta           | Alta               |
-| Filtrar estacionamientos por criterios (precio, seguridad, etc.) | Alta           | Alta               |
-| Recibir notificaciones sobre descuentos y ofertas  | Media          | Baja               |
-| Verificar disponibilidad de estacionamiento en tiempo real | Alta           | Alta               |
-| Consultar historial de estacionamientos utilizados | Media          | Baja               |
+| **Segmento Objetivo**          | **Tarea**                                                | **Frecuencia** | **Importancia** |
+|--------------------------------|--------------------------------------------------------|----------------|-----------------|
+| Conductores Urbanos Frecuentes | Buscar estacionamientos disponibles                     | Media          | Alta            |
+| Conductores Urbanos Frecuentes | Comparar precios de estacionamientos                    | Alta           | Media           |
+| Conductores Urbanos Frecuentes | Reservar estacionamientos con anticipación              | Media          | Alta            |
+| Conductores Urbanos Frecuentes | Pagar por estacionamiento a través de la aplicación     | Alta           | Alta            |
+| Conductores Urbanos Frecuentes | Recibir direcciones al estacionamiento reservado        | Alta           | Alta            |
+| Conductores Urbanos Frecuentes | Filtrar estacionamientos por criterios (precio, seguridad, etc.) | Alta | Alta |
+| Conductores Urbanos Frecuentes | Recibir notificaciones sobre descuentos y ofertas       | Media          | Baja            |
+| Conductores Urbanos Frecuentes | Verificar disponibilidad de estacionamiento en tiempo real | Alta       | Alta            |
+| Conductores Urbanos Frecuentes | Consultar historial de estacionamientos utilizados      | Media          | Baja            |
+| Dueños de Playa de Estacionamientos | Administrar y actualizar la disponibilidad de espacios | Alta | Alta     |
+| Dueños de Playa de Estacionamientos | Ajustar precios de los espacios de estacionamiento   | Media          | Alta            |
+| Dueños de Playa de Estacionamientos | Gestionar reservas de estacionamientos              | Alta           | Alta            |
+| Dueños de Playa de Estacionamientos | Procesar pagos de estacionamiento a través de la aplicación | Alta | Media |
+| Dueños de Playa de Estacionamientos | Revisar y ajustar las características del estacionamiento (precio, seguridad, etc.) | Media | Alta |
+| Dueños de Playa de Estacionamientos | Revisar reportes de uso y disponibilidad             | Media          | Media           |
+| Dueños de Playa de Estacionamientos | Recibir y gestionar comentarios y valoraciones de los usuarios | Baja | Media |
+| Dueños de Playa de Estacionamientos | Promocionar descuentos y ofertas especiales          | Media          | Media           |
+| Dueños de Playa de Estacionamientos | Consultar el historial de transacciones y reservas   | Baja           | Media           |
 
 
-### Segmento Objetivo: Dueños de playa de Estacionamientos
-| **Tarea**                                           | **Frecuencia** | **Importancia**   |
-|-----------------------------------------------------|----------------|--------------------|
-| Administrar y actualizar la disponibilidad de espacios | Alta           | Alta               |
-| Ajustar precios de los espacios de estacionamiento  | Media          | Alta               |
-| Gestionar reservas de estacionamientos             | Alta           | Alta               |
-| Procesar pagos de estacionamiento a través de la aplicación | Alta           | Media              |
-| Revisar y ajustar las características del estacionamiento (precio, seguridad, etc.) | Media          | Alta               |
-| Revisar reportes de uso y disponibilidad            | Media          | Media              |
-| Recibir y gestionar comentarios y valoraciones de los usuarios | Baja           | Media              |
-| Promocionar descuentos y ofertas especiales         | Media          | Media              |
-| Consultar el historial de transacciones y reservas  | Baja           | Media              |
 
 A través del User Task Matrix, podemos identificar las frecuencias e importancias entre los diferentes segmentos que presentamos y usar esta información como guía.
 
@@ -803,7 +801,7 @@ Este "Empathy Map" representa a conductores urbanos frecuentes que enfrentan pro
 
 ### Segmento objetivo: Dueños de playas de estacionamientos
 
-El mapa de empatía para **Dueños de Playas de Estacionamientos** identifica sus necesidades y preocupaciones al gestionar espacios de estacionamiento, destacando oportunidades para optimizar operaciones y mejorar la experiencia del cliente con **PARKINGNOW**.
+El mapa de empatía para **Dueños de Playas de Estacionamientos** identifica sus necesidades y preocupaciones al gestionar espacios de estacionamiento, destacando oportunidades para optimizar operaciones y mejorar la experiencia del cliente con PARKINGNOW.
 
 ![Empathy Map](./Assets/Dueños%20de%20playas%20de%20estacionamientos%20-%20Empathy%20Mapping.png)
 
@@ -814,14 +812,14 @@ El As-Is nos proporciona un análisis visual de los escenarios actuales para ide
 
 ### Segmento Conductores Urbanos Frecuentes
 
-El "As-is Scenario Mapping" para **Conductores Urbanos Frecuentes** resalta los desafíos y mejoras necesarias en la experiencia de estacionamiento, permitiendo optimizar las soluciones de **PARKINGNOW**.
+El "As-is Scenario Mapping" para **Conductores Urbanos Frecuentes** resalta los desafíos y mejoras necesarias en la experiencia de estacionamiento, permitiendo optimizar las soluciones de PARKINGNOW.
 
 ![As is Scenario](./Assets/as_is_segment_1.jpg) 
 
 
 ### Segmento Dueños de playas de estacionamientos
 
-El "As-is Scenario Mapping" para **Dueños de Playas de Estacionamientos** identifica sus desafíos y necesidades, desde la preparación del espacio hasta la gestión post-servicio, ayudando a mejorar la eficiencia y satisfacción en la gestión de sus estacionamientos con **PARKINGNOW**.
+El "As-is Scenario Mapping" para **Dueños de Playas de Estacionamientos** identifica sus desafíos y necesidades, desde la preparación del espacio hasta la gestión post-servicio, ayudando a mejorar la eficiencia y satisfacción en la gestión de sus estacionamientos con PARKINGNOW.
 
 ![As is Scenario](./Assets/as_is_segment_2.jpg)
 
@@ -891,7 +889,7 @@ Enfocado en la gestión y optimización de recursos, este mapeo resalta las func
 
 ## EPICS
 
-Las **epics** definidas para el proyecto **PARKINGNOW** están diseñadas para abordar las necesidades clave de los usuarios y el equipo de desarrollo. Estas epics cubren funcionalidades críticas para la plataforma de gestión de estacionamiento en tiempo real, asegurando que tanto los visitantes como los desarrolladores puedan interactuar eficazmente con el sistema. Desde la experiencia del usuario en la landing page hasta la gestión técnica del backend, frontend y web services, las epics proporcionan una guía estructurada para el desarrollo de características esenciales, garantizando una implementación exitosa y alineada con los objetivos del proyecto.
+Las **epics** definidas para el proyecto PARKINGNOW están diseñadas para abordar las necesidades clave de los usuarios y el equipo de desarrollo. Estas epics cubren funcionalidades críticas para la plataforma de gestión de estacionamiento en tiempo real, asegurando que tanto los visitantes como los desarrolladores puedan interactuar eficazmente con el sistema. Desde la experiencia del usuario en la landing page hasta la gestión técnica del backend, frontend y web services, las epics proporcionan una guía estructurada para el desarrollo de características esenciales, garantizando una implementación exitosa y alineada con los objetivos del proyecto.
 
 | **Epic / Story ID** | **Título**                                    | **Descripción**                                                                                                                                                             |
 |---------------------|-----------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -919,7 +917,7 @@ Las **epics** definidas para el proyecto **PARKINGNOW** están diseñadas para a
 ---
 
 ### User Stories 
-Las **historias de usuario** para el proyecto **PARKINGNOW** están orientadas a mejorar la experiencia del usuario final y facilitar las tareas del equipo de desarrollo. Estas historias cubren múltiples aspectos de la plataforma, incluyendo la **landing page**, la integración y mejora del **backend**, el desarrollo de interfaces de usuario eficientes en el **frontend**, y la implementación de servicios robustos a través de **web services**. Cada historia está diseñada para ser fácilmente comprensible y directamente aplicable, con criterios de aceptación específicos que guían el desarrollo y aseguran que las funcionalidades implementadas satisfagan los requisitos del negocio y las expectativas del usuario final.
+Las **historias de usuario** para el proyecto PARKINGNOW están orientadas a mejorar la experiencia del usuario final y facilitar las tareas del equipo de desarrollo. Estas historias cubren múltiples aspectos de la plataforma, incluyendo la **landing page**, la integración y mejora del **backend**, el desarrollo de interfaces de usuario eficientes en el **frontend**, y la implementación de servicios robustos a través de **web services**. Cada historia está diseñada para ser fácilmente comprensible y directamente aplicable, con criterios de aceptación específicos que guían el desarrollo y aseguran que las funcionalidades implementadas satisfagan los requisitos del negocio y las expectativas del usuario final.
 
 | **Epic / Story ID** | **Título**                                    | **Descripción**                                                                                                                                                             | **Criterios de Aceptación**                                                                                                                | **Relacionado con (Epic ID)** |
 |---------------------|-----------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------|
@@ -1114,7 +1112,7 @@ el desarrollo de este proyecto.
 **Colors**
 
 La elección de colores es una parte importante del diseño. Una buena elección de colores transmite al usuario lo que nosotros realmente ofrecemos. Por eso tenemos como color primario el azul y el color secundario el verde azulado. Además, se muestran los colores estado los cuales usaremos para que el usuario sepa qué sucede mientras interactúa con nuestra aplicación.
-Los colores seleccionados para **PARKINGNOW** no solo definen la estética de la marca, sino que también comunican su propósito y valores.
+Los colores seleccionados para PARKINGNOW no solo definen la estética de la marca, sino que también comunican su propósito y valores.
 
 - **Color Primario (Azul Noche):** El azul noche es sinónimo de tecnología y seguridad, elementos clave en la experiencia de estacionamiento que queremos ofrecer. Este color genera una sensación de tranquilidad y confianza, aspectos esenciales para los usuarios de nuestra plataforma.
 ![alt text](Assets/Azul.png)
@@ -1144,29 +1142,29 @@ En esta sección, el equipo detalla las decisiones y fundamentos que guían la o
 
 #### 4.2.1. Organization Systems
 
-Para estructurar la arquitectura de la información de **PARKINGNOW**, se ha adoptado un sistema de organización jerárquico tanto en la **Landing Page** como en la **Aplicación Web**. Este sistema facilita la navegación intuitiva y garantiza que los usuarios puedan encontrar fácilmente la información y las funciones que necesitan.
+Para estructurar la arquitectura de la información de PARKINGNOW, se ha adoptado un sistema de organización jerárquico tanto en la **Landing Page** como en la **Aplicación Web**. Este sistema facilita la navegación intuitiva y garantiza que los usuarios puedan encontrar fácilmente la información y las funciones que necesitan.
 
 #### **Landing Page** 
 
-La **Landing Page** de **PARKINGNOW** se organiza de manera jerárquica para que los usuarios puedan acceder rápidamente a la información más relevante y a las acciones necesarias para interactuar con la plataforma:
+La **Landing Page** de PARKINGNOW se organiza de manera jerárquica para que los usuarios puedan acceder rápidamente a la información más relevante y a las acciones necesarias para interactuar con la plataforma:
 
 1. **Barra de Navegación Principal**: Situada en la parte superior de la página, proporciona accesos rápidos a las secciones clave:
-   - **Inicio (Home)**: La página de inicio que da la bienvenida a los usuarios y proporciona una visión general de los servicios de **PARKINGNOW**. Incluye un banner destacado con un mensaje central y botones de llamada a la acción para el registro e inicio de sesión.
-   - **Servicios (Services)**: Desglosa los servicios ofrecidos tanto a conductores urbanos como a dueños de playas de estacionamiento. Esta sección está organizada para que cada tipo de usuario pueda rápidamente identificar cómo **PARKINGNOW** les beneficiará.
+   - **Inicio (Home)**: La página de inicio que da la bienvenida a los usuarios y proporciona una visión general de los servicios de PARKINGNOW. Incluye un banner destacado con un mensaje central y botones de llamada a la acción para el registro e inicio de sesión.
+   - **Servicios (Services)**: Desglosa los servicios ofrecidos tanto a conductores urbanos como a dueños de playas de estacionamiento. Esta sección está organizada para que cada tipo de usuario pueda rápidamente identificar cómo PARKINGNOW les beneficiará.
    - **Transacción (Plans):** Explica las diferentes opciones de transacción disponibles para los usuarios, incluyendo características y beneficios de cada una. Esta sección está diseñada para facilitar la comprensión y comparación de opciones.
-   - **Contáctanos (Contact Us)**: Proporciona información de contacto, un formulario de consulta y enlaces a redes sociales, facilitando la comunicación entre los usuarios y el equipo de soporte de **PARKINGNOW**.
-   - **Nosotros (About Us)**: Describe la misión, visión, y el equipo detrás de **PARKINGNOW**, generando confianza y transparencia con los usuarios.
+   - **Contáctanos (Contact Us)**: Proporciona información de contacto, un formulario de consulta y enlaces a redes sociales, facilitando la comunicación entre los usuarios y el equipo de soporte de PARKINGNOW.
+   - **Nosotros (About Us)**: Describe la misión, visión, y el equipo detrás de PARKINGNOW, generando confianza y transparencia con los usuarios.
 
 2. **Estructura de Contenido Jerárquica**:
    - **Encabezados y Subencabezados**: Organizan el contenido dentro de cada sección, permitiendo a los usuarios explorar más a fondo según sus intereses.
    - **Botones de Llamada a la Acción (CTAs)**: Colocados estratégicamente para guiar a los usuarios hacia acciones deseadas, como registrarse, iniciar sesión o contactar con el equipo.
 
 3. **Footer**:
-   - Incluye enlaces a secciones importantes como políticas de privacidad, términos de servicio, contacto, y enlaces a redes sociales. El footer proporciona una navegación adicional para usuarios que desean explorar más sobre **PARKINGNOW**.
+   - Incluye enlaces a secciones importantes como políticas de privacidad, términos de servicio, contacto, y enlaces a redes sociales. El footer proporciona una navegación adicional para usuarios que desean explorar más sobre PARKINGNOW.
 
 #### **Aplicación Web**
 
-La **Aplicación Web** de **PARKINGNOW** está diseñada para ofrecer una experiencia personalizada para dos segmentos principales de usuarios: **Conductores Urbanos Frecuentes** y **Dueños de Playas de Estacionamiento**. La organización del contenido está estructurada de manera que cada tipo de usuario pueda navegar eficientemente por la aplicación.
+La **Aplicación Web** de PARKINGNOW está diseñada para ofrecer una experiencia personalizada para dos segmentos principales de usuarios: **Conductores Urbanos Frecuentes** y **Dueños de Playas de Estacionamiento**. La organización del contenido está estructurada de manera que cada tipo de usuario pueda navegar eficientemente por la aplicación.
 
 1. **Para Conductores Urbanos Frecuentes**:
    - **Inicio (Home)**: Muestra una vista general de las reservas actuales y accesos rápidos a funcionalidades clave como la búsqueda de estacionamientos y favoritos.
@@ -1186,10 +1184,10 @@ La **Aplicación Web** de **PARKINGNOW** está diseñada para ofrecer una experi
 
 #### 4.2.2. Labeling Systems
 
-En este apartado se describen los sistemas de etiquetado utilizados en la **Landing Page** y la **Aplicación Web** de **PARKINGNOW**. El etiquetado está diseñado para facilitar la navegación y mejorar la experiencia del usuario, asegurando que cada sección y funcionalidad sea fácilmente reconocible y accesible.
+En este apartado se describen los sistemas de etiquetado utilizados en la **Landing Page** y la **Aplicación Web** de PARKINGNOW. El etiquetado está diseñado para facilitar la navegación y mejorar la experiencia del usuario, asegurando que cada sección y funcionalidad sea fácilmente reconocible y accesible.
 
 #### **Etiquetas de Encabezados (Headings)**
-Las etiquetas de encabezado en **PARKINGNOW** se utilizan para definir claramente las secciones principales de la página y la aplicación. Esto permite a los usuarios identificar rápidamente el contenido de cada sección:
+Las etiquetas de encabezado en PARKINGNOW se utilizan para definir claramente las secciones principales de la página y la aplicación. Esto permite a los usuarios identificar rápidamente el contenido de cada sección:
 
 - **Inicio/Home**: Este encabezado se utiliza en la página principal para dar la bienvenida a los usuarios y proporcionar una introducción general a la plataforma. Aquí se muestra un banner con la misión de la empresa y botones de acceso rápido para registro e inicio de sesión.
   
@@ -1199,7 +1197,7 @@ Las etiquetas de encabezado en **PARKINGNOW** se utilizan para definir clarament
 
 - **Contactanos/Contact Us**: Proporciona información de contacto y un formulario para que los usuarios puedan enviar consultas o solicitar soporte.
 
-- **Sobre Nosotros/About Us**: Ofrece información sobre la empresa, su misión, visión y el equipo detrás de **PARKINGNOW**.
+- **Sobre Nosotros/About Us**: Ofrece información sobre la empresa, su misión, visión y el equipo detrás de PARKINGNOW.
 
 #### **Etiquetas Textuales (Text Labels)**
 Las etiquetas textuales son utilizadas para identificar categorías específicas o acciones dentro de la plataforma. Estas etiquetas ayudan a los usuarios a navegar de manera efectiva y realizar acciones específicas:
@@ -1227,7 +1225,7 @@ Las etiquetas icónicas se basan en imágenes o iconos que transmiten significad
 
 - **Icono de Notificación**: Utilizado para alertar a los usuarios sobre actualizaciones importantes, como cambios en la disponibilidad de estacionamientos o confirmaciones de reservas.
 
-Estas etiquetas se encuentran distribuidas en la barra de navegación y en las distintas secciones de la página y la aplicación, guiando a los usuarios de manera intuitiva y mejorando la experiencia de uso en **PARKINGNOW**.
+Estas etiquetas se encuentran distribuidas en la barra de navegación y en las distintas secciones de la página y la aplicación, guiando a los usuarios de manera intuitiva y mejorando la experiencia de uso en PARKINGNOW.
 
 #### 4.2.3. SEO Tags and Meta Tags
 Los SEO Tag y Meta Tags ayudaran a que la pagina estatica y la aplicacion web sea posible de analizar facilmente y se pueda gestionar de manera eficiente y optima.
@@ -1470,7 +1468,7 @@ En esta sección, el equipo establece las decisiones y convenciones para mantene
 
 #### 5.1.1. Software Development Environment Configuration
 
-En este apartado se mencionarán los distintos productos de software empleados por el equipo de desarrollo para llevar a cabo las actividades relacionadas con la elaboración del proyecto **PARKINGNOW**.
+En este apartado se mencionarán los distintos productos de software empleados por el equipo de desarrollo para llevar a cabo las actividades relacionadas con la elaboración del proyecto PARKINGNOW.
 
 #### Product UX/UI Design
 
@@ -1569,7 +1567,7 @@ Para implementar **GitFlow** en PARKINGNOW, se utiliza la siguiente estructura d
 
 ### Commits Convencionales
 
-Para los mensajes de commit en el proyecto **PARKINGNOW**, se sigue la convención **Conventional Commits**. Estos mensajes deben seguir el formato estándar para facilitar la lectura y entendimiento del historial del proyecto:
+Para los mensajes de commit en el proyecto PARKINGNOW, se sigue la convención **Conventional Commits**. Estos mensajes deben seguir el formato estándar para facilitar la lectura y entendimiento del historial del proyecto:
 
 ```plaintext
 <type>[optional scope]: <description>
@@ -1595,11 +1593,11 @@ Para los mensajes de commit en el proyecto **PARKINGNOW**, se sigue la convenci�
 - `fix(payment): resolve payment gateway issue`
 - `docs(README): update setup instructions`
 
-Con esta estructura, **PARKINGNOW** puede gestionar eficientemente el flujo de trabajo del desarrollo, asegurando una integración continua y una organización clara del código fuente.
+Con esta estructura, PARKINGNOW puede gestionar eficientemente el flujo de trabajo del desarrollo, asegurando una integración continua y una organización clara del código fuente.
 
 #### 5.1.3. Source Code Style Guide & Conventions
 
-En el proyecto **PARKINGNOW**, hemos implementado una serie de guías de estilo y convenciones para asegurar que todo el equipo de desarrollo siga una estructura consistente y clara en todo el ciclo de vida del proyecto. Esto facilita la legibilidad del código, mejora la colaboración entre los desarrolladores y asegura que el código sea mantenible a largo plazo.
+En el proyecto PARKINGNOW, hemos implementado una serie de guías de estilo y convenciones para asegurar que todo el equipo de desarrollo siga una estructura consistente y clara en todo el ciclo de vida del proyecto. Esto facilita la legibilidad del código, mejora la colaboración entre los desarrolladores y asegura que el código sea mantenible a largo plazo.
 
 #### Nomenclatura General
 
@@ -1619,7 +1617,7 @@ El uso de **inglés** para todos los nombres es obligatorio, con el fin de asegu
 
 #### Espacios y Sangría
 
-La **sangría** de código en **PARKINGNOW** seguirá las siguientes reglas para asegurar la claridad y el orden del código:
+La **sangría** de código en PARKINGNOW seguirá las siguientes reglas para asegurar la claridad y el orden del código:
 
 - Se utilizarán **2 espacios** para la sangría en archivos HTML, CSS, JavaScript, y TypeScript.
 - En archivos **Java**, se utilizarán **4 espacios** para la sangría.
@@ -1707,12 +1705,12 @@ El código no debe exceder las **80 columnas** por línea. En caso de necesitar 
 
 #### 5.1.4. Software Deployment Configuration
 
-En esta sección se detalla la configuración necesaria para el despliegue de la solución **PARKINGNOW**, incluyendo los pasos clave para lograr la publicación satisfactoria de la **Landing Page**, **Servicios Web** y **Aplicaciones Web Frontend** utilizando GitHub Pages para visualizar cada commit del **Landing Page**.
+En esta sección se detalla la configuración necesaria para el despliegue de la solución PARKINGNOW, incluyendo los pasos clave para lograr la publicación satisfactoria de la **Landing Page**, **Servicios Web** y **Aplicaciones Web Frontend** utilizando GitHub Pages para visualizar cada commit del **Landing Page**.
 
-A continuación, se describen los pasos para realizar el despliegue de la **Landing Page** del proyecto **PARKINGNOW**:
+A continuación, se describen los pasos para realizar el despliegue de la **Landing Page** del proyecto PARKINGNOW:
 
 1. **Actualización de Ramas:**
-   Asegúrate de que todas las ramas del repositorio estén actualizadas. Luego, ingresa a GitHub y dirígete al repositorio del proyecto **PARKINGNOW**.
+   Asegúrate de que todas las ramas del repositorio estén actualizadas. Luego, ingresa a GitHub y dirígete al repositorio del proyecto PARKINGNOW.
 
 2. **Acceso a las Configuraciones:**
    Una vez dentro del repositorio, haz clic en la pestaña **Settings** en la parte superior del repositorio.
@@ -1735,7 +1733,7 @@ A continuación, se describen los pasos para realizar el despliegue de la **Land
    ![Comprobación del Despliegue](./Assets/URL.png)
 
 6. **Acceso a la Página:**
-   Finalmente, podrás acceder a la **Landing Page** desde el enlace que se generó al finalizar el deploy. Aquí está el enlace para el proyecto **PARKINGNOW**: https://upc-pre-si729-sw54-code-mondonguito.github.io/Landing-Page/
+   Finalmente, podrás acceder a la **Landing Page** desde el enlace que se generó al finalizar el deploy. Aquí está el enlace para el proyecto PARKINGNOW: https://upc-pre-si729-sw54-code-mondonguito.github.io/Landing-Page/
 
    ![Acceso a la Página](./Assets/Landing.png)
 
