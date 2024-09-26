@@ -13,7 +13,7 @@ Ciclo: 5to <br>
 
 <h2 align="center">INFORME</h2>
 
-<h3 align="center">Startup:Code Mondoguito</h3>
+<h3 align="center">Startup: Code Mondoguito</h3>
 <p align="center"><strong>Producto: ParkingNow</strong></p>
 
 <h3 align="center">Team Members:</h3>
