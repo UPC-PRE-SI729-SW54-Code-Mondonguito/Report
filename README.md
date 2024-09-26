@@ -2031,6 +2031,38 @@ Debido al desarrollo del Landing Page y del Front End Application dentro del Spr
 
 ##### 5.2.2.5.Execution Evidence for Sprint Review.
 
+Para el Frontend
+
+Link: https://parkingnow-app.web.app/login
+
+1.- Login
+
+![alt text](Assets/Login.png)
+
+2.- Recuperar Contraseña
+
+![alt text](Assets/Fortgot.png)
+
+3.- Registro para ambos usuarios
+
+![alt text](Assets/Register.png)
+
+4.- Registro del conductor 
+
+![alt text](<Assets/Register driver.png>)
+
+5.- Rehistro del dueño de playa de estacionamiento
+
+![alt text](<Assets/Register owner.png>)
+
+6.- Pantalla del conductor
+
+![alt text](<Assets/Dashboard driver.png>)
+
+7.- Pantalla del dueño de playa de estacionamiento
+
+![alt text](<Assets/Dashboard owner.png>)
+
 ##### 5.2.2.6.Services Documentation Evidence for Sprint Review.
 
 
@@ -2052,7 +2084,22 @@ Debido al desarrollo del Landing Page y del Front End Application dentro del Spr
 
 ##### 5.2.2.8.Team Collaboration Insights during Sprint.
 
+En esta entrega, nuestro objetivo principal fue avanzar en el desarrollo de la primera versión del Frontend Web Application y desplegar una nueva versión de la Landing Page. Para lograrlo, utilizamos diversas herramientas, incluyendo GitHub para el control de versiones, Visual Studio Code y webstorm como editor de código principal, y tecnologías como HTML, CSS, JavaScript, para la construcción de las interfaces. A continuación, se presentan los diagramas que muestran los commits realizados por cada miembro del equipo durante el desarrollo de este sprint.
 
+![alt text](Assets/Insights2.png)
+
+
+Esta imagen proporciona una representación visual de las fechas en que se realizaron modificaciones en el repositorio de nuestro Frontend Web Application y la Landing Page, así como el número de cambios efectuados en cada commit. Este gráfico es útil para entender cómo ha evolucionado el desarrollo del proyecto a lo largo del tiempo, reflejando la actividad de cada miembro del equipo y la intensidad del trabajo en cada fase del sprint.
+
+![alt text](Assets/Frontend1.png)
+
+![alt text](Assets/Frontend2.png)
+
+Estos gráficos muestran de manera visual las clonaciones realizadas en nuestro repositorio y las fechas en que ocurrieron. También proporcionan información sobre el número de visitantes que ha tenido el repositorio a lo largo del tiempo.
+
+![alt text](Assets/Net1.png)
+
+![alt text](Assets/Net2.png)
 
 ### Conclusiones y recomendaciones
 
