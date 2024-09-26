@@ -65,8 +65,8 @@ EAC - Student Outcome 3.
 
 | Criterio específico | Acciones realizadas | Conclusiones |
 |--------------------|---------------------|--------------|
-| **Comunica oralmente con efectividad a diferentes rangos de audiencia** | **Diego Alonso Cacho Seminario: - TB1** Participé en las secciones del capítulo 2 relacionadas con el diseño, grabación y análisis de entrevistas, además de las encuestas realizadas a nuestros segmentos objetivo. Colaboré en el primer Sprint para esta entrega. **- TP** Participé en las secciones del capítulo 4 y 5 relacionadas con las correcciones de la entrega anterior, además colaboré en el segundo Sprint para esta entrega. **Diego Ulises Soto Quispe:** Durante las reuniones del proyecto, participé activamente explicando la introducción del proyecto y la problemática de la startup, utilizando un lenguaje claro para asegurar que todos los miembros del equipo comprendieran las metas y objetivos. **Rodrigo Liberato Saldaña:** Para este entregable, comuniqué a mis compañeros todos mis avances y cambios que aporté. Apoyé a quienes lo necesitaban, y mis aportes significativos fueron en el Capítulo 2 (análisis de los competidores), Capítulo 4 (Wireframe y Mockup design) y el diseño de la base de datos. También diseñé el PPT para la presentación. **Omar Harold Rivera Ticllacuri:** Durante el desarrollo del proyecto, participé activamente contribuyendo con el Capítulo 2, el desarrollo de los segmentos de user persona, la Landing Page, y partes del Capítulo 5. **Samuel Elias Molina Asencios:** Durante el desarrollo del proyecto, participé revisando la rúbrica y desarrollé los escenarios As-is para ambos segmentos, además de agregar el lenguaje ubicuo que se usará en nuestro sistema. También desarrollé el diagrama de componentes para nuestro aplicativo móvil. | La participación activa de los miembros del equipo en la comunicación oral con diferentes rangos de audiencia permitió un alineamiento efectivo en las metas del proyecto, asegurando que tanto el equipo técnico como los stakeholders estuvieran en la misma página. Esta comunicación fue crucial para el avance eficiente de los entregables. |
-| **Comunica por escrito con efectividad a diferentes rangos de audiencia** | **Diego Alonso Cacho Seminario:** Realicé las correcciones necesarias dadas por mis compañeros respecto a los puntos con los que aporté para la TB1, además de subir correctamente mis aportes al repositorio en línea, respetando el formato requerido. **Diego Ulises Soto Quispe:** En el Capítulo 1, fui el responsable de documentar el perfil de la startup y el marco teórico del proyecto. En el Capítulo 3, redacté los requerimientos específicos del sistema y las historias de usuario. También colaboré en los Capítulos 4 y 5 documentando el diseño del sistema y las configuraciones de implementación. **Rodrigo Liberato Saldaña:** Para este entregable, los aportes que realicé por escrito fueron los commits por Git y los análisis de los competidores. **Omar Harold Rivera Ticllacuri:** En el Capítulo 2, contribuí desarrollando los user personas, la matriz de tareas de usuario y el user journey mapping. En el Capítulo 4, desarrollé las Style Guidelines y el Landing Page UI Design. **Samuel Elias Molina Asencios:** Para este entregable, desarrollé los diagramas de componentes para el punto 4, utilizando Structurizer según la rúbrica. | La documentación escrita y precisa realizada por los miembros del equipo permitió un seguimiento detallado de los avances del proyecto y aseguró que todos los involucrados tuvieran una referencia sólida para cada fase del desarrollo. |
+| **Comunica oralmente con efectividad a diferentes rangos de audiencia** | **Diego Alonso Cacho Seminario: - TB1** Participé en las secciones del capítulo 2 relacionadas con el diseño, grabación y análisis de entrevistas, además de las encuestas realizadas a nuestros segmentos objetivo. Colaboré en el primer Sprint para esta entrega. **- TP** Participé en las secciones del capítulo 4 y 5 relacionadas con las correcciones de la entrega anterior, además colaboré en el segundo Sprint para esta entrega. **Diego Ulises Soto Quispe:** Durante las reuniones del proyecto, participé activamente explicando la introducción del proyecto y la problemática de la startup, utilizando un lenguaje claro para asegurar que todos los miembros del equipo comprendieran las metas y objetivos. **Rodrigo Liberato Saldaña - TB1**  Para este entregable, comuniqué a mis compañeros todos mis avances y cambios que aporté. Apoyé a quienes lo necesitaban, y mis aportes significativos fueron en el Capítulo 2 (análisis de los competidores), Capítulo 4 (Wireframe y Mockup design) y el diseño de la base de datos. También diseñé el PPT para la presentación. **TP** Para este entregable me comunique con mis compañeros acerca de mis avances en el trabajo, para mantener un orden concreto y no hubieran inconvenientes al avanzar como grupo. Realize algunas de las mejoras en los digramas de flujo, aporte en el frontend y en la documentacion de servicios del segundo sprint. **Omar Harold Rivera Ticllacuri:** Durante el desarrollo del proyecto, participé activamente contribuyendo con el Capítulo 2, el desarrollo de los segmentos de user persona, la Landing Page, y partes del Capítulo 5. **Samuel Elias Molina Asencios:** Durante el desarrollo del proyecto, participé revisando la rúbrica y desarrollé los escenarios As-is para ambos segmentos, además de agregar el lenguaje ubicuo que se usará en nuestro sistema. También desarrollé el diagrama de componentes para nuestro aplicativo móvil. | La participación activa de los miembros del equipo en la comunicación oral con diferentes rangos de audiencia permitió un alineamiento efectivo en las metas del proyecto, asegurando que tanto el equipo técnico como los stakeholders estuvieran en la misma página. Esta comunicación fue crucial para el avance eficiente de los entregables. |
+| **Comunica por escrito con efectividad a diferentes rangos de audiencia** | **Diego Alonso Cacho Seminario:** Realicé las correcciones necesarias dadas por mis compañeros respecto a los puntos con los que aporté para la TB1, además de subir correctamente mis aportes al repositorio en línea, respetando el formato requerido. **Diego Ulises Soto Quispe:** En el Capítulo 1, fui el responsable de documentar el perfil de la startup y el marco teórico del proyecto. En el Capítulo 3, redacté los requerimientos específicos del sistema y las historias de usuario. También colaboré en los Capítulos 4 y 5 documentando el diseño del sistema y las configuraciones de implementación. **Rodrigo Liberato Saldaña - TB1** Para este entregable, los aportes que realicé por escrito fueron los commits por Git y los análisis de los competidores. **Omar Harold Rivera Ticllacuri:** En el Capítulo 2, contribuí desarrollando los user personas, la matriz de tareas de usuario y el user journey mapping. En el Capítulo 4, desarrollé las Style Guidelines y el Landing Page UI Design. **Samuel Elias Molina Asencios:** Para este entregable, desarrollé los diagramas de componentes para el punto 4, utilizando Structurizer según la rúbrica. | La documentación escrita y precisa realizada por los miembros del equipo permitió un seguimiento detallado de los avances del proyecto y aseguró que todos los involucrados tuvieran una referencia sólida para cada fase del desarrollo. |
                                             
 # Contenido
 - [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
@@ -1285,7 +1285,7 @@ En esta seccion, se presentara los resultados del diseño de la Aplicacion Web e
 
 #### 4.4.1. Web Applications Wireframes
 
-Link: [Figma](https://www.figma.com/design/qb02D1snVoDtoLfT0qdkRV/Parking-now?node-id=0-1&t=dsT3kQGDkndD6UwX-1)
+Link: [Figma](https://www.figma.com/design/qb02D1snVoDtoLfT0qdkRV/Parking-now?node-id=0-1&t=dsT3kQGDkndD6UwX-1) (https://www.figma.com/design/qb02D1snVoDtoLfT0qdkRV/Parking-now?node-id=0-1&t=dsT3kQGDkndD6UwX-1)
 
 En estas imagenes, podemos ver el wireframde la home page, donde da la bienvenida al suauri y brinda informacion sobre quienes somos y que es lo queremos. En la parte de la derecha podemos ver el Inicio de Sesion, y las formas en que los usuarios se pueden registrar en la aplicacion web, es decir, como conductor o dueño de una playa de estacionamiento
 
@@ -1325,21 +1325,10 @@ User goal: Hacer una reserva como conductor en la aplicacion.
 User goal: Dejar una opinion a una playa de estacionamiento.
 ![Wireflow4](Assets/Wireflow_4.png)
 
-User goal: Recibir soporte en la pestaña de "Soporte" como conductor.
-![Wireflow5](Assets/Wireflow_5.png)
-
-User Goal: Como usuario revisar el estado de mi carro por medio del sensor.
-![Wireflow6](Assets/Wireflow_6.png)
-
-User Goal: Como dueño de la playa de estacionamiento, revisar las reservas programadas para el dia de hoy.
-![Wireflow7](Assets/Wireflow_7.png)
-
-User Goal: Como dueño de la playa de estacionamiento monitorear las alertas y carros que se quedan en el estacionamiento.
-![Wireflow8](Assets/Wireflow_8.png)
 
 #### 4.4.3. Web Applications Mock-ups
 
-Link: [Figma](https://www.figma.com/design/qb02D1snVoDtoLfT0qdkRV/Parking-now?node-id=0-1&t=dsT3kQGDkndD6UwX-1)
+Link: [Figma](https://www.figma.com/design/qb02D1snVoDtoLfT0qdkRV/Parking-now?node-id=0-1&t=dsT3kQGDkndD6UwX-1) (https://www.figma.com/design/qb02D1snVoDtoLfT0qdkRV/Parking-now?node-id=0-1&t=dsT3kQGDkndD6UwX-1)
 
 Las dos siguientes imagenes son la homepage y la pagina donde se describen las caracteristicas de nuestro producto.
 
@@ -1392,12 +1381,6 @@ User goal: Dejar una opinion como conductor en la aplicacion.
 
 User goal: Hacer una reserva como conductor en la aplicacion.
 ![Userflow4](Assets/Userflow_4.png)
-
-User Goal: Como conductor revisar mis reservas actias, poder reservar y ver los lugares marcados como favoritos
-![Userflow5](Assets/Userflow_5.png)
-
-User Goal: Como dueño de una playa de estacionamientos revisar los locales y estadisticas.
-![Userflow6](Assets/Userflow_6.png)
 
 
 ### 4.5. Web Applications Prototyping
@@ -1552,7 +1535,7 @@ Diagrama que refiere a todo el componente que involucra a la gestion de ubicaci�
 
 En este punto se mostrara la base de datos utilizada en nuestro projecto en relacion a los contextos definidos anteriormente.
 #### 4.8.1. Database Diagram
-Link: [Vertabelo](https://my.vertabelo.com/doc/pYDPCowUTtVaVuDmakCr4QlOKjdT1o1o)
+Link: [Vertabelo](https://my.vertabelo.com/doc/pYDPCowUTtVaVuDmakCr4QlOKjdT1o1o) (https://my.vertabelo.com/doc/pYDPCowUTtVaVuDmakCr4QlOKjdT1o1o)
 ![Base de datos](Assets/ParkingNow_Database-2024-09-05_13-28.png)
 
 
