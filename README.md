@@ -2082,6 +2082,16 @@ Link: https://parkingnow-app.web.app/login
 
 ##### 5.2.2.7.Software Deployment Evidence for Sprint Review.
 
+Para esta entrega, nuestra solucion de ha sido desplegado en el siguiente repositorio
+
+![Software Deployment](Assets/SoftwareDeply.png)
+
+Asimismo como el frontend en el siguiente repositorio
+
+![Software Deplyment 2](Assets/Software_Deploy2.png)
+
+Por ultimo, utilizamos esta API: [Parking API](https://parkalot.io/open-api/) (https://parkalot.io/open-api/)
+
 ##### 5.2.2.8.Team Collaboration Insights during Sprint.
 
 En esta entrega, nuestro objetivo principal fue avanzar en el desarrollo de la primera versión del Frontend Web Application y desplegar una nueva versión de la Landing Page. Para lograrlo, utilizamos diversas herramientas, incluyendo GitHub para el control de versiones, Visual Studio Code y webstorm como editor de código principal, y tecnologías como HTML, CSS, JavaScript, para la construcción de las interfaces. A continuación, se presentan los diagramas que muestran los commits realizados por cada miembro del equipo durante el desarrollo de este sprint.
