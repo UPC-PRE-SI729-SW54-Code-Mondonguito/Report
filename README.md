@@ -1867,18 +1867,18 @@ Link del Trello: https://trello.com/invite/b/66e8592fa7463897e6009305/ATTI40cdd5
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | **User Story** |   | **Work-Item / Task** |   |   |   |   |   |
 | **ID** | **Title** | **ID** | **Title** | **Description** | **Estimation (Hours)** | **Assigned To** | **Status** |
-| **SS01** | Sección Header | **WT01** | Implementación del header, estilos y barra de navegación | Realizar la barra de navegación utilizando JS/CSS | 3 | Diego Ulises | Done |
-| **SS02** | Sección Inicio | **WT02** | Implementación de la sección Inicio  | Realizar la sección de Inicio empleando estilo responsive | 2 | Omar Harold | Done |
-| **SS03** | Sección Características | **WT03** | Implementación de la sección Características | Realizar la sección de Características | 2 | Diego Cacho | Done |
-| **SS04** | Sección Iniciar Sesión/Registrar Cuenta | **WT04** | Implementación de la sección Iniciar Sesión/Registrar Cuenta | Realizar la sección de Iniciar Sesión/Registrar Cuenta | 3 | Rodrigo Liberato | Done |
-| **SS05** | Sección Reservar Espacio | **WT05** | Implementación de la sección Reservar Espacio | Realizar la sección de Reservar Espacio | 4 | Samuel Elias | Done |
-| **SS06** | Registro con Redes Sociales | **WT06** | Implementación de Registro con Redes Sociales | Integrar Google y Facebook para registro | 3 | Diego Ulises | Done |
-| **SS07** | Recuperación de Contraseña | **WT07** | Implementación de Recuperación de Contraseña | Enviar enlace de recuperación por correo | 2 | Omar Harold | Done |
-| **SS08** | Gestión de Reservas en Tiempo Real | **WT08** | Implementación de Gestión de Reservas en Tiempo Real | Modificar y cancelar reservas desde la landing page | 3 | Diego Cacho | Done |
-| **SS09** | Chat de Soporte en Vivo | **WT09** | Implementación de Chat de Soporte en Vivo | Crear chat en vivo con soporte técnico | 4 | Samuel Elias | Done |
-| **SS10** | Alertas de Disponibilidad de Espacios | **WT10** | Implementación de Alertas de Disponibilidad de Espacios | Enviar alertas de disponibilidad de espacios en tiempo real | 4 | Rodrigo Liberato | Done |
-| **SS11** | Ver y Dejar Opiniones | **WT11** | Implementación de Ver y Dejar Opiniones | Crear funcionalidad para dejar y ver opiniones sobre estacionamientos | 3 | Samuel Elias | Done |
-| **SS12** | Visualización de Promociones | **WT12** | Implementación de Visualización de Promociones | Mostrar promociones y descuentos disponibles | 3 | Diego Ulises | Done |
+| **US31** | Mejora de la Interfaz de Búsqueda | **WT01** | Implementación del header, estilos y barra de navegación | Realizar la barra de navegación utilizando JS/CSS | 3 | Diego Ulises | Done |
+| **US01** | Navegación Intuitiva | **WT02** | Implementación de la sección Inicio  | Realizar la sección de Inicio empleando estilo responsive | 2 | Omar Harold | Done |
+| **SS01** | Sección Características | **WT03** | Implementación de la sección Características | Realizar la sección de Características | 2 | Diego Cacho | Done |
+| **US38** | Sección Iniciar Sesión/Registrar Cuenta | **WT04** | Implementación de la sección Iniciar Sesión/Registrar Cuenta | Realizar la sección de Iniciar Sesión/Registrar Cuenta | 3 | Rodrigo Liberato | Done |
+| **SS02** | Sección Reservar Espacio | **WT05** | Implementación de la sección Reservar Espacio | Realizar la sección de Reservar Espacio | 4 | Samuel Elias | Done |
+| **US02** | Registro con Redes Sociales | **WT06** | Implementación de Registro con Redes Sociales | Integrar Google y Facebook para registro | 3 | Diego Ulises | Done |
+| **US03** | Recuperación de Contraseña | **WT07** | Implementación de Recuperación de Contraseña | Enviar enlace de recuperación por correo | 2 | Omar Harold | Done |
+| **US04** | Gestión de Reservas en Tiempo Real | **WT08** | Implementación de Gestión de Reservas en Tiempo Real | Modificar y cancelar reservas desde la landing page | 3 | Diego Cacho | Done |
+| **US05** | Chat de Soporte en Vivo | **WT09** | Implementación de Chat de Soporte en Vivo | Crear chat en vivo con soporte técnico | 4 | Samuel Elias | Done |
+| **US06** | Alertas de Disponibilidad de Espacios | **WT10** | Implementación de Alertas de Disponibilidad de Espacios | Enviar alertas de disponibilidad de espacios en tiempo real | 4 | Rodrigo Liberato | Done |
+| **US07** | Ver y Dejar Opiniones | **WT11** | Implementación de Ver y Dejar Opiniones | Crear funcionalidad para dejar y ver opiniones sobre estacionamientos | 3 | Samuel Elias | Done |
+| **US08** | Visualización de Promociones | **WT12** | Implementación de Visualización de Promociones | Mostrar promociones y descuentos disponibles | 3 | Diego Ulises | Done |
 
 
 ##### 5.2.1.3. Development Evidence for Sprint Review
@@ -2007,12 +2007,12 @@ Link del Trello: https://trello.com/invite/b/66e9b5b8f40799cfcf6b00d3/ATTIa96971
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | User Story |  | Work-Item / Task |  |  |  |  |  |
 | ID | Title | ID | Title | Description | Estimation (Hours) | Assigned To | Status |
-| US13 | Creación de Endpoint | T01 | Obtener Disponibilidad | Crear un endpoint que devuelva la disponibilidad de los espacios en tiempo real | 6 | Omar Harold | To-do |
-| US17 | Implementación de Logs | T02 | Auditoría | Implementar el sistema de auditoría para registrar las acciones importantes en la plataforma | 4 | Samuel Elias | To-do |
-| US20 | Creación de API | T03 | Gestión de Usuarios | Desarrollar una API que permita la gestión CRUD de usuarios | 4 | Rodrigo Liberato | In-Process |
-| US16 | Simplificación del Proceso de Reservas | T04 | Proceso Simplificado | Implementar un proceso simplificado para hacer reservas de espacios de estacionamiento más rápido | 4 | Diego Alonso | Done |
-| US18 | Gestión Básica de Promociones | T05 | Gestión de Promociones | Desarrollar una funcionalidad para gestionar promociones básicas en la plataforma | 5 | Diego Ulises | Done |
-| US19 | Implementación de Funcionalidades de Seguridad Avanzadas | T06 | Seguridad Avanzada | Implementar características avanzadas de seguridad para proteger las transacciones y los datos del usuario | 6 | Omar Harold | Done |
+| US13 | Creación de Endpoint | WT01 | Obtener Disponibilidad | Crear un endpoint que devuelva la disponibilidad de los espacios en tiempo real | 6 | Omar Harold | To-do |
+| US17 | Implementación de Logs | WT02 | Auditoría | Implementar el sistema de auditoría para registrar las acciones importantes en la plataforma | 4 | Samuel Elias | To-do |
+| US20 | Creación de API | WT03 | Gestión de Usuarios | Desarrollar una API que permita la gestión CRUD de usuarios | 4 | Rodrigo Liberato | In-Process |
+| US16 | Simplificación del Proceso de Reservas | WT04 | Proceso Simplificado | Implementar un proceso simplificado para hacer reservas de espacios de estacionamiento más rápido | 4 | Diego Alonso | Done |
+| US18 | Gestión Básica de Promociones | WT05 | Gestión de Promociones | Desarrollar una funcionalidad para gestionar promociones básicas en la plataforma | 5 | Diego Ulises | Done |
+| US19 | Implementación de Funcionalidades de Seguridad Avanzadas | WT06 | Seguridad Avanzada | Implementar características avanzadas de seguridad para proteger las transacciones y los datos del usuario | 6 | Omar Harold | Done |
 
 ##### 5.2.2.3. Development Evidence for Sprint Review
 | Repository | Branch | Commit ID | Commit Message | Commit Message Body | Committed on (Date) |
