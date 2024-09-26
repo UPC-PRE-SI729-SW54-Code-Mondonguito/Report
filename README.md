@@ -1448,8 +1448,105 @@ Diagrama que refiere a todo el componente que involucra a la gestion de ubicaci�
 ### 4.7. Software Object-Oriented Design
 
 #### 4.7.1. Class Diagrams
+![Class Diagram](./Assets/Class_Diagram.png) 
 
 #### 4.7.2. Class Dictionary
+| N | Entidad | Nombre de Atributos | Definición | Tipo de Datos |
+| :---: | ----- | ----- | ----- | ----- |
+| 1 | Usuario | usuario\_id | Código de Usuario (Número de Usuarios) | int |
+|  |  | nombre\_usuario | Nombre del usuario | varchar |
+|  |  | contrasena | Contraseña de la cuenta del usuario | varchar |
+|  |  | rol | Rol del usuario | varchat |
+| 2 | Alertas | Alerta\_id | Código de la Alerta | int |
+|  |  | alerta\_activa | Estado de la Alerta | bool |
+| 3 | Transacción | transaccion\_id | Código de la transacción | int |
+|  |  | fecha | Fecha de la transacción | date |
+|  |  | monto | Monto de la transacción | decimal |
+|  |  | metodo\_pago | Método de pago de la transacción | varchar |
+|  |  | estado | Estado de la transacción | varchar |
+| 4 | Seguridad | seguridad | Tipo de seguridad | int |
+|  |  | descripción | Descripción del tipo de seguridad | varchar |
+|  |  | nivel\_seguridad | Nivel de seguridad | varchar |
+| 5 | Dashboard | tiempo\_carga | Tiempo de carga | int |
+|  |  | numero\_usuarios | Número de usuarios en el local | int |
+|  |  | numero\_reservas | Número de reservas en el local | int |
+|  |  | numero\_opiniones | Número de opiniones en el local | int |
+|  |  | ingresos\_totales | Cantidad de ingresos en el local | decimal |
+|  |  | promedio\_calificacion | Promedio de calificación en el local | float |
+|  |  | tiempo\_uso\_promedio | Tiempo de uso promedio en el local | TimeSpan |
+|  |  | numero\_espacios\_disponibles | Número de espacios disponibles en el local | int |
+|  |  | numero\_notificaciones | Número de notificaciones | int |
+| 6 | Promociones | promocion\_id | Código de promoción | int |
+|  |  | descripcion | Descripción de la promoción | varchar |
+|  |  | descuento | Cantidad del descuento | decimal |
+|  |  | fecha\_inicio | Fecha de inicio de la promoción | date |
+|  |  | fecha\_fin | Fecha de fin de la promoción | date |
+| 7 | Tarifa | tarifa\_id | Código de la tarifa | int |
+|  |  | descripcion | Descripció de la tarifa | varchar |
+|  |  | precio\_hora | Cantidad monetaria por hora en el estacionamiento | decimal |
+|  |  | dia\_semana | Día de la semana de la tarifa | varchar |
+|  |  | Horario | Horario por el tiempo de estacionamiento usado | varchar |
+| 8 | ServicioAlCliente | Asesorid | Código del Asesor | int |
+|  |  | Nombre | Nombre del Asesor | string |
+|  |  | Apellido | Apellido del Asesor | string |
+| 9 | Servicio\_al\_cliente | Asesor\_id | Código del Asesor | int |
+|  |  | nombre | Nombre del Asesor | varchar |
+|  |  | apellido | Apellido del Asesor | varchar |
+| 10 | Vehículo | vehiculo\_id | Código del vehículo | int |
+|  |  | marca | Marca del vehículo | varchar |
+|  |  | modelo | Modelo del vehículo | varchar |
+|  |  | color | Color del vehículo | varchar |
+|  |  | placa | Placa del vehículo | varchar |
+| 11 | Asesorias | Asesoria\_ID | Código de la Asesoría | int |
+|  |  | Razon | Razón de la Asesoría | varchar |
+|  |  | fecha | Fecha de la Asesoría | date |
+|  |  | hora\_inicio | Hora de inicio de la Asesoría | time |
+|  |  | hora\_final | Hora de fin de la Asesoría | time |
+|  |  | Servicio\_al\_cliente\_Asesor\_id | Código del Asesor | int |
+| 12 | Persona | ID | Código de la Persona | int |
+|  |  | nombre | Nombre de la persona | string |
+|  |  | apellido | Apellido de la persona | string |
+|  |  | email | Email de la persona | string |
+| 13 | Conductores | placa\_de\_vehiculo | Placa del vehículo del conductor | varchar |
+|  |  | DNI | DNI del conductor | varchar |
+| 14 | Notificacion | Notificacion\_id | Código de la notificación | int |
+|  |  | descripcion | Descripción de la notificación | varchar |
+|  |  | fecha | Fecha de la notificación | date |
+|  |  | hora | Hora exacta de la notificación | time |
+|  |  | Alertas\_Alerta\_id | Código de la Alerta | int |
+|  |  | prioridad | Prioridad de la notificación | varchar |
+|  |  | fecha\_envio | Fecha de envío de la notificación | date |
+| 15 | Duenos\_de\_playas | DuenoId | ID del dueño del estacionamiento | int |
+|  |  | Nombre | Nombre del dueño del estacionamiento | string |
+|  |  | Apellido | Apellido del dueño del estacionamiento | string |
+|  |  | Correo | Correo del dueño del estacionamiento | string |
+|  |  | RUC | RUC del dueño del estacionamiento | string |
+|  |  | telefono | Teléfono del dueño del estacionamiento | varchar |
+|  |  | direccion | Dirección del dueño del estacionamiento | varchar |
+| 16 | Reservas | reservas\_id | Código de la reserva | int |
+|  |  | Fecha | Fecha de la reserva | int |
+|  |  | hora\_inicio | Hora de inicio de la reserva | time |
+|  |  | hora\_final | Hora de fin de la reserva | time |
+|  |  | estado\_reserva | Estado de la reserva | varchar |
+|  |  | numero\_vehiculo | Número del vehículo en reserva | varchar |
+|  |  | local\_x\_espacio\_Espacio\_Espacios\_id | ID del espacio usado en el estacionamiento | int |
+| 17 | Recibo | recibo\_id | Código del recibo | int |
+|  |  | descripcion | Descripción del recibo | int |
+|  |  | metodo\_de\_pago | Método de pago del recibo | int |
+|  |  | Reservas\_reservas\_id | Código de la reserva | int |
+| 18 | Opinion | opinion\_id | Código de la opinión | int |
+|  |  | usuario\_id | Código del usuario | int |
+|  |  | fecha\_opinion | Fecha de la opinión | date |
+|  |  | descripcion | Descripción de la opinión | varchar |
+|  |  | titulo | Título de la opinión | varchar |
+| 19 | Local | local\_id | Código del local | int |
+|  |  | descripcion | Descripción del local | varchar |
+|  |  | ubicacion | Ubicación del local | varchar |
+|  |  | cantidad\_empleados | Cantidad de empleados del local | int |
+| 20 | Espacio | Espacios\_id | Código de los espacios | int |
+|  |  | Sensor | Sensor de los espacios | int |
+|  |  | descripcion | Descripción de los espacios | varchar |
+|  |  | ubicacion | Ubicación de los espacios | varchar |
 
 ### 4.8. Database Design
 
@@ -1765,6 +1862,7 @@ En el **Sprint 1**, el equipo se enfocó en desarrollar las principales seccione
 ![alt text](Assets/Trello.png)
 
 Link del Trello: https://trello.com/invite/b/66e8592fa7463897e6009305/ATTI40cdd58c92843377c1bb36efe058ba4f83EFDA35/open-source-parkingnow
+
 | Sprint \# | Sprint 1 |   |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | **User Story** |   | **Work-Item / Task** |   |   |   |   |   |
@@ -1877,12 +1975,59 @@ Estos gráficos muestran de manera visual las clonaciones realizadas en nuestro 
 
 ![alt text](Assets/Ramas.png)
 
-### 5.2.2. Sprint 2
-##### 5.2.2.1.Sprint Planning 2.
-##### 5.2.2.2.Sprint Backlog 2.
-##### 5.2.2.3.Development Evidence for Sprint Review.
-##### 5.2.2.4.Testing Suite Evidence for Sprint Review.
+##### 5.2.2.1.Sprint Planning 2 
+
+En esta sección se especifican los detalles del Sprint Planning Meeting, que es una reunión que se lleva a cabo al inicio de cada sprint con la finalidad de establecer las tareas que se realizarán durante el período determinado.
+
+##### 5.2.2.2. Sprint Planning 2
+
+| Sprint # | Sprint 2 |
+| :---: | :---: |
+| **Sprint Planning Background** |  |
+| Date | 21/09/24 |
+| Time | 11:00 AM |
+| Location | Virtual meeting \- Zoom |
+| Prepared By | Diego Ulises Soto Quispe |
+| Attendees | \- Diego Ulises Soto Quispe <br> \- Diego Alonso Cacho Seminario <br> \- Rodrigo Liberato Saldaña <br> \- Omar Harold Rivera Ticllacuri <br> \- Samuel Elias Molina Asencios |
+| Sprint 2 Review Summary | El objetivo del Sprint fue mejorar la experiencia del usuario con la optimización de las funcionalidades de la página PARKINGNOW. Se completaron tareas técnicas relacionadas con la API y la gestión de usuarios. |
+| Sprint 2 Retrospective Summary | La ejecución del Sprint fue efectiva, aunque se presentaron retos en la integración de la API. En el siguiente Sprint se mejorarán las funciones de notificaciones y seguridad. |
+| **Sprint Goal & User Stories** |  |
+| Sprint 2 Goal | Desarrollar la gestión de usuarios y la creación de APIs básicas para la plataforma PARKINGNOW. |
+| Sprint 2 Velocity | Velocidad de 30 - Segundo Sprint |
+| Sum of Story Points | Sprint 2 - 30 Story Points |
+
+
+##### Sprint Backlog 2
+
+![alt text](<Assets/Trello 2.png>)
+
+Link del Trello: https://trello.com/invite/b/66e9b5b8f40799cfcf6b00d3/ATTIa96971e39f8a6c5827fd4d56f290181a384AD640/sprint-backlog-2
+
+| Sprint \# | Sprint 2 |  |  |  |  |  |  |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| User Story |  | Work-Item / Task |  |  |  |  |  |
+| ID | Title | ID | Title | Description | Estimation (Hours) | Assigned To | Status |
+| US13 | Creación de Endpoint | T01 | Obtener Disponibilidad | Crear un endpoint que devuelva la disponibilidad de los espacios en tiempo real | 6 | Omar Harold | To-do |
+| US17 | Implementación de Logs | T02 | Auditoría | Implementar el sistema de auditoría para registrar las acciones importantes en la plataforma | 4 | Samuel Elias | To-do |
+| US20 | Creación de API | T03 | Gestión de Usuarios | Desarrollar una API que permita la gestión CRUD de usuarios | 4 | Rodrigo Liberato | In-Process |
+| US16 | Simplificación del Proceso de Reservas | T04 | Proceso Simplificado | Implementar un proceso simplificado para hacer reservas de espacios de estacionamiento más rápido | 4 | Diego Alonso | Done |
+| US18 | Gestión Básica de Promociones | T05 | Gestión de Promociones | Desarrollar una funcionalidad para gestionar promociones básicas en la plataforma | 5 | Diego Ulises | Done |
+| US19 | Implementación de Funcionalidades de Seguridad Avanzadas | T06 | Seguridad Avanzada | Implementar características avanzadas de seguridad para proteger las transacciones y los datos del usuario | 6 | Omar Harold | Done |
+
+##### 5.2.2.3. Development Evidence for Sprint Review
+| Repository | Branch | Commit ID | Commit Message | Commit Message Body | Committed on (Date) |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| [https://github.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Landing-Page](https://github.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Landing-Page)  | feature/chapter-5 | f93fb7c | Add Sprint 2 table to README | \- | 17/09/24 |
+|  | feature/chapter-5 | b3ba393 | Added 5.2.2.6 section on README.md | \- | 24/09/24 |
+|  | feature/chapter-5 | a5224f0 | Update README.md | \- | 23/09/24 |
+|  | feature/chapter-5 | 0581697 | Updated README.md and added Trello board screenshot | \- | 17/09/24 |
+|  | feature/chapter-5 | 74b2f9c | Update README.md | \- | 24/09/24 |
+
+##### 5.2.2.4. Testing Suite Evidence for Sprint Review
+Debido al desarrollo del Landing Page y del Front End Application dentro del Sprint 2, se omite esta sección para el presente avance del proyecto. En futuro desarrollo se brindará información con mayor detalle.
+
 ##### 5.2.2.5.Execution Evidence for Sprint Review.
+
 ##### 5.2.2.6.Services Documentation Evidence for Sprint Review.
 
 
@@ -1901,6 +2046,7 @@ Estos gráficos muestran de manera visual las clonaciones realizadas en nuestro 
 | security-api.service.json | GET | ``fetch('src/app/security/services/security-api.service.json')`` | Siempre se necesitara la ID para hallar los datos requeridos | ``fetch('src/app/security/services/security-api.service.json') .then(response => response.json()) .then(data => {this.security = data;});`` | En esta seccion, se retornan los IDs de los servicios de seguridad que se hicieorn en la aplicacion |
 
 ##### 5.2.2.7.Software Deployment Evidence for Sprint Review.
+
 ##### 5.2.2.8.Team Collaboration Insights during Sprint.
 
 
