@@ -37,8 +37,8 @@ Ciclo: 5to <br>
 | Versión | Fecha       | Autor(es)                                                                                                  | Descripción de la modificación                                                                                                                                                       |
 |---------|-------------|------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | TB1     | 07/09/2024  | Diego Alonso Cacho Seminario<br><br>Rodrigo Liberato Saldaña<br><br>Samuel Elias Molina Asencios<br><br>Omar Harold Rivera Ticllacuri<br><br>Diego Ulises Soto Quispe | Se agregó el contenido del capítulo 1 (apartados 1.1, 1.2 y 1.3); el contenido del capítulo 2 (apartados 2.1, 2.2, 2.3, 2.4); el contenido del capítulo 3 (apartados 3.1, 3.2, 3.3 y 3.4); el contenido del capítulo 4 (apartados 4.1, 4.2, 4.3, 4.4, 4.5, 4.6, 4.7 y 4.8); y el contenido del capítulo 5 (apartados 5.1 y 5.2). |
-| TP1     |             | Diego Alonso Cacho Seminario<br><br>Rodrigo Liberato Saldaña<br><br>Samuel Elias Molina Asencios<br><br>Omar Harold Rivera Ticllacuri<br><br>Diego Ulises Soto Quispe |    Se agregó el contenido del capítulo 5, apartados 5.2.2, 5.2.2.1, 5.2.2.2, 5.2.2.3, 5.2.2.4, 5.2.2.5, 5.2.2.6, 5.2.2.7, 5.2.2.8|                                                                                                                                                                                    |
-| TB2     |             | Diego Alonso Cacho Seminario<br><br>Rodrigo Liberato Saldaña<br><br>Samuel Elias Molina Asencios<br><br>Omar Harold Rivera Ticllacuri<br><br>Diego Ulises Soto Quispe |                                                                                                                                                                                       |
+| TP1     |  25/09/2024          | Diego Alonso Cacho Seminario<br><br>Rodrigo Liberato Saldaña<br><br>Samuel Elias Molina Asencios<br><br>Omar Harold Rivera Ticllacuri<br><br>Diego Ulises Soto Quispe |    Se agregó el contenido del capítulo 5, apartados 5.2.2, 5.2.2.1, 5.2.2.2, 5.2.2.3, 5.2.2.4, 5.2.2.5, 5.2.2.6, 5.2.2.7, 5.2.2.8|                                                                                                                                                                                    |
+| TB2     |   01/11/2024          | Diego Alonso Cacho Seminario<br><br>Rodrigo Liberato Saldaña<br><br>Samuel Elias Molina Asencios<br><br>Omar Harold Rivera Ticllacuri<br><br>Diego Ulises Soto Quispe |               Se agregó el contenido del capítulo 5, apartados 5.2.3, 5.2.3.1, 5.2.3.2, 5.2.3.3, 5.2.3.4, 5.2.3.5, 5.2.3.6, 5.2.3.7, 5.2.3.8, 5.3, 5.3.1, 5.3.2, 5.3.3, 5.4 y las conclusiones.                                                                                                                                                                        |
 | TF1     |             | Diego Alonso Cacho Seminario<br><br>Rodrigo Liberato Saldaña<br><br>Samuel Elias Molina Asencios<br><br>Omar Harold Rivera Ticllacuri<br><br>Diego Ulises Soto Quispe |                                                                                                                                                                                       |
 
 
@@ -173,6 +173,25 @@ EAC - Student Outcome 3.
     - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
     - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
     - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
+  
+- [5.2.3. Sprint 3](#sprint-3)
+  - [5.2.3.1. Sprint Planning 3](#sprint-planning-3)
+  - [5.2.3.2. Sprint Backlog 3](#sprint-backlog-3)
+  - [5.2.3.3. Development Evidence for Sprint Review](#development-evidence-for-sprint-review)
+  - [5.2.3.4. Testing Suite Evidence for Sprint Review](#testing-suite-evidence-for-sprint-review)
+  - [5.2.3.5. Execution Evidence for Sprint Review](#execution-evidence-for-sprint-review)
+  - [5.2.3.6. Services Documentation Evidence for Sprint Review](#services-documentation-evidence-for-sprint-review)
+  - [5.2.3.7. Software Deployment Evidence for Sprint Review](#software-deployment-evidence-for-sprint-review)
+  - [5.2.3.8. Team Collaboration Insights during Sprint](#team-collaboration-insights-during-sprint)
+
+- [5.3. Validation Interviews](#validation-interviews)
+  - [5.3.1. Diseño de Entrevistas](#diseño-de-entrevistas)
+  - [5.3.2. Registro de Entrevistas](#registro-de-entrevistas)
+  - [5.3.3. Evaluaciones según heurísticas](#evaluaciones-según-heurísticas)
+
+- [5.4. Video About-the-Product](#video-about-the-product)
+
+
 
 - [Avance de Conclusiones, Bibliografía y Anexos](#avance-de-conclusiones-bibliografía-y-anexos)
 
@@ -1833,7 +1852,7 @@ A continuación, se describen los pasos para realizar el despliegue de la **Land
    ![Comprobación del Despliegue](./Assets/URL.png)
 
 6. **Acceso a la Página:**
-   Finalmente, podrás acceder a la **Landing Page** desde el enlace que se generó al finalizar el deploy. Aquí está el enlace para el proyecto PARKINGNOW: https://upc-pre-si729-sw54-code-mondonguito.github.io/Landing-Page/
+   Finalmente, podrás acceder a la **Landing Page** desde el enlace que se generó al finalizar el deploy. Aquí está el enlace para el proyecto PARKINGNOW: https://github.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Lading-Page-G6
 
    ![Acceso a la Página](./Assets/Landing.png)
 
@@ -1962,7 +1981,7 @@ En el primer sprint, hemos desarrollado y lanzado la página de inicio de la apl
 
 Para implementar nuestra página, decidimos usar GitHub Pages. Durante este proceso, creamos un repositorio en GitHub para gestionar el control de versiones. En la sección de Configuración, publicamos el proyecto desde la rama "main", que anteriormente estaba en la rama "developer".
 
-**Link de la Landing Page desplegada:** [PARKINGNOW](https://upc-pre-si729-sw54-code-mondonguito.github.io/Landing-Page/) **-**  https://upc-pre-si729-sw54-code-mondonguito.github.io/Landing-Page/
+**Link de la Landing Page desplegada:** [PARKINGNOW](https://upc-pre-si729-sw54-code-mondonguito.github.io/Lading-Page-G6/) **-**  https://upc-pre-si729-sw54-code-mondonguito.github.io/Lading-Page-G6/
 
 ##### 5.2.1.8. Team Collaboration Insights during Sprint.
 En esta entrega, nuestro objetivo principal fue la creación de la Landing Page. Para lograrlo, utilizamos varias herramientas, incluyendo GitHub, Visual Studio Code, WebStorm, HTML, CSS y JavaScript. A continuación, presentamos los diagramas de flujo que muestran los commits realizados por cada miembro del equipo PARKINGNOW:
@@ -1977,6 +1996,10 @@ Esta imagen proporciona una representación visual de las fechas en que se reali
 Estos gráficos muestran de manera visual las clonaciones realizadas en nuestro repositorio y las fechas en que ocurrieron. También proporcionan información sobre el número de visitantes que ha tenido el repositorio a lo largo del tiempo.
 
 ![alt text](Assets/Ramas.png)
+
+#### 5.2.1. Sprint 2
+
+En el Sprint 2, el equipo se enfocó en desarrollar el frontend de PARKINGNOW utilizando Angular y sus tecnologías asociadas, como TypeScript, JavaScript, HTML y CSS. Durante este sprint, se distribuyeron las tareas entre los miembros del equipo, quienes trabajaron en la implementación del diseño responsivo y funcional de la página.
 
 ##### 5.2.2.1.Sprint Planning 2 
 
@@ -2020,7 +2043,7 @@ Link del Trello: https://trello.com/invite/b/66e9b5b8f40799cfcf6b00d3/ATTIa96971
 ##### 5.2.2.3. Development Evidence for Sprint Review
 | Repository | Branch | Commit ID | Commit Message | Commit Message Body | Committed on (Date) |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| [https://github.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Landing-Page](https://github.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Landing-Page)  | feature/chapter-5 | f93fb7c | Add Sprint 2 table to README | \- | 17/09/24 |
+| [https://github.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Lading-Page-G6](https://github.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Lading-Page-G6)  | feature/chapter-5 | f93fb7c | Add Sprint 2 table to README | \- | 17/09/24 |
 |  | feature/chapter-5 | b3ba393 | Added 5.2.2.6 section on README.md | \- | 24/09/24 |
 |  | feature/chapter-5 | a5224f0 | Update README.md | \- | 23/09/24 |
 |  | feature/chapter-5 | 0581697 | Updated README.md and added Trello board screenshot | \- | 17/09/24 |
@@ -2110,6 +2133,8 @@ Estos gráficos muestran de manera visual las clonaciones realizadas en nuestro 
 ![alt text](Assets/Net1.png)
 
 ![alt text](Assets/Net2.png)
+
+
 
 ### Conclusiones y recomendaciones
 
