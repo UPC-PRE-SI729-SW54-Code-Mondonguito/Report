@@ -2237,6 +2237,9 @@ En esta sección se muestran las tareas realizadas en el presente sprint. A cont
 ### 5.2.3.4. Testing Suite Evidence for Sprint Review
 
 Para esta entrega la ejecucion de las pruebas unitarias se hizo usando jasmine framework y karma framework
+#### Testing Configuration
+![feature1](Assets/test_ts.jpg)
+
 #### Jasmine Configuration
 ![feature1](Assets/jasmine_configuration.jpg)
 
