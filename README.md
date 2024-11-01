@@ -2243,27 +2243,7 @@ Captura de pantalla:
 
 ![VI-Seg1-Interview1.png](Assets/VI-Seg1-Interview1.png)
 
-Entrevistado N°2:
-
-* Sexo:  
-* Edad:  
-* Ubicación en la que vive:
-
-Acerca de la entrevista: 
-
-* Link:  
-* Instante en el que inicia:  
-* Duración:
-
-Resumen:
-
-Para…………..
-
-Captura de pantalla:
-
-\*captura\*
-
-Entrevistado N°3: Mario Andre Cacho Seminario
+Entrevistado N°2: Mario Andre Cacho Seminario
 
 * Sexo: Masculino  
 * Edad: 21  
@@ -2271,16 +2251,17 @@ Entrevistado N°3: Mario Andre Cacho Seminario
 
 Acerca de la entrevista:
 
-* Link:  
-* Instante en el que inicia:  
-* Duración:
+* Link: [https://youtu.be/M2yHrYElMV0](https://youtu.be/M2yHrYElMV0)   
+* Instante en el que inicia: 3:41  
+* Duración: 4:46
 
 Resumen:
 
-Para Mario……..
+Para Mario el diseño de la página web le permite realizar las reservas sin ningún problema, considera que la organización de esta funciona de manera correcta, además indica que, dentro de una futura actualización, le gustaría que hubieran más lenguajes disponibles para la traducción.
 
-Captura de Pantalla:  
-\*captura\*
+Captura de Pantalla:
+
+![VI-Seg1-Interview2.png](Assets/VI-Seg1-Interview2.png)
 
 **Segmento objetivo \#2: Dueños de playas de estacionamientos**
 
@@ -2304,24 +2285,24 @@ Captura de pantalla:
 
 ![VI-Seg2-Interview1.png](Assets/VI-Seg2-Interview1.png)
 
-Entrevistado N°2:
+Entrevistado N°2: Sebastián de las Casas Latour
 
-* Sexo:  
-* Edad:  
-* Ubicación en la que vive:
+* Sexo: Masculino  
+* Edad: 20  
+* Ubicación en la que vive: San Borja
 
-Acerca de la entrevista:
+Acerca de la entrevista: 
 
-* Link:  
-* Instante en el que inicia:  
-* Duración:
+* Link: [https://youtu.be/tMtGGK4e4YE](https://youtu.be/tMtGGK4e4YE)   
+* Instante en el que inicia:  3:16  
+* Duración: 5:23
 
 Resumen:
 
-Para……….
+Para Sebastián, la página web presenta la información de una manera sencilla e intuitiva, considera que las sección de reservas y estadísticas le ayudarían bastante al organizar ciertos aspectos en su playa de estacionamiento.
 
-Captura de Pantalla:  
-\*captura\*
+Captura de pantalla:
+![VI-Seg2-Interview2.png](Assets/VI-Seg2-Interview2.png)
 
 #### 5.3.3 Evaluaciones según heurísticas
 
