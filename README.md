@@ -2315,14 +2315,14 @@ Esta imagen presenta una visualización de las fechas en las que se realizaron c
 
 Finalmente, en esta sección nos enfocamos en el desarrollo de nuestra Landing Page. Utilizando herramientas como GitHub, Webstorm y Figma, creamos una interfaz atractiva y funcional que sirve como la primera impresión para los usuarios. A continuación, se presentan los diagramas de flujo que detallan los commits realizados en este aspecto del proyecto:
 
-![alt text](Assets/.png)
+![alt text](Assets/Landing12.png)
 
 Esta imagen muestra un gráfico que ilustra el progreso en los commits relacionados con la Landing Page, destacando la colaboración de cada miembro del equipo en esta fase.
 
-![alt text](Assets/.png)
+![alt text](Assets/Landing31.png)
 
 Además, esta imagen proporciona un análisis temporal de las modificaciones efectuadas en la Landing Page, permitiendo observar cómo ha evolucionado su diseño y funcionalidad a lo largo del desarrollo. Esta información es esencial para evaluar el rendimiento del equipo y la efectividad de las estrategias implementadas en el diseño de la interfaz.
-![alt text](Assets/.png)
+![alt text](Assets/Landing21.png)
 
 
 ### 5.3 Validation Interviews
