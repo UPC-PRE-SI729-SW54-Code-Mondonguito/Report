@@ -2184,6 +2184,55 @@ En esta sección se muestran las tareas realizadas en el presente sprint. A cont
 | US45 | Integración con el Sistema de Pago | WT08 | Implementación de Sistema de Pago | Desarrollar un endpoint para procesar pagos y verificar transacciones. | 5 | Rodrigo Liberato | To-do |
 
 ### 5.2.3.3. Development Evidence for Sprint Review
+**Frontend**
+
+| Repository   | ID       | Commit Message                  | Date       |
+|--------------|----------|---------------------------------|------------|
+|   | f2b125a1cb7210805b4e42f11f62d2448c91d34e   | Fix: Adjust imports and structure for reservations component                  | 2024-10-24 |
+|   | fa71cbfac5b8d69b00a99c804b7626b15eb1aea1   | Make register component responsive for mobile and tablet               | 2024-10-29 |
+|   | 1587dbffdb8be442666c4a939804326865bf8f1a   | Add payment method UI with language switch    | 2024-10-30 |
+|   | jkl012   | Refactored main.py              | 2024-11-01 |
+| [https://github.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Backend.git](https://github.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Backend.git)  | mno345   | Added unit tests                | 2024-11-01 |
+|   | daa06c9c46ef0020d36fa03dfad99897d8f48e33 | Added styles to owner css's               | 2024-10-31 |
+|   | e9b2f49f2afb6e5f749e6a03ab27dcbcf4dd0263   | feat: Adding styles and making responnsives   | 2024-10-31 |
+
+
+**Backend**
+| Repository   | ID       | Commit Message                  | Date       |
+|--------------|----------|---------------------------------|------------|
+|   | 5bcb0cad6a404e08604575edffd38e5765ed9fb7   | initializer Backend                 | 2024-10-13 |
+|  | 65ab79b23a3a74ae743a4f77bf642bdf5e7723ab   | adding user controller               | 2024-11-01 |
+| https://github.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Backend.git  | 174fc596b8a91b90fc7209fa11af96d60978ff2c   | adding user entity   | 2024-10-13 |
+|   | 650d210c869bc6e5bbcd52517349d5d932851d75   | adding user Repository| 2024-10-13 |
+|   | b74666e74af50e1c682c9cc733f8103ee2a4db4b    |  adding User Service| 2024-10-13 |
+|   | b96c15c33a1da98ce5b458c1f240189306972938   | Merge branch 'master'| 2024-10-13 |
+|   | 415dd89e015dcdab988894c08276f98a66d43a9f   | adding conection to database| 2024-10-13 |
+|   | 211df52dfa70fd40bb7dff48b636e7f4b018a2c2   | Merge branch 'dev'| 2024-10-13 |
+|   | a97ca96e82bcd26fbf55082162de03f5a9ff22de   | feat: added CreateUsusarioCommand, GetUsuarioByDNI, GetUsuarioByIdQuery, UsuarioCommandService, UsuarioPersonalInfo, UsuarioQueryService, UsuarioRol               | 2024-10-18 |
+|   | 1c5a0c054efaa3ecac968342f9dad307cd0d6f68   | doc: updated README             | 2024-10-18 |
+|   | f752c1b5973b19f549737bf72ab04949ef04d6ad   | feat: refactored Usuario, UsuarioController, UsuarioRepository                | 2024-10-18 |
+|   | 260762ff6785f980667ce0df82544f83fadcee5c   | feat: Created transforms Classes, Resources Records.              | 2024-10-23 |
+|   | 2baa53e81911e5d80c87c0341d7f3f53876c6b49   | chore() added functionality to UsuarioController, UsuarioRepository                | 2024-10-23 |
+|   | cdb2c4e247813d3efaa8043fb10336b9c1344b0a   | chore(UsuarioService) deleted| 2024-10-27 |
+|   | 337cd52fa8e374349fd0ab11e5beaed001badd17   | chore(Usuarios) refactor| 2024-10-27 |
+|   | acb2bcce576d4926122002a2d619ca982b080d99   | chore(Usuarios) refactor| 2024-10-27 |
+|   | dfa95548b384cce6f15290dbd000f7bb7f1e2e76   | feat: added Dueno and Conductor classes| 2024-10-27 |
+|   |   c90e4c98c44d87a5c4c1e104168d55ef47e27989 | feat: added aggregates| 2024-11-01 |
+|   |  24f15ccf9a7a287b79be59272411a96bf2029173  | feat(reservas): added value objects| 2024-11-01 |
+|   |  c29ccea0cfbe5ac589b053270f4416742eae69c2  | feat(reservas): added commands| 2024-11-01 |
+|   |  5275b4b7569386811e51b0b959a20afadb915323  |feat(reservas): added queries | 2024-11-01 |
+|   |  5d4bed2967504985c3a842c092bc8f3af59e6555  |feat(reservas): added services | 2024-11-01 |
+|   |  7e87caa1e26cf63ec7f224f7bf4b3cc2a77d93d5  | feat(reservas): added services| 2024-11-01 |
+|   |   1fb42359e7ed1308d8723125c593fb36c54c073c | feat(reservas): added repositories| 2024-11-01 |
+|   |  e172290ccc0ecdc5c9380900de9c108e4a4d5e69  |feat(reservas): added implements | 2024-11-01 |
+|   |  933afd13678760fc232c459f64bd334809d1513e  |feat(reservas): deleted entities | 2024-11-01 |
+|   |  cac47382783bef13e33a0f26d2ab0c7895df3646  |feat: add files to Support Context | 2024-11-01 |
+|   |  0ce40a83758ff386065f93bc37aad3d95d847c72  | feat: added aplication domain and infraestructure| 2024-11-01 |
+|   |  47085afe6742975a29cdc5a098d5668b63c9a3da  | Upload full project structure and configurations| 2024-11-01 |
+|   |  581e9405496b9450f191fbe3d5c12adce49dbb9a  | Added shared module structure and auditing classes| 2024-11-01 |
+|   |  cc4dcdf745c1ee46012523f2dccc9425fedd8ef8  |adding documentation for Services Queries | 2024-11-01 |
+|   |  dc2f57837bc0523483ff12fd00197be6bade17e5  |adding documentation for transaction of reservations | 2024-11-01 |
+|   |  48610669a7f8a04c3fb3d9399b06393ba5025382  | adding documentation in aggregate and Service IMP| 2024-11-01 |
 
 ### 5.2.3.4. Testing Suite Evidence for Sprint Review
 
