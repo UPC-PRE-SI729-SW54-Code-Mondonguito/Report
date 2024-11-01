@@ -459,6 +459,319 @@ Link del Trello: https://trello.com/invite/b/66e9b5b8f40799cfcf6b00d3/ATTIa96971
 ##### 5.2.2.4. Testing Suite Evidence for Sprint Review
 Debido al desarrollo del Landing Page y del Front End Application dentro del Sprint 2, se omite esta sección para el presente avance del proyecto. En futuro desarrollo se brindará información con mayor detalle.
 
+#### 5.2.3 Sprint 3
+
+##### 5.2.3.1.Sprint Planning 3 
+
+En esta sección se especifican los detalles del Sprint Planning Meeting, que es una reunión que se lleva a cabo al inicio de cada sprint con la finalidad de establecer las tareas que se realizarán durante el período determinado.
+
+##### 5.2.3.2. Sprint Backlog 3
+
+##### 5.2.3.3. Development Evidence for Sprint Review
+
+##### 5.2.3.4. Testing Suite Evidence for Sprint Review
+
+### 5.3 Validation Interviews
+
+#### 5.3.1 Diseño de entrevistas
+
+### Con el objetivo de obtener un mejor entendimiento de nuestros usuarios, realizamos una serie de entrevistas para verificar el rendimiento de nuestra página web.
+
+**Segmento objetivo \#1: Conductores Urbanos Frecuentes**
+
+**Preguntas personales:**
+
+* ¿Cual es tu nombre?  
+* ¿Cuántos años tienes?
+
+**Preguntas principales:**
+
+* ¿Sientes que lograste navegar por la página sin complicaciones?  
+* ¿Qué opinas acerca del diseño que presenta la página web?  
+* ¿Tuviste algún problema al navegar por la página web utilizando tu navegador de preferencia?  
+* ¿Consideras que la traducción a Inglés de la página web funciona correctamente?  
+* ¿Tuviste algún problema al realizar los pagos para las reservas?  
+* ¿Tienes alguna sugerencia o comentario que desees compartir?
+
+**Segmento objetivo \#2: Dueños de playas de estacionamientos**
+
+**Preguntas personales:**
+
+* ¿Cual es tu nombre?  
+* ¿Cuántos años tienes?
+
+**Preguntas principales:**
+
+* ¿Sientes que lograste navegar por la página sin complicaciones?  
+* ¿Qué opinas acerca del diseño que presenta la página web?  
+* ¿Tuviste algún problema al navegar por la página web utilizando tu navegador de preferencia?  
+* ¿Consideras que la traducción a Inglés de la página web funciona correctamente?  
+* ¿Tuviste algún problema al registrar tu local en la página?  
+* ¿Crees que la información estadística que te brinda la página es suficiente?  
+* ¿Tienes alguna sugerencia o comentario que desees compartir?
+
+#### 5.3.2 Registro de entrevistas
+
+**Segmento objetivo \#1: Conductores Urbanos Frecuentes**
+
+Entrevistado N°1: Bárbara Eliana Seminario León
+
+* Sexo: Femenino  
+* Edad: 50  
+* Ubicación en la que vive: Surco, Lima, Perú.
+
+Acerca de la entrevista:
+
+* Link: [https://youtu.be/EnEIqclMmDc](https://youtu.be/EnEIqclMmDc)   
+* Instante en el que inicia: 3:50  
+* Duración: 5:12
+
+Resumen:
+
+Para Bárbara, el desarrollo de la página web la deja bastante satisfecha, considera que esta presenta lo necesario para realizar las reservas y cree que las opciones de lenguaje extra podrían ayudar bastante.
+
+Captura de pantalla:
+
+![][image26]
+
+Entrevistado N°2:
+
+* Sexo:  
+* Edad:  
+* Ubicación en la que vive:
+
+Acerca de la entrevista: 
+
+* Link:  
+* Instante en el que inicia:  
+* Duración:
+
+Resumen:
+
+Para…………..
+
+Captura de pantalla:
+
+\*captura\*
+
+Entrevistado N°3: Mario Andre Cacho Seminario
+
+* Sexo: Masculino  
+* Edad: 21  
+* Ubicación en la que vive: Surco
+
+Acerca de la entrevista:
+
+* Link:  
+* Instante en el que inicia:  
+* Duración:
+
+Resumen:
+
+Para Mario……..
+
+Captura de Pantalla:  
+\*captura\*
+
+**Segmento objetivo \#2: Dueños de playas de estacionamientos**
+
+Entrevistado N°1:
+
+* Sexo:  
+* Edad:  
+* Ubicación en la que vive:
+
+Acerca de la entrevista:
+
+* Link:  
+* Instante en el que inicia:  
+* Duración:
+
+Resumen:
+
+Para……….
+
+Captura de Pantalla:  
+\*captura\*
+
+Entrevistado N°2: Johan Bottger Salazar
+
+* Sexo: Masculino  
+* Edad: 21  
+* Ubicación en la que vive: San Borja
+
+Acerca de la entrevista:
+
+* Link: [https://youtu.be/otzYnbKWOJY](https://youtu.be/otzYnbKWOJY)   
+* Instante en el que inicia: 3:20  
+* Duración: 5:15
+
+Resumen:
+
+Para Johan, la vista de dueños de playas de estacionamiento es perfecta, cumple con las expectativas que tenía en las entrevistas pasadas y considera que la sección de las estadísticas le podrían ser bastante útil cuando tenga que verificar cómo le está yendo a su negocio.
+
+Captura de pantalla:
+
+![][image27]
+
+#### 5.3.3 Evaluaciones según heurísticas
+
+SITE o APP A EVALUAR: PARKINGNOW
+
+TAREAS A EVALUAR:
+
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+1. Inicio de sesión  
+2. Registro de nuevo usuario  
+3. Navegación de usuario  
+4. Detalles de reservas  
+5. Pestaña de inicio
+
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+
+1. Métodos de pago  
+2. Soporte  
+3. Sección de notificaciones
+
+ESCALA DE SEVERIDAD:
+
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
+
+| Nivel | Descripción |
+| ----- | :---- |
+| 1 | Problema superficial: puede ser fácilmente superado por el usuario ó ocurre con muy poco frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+| 2 | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase |
+| 3 | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta. |
+| 4 | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
+
+**TABLA RESUMEN:**
+
+| \# | Problema | Escala de severidad | Heurística/Principio violado(o) |
+| :---: | ----- | :---: | ----- |
+| 1 | En la página de inicio de sesión, al seleccionar los botones de “Google” y “Facebook” la aplicación no permite iniciar sesión por esos medios | 2 | Information Architecture: Is it usable? |
+| 2 | En la página de inicio de sesión, al presionar el botón de “Iniciar sesión”, no se dirige a una página en concreto | 4 | Information Architecture: Is it usable? |
+| 3 | En la sección de registro de usuario, los campos para rellenar no verifican que los datos presenten el formato dado | 1 | Information Architecture: Is it usable? |
+| 4 | La sección de “Seguimiento y alarmas” en la vista de conductores frecuentes presenta un botón con texto que no está completo | 1 | Information Architecture: Is it usable? |
+| 5 | La sección de “Configuración” presenta varias formas para cambiar el idioma | 1 | Usability: Consistencia y estándares |
+| 6 | En la sección de inicio de la vista de dueños de playas de estacionamiento, existen dos botones con el mismo nombre de “Reservas” | 1 | Usability: Consistencia y estándares |
+| 7 | En la sección de inicio de la vista de dueños de playas de estacionamiento, el primer botón de Reserva no permite interactuar con los datos que se presentan | 2 | Information Architecture: Is it usable? |
+
+**DESCRIPCIÓN DE PROBLEMAS:**
+
+PROBLEMA \#1: En la página de inicio de sesión, al seleccionar los botones de “Google” y “Facebook” la aplicación no permite iniciar sesión por esos medios
+
+Severidad: 2
+
+Heurística violada: Information Architecture: Is it usable?
+
+Problema:
+
+Al ingresar a la página de inicio de sesión, cuando se selecciona el botón de iniciar sesión con Google o Facebook, estos no brindan un menú para rellenar los datos de nuestra cuenta de respectivamente.
+
+![][image28]
+
+Recomendación:
+
+Permitir al usuario iniciar sesión con los servicios disponibles que se indican.
+
+PROBLEMA \#2: En la página de inicio de sesión, al presionar el botón de “Iniciar sesión”, no se dirige a una página en concreto
+
+Severidad: 4
+
+Heurística violada: Information Architecture: Is it usable?
+
+Problema:
+
+Al ingresar a la página de inicio de sesión, cuando se presiona el botón “Iniciar sesión” nos dirige hacia la página “Page Not Found”, evitando el inicio de sesión correcto.
+
+![][image29]
+
+Recomendación:
+
+Permitir al usuario iniciar sesión al presionar el botón correspondiente.
+
+PROBLEMA \#3: En la sección de registro de usuario, los campos para rellenar no verifican que los datos presenten el formato dado
+
+Severidad: 1
+
+Heurística violada: Information Architecture: Is it usable?
+
+Problema:
+
+Al rellenar los datos de registro de cuenta, la aplicación web requiere de que ciertos campos cumplan con los requisitos necesarios para verificar el uso correcto de datos ingresados, sin embargo, solo la sección de correo emplea esta verificación. 
+
+![][image30]
+
+Recomendación:
+
+No permitir al usuario ingresar con datos incorrectos.
+
+PROBLEMA \#4: La sección de “Seguimiento y alarmas” en la vista de conductores frecuentes presenta un botón con texto que no está completo
+
+Severidad: 1
+
+Heurística violada: Information Architecture: Is it usable?
+
+Problema:
+
+Al ingresar a la sección de “Seguimiento y alarmas” en la vista de conductores frecuentes, existen ciertos botones que, debido al tamaño de la fuente utilizada, no se logra visualizar de manera correcta el contenido del botón.
+
+![][image31]
+
+Recomendación:
+
+Reducir el tamaño de la fuente utilizada para el texto de los botones, reducir el tamaño de los mismos botones o mostrar los datos requeridos en forma de un solo cuadro de texto.
+
+PROBLEMA \#5: La sección de “Configuración” presenta varias formas para cambiar el idioma
+
+Severidad: 1
+
+Heurística violada: Usability: Consistencia y estándares
+
+Problema:
+
+Al ingresar a la sección de “Configuración” en ambas vistas, existen varias maneras de cambiar el idioma correspondiente, primero la barra superior que se encuentra en todas las otras secciones de la página web y la segunda encontrada en forma de cuadro a la derecha en la sección de “Idioma”
+
+![][image32]
+
+Recomendación:
+
+Uniformizar la manera de cambiar el idioma de la página para evitar redundancias.
+
+PROBLEMA \#6: En la sección de inicio de la vista de dueños de playas de estacionamiento, existen dos botones con el mismo nombre de “Reservas”
+
+Severidad: 1
+
+Heurística violada: Usability: Consistencia y estándares
+
+Problema:
+
+Dentro de la sección Inicio de la página web en la vista de dueños de playas de estacionamiento existen dos botones que presentan el nombre de “Reservas”, sin embargo, cada uno presenta información distinta.
+
+![][image33]
+
+Recomendación:
+
+Realizar el cambio de nombre a uno de los botones o juntar la información que se tiene en ambas secciones.
+
+PROBLEMA \#7: En la sección de inicio de la vista de dueños de playas de estacionamiento, el primer botón de Reserva no permite interactuar con los datos que se presentan
+
+Severidad: 2
+
+Heurística violada: Information Architecture: Is it usable?
+
+Problema:
+
+Dentro de la primera sección “Reserva” en el inicio de la página web en la vista de dueños de playas de estacionamiento al presionar los botones ninguno realiza alguna acción. 
+
+![][image34]
+
+Recomendación:
+
+Brindar algún cambio de página o interfaz al presionar los botones dentro de esta sección o indicar la información de cada uno en un solo bloque de texto.
+
+
 ### Conclusiones y recomendaciones
 
 El proyecto PARKINGNOW ha alcanzado avances significativos en la creación de una solución tecnológica integral para resolver los problemas de estacionamiento en las ciudades. Al combinar sensores infrarrojos de detección en tiempo real con una plataforma intuitiva para los usuarios, PARKINGNOW no solo optimiza la ocupación de los espacios de estacionamiento, sino que también facilita el día a día de los conductores urbanos. Esta solución ha demostrado ser eficaz tanto en la reducción de tiempos de búsqueda como en la mejora de la rentabilidad para los dueños de playas de estacionamiento, mostrando un balance ideal entre tecnología y experiencia del usuario.
