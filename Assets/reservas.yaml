@@ -1,0 +1,32 @@
+get:
+  summary: Obtener todas las reservas
+  responses:
+    '200':
+      description: Lista de reservas
+      content:
+        application/json:
+          schema:
+            type: array
+            items:
+              $ref: '#/components/schemas/Reserva'
+post:
+  summary: Crear una nueva reserva
+  requestBody:
+    required: true
+    content:
+      application/json:
+        schema:
+          $ref: '#/components/schemas/Reserva'
+          example:
+            reservas_id: 1
+            fecha: "2024-01-01"
+            hora_inicio: "08:00:00"
+            hora_final: "10:00:00"
+            local_x_espacio_Espacio_Espacios_id: 2
+  responses:
+    '201':
+      description: Reserva creada
+      content:
+        application/json:
+          schema:
+            $ref: '#/components/schemas/Reserva'

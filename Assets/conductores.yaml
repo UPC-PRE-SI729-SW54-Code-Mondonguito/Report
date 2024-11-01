@@ -1,0 +1,34 @@
+get:
+  summary: Obtener todos los conductores
+  responses:
+    '200':
+      description: Lista de conductores
+      content:
+        application/json:
+          schema:
+            type: array
+            items:
+              $ref: '#/components/schemas/Conductor'
+post:
+  summary: Crear un nuevo conductor
+  requestBody:
+    required: true
+    content:
+      application/json:
+        schema:
+          $ref: '#/components/schemas/Conductor'
+          example:
+            conductores_id: 1
+            nombre: "Juan"
+            apellido: "Perez"
+            correo: "juan.perez@example.com"
+            contrasena: "password123"
+            placa_de_vehic: "ABC1234"
+            DNI: "12345678"
+  responses:
+    '201':
+      description: Conductor creado
+      content:
+        application/json:
+          schema:
+            $ref: '#/components/schemas/Conductor'

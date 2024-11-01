@@ -473,18 +473,26 @@ En esta sección se especifican los detalles del Sprint Planning Meeting, que es
 ##### 5.2.3.5. Execution Evidence for Sprint Review. 
 ##### 5.2.3.6. Services Documentation Evidence for Sprint Review. 
 
-En el tercer sprint se logró avanzar con el 50% del desarrollo del BackEnd; sin embargo, aún no se ha implementado, aunque sí se ha conseguido desplegarlo.
+En esta sección se incluye la relación de Endpoints documentados con OpenAPI, relacionados con el alcance del Sprint. A continuación, se presenta una breve introducción sobre los logros alcanzados en relación con la documentación de Web Services para este Sprint.
+
+Durante este Sprint, se logró completar la documentación de los principales Endpoints que permiten la interacción con nuestra API. Se establecieron claras especificaciones para cada uno, facilitando su uso y entendimiento para los desarrolladores que integren con nuestros servicios.
+| Endpoint                     | Acción Implementada       | Verbo HTTP | Sintaxis de Llamada                 | URL EndPoint   | URL JSON     |
+|------------------------------|---------------------------|------------|--------------------------------------|---------------------|-----|
+| `/api/v1/conductores`        | Obtener todos los conductores | GET        | `GET /api/v1/conductores`         | [EndPoint](/Assets/conductores.yaml)  | https://raw.githubusercontent.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Backend/main/src/public/conductores.json  
+| `/api/v1/conductores`        | Crear un nuevo conductor   | POST       | `POST /api/v1/conductores`        | [EndPoint](/Assets/conductores.yaml)  | https://raw.githubusercontent.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Backend/main/src/public/conductores.json |
+| `/api/v1/reservas`           | Obtener todas las reservas  | GET        | `GET /api/v1/reservas`            | [EndPoint](/Assets/reservas.yaml)  |https://raw.githubusercontent.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Backend/main/src/public/reservas.json  |
+| `/api/v1/reservas`           | Crear una nueva reserva     | POST       | `POST /api/v1/reservas`           | [EndPoint](/Assets/reservas.yaml)  |https://raw.githubusercontent.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Backend/main/src/public/reservas.json  | 
+| `/api/v1/espacios`           | Obtener todos los espacios   | GET        | `GET /api/v1/espacios`            | [EndPoint](/Assets/espacios.yaml)  | https://raw.githubusercontent.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Backend/main/src/public/espacios.json |
+| `/api/v1/locales`            | Obtener todos los locales    | GET        | `GET /api/v1/locales`             | [EndPoint](/Assets/locales.yaml)  | https://raw.githubusercontent.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Backend/main/src/public/locales.json |
+
+
 
 ![alt text](Assets/Database2.png)
-| **EndPoint**                                                                                                                    | **HttpVerb**               | **Action**                                                                                                                                                     |
-|-------------------------------------------------------------------------------------------------------------------------------|----------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| https://raw.githubusercontent.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Backend/main/src/public/conductores.json               | GET, POST                  | - Obtener todos los conductores.<br>- Crear un nuevo conductor.                                                                                             |
-| https://raw.githubusercontent.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Backend/main/src/public/reservas.json                 | GET, POST                  | - Obtener todas las reservas.<br>- Crear una nueva reserva.                                                                                                |
-| https://raw.githubusercontent.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Backend/main/src/public/espacios.json                 | GET                        | - Obtener todos los espacios.                                                                                                                                 |
-| https://raw.githubusercontent.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Backend/main/src/public/locales.json                  | GET                        | - Obtener todos los locales.                                                                                                                                 |
-| https://raw.githubusercontent.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Backend/main/src/public/dueniosDePlaya.json           | GET, POST                  | - Obtener todos los dueños de playa.<br>- Crear un nuevo dueño de playa.                                                                                   |
+
 
 ##### 5.2.3.7. Software Deployment Evidence for Sprint Review.
+
+
 
 ##### 5.2.3.8. Team Collaboration Insights during Sprint.  
 **Backend**

@@ -1,0 +1,18 @@
+openapi: 3.0.0
+info:
+  title: API de PARKINGNOW
+  version: 1.0.0
+  description: API para la gestión de reservas, espacios, conductores y dueños de estacionamientos.
+
+paths:
+  /api/v1/conductores:
+    $ref: './conductores.yaml'
+  /api/v1/reservas:
+    $ref: './reservas.yaml'
+  /api/v1/espacios:
+    $ref: './espacios.yaml'
+  /api/v1/locales:
+    $ref: './locales.yaml'
+
+components:
+  $ref: './components.yaml'

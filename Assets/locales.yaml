@@ -1,0 +1,11 @@
+get:
+  summary: Obtener todos los locales
+  responses:
+    '200':
+      description: Lista de locales
+      content:
+        application/json:
+          schema:
+            type: array
+            items:
+              $ref: '#/components/schemas/Local'

@@ -1,0 +1,11 @@
+get:
+  summary: Obtener todos los espacios
+  responses:
+    '200':
+      description: Lista de espacios
+      content:
+        application/json:
+          schema:
+            type: array
+            items:
+              $ref: '#/components/schemas/Espacio'
