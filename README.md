@@ -2236,6 +2236,11 @@ En esta sección se muestran las tareas realizadas en el presente sprint. A cont
 
 ### 5.2.3.4. Testing Suite Evidence for Sprint Review
 
+| Repository           | Branch               | Commit  | Message                 | Date       |
+|----------------------|----------------------|---------|-------------|-------------------------|
+| https://github.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Report?tab=readme-ov-file#development-evidence-for-sprint-review   | feature/aceptance_test | a406aa8ec1445333bca8ea4b352209bdc79dc67e | Add response to Competitive Analysis Landscape question in Markdown format | 03/12/2024 |
+
+
 ### 5.2.3.5. Execution Evidence for Sprint Review
 
 Para esta entrega, para la ejecucion de la aplicacion web se adiciono nuevas caracteristicas.
