@@ -2249,7 +2249,24 @@ Para esta entrega, para la ejecucion de la aplicacion web se adiciono nuevas car
 
 ![feature1](Assets/5_2_3_5_E.jpg)
 
-### 5.2.3.6. Services Documentation Evidence for Sprint Review
+##### 5.2.3.6. Services Documentation Evidence for Sprint Review. 
+
+En esta sección se incluye la relación de Endpoints documentados con OpenAPI, relacionados con el alcance del Sprint. A continuación, se presenta una breve introducción sobre los logros alcanzados en relación con la documentación de Web Services para este Sprint.
+
+Durante este Sprint, se logró completar la documentación de los principales Endpoints que permiten la interacción con nuestra API. Se establecieron claras especificaciones para cada uno, facilitando su uso y entendimiento para los desarrolladores que integren con nuestros servicios.
+| Endpoint                     | Acción Implementada       | Verbo HTTP | Sintaxis de Llamada                 | URL EndPoint   | URL JSON     |
+|------------------------------|---------------------------|------------|--------------------------------------|---------------------|-----|
+| `/api/v1/conductores`        | Obtener todos los conductores | GET        | `GET /api/v1/conductores`         | [EndPoint](/Assets/conductores.yaml)  | https://raw.githubusercontent.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Backend/main/src/public/conductores.json  
+| `/api/v1/conductores`        | Crear un nuevo conductor   | POST       | `POST /api/v1/conductores`        | [EndPoint](/Assets/conductores.yaml)  | https://raw.githubusercontent.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Backend/main/src/public/conductores.json |
+| `/api/v1/reservas`           | Obtener todas las reservas  | GET        | `GET /api/v1/reservas`            | [EndPoint](/Assets/reservas.yaml)  |https://raw.githubusercontent.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Backend/main/src/public/reservas.json  |
+| `/api/v1/reservas`           | Crear una nueva reserva     | POST       | `POST /api/v1/reservas`           | [EndPoint](/Assets/reservas.yaml)  |https://raw.githubusercontent.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Backend/main/src/public/reservas.json  | 
+| `/api/v1/espacios`           | Obtener todos los espacios   | GET        | `GET /api/v1/espacios`            | [EndPoint](/Assets/espacios.yaml)  | https://raw.githubusercontent.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Backend/main/src/public/espacios.json |
+| `/api/v1/locales`            | Obtener todos los locales    | GET        | `GET /api/v1/locales`             | [EndPoint](/Assets/locales.yaml)  | https://raw.githubusercontent.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Backend/main/src/public/locales.json |
+
+
+![alt text](Assets/API.jpeg)
+
+![alt text](Assets/Database2.png)
 
 ### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
@@ -2268,7 +2285,45 @@ Para el presente sprint, se ha desarrollado el backend de la aplicación web "Pa
 - **Firebase**: Plataforma de desarrollo de aplicaciones móviles y web creada por Google. Ofrece una amplia gama de servicios y herramientas para ayudar a los desarrolladores a construir y mejorar sus aplicaciones de manera rápida y eficiente. En "ParkingNow", Firebase se utiliza para la autenticación de usuarios y el almacenamiento de datos, mejorando así la entrega de contenido y la calidad del servicio.
 
 
-### 5.2.3.8. Team Collaboration Insights during Sprint
+
+##### 5.2.3.8. Team Collaboration Insights during Sprint.  
+**Backend**
+En esta entrega, nuestro objetivo principal fue avanzar en la implementación parcial del backend. Para lograr esta meta, empleamos varias herramientas, incluyendo GitHub, IntelliJ y Java. A continuación, presentamos los diagramas de flujo que muestran los commits realizados por cada integrante del equipo CodeMondonguito.
+
+![alt text](/Assets/Backend3.png)
+La imagen muestra un gráfico de barras que representa la cantidad de commits realizados por cada miembro del equipo.
+![alt text](/Assets/Backend2.png)
+
+Esta imagen proporciona una representación visual de las fechas en las que se efectuaron cambios en el repositorio de nuestra Landing Page, junto con el número de modificaciones realizadas en cada commit. Este gráfico es una herramienta útil para entender la evolución del proyecto a lo largo del tiempo y la intensidad del desarrollo en diferentes periodos.
+
+![alt text](/Assets/Backend1.png)
+En esta imagen se muestra las ramas realizadas para el desarrollo del backend de nuestra app web. Siendo una muestra del desarrollo de esta.
+
+**Frontend**
+
+En esta entrega, nuestra segunda meta fue la implementación total del fontend. Para llevar a cabo este objetivo, hicimos uso de diversas herramientas como GitHub y Webstrom. A continuación, vamos a presentar los diagramas de flujo que representan los commits realizados por cada miembro del equipo CodeMondonguito:
+![alt text](Assets/Front3.png)
+
+En la imagen se evidencia el gráfico de barras de la cantidad de commits realizadas por cada uno de los integrantes del equipo.
+![alt text](Assets/Front2.png)
+
+Esta imagen presenta una visualización de las fechas en las que se realizaron cambios en el repositorio de nuestra Landing Page, así como el número de modificaciones efectuadas en cada commit. Esta representación gráfica es útil para entender la evolución del proyecto a lo largo del tiempo y la intensidad del desarrollo.
+![alt text](Assets/Front.png)
+
+
+**Landing Page**
+
+Finalmente, en esta sección nos enfocamos en el desarrollo de nuestra Landing Page. Utilizando herramientas como GitHub, Webstorm y Figma, creamos una interfaz atractiva y funcional que sirve como la primera impresión para los usuarios. A continuación, se presentan los diagramas de flujo que detallan los commits realizados en este aspecto del proyecto:
+
+![alt text](Assets/.png)
+
+Esta imagen muestra un gráfico que ilustra el progreso en los commits relacionados con la Landing Page, destacando la colaboración de cada miembro del equipo en esta fase.
+
+![alt text](Assets/.png)
+
+Además, esta imagen proporciona un análisis temporal de las modificaciones efectuadas en la Landing Page, permitiendo observar cómo ha evolucionado su diseño y funcionalidad a lo largo del desarrollo. Esta información es esencial para evaluar el rendimiento del equipo y la efectividad de las estrategias implementadas en el diseño de la interfaz.
+![alt text](Assets/.png)
+
 
 ### 5.3 Validation Interviews
 
