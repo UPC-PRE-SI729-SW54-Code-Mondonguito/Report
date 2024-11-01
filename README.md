@@ -2124,6 +2124,51 @@ Estos gráficos muestran de manera visual las clonaciones realizadas en nuestro 
 ![alt text](Assets/Net2.png)
 
 
+### 5.2.3 Sprint 3
+
+En esta sección se detallan los aspectos clave de la planificación y ejecución del Sprint 3. Este sprint se centrará en fortalecer el backend de **ParkingNow**, abordando las funcionalidades necesarias para ofrecer una experiencia de usuario fluida y confiable en la plataforma.
+
+## 5.2.3.1. Sprint Planning 3
+
+En esta sección se especifican los detalles de la reunión de planificación de Sprint, realizada para definir las tareas que se ejecutarán durante el período acordado.
+
+| **Sprint #**                      | Sprint 3                                                                                                             |
+|-----------------------------------|----------------------------------------------------------------------------------------------------------------------|
+| **Sprint Planning Background**     |                                                                                                                      |
+| **Date**                          | 29/10/24                                                                                                             |
+| **Time**                          | 3:00 pm                                                                                                              |
+| **Location**                      | Modalidad virtual y coordinación a través de WhatsApp                                                                |
+| **Prepared By**                   | ParkingNow                                                                                                           |
+| **Attendees (to planning meeting)** | Todos los integrantes del equipo de ParkingNow                                                                      |
+| **Sprint 3 - 0 Review Summary**   | Durante este sprint se completaron las funcionalidades clave del backend de ParkingNow, enfocadas en la administración de reservas, notificaciones, asesoría, transacciones y usuarios. Se logró cumplir con el despliegue en el tiempo planificado, enriqueciendo la documentación y ampliando la visión del producto mediante la incorporación de elementos esenciales.<br><br>En general, se ha mantenido una buena organización y comunicación dentro del equipo, facilitada por el uso de plataformas como Google Meet. No obstante, se identifica la oportunidad de mejorar aún más la coordinación y el trabajo colaborativo para alcanzar estándares de calidad más altos. |
+| **Sprint 3 - 1 Retrospective Summary** | Para seguir avanzando en nuestros objetivos de manera fluida, es crucial optimizar la estimación del desarrollo y la integración del backend con la base de datos. Esto permitirá evitar desajustes en el cronograma y asegurar un flujo de trabajo estable.<br><br>Además, se recomienda hacer un uso más constante y sistemático del formato Markdown en la documentación y las comunicaciones internas, facilitando así la comprensión de la información por parte de todos los miembros del equipo. |
+| **Sprint Goal & User Stories**    |                                                                                                                      |
+| **Sprint 3 Velocity**             | 20                                                                                                                    |
+| **Sum of Story Points**           | 32                                                                                                                   |
+
+
+### 5.2.3.2. Sprint Backlog 3
+
+En esta sección se muestran las tareas realizadas en el presente sprint. A continuación se adjunta una captura de pantalla del tablero de tareas en la plataforma Trello, así como el enlace al tablero.
+
+![alt text](<Assets/Trello 3 .png>)
+
+**Link del Trello:** https://trello.com/invite/b/6724d8fb0429d3b504591841/ATTIa159b1edae603492dcfd8a0b4b6e79fa96226B0D/sprint-backlog-3
+
+| Sprint # | Sprint 2 |   |   |   |   |   |   |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| User Story |   | Work-Item / Task |   |   |   |   |   |
+| ID | Title | ID | Title | Description | Estimation (Hours) | Assigned To | Status |
+| US34 | Gestión de Clientes en Servicio al Cliente | WT01 | Implementación de Gestión de Clientes | Crear endpoint para gestionar consultas y solicitudes de servicio al cliente. | 4 | Omar Harold | In-Process |
+| US35 | Notificación de Cambios en la Disponibilidad de Espacios | WT02 | Implementación de Notificaciones de Espacios | Desarrollar notificaciones automáticas para cambios en la disponibilidad de espacios. | 5 | Samuel Elias | Done |
+| US36 | Historial de Transacciones para Usuarios | WT03 | Implementación de Historial de Transacciones | Crear endpoint para consultar el historial de transacciones de cada usuario. | 3 | Rodrigo Liberato | Done |
+| US37 | Gestión de Ocupación de Espacios en Tiempo Real | WT04 | Implementación de Ocupación de Espacios | Desarrollar funcionalidad para actualizar automáticamente la disponibilidad de espacios en tiempo real. | 5 | Diego Alonso | Done |
+| US38 | Configuración de Alertas de Seguridad | WT05 | Implementación de Configuración de Alertas | Implementar un endpoint para que los administradores configuren alertas de seguridad. | 4 | Diego Ulises | To-do |
+| US40 | Registro de Alertas de Seguridad | WT06 | Implementación de Registro de Alertas | Crear un sistema para registrar todas las alertas de seguridad en el sistema. | 3 | Omar Harold | To-do |
+| US41 | Gestión de Datos de Vehículos | WT07 | Implementación de Gestión de Vehículos | Crear un endpoint para almacenar y gestionar información de vehículos registrados. | 3 | Samuel Elias | To-do |
+| US45 | Integración con el Sistema de Pago | WT08 | Implementación de Sistema de Pago | Desarrollar un endpoint para procesar pagos y verificar transacciones. | 5 | Rodrigo Liberato | To-do |
+
+
 
 ### Conclusiones y recomendaciones
 
