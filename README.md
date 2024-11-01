@@ -472,6 +472,10 @@ En esta sección se especifican los detalles del Sprint Planning Meeting, que es
 ##### 5.2.3.4. Testing Suite Evidence for Sprint Review
 ##### 5.2.3.5. Execution Evidence for Sprint Review. 
 ##### 5.2.3.6. Services Documentation Evidence for Sprint Review. 
+
+En el tercer sprint se logró avanzar con el 50% del desarrollo del BackEnd; sin embargo, aún no se ha implementado, aunque sí se ha conseguido desplegarlo.
+
+![alt text](Assets/Database2.png)
 | **EndPoint**                                                                                                                    | **HttpVerb**               | **Action**                                                                                                                                                     |
 |-------------------------------------------------------------------------------------------------------------------------------|----------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | https://raw.githubusercontent.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Backend/main/src/public/conductores.json               | GET, POST                  | - Obtener todos los conductores.<br>- Crear un nuevo conductor.                                                                                             |
