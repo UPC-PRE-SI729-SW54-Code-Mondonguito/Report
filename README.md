@@ -486,6 +486,33 @@ En el tercer sprint se logró avanzar con el 50% del desarrollo del BackEnd; sin
 
 ##### 5.2.3.7. Software Deployment Evidence for Sprint Review. 
 ##### 5.2.3.8. Team Collaboration Insights during Sprint.  
+En esta entrega, nuestro objetivo principal fue avanzar en la implementación parcial del backend. Para lograr esta meta, empleamos varias herramientas, incluyendo GitHub, IntelliJ y Java. A continuación, presentamos los diagramas de flujo que muestran los commits realizados por cada integrante del equipo CodeMondonguito.
+
+![alt text](Assets/.png)
+La imagen muestra un gráfico de barras que representa la cantidad de commits realizados por cada miembro del equipo.
+![alt text](Assets/.png)
+
+Esta imagen proporciona una representación visual de las fechas en las que se efectuaron cambios en el repositorio de nuestra Landing Page, junto con el número de modificaciones realizadas en cada commit. Este gráfico es una herramienta útil para entender la evolución del proyecto a lo largo del tiempo y la intensidad del desarrollo en diferentes periodos.
+
+![alt text](Assets/.png)
+En esta imagen se muestra las ramas realizadas para el desarrollo del backend de nuestra app web. Siendo una muestra del desarrollo de esta.
+
+![alt text](Assets/.png)
+En esta imagen se muestra las ramas realizadas para el desarrollo del frontend de nuestra app web.Siendo una muestra del desarrollo de esta.
+
+
+
+
+**Frontend**
+
+En esta entrega, nuestra segunda meta fue la implementación total del fontend. Para llevar a cabo este objetivo, hicimos uso de diversas herramientas como GitHub y Webstrom. A continuación, vamos a presentar los diagramas de flujo que representan los commits realizados por cada miembro del equipo CodeMondonguito:
+![alt text](Assets/.png)
+
+En la imagen se evidencia el gráfico de barras de la cantidad de commits realizadas por cada uno de los integrantes del equipo.
+![alt text](Assets/.png)
+
+Esta imagen presenta una visualización de las fechas en las que se realizaron cambios en el repositorio de nuestra Landing Page, así como el número de modificaciones efectuadas en cada commit. Esta representación gráfica es útil para entender la evolución del proyecto a lo largo del tiempo y la intensidad del desarrollo.
+
 
 ### 5.3 Validation Interviews
 
