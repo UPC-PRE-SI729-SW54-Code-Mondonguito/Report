@@ -2238,6 +2238,17 @@ En esta sección se muestran las tareas realizadas en el presente sprint. A cont
 
 ### 5.2.3.5. Execution Evidence for Sprint Review
 
+Para esta entrega, para la ejecucion de la aplicacion web se adiciono nuevas caracteristicas.
+![feature1](Assets/5_2_3_5_A.jpg)
+
+![feature1](Assets/5_2_3_5_B.jpg)
+
+![feature1](Assets/5_2_3_5_C.jpg)
+
+![feature1](Assets/5_2_3_5_D.jpg)
+
+![feature1](Assets/5_2_3_5_E.jpg)
+
 ### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
 ### 5.2.3.7. Software Deployment Evidence for Sprint Review
