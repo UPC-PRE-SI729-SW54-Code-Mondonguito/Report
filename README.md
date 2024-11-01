@@ -669,7 +669,7 @@ Problema:
 
 Al ingresar a la página de inicio de sesión, cuando se selecciona el botón de iniciar sesión con Google o Facebook, estos no brindan un menú para rellenar los datos de nuestra cuenta de respectivamente.
 
-![][image28]
+![Problem1.png](Assets/Problem1.png)
 
 Recomendación:
 
@@ -685,7 +685,7 @@ Problema:
 
 Al ingresar a la página de inicio de sesión, cuando se presiona el botón “Iniciar sesión” nos dirige hacia la página “Page Not Found”, evitando el inicio de sesión correcto.
 
-![][image29]
+![Problem2.png](Assets/Problem2.png)
 
 Recomendación:
 
@@ -701,7 +701,7 @@ Problema:
 
 Al rellenar los datos de registro de cuenta, la aplicación web requiere de que ciertos campos cumplan con los requisitos necesarios para verificar el uso correcto de datos ingresados, sin embargo, solo la sección de correo emplea esta verificación. 
 
-![][image30]
+![Problem3.png](Assets/Problem3.png)
 
 Recomendación:
 
@@ -717,7 +717,7 @@ Problema:
 
 Al ingresar a la sección de “Seguimiento y alarmas” en la vista de conductores frecuentes, existen ciertos botones que, debido al tamaño de la fuente utilizada, no se logra visualizar de manera correcta el contenido del botón.
 
-![][image31]
+![Problem4.png](Assets/Problem4.png)
 
 Recomendación:
 
@@ -733,7 +733,7 @@ Problema:
 
 Al ingresar a la sección de “Configuración” en ambas vistas, existen varias maneras de cambiar el idioma correspondiente, primero la barra superior que se encuentra en todas las otras secciones de la página web y la segunda encontrada en forma de cuadro a la derecha en la sección de “Idioma”
 
-![][image32]
+![Problem5.png](Assets/Problem5.png)
 
 Recomendación:
 
@@ -749,7 +749,7 @@ Problema:
 
 Dentro de la sección Inicio de la página web en la vista de dueños de playas de estacionamiento existen dos botones que presentan el nombre de “Reservas”, sin embargo, cada uno presenta información distinta.
 
-![][image33]
+![Problem6.png](Assets/Problem6.png)
 
 Recomendación:
 
@@ -765,7 +765,7 @@ Problema:
 
 Dentro de la primera sección “Reserva” en el inicio de la página web en la vista de dueños de playas de estacionamiento al presionar los botones ninguno realiza alguna acción. 
 
-![][image34]
+![Problem7.png](Assets/Problem7.png)
 
 Recomendación:
 
