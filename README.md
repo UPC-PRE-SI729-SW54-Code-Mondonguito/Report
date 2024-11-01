@@ -486,6 +486,7 @@ Durante este Sprint, se logró completar la documentación de los principales En
 | `/api/v1/locales`            | Obtener todos los locales    | GET        | `GET /api/v1/locales`             | [EndPoint](/Assets/locales.yaml)  | https://raw.githubusercontent.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Backend/main/src/public/locales.json |
 
 
+![alt text](Assets/API.jpeg)
 
 ![alt text](Assets/Database2.png)
 
@@ -498,30 +499,25 @@ Durante este Sprint, se logró completar la documentación de los principales En
 **Backend**
 En esta entrega, nuestro objetivo principal fue avanzar en la implementación parcial del backend. Para lograr esta meta, empleamos varias herramientas, incluyendo GitHub, IntelliJ y Java. A continuación, presentamos los diagramas de flujo que muestran los commits realizados por cada integrante del equipo CodeMondonguito.
 
-![alt text](Assets/.png)
+![alt text](/Assets/Backend3.png)
 La imagen muestra un gráfico de barras que representa la cantidad de commits realizados por cada miembro del equipo.
-![alt text](Assets/.png)
+![alt text](/Assets/Backend2.png)
 
 Esta imagen proporciona una representación visual de las fechas en las que se efectuaron cambios en el repositorio de nuestra Landing Page, junto con el número de modificaciones realizadas en cada commit. Este gráfico es una herramienta útil para entender la evolución del proyecto a lo largo del tiempo y la intensidad del desarrollo en diferentes periodos.
 
-![alt text](Assets/.png)
+![alt text](/Assets/Backend1.png)
 En esta imagen se muestra las ramas realizadas para el desarrollo del backend de nuestra app web. Siendo una muestra del desarrollo de esta.
-
-![alt text](Assets/.png)
-En esta imagen se muestra las ramas realizadas para el desarrollo del frontend de nuestra app web.Siendo una muestra del desarrollo de esta.
-
-
-
 
 **Frontend**
 
 En esta entrega, nuestra segunda meta fue la implementación total del fontend. Para llevar a cabo este objetivo, hicimos uso de diversas herramientas como GitHub y Webstrom. A continuación, vamos a presentar los diagramas de flujo que representan los commits realizados por cada miembro del equipo CodeMondonguito:
-![alt text](Assets/.png)
+![alt text](Assets/Front3.png)
 
 En la imagen se evidencia el gráfico de barras de la cantidad de commits realizadas por cada uno de los integrantes del equipo.
-![alt text](Assets/.png)
+![alt text](Assets/Front2.png)
 
 Esta imagen presenta una visualización de las fechas en las que se realizaron cambios en el repositorio de nuestra Landing Page, así como el número de modificaciones efectuadas en cada commit. Esta representación gráfica es útil para entender la evolución del proyecto a lo largo del tiempo y la intensidad del desarrollo.
+![alt text](Assets/Front.png)
 
 
 **Landing Page**
