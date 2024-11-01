@@ -532,7 +532,7 @@ Para Bárbara, el desarrollo de la página web la deja bastante satisfecha, cons
 
 Captura de pantalla:
 
-![][image26]
+![VI-Seg1-Interview1.png](Assets/VI-Seg1-Interview1.png)
 
 Entrevistado N°2:
 
@@ -575,26 +575,7 @@ Captura de Pantalla:
 
 **Segmento objetivo \#2: Dueños de playas de estacionamientos**
 
-Entrevistado N°1:
-
-* Sexo:  
-* Edad:  
-* Ubicación en la que vive:
-
-Acerca de la entrevista:
-
-* Link:  
-* Instante en el que inicia:  
-* Duración:
-
-Resumen:
-
-Para……….
-
-Captura de Pantalla:  
-\*captura\*
-
-Entrevistado N°2: Johan Bottger Salazar
+Entrevistado N°1: Johan Bottger Salazar
 
 * Sexo: Masculino  
 * Edad: 21  
@@ -612,7 +593,26 @@ Para Johan, la vista de dueños de playas de estacionamiento es perfecta, cumple
 
 Captura de pantalla:
 
-![][image27]
+![VI-Seg2-Interview1.png](Assets/VI-Seg2-Interview1.png)
+
+Entrevistado N°2:
+
+* Sexo:  
+* Edad:  
+* Ubicación en la que vive:
+
+Acerca de la entrevista:
+
+* Link:  
+* Instante en el que inicia:  
+* Duración:
+
+Resumen:
+
+Para……….
+
+Captura de Pantalla:  
+\*captura\*
 
 #### 5.3.3 Evaluaciones según heurísticas
 
