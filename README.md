@@ -470,6 +470,18 @@ En esta sección se especifican los detalles del Sprint Planning Meeting, que es
 ##### 5.2.3.3. Development Evidence for Sprint Review
 
 ##### 5.2.3.4. Testing Suite Evidence for Sprint Review
+##### 5.2.3.5. Execution Evidence for Sprint Review. 
+##### 5.2.3.6. Services Documentation Evidence for Sprint Review. 
+| **EndPoint**                                                                                                                    | **HttpVerb**               | **Action**                                                                                                                                                     |
+|-------------------------------------------------------------------------------------------------------------------------------|----------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| https://raw.githubusercontent.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Backend/main/src/public/conductores.json               | GET, POST                  | - Obtener todos los conductores.<br>- Crear un nuevo conductor.                                                                                             |
+| https://raw.githubusercontent.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Backend/main/src/public/reservas.json                 | GET, POST                  | - Obtener todas las reservas.<br>- Crear una nueva reserva.                                                                                                |
+| https://raw.githubusercontent.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Backend/main/src/public/espacios.json                 | GET                        | - Obtener todos los espacios.                                                                                                                                 |
+| https://raw.githubusercontent.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Backend/main/src/public/locales.json                  | GET                        | - Obtener todos los locales.                                                                                                                                 |
+| https://raw.githubusercontent.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Backend/main/src/public/dueniosDePlaya.json           | GET, POST                  | - Obtener todos los dueños de playa.<br>- Crear un nuevo dueño de playa.                                                                                   |
+
+##### 5.2.3.7. Software Deployment Evidence for Sprint Review. 
+##### 5.2.3.8. Team Collaboration Insights during Sprint.  
 
 ### 5.3 Validation Interviews
 
