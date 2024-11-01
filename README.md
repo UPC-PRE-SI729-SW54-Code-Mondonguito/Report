@@ -484,8 +484,10 @@ En el tercer sprint se logró avanzar con el 50% del desarrollo del BackEnd; sin
 | https://raw.githubusercontent.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Backend/main/src/public/locales.json                  | GET                        | - Obtener todos los locales.                                                                                                                                 |
 | https://raw.githubusercontent.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Backend/main/src/public/dueniosDePlaya.json           | GET, POST                  | - Obtener todos los dueños de playa.<br>- Crear un nuevo dueño de playa.                                                                                   |
 
-##### 5.2.3.7. Software Deployment Evidence for Sprint Review. 
+##### 5.2.3.7. Software Deployment Evidence for Sprint Review.
+
 ##### 5.2.3.8. Team Collaboration Insights during Sprint.  
+**Backend**
 En esta entrega, nuestro objetivo principal fue avanzar en la implementación parcial del backend. Para lograr esta meta, empleamos varias herramientas, incluyendo GitHub, IntelliJ y Java. A continuación, presentamos los diagramas de flujo que muestran los commits realizados por cada integrante del equipo CodeMondonguito.
 
 ![alt text](Assets/.png)
@@ -512,6 +514,21 @@ En la imagen se evidencia el gráfico de barras de la cantidad de commits realiz
 ![alt text](Assets/.png)
 
 Esta imagen presenta una visualización de las fechas en las que se realizaron cambios en el repositorio de nuestra Landing Page, así como el número de modificaciones efectuadas en cada commit. Esta representación gráfica es útil para entender la evolución del proyecto a lo largo del tiempo y la intensidad del desarrollo.
+
+
+**Landing Page**
+
+Finalmente, en esta sección nos enfocamos en el desarrollo de nuestra Landing Page. Utilizando herramientas como GitHub, Webstorm y Figma, creamos una interfaz atractiva y funcional que sirve como la primera impresión para los usuarios. A continuación, se presentan los diagramas de flujo que detallan los commits realizados en este aspecto del proyecto:
+
+![alt text](Assets/.png)
+
+Esta imagen muestra un gráfico que ilustra el progreso en los commits relacionados con la Landing Page, destacando la colaboración de cada miembro del equipo en esta fase.
+
+![alt text](Assets/.png)
+
+Además, esta imagen proporciona un análisis temporal de las modificaciones efectuadas en la Landing Page, permitiendo observar cómo ha evolucionado su diseño y funcionalidad a lo largo del desarrollo. Esta información es esencial para evaluar el rendimiento del equipo y la efectividad de las estrategias implementadas en el diseño de la interfaz.
+![alt text](Assets/.png)
+
 
 
 ### 5.3 Validation Interviews
