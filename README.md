@@ -2285,6 +2285,8 @@ En esta sección se muestran las tareas realizadas en el presente sprint. A cont
 
 #### 5.3.2 Registro de entrevistas
 
+Video completo con las entrevistas: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202223990\_upc\_edu\_pe/EfjRSSnP\_I5FrbnX8Dq-sBoB9624xt6RBWFzM1nnJaKLpw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D\&e=Nbqn06](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202223990_upc_edu_pe/EfjRSSnP_I5FrbnX8Dq-sBoB9624xt6RBWFzM1nnJaKLpw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=Nbqn06)
+
 **Segmento objetivo \#1: Conductores Urbanos Frecuentes**
 
 Entrevistado N°1: Bárbara Eliana Seminario León
@@ -2326,6 +2328,26 @@ Para Mario el diseño de la página web le permite realizar las reservas sin nin
 Captura de Pantalla:
 
 ![VI-Seg1-Interview2.png](Assets/VI-Seg1-Interview2.png)
+
+Entrevistado N°3: Jean Pierre Arroyo
+
+* Sexo: Masculino  
+* Edad: 20  
+* Ubicación en la que vive: Surco
+
+Acerca de la entrevista:
+
+* Link: [https://youtu.be/qRb5G90uOpk](https://youtu.be/qRb5G90uOpk)   
+* Instante en el que inicia: 6:40  
+* Duración: 8:53
+
+Resumen:
+
+Para Jean, la navegación por la página web fue bastante intuitiva y piensa que el diseño funciona correctamente. Considera que los colores usados para la página son atractivos, sin embargo, indica que también son un poco oscuros para su gusto. Le gustaría ver una funcionalidad que le permitiera verificar cuales son los estacionamientos más baratos.
+
+Captura de Pantalla:
+
+![VI-Seg1-Interview3.png](Assets/VI-Seg1-Interview3.png)
 
 **Segmento objetivo \#2: Dueños de playas de estacionamientos**
 
