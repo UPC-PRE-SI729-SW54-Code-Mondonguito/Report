@@ -2263,6 +2263,9 @@ Durante este Sprint, se logró completar la documentación de los principales En
 | `/api/v1/espacios`           | Obtener todos los espacios   | GET        | `GET /api/v1/espacios`            | [EndPoint](/Assets/espacios.yaml)  | https://raw.githubusercontent.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Backend/main/src/public/espacios.json |
 | `/api/v1/locales`            | Obtener todos los locales    | GET        | `GET /api/v1/locales`             | [EndPoint](/Assets/locales.yaml)  | https://raw.githubusercontent.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Backend/main/src/public/locales.json |
 
+Repositories: https://github.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Backend
+
+Commit of the Endpoints: https://github.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Backend/commit/8628f88a27f4fb174d0f0324bc203ec626042858#diff-419a5abf7d67d4e33f9283dd53a2b0c11fe82343af786f670c99676128c6cf09
 
 ![alt text](Assets/API.jpeg)
 
