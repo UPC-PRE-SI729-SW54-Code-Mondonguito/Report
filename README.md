@@ -39,7 +39,7 @@ Ciclo: 5to <br>
 | TB1     | 07/09/2024  | Diego Alonso Cacho Seminario<br><br>Rodrigo Liberato Saldaña<br><br>Samuel Elias Molina Asencios<br><br>Omar Harold Rivera Ticllacuri<br><br>Diego Ulises Soto Quispe | Se agregó el contenido del capítulo 1 (apartados 1.1, 1.2 y 1.3); el contenido del capítulo 2 (apartados 2.1, 2.2, 2.3, 2.4); el contenido del capítulo 3 (apartados 3.1, 3.2, 3.3 y 3.4); el contenido del capítulo 4 (apartados 4.1, 4.2, 4.3, 4.4, 4.5, 4.6, 4.7 y 4.8); y el contenido del capítulo 5 (apartados 5.1 y 5.2). |
 | TP1     |  25/09/2024          | Diego Alonso Cacho Seminario<br><br>Rodrigo Liberato Saldaña<br><br>Samuel Elias Molina Asencios<br><br>Omar Harold Rivera Ticllacuri<br><br>Diego Ulises Soto Quispe |    Se agregó el contenido del capítulo 5, apartados 5.2.2, 5.2.2.1, 5.2.2.2, 5.2.2.3, 5.2.2.4, 5.2.2.5, 5.2.2.6, 5.2.2.7, 5.2.2.8|                                                                                                                                                                                    |
 | TB2     |   01/11/2024          | Diego Alonso Cacho Seminario<br><br>Rodrigo Liberato Saldaña<br><br>Samuel Elias Molina Asencios<br><br>Omar Harold Rivera Ticllacuri<br><br>Diego Ulises Soto Quispe |               Se agregó el contenido del capítulo 5, apartados 5.2.3, 5.2.3.1, 5.2.3.2, 5.2.3.3, 5.2.3.4, 5.2.3.5, 5.2.3.6, 5.2.3.7, 5.2.3.8, 5.3, 5.3.1, 5.3.2, 5.3.3, 5.4 y las conclusiones.                                                                                                                                                                        |
-| TF1     |             | Diego Alonso Cacho Seminario<br><br>Rodrigo Liberato Saldaña<br><br>Samuel Elias Molina Asencios<br><br>Omar Harold Rivera Ticllacuri<br><br>Diego Ulises Soto Quispe |                                                                                                                                                                                       |
+| TF1     |             | Diego Alonso Cacho Seminario<br><br>Rodrigo Liberato Saldaña<br><br>Samuel Elias Molina Asencios<br><br>Omar Harold Rivera Ticllacuri<br><br>Diego Ulises Soto Quispe |       Se agregó el contenido del capítulo 5, apartados 5.2.4, 5.2.4.1, 5.2.4.2, 5.2.4.3, 5.2.4.4, 5.2.4.5, 5.2.4.6, 5.2.4.7, 5.2.4.8 y al capítulo de Conclusiones.                                                                                                                                                                                |
 
 
 # Project Report Collaboration Insights
@@ -78,6 +78,19 @@ Durante la preparación del informe, se llevaron a cabo las siguientes actividad
 
 ![alt text](Assets/tb1.png)
 
+TF: Tareas y Actividades Realizadas para la Entrega TF
+
+Las actividades asignadas para la entrega TF han sido completadas exitosamente y están registradas en el repositorio oficial de GitHub asociado al equipo: https://github.com/UPC-PRE-SI729-SW54-Code-Mondonguito
+
+### Actividades Realizadas
+
+- Cada integrante del equipo fue responsable de implementar los endpoints correspondientes a los módulos establecidos en el backlog del sprint 4. Asimismo, se añadieron endpoints adicionales necesarios para alinear las funcionalidades con las necesidades de la web application.
+
+- Se generaron y documentaron los artefactos requeridos utilizando las herramientas recomendadas. Estos artefactos, incluyendo diagramas y recursos visuales, fueron organizados y almacenados en la carpeta `assets` de la rama `develop` del repositorio.
+
+- Se llevaron a cabo reuniones periódicas para coordinar los avances del proyecto, revisar los elementos del informe y comunicar el progreso alcanzado durante el sprint 4, enfocado en el desarrollo del backend de la aplicación web.
+
+
 # ABET – EAC - Student Outcome 3
 
 Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias. En el 
@@ -86,11 +99,14 @@ por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET
 EAC - Student Outcome 3.
 
 ### ABET – EAC - Resultado del Estudiante 3
-
 | Criterio específico | Acciones realizadas | Conclusiones |
-|--------------------|---------------------|--------------|
-| **Comunica oralmente con efectividad a diferentes rangos de audiencia** | **Diego Alonso Cacho Seminario - TB1:** Participé en las secciones del capítulo 2 relacionadas con el diseño, grabación y análisis de entrevistas, además de las encuestas realizadas a nuestros segmentos objetivo. Colaboré en el primer Sprint para esta entrega. **Diego Alonso Cacho Seminario - TP:** Participé en las secciones del capítulo 4 y 5 relacionadas con las correcciones de la entrega anterior, además colaboré en el segundo Sprint para esta entrega. **Diego Alonso Cacho Seminario - TB2:** Realicé las secciones del capítulo 5 relacionadas a las entrevistas, además verifiqué las evaluaciones según heurísticas para garantizar un desarrollo correcto de nuestros servicios web. **TB1: Diego Ulises Soto Quispe:** Durante las reuniones del proyecto, participé activamente explicando la introducción del proyecto y la problemática de la startup, utilizando un lenguaje claro para asegurar que todos los miembros del equipo comprendieran las metas y objetivos. **TP1: Diego Ulises Soto Quispe:** Explicó la introducción y problemática del proyecto en reuniones, asegurando que todos comprendieran los objetivos. Coordinó avances durante el segundo Sprint. **Rodrigo Liberato Saldaña - TB1:** Para este entregable, comuniqué a mis compañeros todos mis avances y cambios que aporté. Apoyé a quienes lo necesitaban, y mis aportes significativos fueron en el Capítulo 2 (análisis de los competidores), Capítulo 4 (Wireframe y Mockup design) y el diseño de la base de datos. También diseñé el PPT para la presentación. **Rodrigo Liberato Saldaña - TP:** Para este entregable me comuniqué con mis compañeros acerca de mis avances en el trabajo, para mantener un orden concreto y no hubieran inconvenientes al avanzar como grupo. Realicé algunas de las mejoras en los diagramas de flujo, aporté en el frontend y en la documentación de servicios del segundo sprint. **TB2 Rodrigo Liberato:** Para este entregable realize mis aportens en el backend, utilizando las practicas de Clean Architecture y siquiendo buenas practicas. Considero que logramos un buen trabajo para este entregable  **TB1: Omar Harold Rivera Ticllacuri:** Durante el desarrollo del proyecto, participé activamente contribuyendo con el Capítulo 2, el desarrollo de los segmentos de user persona, la Landing Page, y partes del Capítulo 5. **TP: Omar Harold Rivera Ticllacuri:** Participé en las secciones del capítulo 4 y ayudé a realizar las correcciones que se nos mencionó para arreglarlo comunicando a mis compañeros las correcciones que debimos seguir. Por otro lado, ayudé en el despliegue del Landing Page y correcciones dentro del código del Landing-Page. **TB2: Omar Harold Rivera Ticllacuri:** Durante esta entrega, participé de forma activa en diversas reuniones del equipo, contribuyendo al seguimiento del proyecto. Manteniendo una comunicación clara y organizada, apoyé en la explicación de las prioridades del sprint y colaboré en resolver inconvenientes en el desarrollo del proceso. Asimismo, participé en la presentación de los avances en el backend durante la revisión del Sprint, asistiendo en las demostraciones de funcionalidades para el equipo. **Samuel Elias Molina Asencios:** Durante el desarrollo del proyecto, participé revisando la rúbrica y desarrollé los escenarios As-is para ambos segmentos, además de agregar el lenguaje ubicuo que se usará en nuestro sistema. También desarrollé el diagrama de componentes para nuestro aplicativo móvil. **Samuel Elias Molina Asencios - TP:** EN este hito, participé en el despligue de nuestro proyecto tambien en la consolidacion de nuestro reporte También desarrollé el diagrama de componentes para nuestro aplicativo móvil.  **Samuel Elias Molina Asencios - TB2:** En este entregable me encargue de generar el proyecto principal del backend la configuracion de las apis de usuario y la configuracion para conectarse a la base de datos de mysql tambien aporte en el desarrollo de las pruebas unitarias con el uso de jasmine y karma, finalmente documente nuestro codigo tanto backend como frontend **TB2: Diego Ulises Soto Quispe:** En esta entrega, lideré varias reuniones del equipo donde comuniqué el progreso del proyecto, asegurando que cada miembro entendiera los objetivos y su rol específico en la entrega. Usé un lenguaje claro y estructurado para explicar las prioridades del sprint, además de facilitar la resolución de dudas sobre los requerimientos de los stakeholders. Colaboré en la presentación de los avances en el backend durante la reunión de revisión del Sprint, dirigiendo las demostraciones de funcionalidad ante el equipo y otros interesados. | **TB1:** La participación activa de los miembros del equipo en la comunicación oral con diferentes rangos de audiencia permitió un alineamiento efectivo en las metas del proyecto, asegurando que tanto el equipo técnico como los stakeholders estuvieran en la misma página. Esta comunicación fue crucial para el avance eficiente de los entregables. **TP:** Durante el desarrollo del segundo Sprint, la comunicación entre los miembros del equipo se mantuvo efectiva, permitiendo un enfoque más ágil para resolver problemas y clarificar los avances, lo que contribuyó al éxito de la entrega final. **TB2:** La claridad y estructura en la comunicación oral dentro del equipo fueron fundamentales para organizar el trabajo del Sprint 3, especialmente en el desarrollo del backend. Las reuniones dirigidas por cada integrante facilitaron el entendimiento de roles y tareas, logrando un avance sostenido en las metas del sprint y una colaboración fluida entre los participantes. |
-| **Comunica por escrito con efectividad a diferentes rangos de audiencia** | **Diego Alonso Cacho Seminario - TB1:** Realicé las correcciones necesarias dadas por mis compañeros respecto a los puntos con los que aporté para la TB1, además de subir correctamente mis aportes al repositorio en línea, respetando el formato requerido. **Diego Alonso Cacho Seminario - TP:** Para esta entrega, corregí las secciones necesarias y además aporté por medio de commits en Git. **Diego Alonso Cacho Seminario - TB2:** Para la entrega TB2, realicé las correcciones de las secciones anteriormente realizadas, además aporté por medio de commits en Git. **TB1: Diego Ulises Soto Quispe:** En el Capítulo 1, fui el responsable de documentar el perfil de la startup y el marco teórico del proyecto. En el Capítulo 3, redacté los requerimientos específicos del sistema y las historias de usuario. También colaboré en los Capítulos 4 y 5 documentando el diseño del sistema y las configuraciones de implementación. **TP1: Diego Ulises Soto Quispe:** Para el trabajo se estructuraron las ideas principales de cada parte. Posteriormente, se realizó una investigación adicional para asegurar la coherencia de los datos y ajustando la redacción de manera clara. **Rodrigo Liberato Saldaña - TB1:** Para este entregable, los aportes que realicé por escrito fueron los commits por Git y los análisis de los competidores. **Rodrigo Liberato Saldaña - TP:** Para este entregable, considero que se logró la comunicación con el equipo, logrando avanzar todos por igual y realizar un trabajo en equipo eficiente. Mis aportes fueron las correcciones en los puntos necesarios y en la documentación de servicios. **TB2 Rodrigo Liberato:** Para este entregable mi aporte se centro en el backend y en el reporte, gracias a la comunicacion constante logramos acabar el trabajo en el tiempo requerido **TB1: Omar Harold Rivera Ticllacuri:** En el Capítulo 2, contribuí desarrollando los user personas, la matriz de tareas de usuario y el user journey mapping. En el Capítulo 4, desarrollé las Style Guidelines y el Landing Page UI Design. **TP: Omar Harold Rivera Ticllacuri:** En este entregable, se estableció una comunicación efectiva con el equipo, lo que facilitó un avance equitativo y la realización de un trabajo colaborativo eficiente. Mis aportes incluyeron ajustes en los aspectos necesarios y la documentación de servicios, lo que permitió identificar áreas que necesitaban información adicional o aclaraciones. **TB2: Omar Harold Rivera Ticllacuri:**  Colaboré en la elaboración de una documentación esencial que detalla los endpoints y sus parámetros, con el propósito de facilitar la comprensión y continuidad del trabajo para otros desarrolladores. También brindé apoyo en la organización y carga de estos documentos en el repositorio, asegurándome de emplear un lenguaje técnico claro y una estructura bien definida. **Samuel Elias Molina Asencios - TP:** EN este hito, participé en el despligue de nuestro proyecto tambien en la consolidacion de nuestro reporte También desarrollé el diagrama de componentes para nuestro aplicativo móvil.  **Samuel Elias Molina Asencios - TB2:** En este entregable me encargue de generar el proyecto principal del backend la configuracion de las apis de usuario y la configuracion para conectarse a la base de datos de mysql tambien aporte en el desarrollo de las pruebas unitarias con el uso de jasmine y karma, finalmente documente nuestro codigo tanto backend como frontend **TB2: Diego Ulises Soto Quispe:** Realicé la documentación detallada de los endpoints implementados en el backend, asegurando que cada endpoint tuviera una descripción clara de su funcionalidad y parámetros. Redacté un informe con las funcionalidades del backend y coordiné la carga de los documentos al repositorio. Utilicé un lenguaje técnico adecuado y una estructura organizada para que otros desarrolladores pudieran entender y continuar el trabajo. | **TB1:** La documentación escrita y precisa realizada por los miembros del equipo permitió un seguimiento detallado de los avances del proyecto y aseguró que todos los involucrados tuvieran una referencia sólida para cada fase del desarrollo. **TP:** En el segundo Sprint, la claridad y coherencia en la documentación escrita mejoraron, facilitando una mejor comprensión entre los miembros del equipo y agilizando el desarrollo, lo que resultó en una entrega más estructurada y organizada. **TB2:** La documentación técnica precisa y organizada permitió que los desarrolladores se alinearan en el desarrollo de los endpoints del backend, facilitando la colaboración y la continuidad del trabajo. La estructura utilizada en los informes fue clave para que el equipo técnico comprendiera las funcionalidades implementadas, asegurando un avance fluido y sin contratiempos en el Sprint 3. |
+|---------------------|---------------------|--------------|
+| **Comunica oralmente con efectividad a diferentes rangos de audiencia** | **Diego Alonso Cacho Seminario - TB1:** Realicé las correcciones necesarias dadas por mis compañeros respecto a los puntos con los que aporté para la TB1, además de subir correctamente mis aportes al repositorio en línea, respetando el formato requerido. **Diego Alonso Cacho Seminario - TP:** Para esta entrega, corregí las secciones necesarias y además aporté por medio de commits en Git. **Diego Alonso Cacho Seminario - TB2:** Para la entrega TB2, realicé las correcciones de las secciones anteriormente realizadas, además aporté por medio de commits en Git. **TB1: Diego Ulises Soto Quispe:** En el Capítulo 1, fui el responsable de documentar el perfil de la startup y el marco teórico del proyecto. En el Capítulo 3, redacté los requerimientos específicos del sistema y las historias de usuario. También colaboré en los Capítulos 4 y 5 documentando el diseño del sistema y las configuraciones de implementación. **TP1: Diego Ulises Soto Quispe:** Para el trabajo se estructuraron las ideas principales de cada parte. Posteriormente, se realizó una investigación adicional para asegurar la coherencia de los datos y ajustando la redacción de manera clara. **Rodrigo Liberato Saldaña - TB1:** Para este entregable, los aportes que realicé por escrito fueron los commits por Git y los análisis de los competidores. **Rodrigo Liberato Saldaña - TP:** Para este entregable, considero que se logró la comunicación con el equipo, logrando avanzar todos por igual y realizar un trabajo en equipo eficiente. Mis aportes fueron las correcciones en los puntos necesarios y en la documentación de servicios. **TB2 Rodrigo Liberato:** Para este entregable mi aporte se centró en el backend y en el reporte, gracias a la comunicación constante logramos acabar el trabajo en el tiempo requerido **TB1: Omar Harold Rivera Ticllacuri:** En el Capítulo 2, contribuí desarrollando los user personas, la matriz de tareas de usuario y el user journey mapping. En el Capítulo 4, desarrollé las Style Guidelines y el Landing Page UI Design. **TP:** En este entregable, se estableció una comunicación efectiva con el equipo, lo que facilitó un avance equitativo y la realización de un trabajo colaborativo eficiente. Mis aportes incluyeron ajustes en los aspectos necesarios y la documentación de servicios, lo que permitió identificar áreas que necesitaban información adicional o aclaraciones. **TB2: Omar Harold Rivera Ticllacuri:** Colaboré en la elaboración de una documentación esencial que detalla los endpoints y sus parámetros, con el propósito de facilitar la comprensión y continuidad del trabajo para otros desarrolladores. También brindé apoyo en la organización y carga de estos documentos en el repositorio, asegurándome de emplear un lenguaje técnico claro y una estructura bien definida. **Samuel Elias Molina Asencios - TP:** En este hito, participé en el despliegue de nuestro proyecto también en la consolidación de nuestro reporte. También desarrollé el diagrama de componentes para nuestro aplicativo móvil. **Samuel Elias Molina Asencios - TB2:** En este entregable me encargué de generar el proyecto principal del backend, la configuración de las APIs de usuario y la configuración para conectarse a la base de datos de MySQL. También aporté en el desarrollo de las pruebas unitarias con el uso de Jasmine y Karma, finalmente documenté nuestro código tanto backend como frontend. **TB2: Diego Ulises Soto Quispe:** Realicé la documentación detallada de los endpoints implementados en el backend, asegurando que cada endpoint tuviera una descripción clara de su funcionalidad y parámetros. Redacté un informe con las funcionalidades del backend y coordiné la carga de los documentos al repositorio. Utilicé un lenguaje técnico adecuado y una estructura organizada para que otros desarrolladores pudieran entender y continuar el trabajo. **TF: Diego Ulises Soto Quispe:** La documentación técnica precisa y detallada realizada para los endpoints del backend permitió un avance fluido y eficiente del proyecto. Los documentos fueron organizados de manera que facilitaran la comprensión y la continuidad del trabajo. | **TB1:** La documentación escrita y precisa realizada por los miembros del equipo permitió un seguimiento detallado de los avances del proyecto y aseguró que todos los involucrados tuvieran una referencia sólida para cada fase del desarrollo. **TP:** En el segundo Sprint, la claridad y coherencia en la documentación escrita mejoraron, facilitando una mejor comprensión entre los miembros del equipo y agilizando el desarrollo, lo que resultó en una entrega más estructurada y organizada. **TB2:** La documentación técnica precisa y organizada permitió que los desarrolladores se alinearan en el desarrollo de los endpoints del backend, facilitando la colaboración y la continuidad del trabajo. La estructura utilizada en los informes fue clave para que el equipo técnico comprendiera las funcionalidades implementadas, asegurando un avance fluido y sin contratiempos en el Sprint 3. **TF:** La documentación técnica precisa y detallada realizada por los miembros del equipo permitió un avance fluido y eficiente del proyecto. La estructura utilizada en los informes facilitó la comprensión de las funcionalidades implementadas, asegurando un avance continuo sin contratiempos durante el Sprint 4. Además, la coordinación constante entre los miembros del equipo, y la claridad en las explicaciones, permitieron una implementación correcta de las funcionalidades del backend, lo que resultó en un desarrollo ágil y eficaz en el que los objetivos se alcanzaron con éxito. |
+| **Comunica por escrito con efectividad a diferentes rangos de audiencia** | **Diego Alonso Cacho Seminario - TB1:** Realicé las correcciones necesarias dadas por mis compañeros respecto a los puntos con los que aporté para la TB1, además de subir correctamente mis aportes al repositorio en línea, respetando el formato requerido. **Diego Alonso Cacho Seminario - TP:** Para esta entrega, corregí las secciones necesarias y además aporté por medio de commits en Git. **Diego Alonso Cacho Seminario - TB2:** Para la entrega TB2, realicé las correcciones de las secciones anteriormente realizadas, además aporté por medio de commits en Git. **TB1: Diego Ulises Soto Quispe:** En el Capítulo 1, fui el responsable de documentar el perfil de la startup y el marco teórico del proyecto. En el Capítulo 3, redacté los requerimientos específicos del sistema y las historias de usuario. También colaboré en los Capítulos 4 y 5 documentando el diseño del sistema y las configuraciones de implementación. **TP1: Diego Ulises Soto Quispe:** Para el trabajo se estructuraron las ideas principales de cada parte. Posteriormente, se realizó una investigación adicional para asegurar la coherencia de los datos y ajustando la redacción de manera clara. **Rodrigo Liberato Saldaña - TB1:** Para este entregable, los aportes que realicé por escrito fueron los commits por Git y los análisis de los competidores. **Rodrigo Liberato Saldaña - TP:** Para este entregable, considero que se logró la comunicación con el equipo, logrando avanzar todos por igual y realizar un trabajo en equipo eficiente. Mis aportes fueron las correcciones en los puntos necesarios y en la documentación de servicios. **TB2 Rodrigo Liberato:** Para este entregable mi aporte se centró en el backend y en el reporte, gracias a la comunicación constante logramos acabar el trabajo en el tiempo requerido **TB1: Omar Harold Rivera Ticllacuri:** En el Capítulo 2, contribuí desarrollando los user personas, la matriz de tareas de usuario y el user journey mapping. En el Capítulo 4, desarrollé las Style Guidelines y el Landing Page UI Design. **TP:** En este entregable, se estableció una comunicación efectiva con el equipo, lo que facilitó un avance equitativo y la realización de un trabajo colaborativo eficiente. Mis aportes incluyeron ajustes en los aspectos necesarios y la documentación de servicios, lo que permitió identificar áreas que necesitaban información adicional o aclaraciones. **TB2: Omar Harold Rivera Ticllacuri:** Colaboré en la elaboración de una documentación esencial que detalla los endpoints y sus parámetros, con el propósito de facilitar la comprensión y continuidad del trabajo para otros desarrolladores. También brindé apoyo en la organización y carga de estos documentos en el repositorio, asegurándome de emplear un lenguaje técnico claro y una estructura bien definida. **Samuel Elias Molina Asencios - TP:** En este hito, participé en el despliegue de nuestro proyecto también en la consolidación de nuestro reporte. También desarrollé el diagrama de componentes para nuestro aplicativo móvil. **Samuel Elias Molina Asencios - TB2:** En este entregable me encargué de generar el proyecto principal del backend, la configuración de las APIs de usuario y la configuración para conectarse a la base de datos de MySQL. También aporté en el desarrollo de las pruebas unitarias con el uso de Jasmine y Karma, finalmente documenté nuestro código tanto backend como frontend. **TB2: Diego Ulises Soto Quispe:** Realicé la documentación detallada de los endpoints implementados en el backend, asegurando que cada endpoint tuviera una descripción clara de su funcionalidad y parámetros. Redacté un informe con las funcionalidades del backend y coordiné la carga de los documentos al repositorio. Utilicé un lenguaje técnico adecuado y una estructura organizada para que otros desarrolladores pudieran entender y continuar el trabajo. **TF: Diego Ulises Soto Quispe:** La documentación técnica precisa y detallada realizada para los endpoints del backend permitió un avance fluido y eficiente del proyecto. Los documentos fueron organizados de manera que facilitaran la comprensión y la continuidad del trabajo. | **TB1:** La documentación escrita y precisa realizada por los miembros del equipo permitió un seguimiento detallado de los avances del proyecto y aseguró que todos los involucrados tuvieran una referencia sólida para cada fase del desarrollo. **TP:** En el segundo Sprint, la claridad y coherencia en la documentación escrita mejoraron, facilitando una mejor comprensión entre los miembros del equipo y agilizando el desarrollo, lo que resultó en una entrega más estructurada y organizada. **TB2:** La documentación técnica precisa y organizada permitió que los desarrolladores se alinearan en el desarrollo de los endpoints del backend, facilitando la colaboración y la continuidad del trabajo. La estructura utilizada en los informes fue clave para que el equipo técnico comprendiera las funcionalidades implementadas, asegurando un avance fluido y sin contratiempos en el Sprint 3. **TF:** La documentación técnica precisa y detallada realizada por los miembros del equipo permitió un avance fluido y eficiente del proyecto. La estructura utilizada en los informes facilitó la comprensión de las funcionalidades implementadas, asegurando un avance continuo sin contratiempos durante el Sprint4. Además, la coordinación constante entre los miembros del equipo, y la claridad en las explicaciones, permitieron una implementación correcta de las funcionalidades del backend, lo que resultó en un desarrollo ágil y eficaz en el que los objetivos se alcanzaron con éxito.
+
+
+
+
 
 
 # Contenido
@@ -163,52 +179,168 @@ EAC - Student Outcome 3.
   - [4.8.1. Database Diagram](#481-database-diagram)
 
 ## Capítulo V: Product Implementation, Validation & Deployment
-- [5.1. Software Configuration Management](#51-software-configuration-management)
-  - [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)
-  - [5.1.2. Source Code Management](#512-source-code-management)
-  - [5.1.3. Source Code Style Guide & Conventions](#513-source-code-style-guide--conventions)
-  - [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
-- [5.2. Landing Page, Services & Applications Implementation](#52-landing-page-services--applications-implementation)
-  - [5.2.1. Sprint 1](#521-sprint-1)
-    - [5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)
-    - [5.2.1.2. Sprint Backlog 1](#5212-sprint-backlog-1)
-    - [5.2.1.3. Development Evidence for Sprint Review](#5213-development-evidence-for-sprint-review)
-    - [5.2.1.4. Testing Suite Evidence for Sprint Review](#5214-testing-suite-evidence-for-sprint-review)
-    - [5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
-    - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
-    - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
-    - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
-
-- [5.2.2. Sprint 2](#522-sprint-2)
-    - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
-    - [5.2.2.2. Sprint Backlog 2](#5222-sprint-backlog-2)
-    - [5.2.2.3. Development Evidence for Sprint Review](#5223-development-evidence-for-sprint-review)
-    - [5.2.2.4. Testing Suite Evidence for Sprint Review](#5224-testing-suite-evidence-for-sprint-review)
-    - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
-    - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
-    - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
-    - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
-  
-- [5.2.3. Sprint 3](#sprint-3)
-  - [5.2.3.1. Sprint Planning 3](#sprint-planning-3)
-  - [5.2.3.2. Sprint Backlog 3](#sprint-backlog-3)
-  - [5.2.3.3. Development Evidence for Sprint Review](#development-evidence-for-sprint-review)
-  - [5.2.3.4. Testing Suite Evidence for Sprint Review](#testing-suite-evidence-for-sprint-review)
-  - [5.2.3.5. Execution Evidence for Sprint Review](#execution-evidence-for-sprint-review)
-  - [5.2.3.6. Services Documentation Evidence for Sprint Review](#services-documentation-evidence-for-sprint-review)
-  - [5.2.3.7. Software Deployment Evidence for Sprint Review](#software-deployment-evidence-for-sprint-review)
-  - [5.2.3.8. Team Collaboration Insights during Sprint](#team-collaboration-insights-during-sprint)
-
-- [5.3. Validation Interviews](#validation-interviews)
-  - [5.3.1. Diseño de Entrevistas](#diseño-de-entrevistas)
-  - [5.3.2. Registro de Entrevistas](#registro-de-entrevistas)
-  - [5.3.3. Evaluaciones según heurísticas](#evaluaciones-según-heurísticas)
-
-- [5.4. Video About-the-Product](#video-about-the-product)
-
-
-
-- [Avance de Conclusiones, Bibliografía y Anexos](#avance-de-conclusiones-bibliografía-y-anexos)
+- [**COURSE PROJECT**](#course-project)
+- [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
+- [Project Report Collaboration Insights](#project-report-collaboration-insights)
+    - [Actividades Realizadas](#actividades-realizadas)
+- [ABET – EAC - Student Outcome 3](#abet--eac---student-outcome-3)
+    - [ABET – EAC - Resultado del Estudiante 3](#abet--eac---resultado-del-estudiante-3)
+- [Contenido](#contenido)
+  - [Capítulo I: Introducción](#capítulo-i-introducción)
+  - [Capítulo II: Requirements Elicitation \& Analysis](#capítulo-ii-requirements-elicitation--analysis)
+  - [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)
+  - [Capítulo IV: Product Design](#capítulo-iv-product-design)
+  - [Capítulo V: Product Implementation, Validation \& Deployment](#capítulo-v-product-implementation-validation--deployment)
+  - [Capítulo I: Introducción](#capítulo-i-introducción-1)
+    - [1.1. StartUp Profile](#11-startup-profile)
+    - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
+      - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
+    - [1.2. Solution Profile](#12-solution-profile)
+    - [1.2.1. Antecedentes y problemática](#121-antecedentes-y-problemática)
+      - [What](#what)
+      - [When](#when)
+      - [Where](#where)
+      - [Who](#who)
+      - [Why](#why)
+      - [How](#how)
+      - [How much](#how-much)
+    - [1.2.2. Lean UX Process](#122-lean-ux-process)
+      - [1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)
+      - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)
+      - [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
+        - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
+    - [1.3. Segmentos objetivo](#13-segmentos-objetivo)
+  - [Capítulo II: Requirements Elicitation \& Analysis](#capítulo-ii-requirements-elicitation--analysis-1)
+    - [2.1. Competidores](#21-competidores)
+      - [2.1.1. Análisis competitivo](#211-análisis-competitivo)
+      - [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
+    - [2.2. Entrevistas](#22-entrevistas)
+      - [2.2.1. Diseño de entrevistas](#221-diseño-de-entrevistas)
+      - [2.2.2. Registro de entrevistas](#222-registro-de-entrevistas)
+      - [2.2.3. Análisis de entrevistas](#223-análisis-de-entrevistas)
+    - [2.3. Needfinding](#23-needfinding)
+    - [2.3.1. User Personas](#231-user-personas)
+          - [User Person para Conductores Urbanos](#user-person-para-conductores-urbanos)
+          - [User Person para Dueños de playa de estacionamientos](#user-person-para-dueños-de-playa-de-estacionamientos)
+  - [2.3.2. User Task Matrix](#232-user-task-matrix)
+    - [Indicadores de Importancia:](#indicadores-de-importancia)
+    - [Indicadores de Frecuencia:](#indicadores-de-frecuencia)
+      - [Conductores Urbanos:](#conductores-urbanos)
+      - [Dueños de playa de Estacionamientos:](#dueños-de-playa-de-estacionamientos)
+      - [Diferencias:](#diferencias)
+      - [2.3.3. User Journey Mapping](#233-user-journey-mapping)
+          - [User Journey Mapping para Conductores Urbanos](#user-journey-mapping-para-conductores-urbanos)
+          - [User Journey Mapping para Dueños de playa de Estacionamientos](#user-journey-mapping-para-dueños-de-playa-de-estacionamientos)
+      - [2.3.4. Empathy Mapping](#234-empathy-mapping)
+    - [Segmento objetivo: Conductores Urbanos Frecuentes](#segmento-objetivo-conductores-urbanos-frecuentes)
+    - [Segmento objetivo: Dueños de playas de estacionamientos](#segmento-objetivo-dueños-de-playas-de-estacionamientos)
+      - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
+    - [Segmento Conductores Urbanos Frecuentes](#segmento-conductores-urbanos-frecuentes)
+    - [Segmento Dueños de playas de estacionamientos](#segmento-dueños-de-playas-de-estacionamientos)
+    - [2.4. Ubiquitous Language](#24-ubiquitous-language)
+  - [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification-1)
+    - [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
+    - [3.2. User Stories](#32-user-stories)
+  - [EPICS](#epics)
+    - [User Stories](#user-stories)
+  - [3.3. Impact Mapping](#33-impact-mapping)
+    - [3.4. Product Backlog](#34-product-backlog)
+  - [Capítulo IV: Product Design](#capítulo-iv-product-design-1)
+    - [4.1. Style Guidelines](#41-style-guidelines)
+      - [4.1.1. General Style Guidelines](#411-general-style-guidelines)
+      - [4.1.2. Web Style Guidelines](#412-web-style-guidelines)
+    - [4.2. Information Architecture](#42-information-architecture)
+      - [4.2.1. Organization Systems](#421-organization-systems)
+      - [**Landing Page**](#landing-page)
+      - [**Aplicación Web**](#aplicación-web)
+      - [4.2.2. Labeling Systems](#422-labeling-systems)
+      - [**Etiquetas de Encabezados (Headings)**](#etiquetas-de-encabezados-headings)
+      - [**Etiquetas Textuales (Text Labels)**](#etiquetas-textuales-text-labels)
+      - [**Etiquetas Icónicas (Iconic Labels)**](#etiquetas-icónicas-iconic-labels)
+      - [4.2.3. SEO Tags and Meta Tags](#423-seo-tags-and-meta-tags)
+      - [4.2.4. Searching Systems](#424-searching-systems)
+      - [4.2.5. Navigation Systems](#425-navigation-systems)
+    - [4.3. Landing Page UI Design](#43-landing-page-ui-design)
+      - [4.3.1. Landing Page Wireframe](#431-landing-page-wireframe)
+      - [4.3.2. Landing Page Mock-up](#432-landing-page-mock-up)
+    - [4.4. Web Applications UX/UI Design](#44-web-applications-uxui-design)
+      - [4.4.1. Web Applications Wireframes](#441-web-applications-wireframes)
+      - [4.4.2. Web Applications Wireflow Diagrams](#442-web-applications-wireflow-diagrams)
+      - [4.4.3. Web Applications Mock-ups](#443-web-applications-mock-ups)
+      - [4.4.4. Web Applications User Flow Diagrams](#444-web-applications-user-flow-diagrams)
+    - [4.5. Web Applications Prototyping](#45-web-applications-prototyping)
+    - [4.6. Domain-Driven Software Architecture](#46-domain-driven-software-architecture)
+      - [4.6.1. Software Architecture Context Diagram](#461-software-architecture-context-diagram)
+      - [4.6.2. Software Architecture Container Diagrams](#462-software-architecture-container-diagrams)
+      - [4.6.3. Software Architecture Components Diagrams](#463-software-architecture-components-diagrams)
+    - [4.7. Software Object-Oriented Design](#47-software-object-oriented-design)
+      - [4.7.1. Class Diagrams](#471-class-diagrams)
+      - [4.7.2. Class Dictionary](#472-class-dictionary)
+    - [4.8. Database Design](#48-database-design)
+      - [4.8.1. Database Diagram](#481-database-diagram)
+  - [Capítulo V: Product Implementation, Validation \& Deployment](#capítulo-v-product-implementation-validation--deployment-1)
+    - [5.1. Software Configuration Management](#51-software-configuration-management)
+      - [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)
+      - [Product UX/UI Design](#product-uxui-design)
+      - [Software Development](#software-development)
+      - [Project Management and Collaboration](#project-management-and-collaboration)
+      - [Software Documentation](#software-documentation)
+      - [Software Testing](#software-testing)
+    - [5.1.2. Source Code Management](#512-source-code-management)
+    - [URL de los Repositorios:](#url-de-los-repositorios)
+    - [GitFlow](#gitflow)
+    - [Implementación de GitFlow](#implementación-de-gitflow)
+    - [Commits Convencionales](#commits-convencionales)
+    - [Ejemplos de commits:](#ejemplos-de-commits)
+      - [5.1.3. Source Code Style Guide \& Conventions](#513-source-code-style-guide--conventions)
+      - [Nomenclatura General](#nomenclatura-general)
+      - [Espacios y Sangría](#espacios-y-sangría)
+      - [Convenciones por Lenguaje](#convenciones-por-lenguaje)
+      - [Espaciado y Comillas](#espaciado-y-comillas)
+      - [Límite de Longitud de Línea](#límite-de-longitud-de-línea)
+      - [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
+    - [5.2. Landing Page, Services \& Applications Implementation](#52-landing-page-services--applications-implementation)
+      - [5.2.1. Sprint 1](#521-sprint-1)
+        - [5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)
+        - [5.2.1.2. Sprint Backlog 1](#5212-sprint-backlog-1)
+        - [5.2.1.3. Development Evidence for Sprint Review](#5213-development-evidence-for-sprint-review)
+        - [5.2.1.4. Testing Suite Evidence for Sprint Review](#5214-testing-suite-evidence-for-sprint-review)
+        - [5.2.1.5. Execution Evidence for Sprint Review.](#5215-execution-evidence-for-sprint-review)
+        - [5.2.1.6. Services Documentation Evidence for Sprint Review.](#5216-services-documentation-evidence-for-sprint-review)
+        - [5.2.1.7. Software Deployment Evidence for Sprint Review.](#5217-software-deployment-evidence-for-sprint-review)
+        - [5.2.1.8. Team Collaboration Insights during Sprint.](#5218-team-collaboration-insights-during-sprint)
+      - [5.2.1. Sprint 2](#521-sprint-2)
+        - [5.2.2.1.Sprint Planning 2](#5221sprint-planning-2)
+        - [5.2.2.2. Sprint Planning 2](#5222-sprint-planning-2)
+        - [Sprint Backlog 2](#sprint-backlog-2)
+        - [5.2.2.3. Development Evidence for Sprint Review](#5223-development-evidence-for-sprint-review)
+        - [5.2.2.4. Testing Suite Evidence for Sprint Review](#5224-testing-suite-evidence-for-sprint-review)
+        - [5.2.2.5.Execution Evidence for Sprint Review.](#5225execution-evidence-for-sprint-review)
+        - [5.2.2.6.Services Documentation Evidence for Sprint Review.](#5226services-documentation-evidence-for-sprint-review)
+        - [5.2.2.7.Software Deployment Evidence for Sprint Review.](#5227software-deployment-evidence-for-sprint-review)
+        - [5.2.2.8.Team Collaboration Insights during Sprint.](#5228team-collaboration-insights-during-sprint)
+    - [5.2.3 Sprint 3](#523-sprint-3)
+  - [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)
+    - [5.2.3.2. Sprint Backlog 3](#5232-sprint-backlog-3)
+    - [5.2.3.3. Development Evidence for Sprint Review](#5233-development-evidence-for-sprint-review)
+    - [5.2.3.4. Testing Suite Evidence for Sprint Review](#5234-testing-suite-evidence-for-sprint-review)
+      - [Testing Configuration](#testing-configuration)
+      - [Jasmine Configuration](#jasmine-configuration)
+      - [Karma Configuration](#karma-configuration)
+      - [Results after Testing](#results-after-testing)
+    - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
+        - [5.2.3.6. Services Documentation Evidence for Sprint Review.](#5236-services-documentation-evidence-for-sprint-review)
+    - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
+        - [5.2.3.8. Team Collaboration Insights during Sprint.](#5238-team-collaboration-insights-during-sprint)
+    - [5.3 Validation Interviews](#53-validation-interviews)
+      - [5.3.1 Diseño de entrevistas](#531-diseño-de-entrevistas)
+    - [Con el objetivo de obtener un mejor entendimiento de nuestros usuarios, realizamos una serie de entrevistas para verificar el rendimiento de nuestra página web.](#con-el-objetivo-de-obtener-un-mejor-entendimiento-de-nuestros-usuarios-realizamos-una-serie-de-entrevistas-para-verificar-el-rendimiento-de-nuestra-página-web)
+      - [5.3.2 Registro de entrevistas](#532-registro-de-entrevistas)
+      - [5.3.3 Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
+    - [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
+    - [Video About-the-Team](#video-about-the-team)
+- [Bibliografía](#bibliografía)
+  - [Anexos](#anexos)
 
 ## Capítulo I: Introducción
 
