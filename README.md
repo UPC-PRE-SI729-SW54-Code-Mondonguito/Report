@@ -39,7 +39,7 @@ Ciclo: 5to <br>
 | TB1     | 07/09/2024  | Diego Alonso Cacho Seminario<br><br>Rodrigo Liberato Saldaña<br><br>Samuel Elias Molina Asencios<br><br>Omar Harold Rivera Ticllacuri<br><br>Diego Ulises Soto Quispe | Se agregó el contenido del capítulo 1 (apartados 1.1, 1.2 y 1.3); el contenido del capítulo 2 (apartados 2.1, 2.2, 2.3, 2.4); el contenido del capítulo 3 (apartados 3.1, 3.2, 3.3 y 3.4); el contenido del capítulo 4 (apartados 4.1, 4.2, 4.3, 4.4, 4.5, 4.6, 4.7 y 4.8); y el contenido del capítulo 5 (apartados 5.1 y 5.2). |
 | TP1     |  25/09/2024          | Diego Alonso Cacho Seminario<br><br>Rodrigo Liberato Saldaña<br><br>Samuel Elias Molina Asencios<br><br>Omar Harold Rivera Ticllacuri<br><br>Diego Ulises Soto Quispe |    Se agregó el contenido del capítulo 5, apartados 5.2.2, 5.2.2.1, 5.2.2.2, 5.2.2.3, 5.2.2.4, 5.2.2.5, 5.2.2.6, 5.2.2.7, 5.2.2.8|                                                                                                                                                                                    |
 | TB2     |   01/11/2024          | Diego Alonso Cacho Seminario<br><br>Rodrigo Liberato Saldaña<br><br>Samuel Elias Molina Asencios<br><br>Omar Harold Rivera Ticllacuri<br><br>Diego Ulises Soto Quispe |               Se agregó el contenido del capítulo 5, apartados 5.2.3, 5.2.3.1, 5.2.3.2, 5.2.3.3, 5.2.3.4, 5.2.3.5, 5.2.3.6, 5.2.3.7, 5.2.3.8, 5.3, 5.3.1, 5.3.2, 5.3.3, 5.4 y las conclusiones.                                                                                                                                                                        |
-| TF1     |             | Diego Alonso Cacho Seminario<br><br>Rodrigo Liberato Saldaña<br><br>Samuel Elias Molina Asencios<br><br>Omar Harold Rivera Ticllacuri<br><br>Diego Ulises Soto Quispe |       Se agregó el contenido del capítulo 5, apartados 5.2.4, 5.2.4.1, 5.2.4.2, 5.2.4.3, 5.2.4.4, 5.2.4.5, 5.2.4.6, 5.2.4.7, 5.2.4.8 y al capítulo de Conclusiones.                                                                                                                                                                                |
+| TF1     |      18/11/2024       | Diego Alonso Cacho Seminario<br><br>Rodrigo Liberato Saldaña<br><br>Samuel Elias Molina Asencios<br><br>Omar Harold Rivera Ticllacuri<br><br>Diego Ulises Soto Quispe |       Se agregó el contenido del capítulo 5, apartados 5.2.4, 5.2.4.1, 5.2.4.2, 5.2.4.3, 5.2.4.4, 5.2.4.5, 5.2.4.6, 5.2.4.7, 5.2.4.8 y al capítulo de Conclusiones.                                                                                                                                                                                |
 
 
 # Project Report Collaboration Insights
@@ -103,12 +103,6 @@ EAC - Student Outcome 3.
 |---------------------|---------------------|--------------|
 | **Comunica oralmente con efectividad a diferentes rangos de audiencia** | **Diego Alonso Cacho Seminario - TB1:** Realicé las correcciones necesarias dadas por mis compañeros respecto a los puntos con los que aporté para la TB1, además de subir correctamente mis aportes al repositorio en línea, respetando el formato requerido. **Diego Alonso Cacho Seminario - TP:** Para esta entrega, corregí las secciones necesarias y además aporté por medio de commits en Git. **Diego Alonso Cacho Seminario - TB2:** Para la entrega TB2, realicé las correcciones de las secciones anteriormente realizadas, además aporté por medio de commits en Git. **Diego Alonso Cacho Seminario - TF:** Insertar Texto. **TB1: Diego Ulises Soto Quispe:** En el Capítulo 1, fui el responsable de documentar el perfil de la startup y el marco teórico del proyecto. En el Capítulo 3, redacté los requerimientos específicos del sistema y las historias de usuario. También colaboré en los Capítulos 4 y 5 documentando el diseño del sistema y las configuraciones de implementación. **TP1: Diego Ulises Soto Quispe:** Para el trabajo se estructuraron las ideas principales de cada parte. Posteriormente, se realizó una investigación adicional para asegurar la coherencia de los datos y ajustando la redacción de manera clara. **Rodrigo Liberato Saldaña - TB1:** Para este entregable, los aportes que realicé por escrito fueron los commits por Git y los análisis de los competidores. **Rodrigo Liberato Saldaña - TP:** Para este entregable, considero que se logró la comunicación con el equipo, logrando avanzar todos por igual y realizar un trabajo en equipo eficiente. Mis aportes fueron las correcciones en los puntos necesarios y en la documentación de servicios. **TB2 Rodrigo Liberato:** Para este entregable mi aporte se centró en el backend y en el reporte, gracias a la comunicación constante logramos acabar el trabajo en el tiempo requerido **TB1: Omar Harold Rivera Ticllacuri:** En el Capítulo 2, contribuí desarrollando los user personas, la matriz de tareas de usuario y el user journey mapping. En el Capítulo 4, desarrollé las Style Guidelines y el Landing Page UI Design. **TP:** En este entregable, se estableció una comunicación efectiva con el equipo, lo que facilitó un avance equitativo y la realización de un trabajo colaborativo eficiente. Mis aportes incluyeron ajustes en los aspectos necesarios y la documentación de servicios, lo que permitió identificar áreas que necesitaban información adicional o aclaraciones. **TB2: Omar Harold Rivera Ticllacuri:** Colaboré en la elaboración de una documentación esencial que detalla los endpoints y sus parámetros, con el propósito de facilitar la comprensión y continuidad del trabajo para otros desarrolladores. También brindé apoyo en la organización y carga de estos documentos en el repositorio, asegurándome de emplear un lenguaje técnico claro y una estructura bien definida. **Samuel Elias Molina Asencios - TP:** En este hito, participé en el despliegue de nuestro proyecto también en la consolidación de nuestro reporte. También desarrollé el diagrama de componentes para nuestro aplicativo móvil. **Samuel Elias Molina Asencios - TB2:** En este entregable me encargué de generar el proyecto principal del backend, la configuración de las APIs de usuario y la configuración para conectarse a la base de datos de MySQL. También aporté en el desarrollo de las pruebas unitarias con el uso de Jasmine y Karma, finalmente documenté nuestro código tanto backend como frontend. **TB2: Diego Ulises Soto Quispe:** Realicé la documentación detallada de los endpoints implementados en el backend, asegurando que cada endpoint tuviera una descripción clara de su funcionalidad y parámetros. Redacté un informe con las funcionalidades del backend y coordiné la carga de los documentos al repositorio. Utilicé un lenguaje técnico adecuado y una estructura organizada para que otros desarrolladores pudieran entender y continuar el trabajo. **TF: Diego Ulises Soto Quispe:** La documentación técnica precisa y detallada realizada para los endpoints del backend permitió un avance fluido y eficiente del proyecto. Los documentos fueron organizados de manera que facilitaran la comprensión y la continuidad del trabajo. | **TB1:** La documentación escrita y precisa realizada por los miembros del equipo permitió un seguimiento detallado de los avances del proyecto y aseguró que todos los involucrados tuvieran una referencia sólida para cada fase del desarrollo. **TP:** En el segundo Sprint, la claridad y coherencia en la documentación escrita mejoraron, facilitando una mejor comprensión entre los miembros del equipo y agilizando el desarrollo, lo que resultó en una entrega más estructurada y organizada. **TB2:** La documentación técnica precisa y organizada permitió que los desarrolladores se alinearan en el desarrollo de los endpoints del backend, facilitando la colaboración y la continuidad del trabajo. La estructura utilizada en los informes fue clave para que el equipo técnico comprendiera las funcionalidades implementadas, asegurando un avance fluido y sin contratiempos en el Sprint 3. **TF:** La documentación técnica precisa y detallada realizada por los miembros del equipo permitió un avance fluido y eficiente del proyecto. La estructura utilizada en los informes facilitó la comprensión de las funcionalidades implementadas, asegurando un avance continuo sin contratiempos durante el Sprint 4. Además, la coordinación constante entre los miembros del equipo, y la claridad en las explicaciones, permitieron una implementación correcta de las funcionalidades del backend, lo que resultó en un desarrollo ágil y eficaz en el que los objetivos se alcanzaron con éxito. |
 | **Comunica por escrito con efectividad a diferentes rangos de audiencia** | **Diego Alonso Cacho Seminario - TB1:** Realicé las correcciones necesarias dadas por mis compañeros respecto a los puntos con los que aporté para la TB1, además de subir correctamente mis aportes al repositorio en línea, respetando el formato requerido. **Diego Alonso Cacho Seminario - TP:** Para esta entrega, corregí las secciones necesarias y además aporté por medio de commits en Git. **Diego Alonso Cacho Seminario - TB2:** Para la entrega TB2, realicé las correcciones de las secciones anteriormente realizadas, además aporté por medio de commits en Git. **TB1: Diego Ulises Soto Quispe:** En el Capítulo 1, fui el responsable de documentar el perfil de la startup y el marco teórico del proyecto. En el Capítulo 3, redacté los requerimientos específicos del sistema y las historias de usuario. También colaboré en los Capítulos 4 y 5 documentando el diseño del sistema y las configuraciones de implementación. **TP1: Diego Ulises Soto Quispe:** Para el trabajo se estructuraron las ideas principales de cada parte. Posteriormente, se realizó una investigación adicional para asegurar la coherencia de los datos y ajustando la redacción de manera clara. **Rodrigo Liberato Saldaña - TB1:** Para este entregable, los aportes que realicé por escrito fueron los commits por Git y los análisis de los competidores. **Rodrigo Liberato Saldaña - TP:** Para este entregable, considero que se logró la comunicación con el equipo, logrando avanzar todos por igual y realizar un trabajo en equipo eficiente. Mis aportes fueron las correcciones en los puntos necesarios y en la documentación de servicios. **TB2 Rodrigo Liberato:** Para este entregable mi aporte se centró en el backend y en el reporte, gracias a la comunicación constante logramos acabar el trabajo en el tiempo requerido **TB1: Omar Harold Rivera Ticllacuri:** En el Capítulo 2, contribuí desarrollando los user personas, la matriz de tareas de usuario y el user journey mapping. En el Capítulo 4, desarrollé las Style Guidelines y el Landing Page UI Design. **TP:** En este entregable, se estableció una comunicación efectiva con el equipo, lo que facilitó un avance equitativo y la realización de un trabajo colaborativo eficiente. Mis aportes incluyeron ajustes en los aspectos necesarios y la documentación de servicios, lo que permitió identificar áreas que necesitaban información adicional o aclaraciones. **TB2: Omar Harold Rivera Ticllacuri:** Colaboré en la elaboración de una documentación esencial que detalla los endpoints y sus parámetros, con el propósito de facilitar la comprensión y continuidad del trabajo para otros desarrolladores. También brindé apoyo en la organización y carga de estos documentos en el repositorio, asegurándome de emplear un lenguaje técnico claro y una estructura bien definida. **Samuel Elias Molina Asencios - TP:** En este hito, participé en el despliegue de nuestro proyecto también en la consolidación de nuestro reporte. También desarrollé el diagrama de componentes para nuestro aplicativo móvil. **Samuel Elias Molina Asencios - TB2:** En este entregable me encargué de generar el proyecto principal del backend, la configuración de las APIs de usuario y la configuración para conectarse a la base de datos de MySQL. También aporté en el desarrollo de las pruebas unitarias con el uso de Jasmine y Karma, finalmente documenté nuestro código tanto backend como frontend. **TB2: Diego Ulises Soto Quispe:** Realicé la documentación detallada de los endpoints implementados en el backend, asegurando que cada endpoint tuviera una descripción clara de su funcionalidad y parámetros. Redacté un informe con las funcionalidades del backend y coordiné la carga de los documentos al repositorio. Utilicé un lenguaje técnico adecuado y una estructura organizada para que otros desarrolladores pudieran entender y continuar el trabajo. **TF: Diego Ulises Soto Quispe:** La documentación técnica precisa y detallada realizada para los endpoints del backend permitió un avance fluido y eficiente del proyecto. Los documentos fueron organizados de manera que facilitaran la comprensión y la continuidad del trabajo. | **TB1:** La documentación escrita y precisa realizada por los miembros del equipo permitió un seguimiento detallado de los avances del proyecto y aseguró que todos los involucrados tuvieran una referencia sólida para cada fase del desarrollo. **TP:** En el segundo Sprint, la claridad y coherencia en la documentación escrita mejoraron, facilitando una mejor comprensión entre los miembros del equipo y agilizando el desarrollo, lo que resultó en una entrega más estructurada y organizada. **TB2:** La documentación técnica precisa y organizada permitió que los desarrolladores se alinearan en el desarrollo de los endpoints del backend, facilitando la colaboración y la continuidad del trabajo. La estructura utilizada en los informes fue clave para que el equipo técnico comprendiera las funcionalidades implementadas, asegurando un avance fluido y sin contratiempos en el Sprint 3. **TF:** La documentación técnica precisa y detallada realizada por los miembros del equipo permitió un avance fluido y eficiente del proyecto. La estructura utilizada en los informes facilitó la comprensión de las funcionalidades implementadas, asegurando un avance continuo sin contratiempos durante el Sprint4. Además, la coordinación constante entre los miembros del equipo, y la claridad en las explicaciones, permitieron una implementación correcta de las funcionalidades del backend, lo que resultó en un desarrollo ágil y eficaz en el que los objetivos se alcanzaron con éxito.
-
-
-
-
-
-
 # Contenido
 - [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
 - [Project Report Collaboration Insights](#project-report-collaboration-insights)
@@ -165,8 +159,8 @@ EAC - Student Outcome 3.
 - [4.4. Web Applications UX/UI Design](#44-web-applications-uxui-design)
   - [4.4.1. Web Applications Wireframes](#441-web-applications-wireframes)
   - [4.4.2. Web Applications Wireflow Diagrams](#442-web-applications-wireflow-diagrams)
-  - [4.4.2. Web Applications Mock-ups](#442-web-applications-mock-ups)
-  - [4.4.3. Web Applications User Flow Diagrams](#443-web-applications-user-flow-diagrams)
+  - [4.4.3. Web Applications Mock-ups](#443-web-applications-mock-ups)
+  - [4.4.4. Web Applications User Flow Diagrams](#444-web-applications-user-flow-diagrams)
 - [4.5. Web Applications Prototyping](#45-web-applications-prototyping)
 - [4.6. Domain-Driven Software Architecture](#46-domain-driven-software-architecture)
   - [4.6.1. Software Architecture Context Diagram](#461-software-architecture-context-diagram)
@@ -177,8 +171,9 @@ EAC - Student Outcome 3.
   - [4.7.2. Class Dictionary](#472-class-dictionary)
 - [4.8. Database Design](#48-database-design)
   - [4.8.1. Database Diagram](#481-database-diagram)
-  - 
+
 ## Capítulo V: Product Implementation, Validation & Deployment
+
 - [5.1. Software Configuration Management](#51-software-configuration-management)
   - [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)
   - [5.1.2. Source Code Management](#512-source-code-management)
@@ -221,16 +216,19 @@ EAC - Student Outcome 3.
     - [5.2.4.6. Services Documentation Evidence for Sprint Review](#5246-services-documentation-evidence-for-sprint-review)
     - [5.2.4.7. Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)
     - [5.2.4.8. Team Collaboration Insights during Sprint](#5248-team-collaboration-insights-during-sprint)
+
 - [5.3. Validation Interviews](#53-validation-interviews)
   - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
   - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
   - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
 - [5.4. Video About-the-Product](#54-video-about-the-product)
 
-    - [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
-    - [Video About-the-Team](#video-about-the-team)
+- [Conclusiones](#conclusiones)
+  - [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
+  - [Video About-the-Team](#video-about-the-team)
+
 - [Bibliografía](#bibliografía)
-  - [Anexos](#anexos)
+- [Anexos](#anexos)
 
 ## Capítulo I: Introducción
 
@@ -1874,20 +1872,22 @@ En el **Sprint 1**, el equipo se enfocó en desarrollar las principales seccione
 
 ##### 5.2.1.1. Sprint Planning 1
 
-| Sprint \# | Sprint 1 |
+| Sprint # | Sprint 1 |
 | :---: | :---: |
 | **Sprint Planning Background** |  |
 | Date | 03/09/24 |
 | Time | 22:10 horas |
-| Location | Virtual meeting \- Zoom |
+| Location | Reunión virtual - Zoom |
 | Prepared By | Diego Ulises Soto Quispe |
-| Attendees | \- Diego Ulises Soto Quispe <br> \- Diego Alonso Cacho Seminario <br> \- Rodrigo Liberato Saldaña <br> \- Omar Harold Rivera Ticllacuri <br> \- Samuel Elias Molina Asencios |
+| Attendees | - Diego Ulises Soto Quispe <br> - Diego Alonso Cacho Seminario <br> - Rodrigo Liberato Saldaña <br> - Omar Harold Rivera Ticllacuri <br> - Samuel Elias Molina Asencios |
 | Sprint 1 Review Summary | La opinión del product owner y las partes interesadas con respecto al avance realizado sobre el desarrollo de la landing page de PARKINGNOW fue positiva, cumpliendo con los objetivos esperados. |
 | Sprint 1 Retrospective Summary | Se completó la implementación de la primera versión de la landing page, aunque se identificaron algunas deficiencias en cuanto al diseño visual y la usabilidad de la plataforma. Se mejorará en futuros sprints. |
 | **Sprint Goal & User Stories** |  |
-| Sprint 1 Goal | Desarrollar la Landing Page de PARKINGNOW. |
-| Sprint 1 Velocity | Velocidad de 30 \- Primer Sprint |
-| Sum of Story Points | Sprint 1 \- 45 Story Points |
+| Sprint 1 Goal | Nuestro enfoque está en **desarrollar la Landing Page de PARKINGNOW**, proporcionando a los nuevos usuarios una interfaz informativa y fácil de navegar para acceder a los servicios, beneficios y características de la empresa. <br> Creemos que esto **ofrece** a los usuarios una visión clara de los servicios de la empresa, creando una experiencia inicial positiva y estableciendo las bases para funcionalidades adicionales. <br> Esto se **confirmará** cuando la Landing Page esté completamente funcional con las características básicas como la navegación, la información de los servicios y la visión de la empresa, y los usuarios puedan interactuar con éxito con estos elementos. |
+| Sprint 1 Velocity | Velocidad de 30 - Primer Sprint |
+| Sum of Story Points | Sprint 1 - 45 Story Points |
+
+
 
 ##### 5.2.1.2. Sprint Backlog 1
 
@@ -1895,24 +1895,25 @@ En el **Sprint 1**, el equipo se enfocó en desarrollar las principales seccione
 
 Link del Trello: https://trello.com/invite/b/66e8592fa7463897e6009305/ATTI40cdd58c92843377c1bb36efe058ba4f83EFDA35/open-source-parkingnow
 
-| Sprint \# | Sprint 1 |   |   |   |   |   |   |
+| Sprint # | Sprint 1 |   |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | **User Story** |   | **Work-Item / Task** |   |   |   |   |   |
 | **ID** | **Title** | **ID** | **Title** | **Description** | **Estimation (Hours)** | **Assigned To** | **Status** |
-| **US01** | Navegación Intuitiva en la Landing Page | **WT01** | Implementación del header, estilos y barra de navegación | Realizar la barra de navegación utilizando JS/CSS | 3 | Diego Ulises | Done |
-| **US02** | Visualización de Ciudades con Servicio | **WT02** | Implementación de la sección de Ciudades | Realizar la sección que muestre las ciudades donde PARKINGNOW está disponible | 2 | Omar Harold | Done |
-| **US03** | Promociones Destacadas | **WT03** | Implementación de la sección de Promociones | Mostrar promociones destacadas en la landing page | 3 | Diego Cacho | Done |
-| **US04** | Beneficios para Conductores y Dueños de Playas | **WT04** | Implementación de la sección de Beneficios | Describir los beneficios de usar PARKINGNOW | 2 | Rodrigo Liberato | Done |
-| **US05** | Visualización de Misión de la Empresa | **WT05** | Implementación de la sección de Misión | Mostrar la misión de PARKINGNOW en la landing page | 1 | Samuel Elias | Done |
-| **US06** | Visualización de Visión de la Empresa | **WT06** | Implementación de la sección de Visión | Mostrar la visión de PARKINGNOW en la landing page | 1 | Diego Ulises | Done |
-| **US07** | Visualización del Equipo | **WT07** | Implementación de la sección del Equipo | Mostrar a los miembros del equipo de PARKINGNOW | 2 | Omar Harold | Done |
-| **US08** | Información de Contacto | **WT08** | Implementación de la sección de Contacto | Proveer información de contacto de PARKINGNOW | 2 | Diego Cacho | Done |
-| **US09** | Envío de Mensaje de Contacto | **WT09** | Implementación del formulario de Contacto | Permitir a los visitantes enviar mensajes a PARKINGNOW | 3 | Samuel Elias | Done |
-| **US10** | Visualización de Información de Características | **WT10** | Implementación de la sección de Características | Mostrar características del servicio PARKINGNOW | 2 | Rodrigo Liberato | Done |
-| **US11** | Botón de Registro e Inicio de Sesión | **WT11** | Implementación de botones de Registro e Inicio de Sesión | Agregar botones para registro y acceso a cuentas | 3 | Samuel Elias | Done |
-| **US12** | Enlace a Redes Sociales | **WT12** | Implementación de enlaces a Redes Sociales | Proveer enlaces a las redes sociales de PARKINGNOW | 1 | Diego Ulises | Done |
-| **US13** | Visualización de Slogan | **WT13** | Implementación del Slogan | Mostrar un slogan atractivo en la landing page | 1 | Omar Harold | Done |
-| **US14** | Acceso a Información Legal | **WT14** | Implementación de enlaces a Información Legal | Proveer enlaces a políticas de privacidad y términos de uso | 2 | Diego Cacho | Done |
+| **US01** | Navegación Intuitiva en la Landing Page | **WT01** | Implementación del header, estilos y barra de navegación | Realizar la barra de navegación utilizando JS/CSS | 6 | Diego Ulises | Done |
+| **US02** | Visualización de Ciudades con Servicio | **WT02** | Implementación de la sección de Ciudades | Realizar la sección que muestre las ciudades donde PARKINGNOW está disponible | 4 | Omar Harold | Done |
+| **US03** | Promociones Destacadas | **WT03** | Implementación de la sección de Promociones | Mostrar promociones destacadas en la landing page | 5 | Diego Cacho | Done |
+| **US04** | Beneficios para Conductores y Dueños de Playas | **WT04** | Implementación de la sección de Beneficios | Describir los beneficios de usar PARKINGNOW | 4 | Rodrigo Liberato | Done |
+| **US05** | Visualización de Misión de la Empresa | **WT05** | Implementación de la sección de Misión | Mostrar la misión de PARKINGNOW en la landing page | 4 | Samuel Elias | Done |
+| **US06** | Visualización de Visión de la Empresa | **WT06** | Implementación de la sección de Visión | Mostrar la visión de PARKINGNOW en la landing page | 4 | Diego Ulises | Done |
+| **US07** | Visualización del Equipo | **WT07** | Implementación de la sección del Equipo | Mostrar a los miembros del equipo de PARKINGNOW | 4 | Omar Harold | Done |
+| **US08** | Información de Contacto | **WT08** | Implementación de la sección de Contacto | Proveer información de contacto de PARKINGNOW | 4 | Diego Cacho | Done |
+| **US09** | Envío de Mensaje de Contacto | **WT09** | Implementación del formulario de Contacto | Permitir a los visitantes enviar mensajes a PARKINGNOW | 5 | Samuel Elias | Done |
+| **US10** | Visualización de Información de Características | **WT10** | Implementación de la sección de Características | Mostrar características del servicio PARKINGNOW | 4 | Rodrigo Liberato | Done |
+| **US11** | Botón de Registro e Inicio de Sesión | **WT11** | Implementación de botones de Registro e Inicio de Sesión | Agregar botones para registro y acceso a cuentas | 5 | Samuel Elias | Done |
+| **US12** | Enlace a Redes Sociales | **WT12** | Implementación de enlaces a Redes Sociales | Proveer enlaces a las redes sociales de PARKINGNOW | 4 | Diego Ulises | Done |
+| **US13** | Visualización de Slogan | **WT13** | Implementación del Slogan | Mostrar un slogan atractivo en la landing page | 4 | Omar Harold | Done |
+| **US14** | Acceso a Información Legal | **WT14** | Implementación de enlaces a Información Legal | Proveer enlaces a políticas de privacidad y términos de uso | 4 | Diego Cacho | Done |
+
 
 
 ##### 5.2.1.3. Development Evidence for Sprint Review
@@ -2024,15 +2025,16 @@ En esta sección se especifican los detalles del Sprint Planning Meeting, que es
 | **Sprint Planning Background** |  |
 | Date | 21/09/24 |
 | Time | 11:00 AM |
-| Location | Virtual meeting - Zoom |
+| Location | Reunión virtual - Zoom |
 | Prepared By | Diego Ulises Soto Quispe |
 | Attendees | - Diego Ulises Soto Quispe <br> - Diego Alonso Cacho Seminario <br> - Rodrigo Liberato Saldaña <br> - Omar Harold Rivera Ticllacuri <br> - Samuel Elias Molina Asencios |
 | Sprint 2 Review Summary | El objetivo del Sprint fue mejorar la experiencia del usuario a través de la optimización de las funcionalidades del frontend de la página PARKINGNOW. Se completaron varias tareas relacionadas con la interfaz de usuario. |
 | Sprint 2 Retrospective Summary | La ejecución del Sprint fue efectiva, logrando completar todas las tareas planificadas del frontend. Se identificaron áreas de mejora en el diseño de la interfaz que se abordarán en el siguiente Sprint. |
 | **Sprint Goal & User Stories** |  |
-| Sprint 2 Goal | Desarrollar la gestión de usuarios y la creación de funcionalidades de frontend para la plataforma PARKINGNOW. |
+| Sprint 2 Goal | Nuestro enfoque está en **desarrollar la gestión de usuarios y la creación de funcionalidades frontend** para la plataforma PARKINGNOW, lo que permitirá a los conductores interactuar con la página de manera más fluida y personalizada. <br> Creemos que esto **mejorará** la experiencia del usuario, optimizando procesos como la reserva, la visualización de espacios disponibles y el registro de opiniones. <br> Esto se **confirmará** cuando los usuarios puedan realizar acciones como iniciar sesión, registrar vehículos, confirmar reservas y gestionar sus preferencias dentro de la plataforma. |
 | Sprint 2 Velocity | Velocidad de 30 - Segundo Sprint |
 | Sum of Story Points | Sprint 2 - 68 Story Points |
+
 
 
 
@@ -2041,30 +2043,30 @@ En esta sección se especifican los detalles del Sprint Planning Meeting, que es
 ![alt text](<Assets/Trello 2.png>)
 
 Link del Trello: https://trello.com/invite/b/66e9b5b8f40799cfcf6b00d3/ATTIa96971e39f8a6c5827fd4d56f290181a384AD640/sprint-backlog-2
-
 | Sprint # | Sprint 2 |   |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| User Story |   | Work-Item / Task |   |   |   |   |   |
-| ID | Title | ID | Title | Description | Estimation (Hours) | Assigned To | Status |
-| US15 | Inicio de Sesión para Conductores | WT01 | Implementación de Inicio de Sesión | Desarrollar la funcionalidad de inicio de sesión para conductores en la aplicación. | 4 | Omar Harold | To-do |
-| US16 | Registro de Conductores | WT02 | Implementación de Registro | Crear la funcionalidad de registro de conductores en la plataforma. | 4 | Samuel Elias | To-do |
-| US17 | Registro de Dueños de Playa | WT03 | Implementación de Registro de Dueños | Desarrollar el registro para dueños de playa en la aplicación. | 4 | Rodrigo Liberato | To-do |
-| US18 | Búsqueda de Reservas para Conductores | WT04 | Implementación de Búsqueda de Reservas | Implementar la búsqueda de reservas activas y pasadas para conductores. | 3 | Diego Alonso | In-Process |
-| US19 | Pago de Reservas por Transacción | WT05 | Implementación de Pago | Desarrollar la funcionalidad de pago por transacción para reservas de estacionamiento. | 5 | Diego Ulises | Done |
-| US20 | Confirmación de Reserva Registrada | WT06 | Implementación de Confirmación | Crear pantalla de confirmación de reserva registrada. | 3 | Omar Harold | Done |
-| US21 | Registro de Opiniones | WT07 | Implementación de Opiniones | Implementar la funcionalidad para registrar opiniones de usuarios. | 3 | Samuel Elias | Done |
-| US22 | Notificaciones en el Dashboard del Conductor | WT08 | Implementación de Notificaciones | Desarrollar el sistema de notificaciones para el dashboard del conductor. | 4 | Rodrigo Liberato | Done |
-| US23 | Configuración de Preferencias de Usuario | WT09 | Implementación de Preferencias | Permitir a los usuarios configurar sus preferencias en la aplicación. | 3 | Diego Alonso | Done |
-| US24 | Historial de Reservas en el Dashboard del Conductor | WT10 | Implementación de Historial | Desarrollar el historial de reservas en el dashboard del conductor. | 4 | Diego Ulises | Done |
-| US25 | Alerta de Espacio Disponible | WT11 | Implementación de Alertas | Crear alertas para disponibilidad de espacios de estacionamiento. | 4 | Omar Harold | To-do |
-| US26 | Soporte en Tiempo Real en el Dashboard del Conductor | WT12 | Implementación de Soporte | Desarrollar un sistema de soporte en tiempo real para conductores. | 5 | Samuel Elias | To-do |
-| US27 | Favoritos para Conductores | WT13 | Implementación de Favoritos | Permitir a los conductores marcar estacionamientos como favoritos. | 3 | Rodrigo Liberato | To-do |
-| US28 | Verificación de Reserva en el Dashboard del Conductor | WT14 | Implementación de Verificación | Crear funcionalidad para verificar el estado de la reserva en el dashboard. | 3 | Diego Alonso | To-do |
-| US29 | Cancelación de Reserva en el Dashboard | WT15 | Implementación de Cancelación | Desarrollar la opción de cancelación de reservas desde el dashboard. | 4 | Diego Ulises | To-do |
-| US30 | Gestión de Alertas para Conductores | WT16 | Implementación de Gestión de Alertas | Implementar la gestión de alertas de seguridad y disponibilidad. | 4 | Omar Harold | To-do |
-| US31 | Personalización de Notificaciones para Conductores | WT17 | Implementación de Personalización | Permitir la personalización de notificaciones en la aplicación. | 3 | Samuel Elias | To-do |
-| US32 | Visualización de Mapa en el Dashboard del Conductor | WT18 | Implementación de Mapa | Integrar un mapa interactivo en el dashboard. | 5 | Rodrigo Liberato | To-do |
-| US33 | Seguimiento de Reserva en Tiempo Real | WT19 | Implementación de Seguimiento | Crear funcionalidad de seguimiento de reservas en tiempo real. | 5 | Diego Alonso | To-do |
+| **User Story** |   | **Work-Item / Task** |   |   |   |   |   |
+| **ID** | **Title** | **ID** | **Title** | **Description** | **Estimation (Hours)** | **Assigned To** | **Status** |
+| **US15** | Inicio de Sesión para Conductores | **WT01** | Implementación de Inicio de Sesión | Desarrollar la funcionalidad de inicio de sesión para conductores en la aplicación. | 6 | Omar Harold | To-do |
+| **US16** | Registro de Conductores | **WT02** | Implementación de Registro | Crear la funcionalidad de registro de conductores en la plataforma. | 6 | Samuel Elias | To-do |
+| **US17** | Registro de Dueños de Playa | **WT03** | Implementación de Registro de Dueños | Desarrollar el registro para dueños de playa en la aplicación. | 6 | Rodrigo Liberato | To-do |
+| **US18** | Búsqueda de Reservas para Conductores | **WT04** | Implementación de Búsqueda de Reservas | Implementar la búsqueda de reservas activas y pasadas para conductores. | 5 | Diego Alonso | In-Process |
+| **US19** | Pago de Reservas por Transacción | **WT05** | Implementación de Pago | Desarrollar la funcionalidad de pago por transacción para reservas de estacionamiento. | 7 | Diego Ulises | Done |
+| **US20** | Confirmación de Reserva Registrada | **WT06** | Implementación de Confirmación | Crear pantalla de confirmación de reserva registrada. | 5 | Omar Harold | Done |
+| **US21** | Registro de Opiniones | **WT07** | Implementación de Opiniones | Implementar la funcionalidad para registrar opiniones de usuarios. | 5 | Samuel Elias | Done |
+| **US22** | Notificaciones en el Dashboard del Conductor | **WT08** | Implementación de Notificaciones | Desarrollar el sistema de notificaciones para el dashboard del conductor. | 6 | Rodrigo Liberato | Done |
+| **US23** | Configuración de Preferencias de Usuario | **WT09** | Implementación de Preferencias | Permitir a los usuarios configurar sus preferencias en la aplicación. | 5 | Diego Alonso | Done |
+| **US24** | Historial de Reservas en el Dashboard del Conductor | **WT10** | Implementación de Historial | Desarrollar el historial de reservas en el dashboard del conductor. | 6 | Diego Ulises | Done |
+| **US25** | Alerta de Espacio Disponible | **WT11** | Implementación de Alertas | Crear alertas para disponibilidad de espacios de estacionamiento. | 6 | Omar Harold | To-do |
+| **US26** | Soporte en Tiempo Real en el Dashboard del Conductor | **WT12** | Implementación de Soporte | Desarrollar un sistema de soporte en tiempo real para conductores. | 7 | Samuel Elias | To-do |
+| **US27** | Favoritos para Conductores | **WT13** | Implementación de Favoritos | Permitir a los conductores marcar estacionamientos como favoritos. | 5 | Rodrigo Liberato | To-do |
+| **US28** | Verificación de Reserva en el Dashboard del Conductor | **WT14** | Implementación de Verificación | Crear funcionalidad para verificar el estado de la reserva en el dashboard. | 5 | Diego Alonso | To-do |
+| **US29** | Cancelación de Reserva en el Dashboard | **WT15** | Implementación de Cancelación | Desarrollar la opción de cancelación de reservas desde el dashboard. | 6 | Diego Ulises | To-do |
+| **US30** | Gestión de Alertas para Conductores | **WT16** | Implementación de Gestión de Alertas | Implementar la gestión de alertas de seguridad y disponibilidad. | 6 | Omar Harold | To-do |
+| **US31** | Personalización de Notificaciones para Conductores | **WT17** | Implementación de Personalización | Permitir la personalización de notificaciones en la aplicación. | 5 | Samuel Elias | To-do |
+| **US32** | Visualización de Mapa en el Dashboard del Conductor | **WT18** | Implementación de Mapa | Integrar un mapa interactivo en el dashboard. | 7 | Rodrigo Liberato | To-do |
+| **US33** | Seguimiento de Reserva en Tiempo Real | **WT19** | Implementación de Seguimiento | Crear funcionalidad de seguimiento de reservas en tiempo real. | 7 | Diego Alonso | To-do |
+
 
 ##### 5.2.2.3. Development Evidence for Sprint Review
 | Repository | Branch | Commit ID | Commit Message | Commit Message Body | Committed on (Date) |
@@ -2168,20 +2170,21 @@ En esta sección se detallan los aspectos clave de la planificación y ejecució
 ## 5.2.3.1. Sprint Planning 3
 
 En esta sección se especifican los detalles de la reunión de planificación de Sprint, realizada para definir las tareas que se ejecutarán durante el período acordado.
-
-| **Sprint #**                      | Sprint 3                                                                                                             |
-|-----------------------------------|----------------------------------------------------------------------------------------------------------------------|
-| **Sprint Planning Background**     |                                                                                                                      |
-| **Date**                          | 29/10/24                                                                                                             |
-| **Time**                          | 3:00 pm                                                                                                              |
-| **Location**                      | Modalidad virtual y coordinación a través de WhatsApp                                                                |
-| **Prepared By**                   | ParkingNow                                                                                                           |
-| **Attendees (to planning meeting)** | Todos los integrantes del equipo de ParkingNow                                                                      |
-| **Sprint 3 - 0 Review Summary**   | Durante este sprint se completaron las funcionalidades clave del backend de ParkingNow, enfocadas en la administración de reservas, notificaciones, asesoría, transacciones y usuarios. Se logró cumplir con el despliegue en el tiempo planificado, enriqueciendo la documentación y ampliando la visión del producto mediante la incorporación de elementos esenciales.<br><br>En general, se ha mantenido una buena organización y comunicación dentro del equipo, facilitada por el uso de plataformas como Google Meet. No obstante, se identifica la oportunidad de mejorar aún más la coordinación y el trabajo colaborativo para alcanzar estándares de calidad más altos. |
-| **Sprint 3 - 1 Retrospective Summary** | Para seguir avanzando en nuestros objetivos de manera fluida, es crucial optimizar la estimación del desarrollo y la integración del backend con la base de datos. Esto permitirá evitar desajustes en el cronograma y asegurar un flujo de trabajo estable.<br><br>Además, se recomienda hacer un uso más constante y sistemático del formato Markdown en la documentación y las comunicaciones internas, facilitando así la comprensión de la información por parte de todos los miembros del equipo. |
-| **Sprint Goal & User Stories**    |                                                                                                                      |
-| **Sprint 3 Velocity**             | 20                                                                                                                    |
-| **Sum of Story Points**           | 32                                                                                                                   |
+| Sprint # | Sprint 3 |
+| :---: | :---: |
+| **Sprint Planning Background** |  |
+| Date | 29/10/24 |
+| Time | 3:00 pm |
+| Location | Modalidad virtual y coordinación a través de WhatsApp |
+| Prepared By | ParkingNow |
+| Attendees | Todos los integrantes del equipo de ParkingNow |
+| Sprint 3 - 0 Review Summary | Durante este sprint se completaron las funcionalidades clave del backend de ParkingNow, enfocadas en la administración de reservas, notificaciones, asesoría, transacciones y usuarios. Se logró cumplir con el despliegue en el tiempo planificado, enriqueciendo la documentación y ampliando la visión del producto mediante la incorporación de elementos esenciales. <br> En general, se ha mantenido una buena organización y comunicación dentro del equipo, facilitada por el uso de plataformas como Google Meet. No obstante, se identifica la oportunidad de mejorar aún más la coordinación y el trabajo colaborativo para alcanzar estándares de calidad más altos. |
+| Sprint 3 - 1 Retrospective Summary | Para seguir avanzando en nuestros objetivos de manera fluida, es crucial optimizar la estimación del desarrollo y la integración del backend con la base de datos. Esto permitirá evitar desajustes en el cronograma y asegurar un flujo de trabajo estable. <br> Además, se recomienda hacer un uso más constante y sistemático del formato Markdown en la documentación y las comunicaciones internas, facilitando así la comprensión de la información por parte de todos los miembros del equipo. |
+| **Sprint Goal & User Stories** |  |
+| Sprint 3 Goal | Nuestro enfoque está en **optimizar y desarrollar las funcionalidades del backend**, incluyendo la gestión de reservas, notificaciones, asesoría y transacciones. <br> Creemos que esto **ofrece** una plataforma sólida para la gestión de las operaciones de ParkingNow, mejorando la eficiencia y la experiencia tanto para los conductores como para los propietarios de estacionamientos. <br> Esto se **confirmará** cuando las funcionalidades clave como la administración de reservas y notificaciones estén completamente integradas y funcionando de acuerdo con lo planeado, permitiendo un flujo de trabajo más eficiente. |
+| Sprint 3 Velocity | 20 |
+| Sum of Story Points | 32 |
+ 
 
 
 ### 5.2.3.2. Sprint Backlog 3
@@ -2191,19 +2194,19 @@ En esta sección se muestran las tareas realizadas en el presente sprint. A cont
 ![alt text](<Assets/Trello 3 .png>)
 
 **Link del Trello:** https://trello.com/invite/b/6724d8fb0429d3b504591841/ATTIa159b1edae603492dcfd8a0b4b6e79fa96226B0D/sprint-backlog-3
-
-| Sprint # | Sprint 2 |   |   |   |   |   |   |
+| Sprint # | Sprint 3 |   |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| User Story |   | Work-Item / Task |   |   |   |   |   |
-| ID | Title | ID | Title | Description | Estimation (Hours) | Assigned To | Status |
-| US34 | Gestión de Clientes en Servicio al Cliente | WT01 | Implementación de Gestión de Clientes | Crear endpoint para gestionar consultas y solicitudes de servicio al cliente. | 4 | Omar Harold | In-Process |
-| US35 | Notificación de Cambios en la Disponibilidad de Espacios | WT02 | Implementación de Notificaciones de Espacios | Desarrollar notificaciones automáticas para cambios en la disponibilidad de espacios. | 5 | Samuel Elias | Done |
-| US36 | Historial de Transacciones para Usuarios | WT03 | Implementación de Historial de Transacciones | Crear endpoint para consultar el historial de transacciones de cada usuario. | 3 | Rodrigo Liberato | Done |
-| US37 | Gestión de Ocupación de Espacios en Tiempo Real | WT04 | Implementación de Ocupación de Espacios | Desarrollar funcionalidad para actualizar automáticamente la disponibilidad de espacios en tiempo real. | 5 | Diego Alonso | Done |
-| US38 | Configuración de Alertas de Seguridad | WT05 | Implementación de Configuración de Alertas | Implementar un endpoint para que los administradores configuren alertas de seguridad. | 4 | Diego Ulises | To-do |
-| US40 | Registro de Alertas de Seguridad | WT06 | Implementación de Registro de Alertas | Crear un sistema para registrar todas las alertas de seguridad en el sistema. | 3 | Omar Harold | To-do |
-| US41 | Gestión de Datos de Vehículos | WT07 | Implementación de Gestión de Vehículos | Crear un endpoint para almacenar y gestionar información de vehículos registrados. | 3 | Samuel Elias | To-do |
-| US45 | Integración con el Sistema de Pago | WT08 | Implementación de Sistema de Pago | Desarrollar un endpoint para procesar pagos y verificar transacciones. | 5 | Rodrigo Liberato | To-do |
+| **User Story** |   | **Work-Item / Task** |   |   |   |   |   |
+| **ID** | **Title** | **ID** | **Title** | **Description** | **Estimation (Hours)** | **Assigned To** | **Status** |
+| **US34** | Gestión de Clientes en Servicio al Cliente | **WT01** | Implementación de Gestión de Clientes | Crear endpoint para gestionar consultas y solicitudes de servicio al cliente. | 5 | Omar Harold | In-Process |
+| **US35** | Notificación de Cambios en la Disponibilidad de Espacios | **WT02** | Implementación de Notificaciones de Espacios | Desarrollar notificaciones automáticas para cambios en la disponibilidad de espacios. | 6 | Samuel Elias | Done |
+| **US36** | Historial de Transacciones para Usuarios | **WT03** | Implementación de Historial de Transacciones | Crear endpoint para consultar el historial de transacciones de cada usuario. | 4 | Rodrigo Liberato | Done |
+| **US37** | Gestión de Ocupación de Espacios en Tiempo Real | **WT04** | Implementación de Ocupación de Espacios | Desarrollar funcionalidad para actualizar automáticamente la disponibilidad de espacios en tiempo real. | 6 | Diego Alonso | Done |
+| **US38** | Configuración de Alertas de Seguridad | **WT05** | Implementación de Configuración de Alertas | Implementar un endpoint para que los administradores configuren alertas de seguridad. | 5 | Diego Ulises | To-do |
+| **US40** | Registro de Alertas de Seguridad | **WT06** | Implementación de Registro de Alertas | Crear un sistema para registrar todas las alertas de seguridad en el sistema. | 4 | Omar Harold | To-do |
+| **US41** | Gestión de Datos de Vehículos | **WT07** | Implementación de Gestión de Vehículos | Crear un endpoint para almacenar y gestionar información de vehículos registrados. | 4 | Samuel Elias | To-do |
+| **US45** | Integración con el Sistema de Pago | **WT08** | Implementación de Sistema de Pago | Desarrollar un endpoint para procesar pagos y verificar transacciones. | 6 | Rodrigo Liberato | To-do |
+
 
 ### 5.2.3.3. Development Evidence for Sprint Review
 **Frontend**
@@ -2370,6 +2373,8 @@ Esta imagen muestra un gráfico que ilustra el progreso en los commits relaciona
 
 Además, esta imagen proporciona un análisis temporal de las modificaciones efectuadas en la Landing Page, permitiendo observar cómo ha evolucionado su diseño y funcionalidad a lo largo del desarrollo. Esta información es esencial para evaluar el rendimiento del equipo y la efectividad de las estrategias implementadas en el diseño de la interfaz.
 ![alt text](Assets/Landing21.png)
+
+
 
 
 ### 5.3 Validation Interviews
