@@ -2185,8 +2185,6 @@ En esta sección se especifican los detalles de la reunión de planificación de
 | Sprint 3 Velocity | 20 |
 | Sum of Story Points | 32 |
  
-
-
 ### 5.2.3.2. Sprint Backlog 3
 
 En esta sección se muestran las tareas realizadas en el presente sprint. A continuación se adjunta una captura de pantalla del tablero de tareas en la plataforma Trello, así como el enlace al tablero.
@@ -2375,6 +2373,75 @@ Además, esta imagen proporciona un análisis temporal de las modificaciones efe
 ![alt text](Assets/Landing21.png)
 
 
+### 5.2.4 Sprint 4
+Se detallan a continuación los detalles junto a la ejecución del Sprint 4\.
+
+## 5.2.4.1. Sprint Planning 4
+
+
+En esta sección se especifican los detalles de la reunión de planificación de Sprint, realizada para definir las tareas que se ejecutarán durante el período acordado.
+
+| Sprint # | Sprint 4 |
+| :---: | :---: |
+| **Sprint Planning Background** |  |
+| **Fecha** | 09/11/24 |
+| **Hora** | 4:50 pm |
+| **Ubicación** | Modalidad virtual y coordinación a través de WhatsApp |
+| **Preparado por** | ParkingNow |
+| **Asistentes** | Todos los integrantes del equipo de ParkingNow |
+| **Resumen de la Revisión del Sprint 4** | Durante este sprint se realizaron las funcionalidades que requieren de endpoints, los cuales permitieron gestionar consultas, historial de transacciones, alertas de seguridad, pagos y almacenar información de vehículos. Se completaron las tareas de acuerdo con lo planificado, mejorando la infraestructura del sistema y asegurando la calidad de la plataforma. <br> En general, el equipo mantuvo una buena comunicación y organización, y se identificaron áreas para seguir mejorando la eficiencia en la coordinación de tareas. |
+| **Resumen de la Retrospectiva del Sprint 4** | Es crucial seguir optimizando las soluciones tanto en el backend como en el frontend para garantizar la estabilidad del sistema. Además, se destacó la importancia de mejorar la organización del equipo para evitar cuellos de botella y continuar entregando valor de manera constante. <br> También se recomendó mejorar la documentación y la estructura de las tareas para mantener un flujo de trabajo claro y efectivo. |
+| **Sprint Goal & User Stories** |  |
+| **Sprint 4 Goal** | Nuestro enfoque está en **desarrollar y optimizar las funcionalidades del sistema de gestión de estacionamiento**, incluyendo la gestión de pagos, historial de transacciones, alertas de seguridad y almacenamiento de datos de vehículos. <br> Creemos que esto **ofrece** una plataforma más robusta, mejorando la experiencia tanto para los conductores como para los propietarios de estacionamientos. <br> Esto se **confirmará** cuando las funcionalidades clave, como la gestión de pagos y las alertas de seguridad, estén completamente implementadas y operativas, permitiendo un proceso eficiente y seguro para los usuarios. |
+| **Sprint 4 Velocity** | 20 |
+| **Suma de los Story Points** | 36 |
+
+
+
+### 5.2.4.2. Sprint Backlog 4
+En esta sección se muestran las tareas realizadas en el presente sprint. A continuación se adjunta una captura de pantalla del tablero de tareas en la plataforma Trello, así como el enlace al tablero.
+
+![alt text](<Assets/sprint 4.png>)
+
+Link del Trello: https://trello.com/invite/b/673953990a59e2fefde29dcc/ATTIa8ef609c281a616bb14119d7d5c76fb0E2DB36AC/sprint-backlog-4
+
+| Sprint \# | Sprint 4 |  |  |  |  |  |  |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| User Story |  | Work-Item / Task |  |  |  |  |  |
+| ID | Title | ID | Title | Description | Estimation (Hours) | Assigned To | Status |
+| US39 | Administración de Tarifas por Ubicación | WT01 | Implementación de Tarifas por Ubicación | Desarrollar la funcionalidad de la administración para las tarifas de ubicación. | 5 | Diego Ulises | Done |
+| US42 | Reportes de Promociones Utilizadas | WT02 | Implementación de Promociones Utilizadas | Desarrollar la funcionalidad de reportes para las promociones utilizadas. | 4 | Omar Harold | Done |
+| US43 | Auditoría de Acciones en la Plataforma | WT03 | Implementación de Auditorías de Acciones en la Plataforma | Desarrollar la funcionalidad de auditorías para las acciones dentro de la plataforma. | 5 | Diego Cacho | Done |
+| US44 | Historial de Opiniones de Usuarios | WT04 | Implementación de Historial de Opiniones de Usuarios | Desarrollar la funcionalidad del historial de opiniones de los usuarios | 6 | Rodrigo Liberato | Done |
+| US46 | Generación de Reportes de Ocupación | WT05 | Implementación de Generación de Reportes de Ocupación | Desarrollar la funcionalidad de la generación de los reportes para las ocupaciones. | 8 | Samuel Elias | Done |
+| US47 | Configuración de Opciones de Notificaciones | WT06 | Implementación de Configuración de Opciones de Notificaciones | Desarrollar la funcionalidad de la configuración para las notificaciones. | 6 | Diego Ulises | Done |
+| US48 | API de Feedback Automático | WT07 | Implementación de API de Feedback Automático | Desarrollar la funcionalidad del API para el feedback automático de los usuarios. | 4 | Rodrigo Liberato | Done |
+| US49 | Gestión de Reembolsos | WT08 | Implementación de Gestión de Reembolsos | Desarrollar la funcionalidad de gestionar los reembolsos para los usuarios.  | 5 | Samuel Elias | Done |
+| US50 | Auditoría de Cambios de Tarifas | WT09 | Implementación de Auditoría de Cambios de Tarifas | Desarrollar la funcionalidad de auditorías para los cambios en las tarifas. | 5 | Omar Harold | Done |
+
+### 5.2.4.3. Development Evidence for Sprint Review
+
+| Repository | ID | Commit Message | Date |
+| :---: | :---: | :---: | :---: |
+| [https://github.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Landing-Page](https://github.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Landing-Page)  |  |  | 2024-11- |
+|  |  |  | 2024-11- |
+|  |  |  | 2024-11- |
+|  |  |  | 2024-11- |
+|  |  |  | 2024-11- |
+|  |  |  | 2024-11- |
+|  |  |  | 2024-11- |
+|  |  |  | 2024-11- |
+|  |  |  | 2024-11- |
+
+### 5.2.4.4. Testing Suite Evidence for Sprint Review
+
+### 5.2.4.5. Execution Evidence for Sprint Review
+
+##### 5.2.4.6. Services Documentation Evidence for Sprint Review.
+
+### 5.2.4.7. Software Deployment Evidence for Sprint Review
+
+##### 5.2.4.8. Team Collaboration Insights during Sprint.  
 
 
 ### 5.3 Validation Interviews
@@ -2679,73 +2746,6 @@ Dentro de la primera sección “Reserva” en el inicio de la página web en la
 Recomendación:
 
 Brindar algún cambio de página o interfaz al presionar los botones dentro de esta sección o indicar la información de cada uno en un solo bloque de texto.
-
-
-### 5.2.4 Sprint 4
-Se detallan a continuación los detalles junto a la ejecución del Sprint 4\.
-
-## 5.2.4.1. Sprint Planning 4
-| Sprint \# | Sprint 4 |
-| :---: | ----- |
-| **Sprint Planning Background** |  |
-| Date | 09/11/24 |
-| Time | 4:50 pm |
-| Location | Modalidad virtual y coordinación a través de WhatsApp |
-| Prepared By | ParkingNow |
-| Attendees | Todos los integrantes del equipo de ParkingNow |
-| Sprint 4 \- 1 Review Summary | Durante este sprint se realizaron las funcionalidades que requieren de endpoints, estos permitieron gestionar consultas, historial de transacciones, alertas de seguridad, pagos y almacenar información de vehículos. Asimismo como en iteraciones anteriores, se ha mantenido una organización completa con el equipo. |
-| Sprint 4 \- 1 Retrospective Summary | Consideramos importante optimizar las soluciones en nuestro backend y frontend para garantizar un rendimiento óptimo de nuestra aplicación. |
-| **Sprint Goal & User Stories** |  |
-| Sprint 4 Velocity | 20 |
-| Sum of Story Points | 36 |
-
-### 5.2.4.2. Sprint Backlog 4
-En esta sección se muestran las tareas realizadas en el presente sprint. A continuación se adjunta una captura de pantalla del tablero de tareas en la plataforma Trello, así como el enlace al tablero.
-
-\*img\*
-
-Link del Trello:
-
-\*link\*
-
-| Sprint \# | Sprint 4 |  |  |  |  |  |  |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| User Story |  | Work-Item / Task |  |  |  |  |  |
-| ID | Title | ID | Title | Description | Estimation (Hours) | Assigned To | Status |
-| US39 | Administración de Tarifas por Ubicación | WT01 | Implementación de Tarifas por Ubicación | Desarrollar la funcionalidad de la administración para las tarifas de ubicación. | 5 | Diego Ulises | Done |
-| US42 | Reportes de Promociones Utilizadas | WT02 | Implementación de Promociones Utilizadas | Desarrollar la funcionalidad de reportes para las promociones utilizadas. | 3 | Omar Harold | Done |
-| US43 | Auditoría de Acciones en la Plataforma | WT03 | Implementación de Auditorías de Acciones en la Plataforma | Desarrollar la funcionalidad de auditorías para las acciones dentro de la plataforma. | 5 | Diego Cacho | Done |
-| US44 | Historial de Opiniones de Usuarios | WT04 | Implementación de Historial de Opiniones de Usuarios | Desarrollar la funcionalidad del historial de opiniones de los usuarios | 3 | Rodrigo Liberato | Done |
-| US46 | Generación de Reportes de Ocupación | WT05 | Implementación de Generación de Reportes de Ocupación | Desarrollar la funcionalidad de la generación de los reportes para las ocupaciones. | 3 | Samuel Elias | Done |
-| US47 | Configuración de Opciones de Notificaciones | WT06 | Implementación de Configuración de Opciones de Notificaciones | Desarrollar la funcionalidad de la configuración para las notificaciones. | 3 | Diego Ulises | Done |
-| US48 | API de Feedback Automático | WT07 | Implementación de API de Feedback Automático | Desarrollar la funcionalidad del API para el feedback automático de los usuarios. | 3 | Rodrigo Liberato | Done |
-| US49 | Gestión de Reembolsos | WT08 | Implementación de Gestión de Reembolsos | Desarrollar la funcionalidad de gestionar los reembolsos para los usuarios.  | 3 | Samuel Elias | Done |
-| US50 | Auditoría de Cambios de Tarifas | WT09 | Implementación de Auditoría de Cambios de Tarifas | Desarrollar la funcionalidad de auditorías para los cambios en las tarifas. | 5 | Omar Harold | Done |
-
-### 5.2.4.3. Development Evidence for Sprint Review
-
-| Repository | ID | Commit Message | Date |
-| :---: | :---: | :---: | :---: |
-| [https://github.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Landing-Page](https://github.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Landing-Page)  |  |  | 2024-11- |
-|  |  |  | 2024-11- |
-|  |  |  | 2024-11- |
-|  |  |  | 2024-11- |
-|  |  |  | 2024-11- |
-|  |  |  | 2024-11- |
-|  |  |  | 2024-11- |
-|  |  |  | 2024-11- |
-|  |  |  | 2024-11- |
-
-### 5.2.4.4. Testing Suite Evidence for Sprint Review
-
-### 5.2.4.5. Execution Evidence for Sprint Review
-
-##### 5.2.4.6. Services Documentation Evidence for Sprint Review.
-
-### 5.2.4.7. Software Deployment Evidence for Sprint Review
-
-##### 5.2.4.8. Team Collaboration Insights during Sprint.  
-
 
 ### Conclusiones y recomendaciones
 
