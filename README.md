@@ -2436,6 +2436,18 @@ Link del Trello: https://trello.com/invite/b/673953990a59e2fefde29dcc/ATTIa8ef60
 ### 5.2.4.4. Testing Suite Evidence for Sprint Review
 
 ### 5.2.4.5. Execution Evidence for Sprint Review
+
+#### Test Case 1: Login as Driver
+- **User:** `driver@example.com`
+- **Password:** `password123`
+- **Expected Result:** Redirects to `/dashboard-driver`.
+
+#### Test Case 2: Login as Owner
+- **User:** `owner@example.com`
+- **Password:** `password123`
+- **Expected Result:** Redirects to `/dashboard-owner`.
+
+
 En esta seccion, para la ejecucion del aplicativo web, llegamos a anadir la pagina no encontrada: 404
 ![404](Assets/Excecution_5245.jpg)
 
