@@ -2436,6 +2436,9 @@ Link del Trello: https://trello.com/invite/b/673953990a59e2fefde29dcc/ATTIa8ef60
 ### 5.2.4.4. Testing Suite Evidence for Sprint Review
 
 ### 5.2.4.5. Execution Evidence for Sprint Review
+En esta seccion, para la ejecucion del aplicativo web, llegamos a anadir la pagina no encontrada: 404
+![404](Assets/Excecution_5245.jpg)
+
 
 ##### 5.2.4.6. Services Documentation Evidence for Sprint Review.
 
