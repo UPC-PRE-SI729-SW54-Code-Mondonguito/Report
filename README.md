@@ -2400,6 +2400,44 @@ En esta seccion, para la ejecucion del aplicativo web, llegamos a anadir la pagi
 
 ##### 5.2.4.8. Team Collaboration Insights during Sprint.
 
+#### Backend
+
+En esta entrega, nuestro objetivo principal fue avanzar en la implementación parcial del backend. Para lograr esta meta, empleamos varias herramientas, incluyendo GitHub, IntelliJ y Java. A continuación, presentamos los diagramas de flujo que muestran los commits realizados por cada integrante del equipo CodeMondonguito.
+
+**Commits Gráfico:**
+![alt text](<Assets/backend 1.png>)
+
+La imagen muestra un gráfico de barras que representa la cantidad de commits realizados por cada miembro del equipo. Esta imagen proporciona una representación visual de las fechas en las que se efectuaron cambios en el repositorio de nuestra Landing Page, junto con el número de modificaciones realizadas en cada commit. Este gráfico es una herramienta útil para entender la evolución del proyecto a lo largo del tiempo y la intensidad del desarrollo en diferentes periodos.
+
+**Ramas Backend:**
+![alt text](<Assets/ramas backend.png>)
+
+En esta imagen se muestran las ramas realizadas para el desarrollo del backend de nuestra app web, representando una muestra del desarrollo de esta.
+
+#### Frontend
+
+En esta entrega, nuestra segunda meta fue la implementación total del frontend. Para llevar a cabo este objetivo, hicimos uso de diversas herramientas como GitHub y Webstorm. A continuación, vamos a presentar los diagramas de flujo que representan los commits realizados por cada miembro del equipo CodeMondonguito:
+
+**Commits Gráfico:**
+![alt text](<Assets/frontend f1.png>)
+
+En la imagen se evidencia el gráfico de barras de la cantidad de commits realizadas por cada uno de los integrantes del equipo. Esta imagen presenta una visualización de las fechas en las que se realizaron cambios en el repositorio de nuestra Landing Page, así como el número de modificaciones efectuadas en cada commit. Esta representación gráfica es útil para entender la evolución del proyecto a lo largo del tiempo y la intensidad del desarrollo.
+
+#### Landing Page
+
+Finalmente, en esta sección nos enfocamos en el desarrollo de nuestra Landing Page. Utilizando herramientas como GitHub, Webstorm y Figma, creamos una interfaz atractiva y funcional que sirve como la primera impresión para los usuarios. A continuación, se presentan los diagramas de flujo que detallan los commits realizados en este aspecto del proyecto:
+
+**Commits Gráfico:**
+![alt text](<Assets/landing tf.png>)
+
+Esta imagen muestra un gráfico que ilustra el progreso en los commits relacionados con la Landing Page, destacando la colaboración de cada miembro del equipo en esta fase.
+
+**Análisis Temporal de Modificaciones:**
+![alt text](<Assets/ramas landing f1.png>)
+
+Además, esta imagen proporciona un análisis temporal de las modificaciones efectuadas en la Landing Page, permitiendo observar cómo ha evolucionado su diseño y funcionalidad a lo largo del desarrollo. Esta información es esencial para evaluar el rendimiento del equipo y la efectividad de las estrategias implementadas en el diseño de la interfaz.
+
+
 ### 5.3 Validation Interviews
 
 #### 5.3.1 Diseño de entrevistas
