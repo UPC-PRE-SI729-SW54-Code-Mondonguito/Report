@@ -2377,6 +2377,31 @@ Link del Trello: https://trello.com/invite/b/673953990a59e2fefde29dcc/ATTIa8ef60
 
 ### 5.2.4.4. Testing Suite Evidence for Sprint Review
 
+
+Para esta entrega la ejecucion de las pruebas unitarias se hizo usando jasmine framework y karma framework
+
+#### Testing Configuration
+
+![feature1](Assets/test_ts.jpg)
+
+#### Jasmine Configuration
+
+![feature1](Assets/jasmine_configuration.jpg)
+
+#### Karma Configuration
+
+![feature1](Assets/karma_configuration.jpg)
+
+#### Results after Testing
+
+![feature1](Assets/karma_header.jpg)
+![feature1](Assets/results_1.jpg)
+
+| Repository                                                                                                              | Branch                 | Commit                                   | Message                                                                    | Date       |
+| ----------------------------------------------------------------------------------------------------------------------- | ---------------------- | ---------------------------------------- | -------------------------------------------------------------------------- | ---------- |
+| https://github.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Report?tab=readme-ov-file#development-evidence-for-sprint-review | feature/aceptance_test | a406aa8ec1445333bca8ea4b352209bdc79dc67e | Add response to Competitive Analysis Landscape question in Markdown format | 03/12/2024 |
+
+
 ### 5.2.4.5. Execution Evidence for Sprint Review
 
 #### Test Case 1: Login as Driver
@@ -2395,6 +2420,23 @@ En esta seccion, para la ejecucion del aplicativo web, llegamos a anadir la pagi
 ![404](Assets/Excecution_5245.jpg)
 
 ##### 5.2.4.6. Services Documentation Evidence for Sprint Review.
+
+En esta sección se incluye la relación de Endpoints documentados con OpenAPI, relacionados con el alcance del Sprint. A continuación, se presenta una breve introducción sobre los logros alcanzados en relación con la documentación de Web Services para este Sprint.
+
+Durante este Sprint, se logró completar la documentación de los principales Endpoints que permiten la interacción con nuestra API. Se establecieron claras especificaciones para cada uno, facilitando su uso y entendimiento para los desarrolladores que integren con nuestros servicios.
+
+| Endpoint               | Acción Implementada                          | Verbo HTTP | Sintaxis de Llamada       | URL EndPoint | URL JSON                                                                                                              |
+|------------------------|---------------------------------------------|------------|---------------------------|--------------|----------------------------------------------------------------------------------------------------------------------|
+| /api/v1/conductores     | Administración de Tarifa por Ubicación       | GET        | GET /api/v1/conductores    | EndPoint     | [https://raw.githubusercontent.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Backend/main/src/public/conductores.json](https://raw.githubusercontent.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Backend/main/src/public/conductores.json) |
+| /api/v1/conductores     | Crear un nuevo conductor                     | POST       | POST /api/v1/conductores   | EndPoint     | [https://raw.githubusercontent.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Backend/main/src/public/conductores.json](https://raw.githubusercontent.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Backend/main/src/public/conductores.json) |
+| /api/v1/reservas        | Reportes de Promociones Utilizadas           | GET        | GET /api/v1/reservas       | EndPoint     | [https://raw.githubusercontent.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Backend/main/src/public/reservas.json](https://raw.githubusercontent.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Backend/main/src/public/reservas.json) |
+| /api/v1/reservas        | Crear una nueva reserva                      | POST       | POST /api/v1/reservas      | EndPoint     | [https://raw.githubusercontent.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Backend/main/src/public/reservas.json](https://raw.githubusercontent.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Backend/main/src/public/reservas.json) |
+| /api/v1/espacios        | Generación de Reportes de Ocupación          | GET        | GET /api/v1/espacios       | EndPoint     | [https://raw.githubusercontent.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Backend/main/src/public/espacios.json](https://raw.githubusercontent.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Backend/main/src/public/espacios.json) |
+| /api/v1/locales         | Gestión de Reembolsos                        | GET        | GET /api/v1/locales        | EndPoint     | [https://raw.githubusercontent.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Backend/main/src/public/locales.json](https://raw.githubusercontent.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Backend/main/src/public/locales.json) |
+
+**Repositories:** [https://github.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Backend](https://github.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Backend)
+
+**Commit of the Endpoints:** [https://github.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Backend/commit/8628f88a27f4fb174d0f0324bc203ec626042858#diff-419a5abf7d67d4e33f9283dd53a2b0c11fe82343af786f670c99676128c6cf09](https://github.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Backend/commit/8628f88a27f4fb174d0f0324bc203ec626042858#diff-419a5abf7d67d4e33f9283dd53a2b0c11fe82343af786f670c99676128c6cf09)
 
 ### 5.2.4.7. Software Deployment Evidence for Sprint Review
 
