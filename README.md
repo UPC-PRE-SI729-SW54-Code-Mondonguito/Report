@@ -2398,6 +2398,15 @@ En esta seccion, para la ejecucion del aplicativo web, llegamos a anadir la pagi
 
 ### 5.2.4.7. Software Deployment Evidence for Sprint Review
 
+Para el presente sprint, se ha desarrollado el backend de la aplicación web "ParkingNow". Para lo cual se emplearon las siguientes herramientas y tecnologías. Sin embargo, dentro del alcance de este sprint no se contempla el despliegue del backend de la API:
+
+- **Git:** Sistema de control de versiones que utilizamos para trabajar de manera colaborativa y monitorear las versiones del backend en un repositorio remoto.
+- **Gitflow:** Flujo de trabajo colaborativo que nos permitió dividir el trabajo en ramas dentro de nuestro repositorio, facilitando la colaboración en el desarrollo del backend.
+- **GitHub:** Plataforma que nos proporcionó la herramienta necesaria para crear nuestro repositorio, donde almacenamos las versiones del backend de nuestro proyecto.
+- **Swagger UI:** Herramienta utilizada para documentar y probar nuestra API, asegurando que los endpoints estén bien definidos y accesibles para el consumo.
+- **Spring Boot:** Framework utilizado para construir el backend, que nos permitió implementar rápidamente la lógica del negocio, así como la integración con bases de datos a través de JPA y Hibernate.
+- **Firebase:** Plataforma de desarrollo de aplicaciones móviles y web creada por Google. Ofrece una amplia gama de servicios y herramientas para ayudar a los desarrolladores a construir y mejorar sus aplicaciones de manera rápida y eficiente. En "ParkingNow", Firebase se utiliza para la autenticación de usuarios y el almacenamiento de datos, mejorando así la entrega de contenido y la calidad del servicio.
+
 ##### 5.2.4.8. Team Collaboration Insights during Sprint.
 
 #### Backend
