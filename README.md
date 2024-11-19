@@ -2343,7 +2343,7 @@ En esta sección se especifican los detalles de la reunión de planificación de
 
 En esta sección se muestran las tareas realizadas en el presente sprint. A continuación se adjunta una captura de pantalla del tablero de tareas en la plataforma Trello, así como el enlace al tablero.
 
-![alt text](Assets/sprint 4.png)
+![alt text](<Assets/trello 4.png>)
 
 Link del Trello: https://trello.com/invite/b/673953990a59e2fefde29dcc/ATTIa8ef609c281a616bb14119d7d5c76fb0E2DB36AC/sprint-backlog-4
 
