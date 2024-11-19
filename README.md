@@ -84,6 +84,8 @@ Las actividades asignadas para la entrega TF han sido completadas exitosamente y
 - Se generaron y documentaron los artefactos requeridos utilizando las herramientas recomendadas. Estos artefactos, incluyendo diagramas y recursos visuales, fueron organizados y almacenados en la carpeta `assets` de la rama `develop` del repositorio.
 - Se llevaron a cabo reuniones periódicas para coordinar los avances del proyecto, revisar los elementos del informe y comunicar el progreso alcanzado durante el sprint 4, enfocado en el desarrollo del backend de la aplicación web.
 
+![alt text](Assets/tf1.png)
+
 # ABET – EAC - Student Outcome 3
 
 Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias. En el
